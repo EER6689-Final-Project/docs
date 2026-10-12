@@ -1,0 +1,19 @@
+# Kalibera and Jones 2020 - Quantifying Performance Changes with Effect Size Confidence Intervals
+
+- **Citation:** Tomas Kalibera and Richard Jones. “Quantifying Performance Changes with Effect Size Confidence Intervals.” arXiv:2007.10899v1 [stat.ME], 21 July 2020. https://doi.org/10.48550/arXiv.2007.10899
+- **Zotero key:** `E8MGSAC8`.
+- **Source/version:** Zotero-attached 55-page PDF, explicitly marked arXiv v1 (21 July 2020). The PDF notes that a preliminary portion of the work was presented at the Third European Performance Engineering Workshop; this is not the same work/version as Kalibera and Jones’s 2013 “Rigorous Benchmarking in Reasonable Time” already represented in T1.4.
+
+## Abstract and scope
+
+The paper addresses uncertainty when comparing execution-time means. It proposes a hierarchical random-effects model for experiments with multiple sources of nondeterminism, and confidence intervals for both a system’s mean and the ratio of two systems’ means. The paper evaluates parametric and hierarchical bootstrap approaches using benchmark measurements and simulations. Its focus is statistical quantification of performance changes, not the accuracy of a particular profiler.
+
+## Outline Summary
+
+- **Motivation:** In a survey of 122 papers from ASPLOS, ISMM, PLDI, TACO, and TOPLAS (2011 through 2 August), the authors report that uncertainty in measured times was often ignored. Their model treats variation across levels such as compilation, execution, and measurement rather than treating all observations as independent (pp. 1–2, 11–13).
+- **Method:** The authors derive random-effects models for multiple experimental levels and construct confidence intervals for effect size, defined here as the ratio of execution-time means. They compare an asymptotic parametric method with a hierarchical bootstrap that resamples at the experiment’s levels (pp. 12–13 and the methods sections).
+- **Evaluation and evidence boundary:** The empirical and simulation evaluation uses selected program benchmarks and modeled sources of variation. The authors specifically show that ignoring the hierarchy through flat resampling can misstate uncertainty for some benchmark classes, and that repetition needs depend on where variance enters. Coverage simulations use a hierarchical normal model parameterized with estimates from the measured benchmarks; these simulations do not establish coverage for arbitrary workloads or browser-profiler outputs (pp. 45–49).
+- **Limitations:** The method depends on identifying and repeating relevant random-effect levels and on its distributional/model assumptions. The paper discusses uncertainty about non-normal performance data and notes the absence of a general study establishing how violations common in computer performance data affect conventional parametric methods (p. 11). Sample-size and repetition findings are benchmark- and configuration-specific; they do not supply a universal run count.
+- **T1.5 relevance (inference):** When comparing profiler-derived performance changes, this work supports reporting uncertainty for the effect size and designing repetitions around the actual sources of variation. It does not validate profiler readings against an external ground truth, and its execution-time ratio model should not be assumed to apply unchanged to every profiler metric.
+- **Relationship to T1.4:** T1.4’s “Rigorous Benchmarking in Reasonable Time” (2013) is a distinct paper. This 2020 arXiv preprint has its own title, identifier, and expanded confidence-interval treatment; retain one evidence row per work, while cross-referencing the shared hierarchical-repetition theme.
+- **Concise takeaway:** The paper supplies a framework for uncertainty-aware comparisons under hierarchical measurement variation; its assumptions and benchmark-specific evaluation bound transfer to profiler validation.
