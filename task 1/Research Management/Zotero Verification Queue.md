@@ -2,7 +2,7 @@
 
 **Status:** Active
 
-**Updated:** 2026-10-13 (T1.4 Zotero source review)
+**Updated:** 2026-10-13 (T1.5 Zotero source review; earlier items retained)
 
 This queue converts the six Deep Research source lists into a verification workflow. “Located” means Zotero returned a record or metadata for the item. It does **not** mean that the item's full text has been read or that every report claim is supported. Record claim-level outcomes as **confirmed**, **qualified**, **contradicted**, or **unsupported** after reading.
 
@@ -108,6 +108,19 @@ The complete 29-record collection resolves to 22 distinct source works. Duplicat
 | van Riet et al. (2023), `9WT3HAHJ` | Task-/product-specific measures can track perceived load better than generic ones. | **Qualified:** 19 employees, six videos representing three dashboard compositions; product-specific Lowest Time to Widget correlated in this case only. Historical Chrome 80 and retired metrics cannot be promoted to present-day defaults. [[../Research Papers/T1.1 Metric Semantics/Papers/van Riet et al 2023 - Optimize Along the Way|Source note]]. |
 
 These outcomes apply only to the **listed T1.1 claims**. The twelve non-paper records from the same collection are checked below; individual W3C specifications and further P0 tool records remain pending. This does not complete verification for T1.2–T1.6.
+
+## T1.5 unresolved bibliographic and claim-level checks
+
+| Source / Zotero record | Verification question | Status / next check |
+| --- | --- | --- |
+| Passing & Bablok (1983), `8FNYPXJD` | Can Zotero creator metadata be reconciled with the attached article’s author line? | PDF identifies H. Passing and W. Bablok; Zotero stores “Passing, H.; Bablok, null.” Keep the source note citation grounded in the PDF and verify/correct the Zotero creator field against the journal record. |
+| Mytkowicz et al. (2009), `NDU6A78T` | Which DOI is correct for the duplicate T1.5 record? | T1.5 Zotero metadata lists `10.1145/1508284.1508275`, while the existing T1.2 note and publication source identify `10.1145/1508244.1508275`. Reconcile with the original proceedings record; do not duplicate the existing note or PDF. |
+| Kalibera & Jones, “Quantifying Performance Changes with Effect Size Confidence Intervals,” `E8MGSAC8` | What date should be assigned to the attached preprint, and what does “November 2013” in its abstract denote? | Attached document is arXiv v1, posted 21 July 2020; abstract ends with “November 2013.” Keep the record labeled as the 2020 preprint and distinguish internal manuscript history until the title page/version history is reconciled. This is distinct from the T1.4 2013 paper “Rigorous Benchmarking in Reasonable Time.” |
+| Bland & Altman (`X4BEQVFF`), Lin (`HB6E4DMC`), Carstensen et al. (`6VK2G66S`), Zou (`7CBVI4EG`) | What assumptions, sample details, and simulation settings are in the full method papers? | Zotero returned PubMed/linked HTML records but no suitable PDF. Current notes and matrix rows are abstract-limited. Obtain authorized full texts before citing worked examples, sample sizes, detailed model assumptions, or numerical simulation performance. |
+| Chrome 103 DevTools release note (`NTWVE6GJ`) | Which exact feature claims are supported by the full historical page? | Zotero has only an abstract and no saved page; current note records only abstract-level claims. Verify an archived official release page before making detailed historical feature claims. |
+| Mutable Chrome/Lighthouse documentation in T1.5 | Which Chrome/Lighthouse version does a future metric-specific claim describe? | Notes were reviewed 13 October 2026. Re-check the relevant official page and implementation/version before using mutable thresholds, retired metrics, or current capture behavior as normative claims. |
+
+See [T1.5 Source Inventory](T1.5%20Source%20Inventory.md) and T1.5 source notes for attachment and claim boundaries. These unresolved checks do not prevent the current bounded matrix entries; no final agreement statistic or tolerance is selected.
 
 ## T1.1 Phase B — twelve non-paper records in `VEYKC53A`
 
