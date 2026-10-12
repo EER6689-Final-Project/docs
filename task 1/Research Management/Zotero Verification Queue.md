@@ -2,7 +2,7 @@
 
 **Status:** Active
 
-**Updated:** 2026-10-08 (T1.1 scholarly and documentation batches)
+**Updated:** 2026-10-12 (T1.3 Zotero source review)
 
 This queue converts the six Deep Research source lists into a verification workflow. “Located” means Zotero returned a record or metadata for the item. It does **not** mean that the item's full text has been read or that every report claim is supported. Record claim-level outcomes as **confirmed**, **qualified**, **contradicted**, or **unsupported** after reading.
 
@@ -95,6 +95,15 @@ These outcomes apply only to the **listed T1.1 claims**. The twelve non-paper re
 | `BL8XCEDY` — DevTools timeline event reference | Are named UI categories portable browser-standard JS/layout/paint totals? | **Unsupported:** page lists Chrome/DevTools event categories and properties, dated 2015; it is not a current CDP trace-event specification. |
 
 All twelve have [matrix rows](<Literature Review and Research Gap Matrix.md>) with original URLs/sections. Outcomes are for the stated T1.1 claims only. This batch does **not** finish the P0 W3C individual-specification, CDP, Lighthouse-variability/throttling or broader T1.2–T1.6 queue.
+
+## T1.3 — synthetic agents and external validity
+
+| Source | Zotero record | Verification question | Status |
+| --- | --- | --- | --- |
+| Sengupta et al., “Through the Lens of Google CrUX” | `9IDW7B5Y`; attached arXiv v2 and IFIP Networking 2024 proceedings record | Which author list should be used in the formal bibliography? | **Claim review complete; bibliographic follow-up open:** the attached preprint lists five authors including Dinh Nguyen, while the conference contents lists four. The matrix cites the proceedings and retains the discrepancy in its source note until the final proceedings PDF/DOI metadata is reconciled. |
+| Heričko, Šumak & Brdnik, “Towards Representative Web Performance Measurements with Google Lighthouse” | `DJI5ULJD`; attached PDF `PCW9E8SN` | Does the Zotero record metadata match the paper? | **Resolved from attached PDF and proceedings record:** cite Heričko, Šumak & Brdnik (2021), *StuCoSReC 2021*, pp. 39–42, DOI `10.18690/978-961-286-516-0.9`; Zotero's ResearchGate-style item title/authorship fields were incomplete. |
+| CDP Network and Lighthouse throttling documentation | `YLRND2GP`, `JT3PXZLG` | Are these independent sources from the T1.2 records? | **Resolved as duplicates:** same documentation as T1.2 `92RRK4LT` and `MI895PBZ`, respectively; T1.3 notes retained for collection traceability and matrix rows are not duplicated. |
+| Other 21 T1.3 evidence sources | Collection `B2NRLIE9`; source notes in T1.3 Papers | Do source-specific methods, scope, and limitations support the matrix claims? | **Reviewed for the claims recorded in the T1.3 matrix.** Outcomes are bounded to each source note; mutable documentation and aggregate observational data do not establish synthetic-agent fidelity. |
 
 ## Known Zotero search limitations
 
