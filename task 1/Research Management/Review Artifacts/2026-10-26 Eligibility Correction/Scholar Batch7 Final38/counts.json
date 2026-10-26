@@ -1,0 +1,20 @@
+{
+  "targets": 38,
+  "original_title_snippet_metadata_reads": 38,
+  "snippets_present": 38,
+  "ADVANCE": 22,
+  "PENDING": 0,
+  "X3": 16,
+  "DUP_dispositions_assigned": 0,
+  "original_DUP_annotations_preserved": 8,
+  "primary_R_judgments": 228,
+  "secondary_rereads": 20,
+  "secondary_checked_no_discrepancy": 20,
+  "fulltext_reads": 0,
+  "citation_checks": 0,
+  "identity_merges_or_new_SIDs": 0,
+  "exact_dates_versions_language_identity_source_type_verified": 0,
+  "claim_support_assessed": 0,
+  "methodological_confidence_assessed": 0,
+  "secondary_QA_scope": "All proposed X3 plus first EID per actual positive R group; no actual source-type proxy groups because type unverified. Self-audit, not independent human QC."
+}

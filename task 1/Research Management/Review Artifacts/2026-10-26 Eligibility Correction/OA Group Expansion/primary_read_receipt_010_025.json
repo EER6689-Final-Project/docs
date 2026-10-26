@@ -1,0 +1,401 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:36:54.882269+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0260",
+      "event": "E-3510",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "SurfGuard JavaScript instrumentation-based defense against Drive-by downloads",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Delivering malware via the web is now the cybercriminal's favorite means of attack. Advances in the malware distribution has increased to such an extent that today merely visiting a website causes a script to execute and thus download malicious executables on to your system. Exploits use the very flexible and dynamic natured javascript to employ a wide variety of attacks on the browsers. JavaScript is the core component of interactive and dynamic web pages of today. Its tight integration with the browser environment is often taken advantage to exploit different kinds of vulnerabilities. A malicious JavaScript can be embedded in a web page and will run without warning when the page is viewed in any ordinary browser. It also successfully bypasses the firewalls because the victim himself has chosen to view the page. A successful exploit results in series of malware downloads on to the system. The dangers of these attacks have created a need for some protection mechanism to safeguard the users who are exposed to such threats. Traditional techniques to counter this problem are either a performance overhead or work offline or are too much complicated to be used by novice user. The proposed project is a light-weight javascript instrumentation that enables static and dynamic analysis of the visited webpage to detect the attempts of attack on the page. Furthermore the product mitigates detected attacks by changing suspicious elements, so they do not cause harm anymore, thus actually protecting users from such attacks. In this paper, we briefly discuss the causes and impact of these attacks on a system. We show how these attacks can be detected and mitigated with minimal or no interaction with the user. We also discuss on the issues we came across while designing the product and how they were tackled. Finally, we report on the progress of the project so far and the planned future work.",
+      "metadata": {
+        "publication_year": "2012",
+        "publication_date": "2012-04-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/racss.2012.6212679",
+        "platform_record_id": "https://openalex.org/W2025809422",
+        "record_url": "https://openalex.org/W2025809422",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/racss.2012.6212679\", \"publication_year\": 2012, \"publication_date\": \"2012-04-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"V. Sachin\", \"Niranjan N. Chiplunkar\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2025809422\", \"landing_page_url\": \"https://doi.org/10.1109/racss.2012.6212679\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "11",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9360869d63346fd5a12f10f8c15ad2dd866e1f699b6c0e9b3d4e649810d25ea9"
+    },
+    {
+      "target": "E-0264",
+      "event": "E-3511",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Safe Multi-site Binary Instrumentation of Running x86-64 Programs",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Applying binary instrumentation to a running x86-64 process is difficult because variable-length instructions and weak alignment guarantees prevent safe in-place code modification under concurrent execution. Existing run-time approaches either trap concurrent threads on every overwrite or require global synchronization, limiting scalability. This paper presents DIBE, a run-time binary editing framework that safely instruments running x86-64 programs without trapping in the common case. An admin process resolves all instrumentation decisions, including multi-site patching tactics and trampoline placement, and exports them as metadata. A lightweight runtime inside the target process replays these edits, safely activating E9Patch's multi-site rewriting tactics on the live process by applying their dependent overwrites in an order that keeps every intermediate program state correct under concurrent execution, a guarantee that single-site punning and offline rewriting do not provide. It applies 77-90% of overwrites using hardware atomic primitives invisible to concurrent threads, with a trap-based fallback only for the remaining cross-boundary cases. We evaluate DIBE on 28 SPEC CPU2006 benchmarks and a multi-process Nginx server, and demonstrate it at browser scale on a running Chrome renderer and as a live memory-safety checker. DIBE matches static E9Patch on both instrumentation coverage (near-complete) and execution time overhead (within 0.5% at the geometric mean), keeps per-instruction overwrite latency sub-microsecond, and records zero trap hits across all Nginx configurations under sustained load.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-10-07",
+        "language": "",
+        "doi": "https://doi.org/10.1145/3832783.3837494",
+        "platform_record_id": "https://openalex.org/W7220904399",
+        "record_url": "https://openalex.org/W7220904399",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3832783.3837494\", \"publication_year\": 2026, \"publication_date\": \"2026-10-07\", \"type\": \"conference-paper\", \"language\": null, \"authorships\": [\"Jihun Baek\", \"sanghoon han\", \"Hyungon Moon\"], \"venue\": \"IEEE/ACM International Conference on Automated Software Engineering (ASE)\", \"openalex_id\": \"https://openalex.org/W7220904399\", \"landing_page_url\": \"https://doi.org/10.1145/3832783.3837494\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "15",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a166a89a9a678d72fbe4aeb56977f2d670d24359e19595f0e4ca261867836364"
+    },
+    {
+      "target": "E-0267",
+      "event": "E-3512",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating Web-Based Post-Quantum Cryptography: A Statistical Analysis of ML-KEM-768 in Controlled Browser Environments",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.6744539",
+        "platform_record_id": "https://openalex.org/W7168368050",
+        "record_url": "https://openalex.org/W7168368050",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.6744539\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Samin Yasar\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7168368050\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.6744539\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "18",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "87deeade259d1afbb7bdd478947cc1369e02940dcc4a253662c5823e685afd7f"
+    },
+    {
+      "target": "E-0269",
+      "event": "E-3513",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "High System-Code Security with Low Overhead",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Security vulnerabilities plague modern systems because writing secure systems code is hard. Promising approaches can retrofit security automatically via runtime checks that implement the desired security policy, these checks guard critical operations, like memory accesses. Alas, the induced slowdown usually exceeds by a wide margin what system users are willing to tolerate in production, so these tools are hardly ever used. As a result, the insecurity of real-world systems persists. We present an approach in which developers/operators can specify what level of overhead they find acceptable for a given workload (e.g., 5%), our proposed tool ASAP then automatically instruments the program to maximize its security while staying within the specified \"overhead budget.\" Two insights make this approach effective: most overhead in existing tools is due to only a few \"hot\" checks, whereas the checks most useful to security are typically \"cold\" and cheap. We evaluate ASAP on programs from the Phoronix and SPEC benchmark suites. It can precisely select the best points in the security-performance spectrum. Moreover, we analyzed existing bugs and security vulnerabilities in RIPE, Open SSL, and the Python interpreter, and found that the protection level offered by the ASAP approach is sufficient to protect against all of them.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-05-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/sp.2015.58",
+        "platform_record_id": "https://openalex.org/W1794159487",
+        "record_url": "https://openalex.org/W1794159487",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/sp.2015.58\", \"publication_year\": 2015, \"publication_date\": \"2015-05-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Jonas Wagner\", \"Volodymyr Kuznetsov\", \"George Candea\", \"Johannes Kinder\"], \"venue\": \"Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy\", \"openalex_id\": \"https://openalex.org/W1794159487\", \"landing_page_url\": \"https://doi.org/10.1109/sp.2015.58\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "dc4fbb8274f11bfd1edd477aae49cbf5a37444754e73b57acda56a09f4f993d7"
+    },
+    {
+      "target": "E-0271",
+      "event": "E-3514",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Measuring and Defeating Anti-Instrumentation-Equipped Malware",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2017",
+        "publication_date": "2017-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-319-60876-1_4",
+        "platform_record_id": "https://openalex.org/W2620946705",
+        "record_url": "https://openalex.org/W2620946705",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-319-60876-1_4\", \"publication_year\": 2017, \"publication_date\": \"2017-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Mario Polino\", \"Andrea Continella\", \"Sebastiano Mariani\", \"Stefano D’Alessio\", \"Lorenzo Fontana\", \"Fabio Gritti\", \"Stefano Zanero\"], \"venue\": \"Lecture notes in computer science\", \"openalex_id\": \"https://openalex.org/W2620946705\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-319-60876-1_4\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "22",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9e6fba0c131a1bb6b95f40f9889e58cbdeec7762c86ab74bf5a2cbcd6129442b"
+    },
+    {
+      "target": "E-0272",
+      "event": "E-3515",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Universal context propagation for distributed system instrumentation",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Many tools for analyzing distributed systems propagate contexts along the execution paths of requests, tasks, and jobs, in order to correlate events across process, component and machine boundaries. There is a wide range of existing and proposed uses for these tools, which we call cross-cutting tools, such as tracing, debugging, taint propagation, provenance, auditing, and resource management, but few of them get deployed pervasively in large systems. When they do, they are brittle, hard to evolve, and cannot coexist with each other. While they use very different context metadata, the way they propagate the information alongside execution is the same. Nevertheless, in existing tools, these aspects are deeply intertwined, causing most of these problems.",
+      "metadata": {
+        "publication_year": "2018",
+        "publication_date": "2018-04-18",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3190508.3190526",
+        "platform_record_id": "https://openalex.org/W2798290321",
+        "record_url": "https://openalex.org/W2798290321",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3190508.3190526\", \"publication_year\": 2018, \"publication_date\": \"2018-04-18\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Jonathan Mace\", \"Rodrigo Fonseca\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2798290321\", \"landing_page_url\": \"https://doi.org/10.1145/3190508.3190526\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "23",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "6a17eff881bc77321e9e380d17776e390aa0d80bbb8bb431972a969f5d551b48"
+    },
+    {
+      "target": "E-0273",
+      "event": "E-3516",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "UISCOPE: Accurate, Instrumentation-free, and Visible Attack Investigation for GUI Applications",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Existing attack investigation solutions for GUI applications suffer from a few limitations such as inaccuracy (because of the dependence explosion problem), requiring instrumentation, and providing very low visibility.Such limitations have hindered their widespread and practical deployment.In this paper, we present UISCOPE, a novel accurate, instrumentationfree, and visible attack investigation system for GUI applications.The core idea of UISCOPE is to perform causality analysis on both UI elements/events which represent users' perspective and low-level system events which provide detailed information of what happens under the hood, and then correlate system events with UI events to provide high accuracy and visibility.Long running processes are partitioned to individual UI transitions, to which low-level system events are attributed, making the results accurate.The produced graphs contain (causally related) UI elements with which users are very familiar, making them easily accessible.We deployed UISCOPE on 7 machines for a week, and also utilized UISCOPE to conduct an investigation of 6 realworld attacks.Our evaluation shows that compared to existing works, UISCOPE introduces neglibible overhead (less than 1% runtime overhead and 3.05 MB event logs per hour on average) while UISCOPE can precisely identify attack provenance while offering users thorough visibility into the attack context.",
+      "metadata": {
+        "publication_year": "2020",
+        "publication_date": "2020-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.14722/ndss.2020.24329",
+        "platform_record_id": "https://openalex.org/W3007878096",
+        "record_url": "https://openalex.org/W3007878096",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.14722/ndss.2020.24329\", \"publication_year\": 2020, \"publication_date\": \"2020-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Runqing Yang\", \"Shiqing Ma\", \"Haitao Xu\", \"Xiangyu Zhang\", \"Yan Chen\"], \"venue\": \"Network and Distributed System Security Symposium\", \"openalex_id\": \"https://openalex.org/W3007878096\", \"landing_page_url\": \"https://doi.org/10.14722/ndss.2020.24329\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "24",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "c8f632d1abf2c26f1629531d91224a740ea5069ef5cdd78588e790a38936f091"
+    },
+    {
+      "target": "E-0277",
+      "event": "E-3517",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R2",
+      "previous_status": "ADVANCE",
+      "title": "Micro-architectural side channels: Studying the attack surface from hardware to browsers",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Hardware is often represented as an abstract layer that behaves correctly, executes instructions and produces a result. However, side effects due to the execution of computations on actual computers can lead to information leakage. Fault attacks also threaten security, by generating errors in the physical system and thus bypassing security mechanisms. Typically, information leakage from side-channel attacks includes power consumption or electromagnetic emissions, and fault attacks include altering the system's power supply or clock. All of these attacks require physical access to the device. In contrast, my research activities since October 2015 have focused on side-channel and fault attacks that do not require physical access, and instead use the micro-architecture components of the processors. These attacks are software-based, and, therefore, remotely executable. The main research challenge in micro-architectural attacks is to build secure systems and hardware that are immune to these vulnerabilities. In this manuscript, I give a partial view of my contributions in this domain, focusing on the attack surface, one of the main issues we face. In the first part, we cover the hardware attack surface, i.e., the discovery of new side channels in unsuspected micro-architectural components. In the second part, we focus on a particular delivery method for side-channel attacks: web browsers.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-05-24",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W4392497378",
+        "record_url": "https://openalex.org/W4392497378",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2023, \"publication_date\": \"2023-05-24\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Clémentine Maurice\"], \"venue\": \"HAL\", \"openalex_id\": \"https://openalex.org/W4392497378\", \"landing_page_url\": \"https://inria.hal.science/tel-04180074\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "ff20c259fb914f2b551a40d6fd4462201cba36bac9f5d32f39f989482313019e"
+    },
+    {
+      "target": "E-0278",
+      "event": "E-3518",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "ShadowBlock: A Lightweight and Stealthy Adblocking Browser",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "As the popularity of adblocking has soared over the last few years, publishers are increasingly deploying anti-adblocking paywalls that ask users to either disable their adblockers or pay to access content. In this work we propose ShadowBlock, a new Chromium-based adblocking browser that can hide traces of adblocking activities from anti-adblockers as it removes ads from web pages. To bypass anti-adblocking paywalls, ShadowBlock takes advantage of existing filter lists used by adblockers and hides all ad elements stealthily in such a way that anti-adblocking scripts cannot detect any tampering of the ads (e.g., absence of ad elements). Specifically, ShadowBlock introduces lightweight hooks in Chromium to ensure that DOM states queried by anti-adblocking scripts are exactly as if adblocking is not employed. We implement a fully working prototype by modifying Chromium which shows great promise in terms of adblocking effectiveness and anti-adblocking circumvention but also more efficient than the state-of-the-art adblocking browser extensions. Our evaluation on Alexa top-1K websites shows that ShadowBlock successfully blocks 98.3% of all visible ads while only causing minor breakage on less than 0.6% of the websites. Most importantly, ShadowBlock is able to bypass anti-adblocking paywalls on more than 200 websites that deploy visible anti-adblocking paywalls with a 100% success rate. Our performance evaluation further shows that ShadowBlock loads pages as fast as the state-of-the-art adblocking browser extension on average.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-05-13",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3308558.3313558",
+        "platform_record_id": "https://openalex.org/W2911989315",
+        "record_url": "https://openalex.org/W2911989315",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3308558.3313558\", \"publication_year\": 2019, \"publication_date\": \"2019-05-13\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Shitong Zhu\", \"Umar Iqbal\", \"Zhongjie Wang\", \"Zhiyun Qian\", \"Zubair Shafiq\", \"Weiteng Chen\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2911989315\", \"landing_page_url\": \"https://doi.org/10.1145/3308558.3313558\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "cc60ff5ab6d0a674ffdcb74b9941d2e427cdd80d597077f74e9834de835a6f85"
+    },
+    {
+      "target": "E-0281",
+      "event": "E-3519",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "In this paper, we propose JSgraph, a forensic engine that is able to efficiently record fine-grained details pertaining to the execution of JavaScript (JS) programs within the browser, with particular focus on JS-driven DOM modifications.JSgraph's main goal is to enable a detailed, post-mortem reconstruction of ephemeral JS-based web attacks experienced by real network users.In particular, we aim to enable the reconstruction of social engineering attacks that result in the download of malicious executable files or browser extensions, among other attacks.We implement JSgraph by instrumenting Chromium's code base at the interface between Blink and V8, the rendering and JavaScript engines.We design JSgraph to be lightweight, highly portable, and to require low storage capacity for its fine-grained audit logs.Using a variety of both in-the-wild and lab-reproduced web attacks, we demonstrate how JSgraph can aid the forensic investigation process.We then show that JSgraph introduces acceptable overhead, with a median overhead on popular website page loads between 3.2% and 3.9%.",
+      "metadata": {
+        "publication_year": "2018",
+        "publication_date": "2018-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.14722/ndss.2018.23319",
+        "platform_record_id": "https://openalex.org/W2793337260",
+        "record_url": "https://openalex.org/W2793337260",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.14722/ndss.2018.23319\", \"publication_year\": 2018, \"publication_date\": \"2018-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Bo Li\", \"Phani Vadrevu\", \"Kyu Hyoung Lee\", \"Roberto Perdisci A\"], \"venue\": \"Network and Distributed System Security Symposium\", \"openalex_id\": \"https://openalex.org/W2793337260\", \"landing_page_url\": \"https://doi.org/10.14722/ndss.2018.23319\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "32",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9770980abe8e26db3bbeee736b2561965ae37402ac323dc2ddc2c31614fc21b4"
+    },
+    {
+      "target": "E-0283",
+      "event": "E-3520",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "PENDING",
+      "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Large Language Model (LLM) based agents integrated into web browsers (often called agentic AI browsers) offer powerful automation of web tasks. However, they are vulnerable to indirect prompt injection attacks, where malicious instructions hidden in a webpage deceive the agent into unwanted actions. These attacks can bypass traditional web security boundaries, as the AI agent operates with the user privileges across sites. In this paper, we present a novel fuzzing framework that runs entirely in the browser and is guided by an LLM to automatically discover such prompt injection vulnerabilities in real time.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-10-15",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2510.13543",
+        "platform_record_id": "https://openalex.org/W4415276507",
+        "record_url": "https://openalex.org/W4415276507",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2510.13543\", \"publication_year\": 2025, \"publication_date\": \"2025-10-15\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Cohen, Avihay\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4415276507\", \"landing_page_url\": \"http://arxiv.org/abs/2510.13543\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "34",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d36abe7cfc27e72565b5548af589327c91e31c4b1a5cb9d09551bdbcdb880217"
+    },
+    {
+      "target": "E-0284",
+      "event": "E-3521",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Feedback-directed instrumentation for deployed JavaScript applications",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Many bugs in JavaScript applications manifest themselves as objects that have incorrect property values when a failure occurs. For this type of error, stack traces and log files are often insufficient for diagnosing problems. In such cases, it is helpful for developers to know the control flow path from the creation of an object to a crashing statement. Such crash paths are useful for understanding where the object originated and whether any properties of the object were corrupted since its creation.",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-05-13",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/2884781.2884846",
+        "platform_record_id": "https://openalex.org/W2393286498",
+        "record_url": "https://openalex.org/W2393286498",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/2884781.2884846\", \"publication_year\": 2016, \"publication_date\": \"2016-05-13\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Magnus Madsen\", \"Frank Tip\", \"Esben Andreasen\", \"Koushik Sen\", \"Anders Møller\"], \"venue\": \"Proceedings/Proceedings - International Conference on Software Engineering\", \"openalex_id\": \"https://openalex.org/W2393286498\", \"landing_page_url\": \"https://doi.org/10.1145/2884781.2884846\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "35",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "09126e6ad85e7b0e17976e49f3e3080e5f6f2352647caba1f3b1639265be30e6"
+    },
+    {
+      "target": "E-0285",
+      "event": "E-3522",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Instrumentation Optimization for Practical Dynamic Race Detection",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Dynamic data race detectors are successful at flagging concurrency bugs, but their high runtime overhead limits adoption. This overhead stems primarily from pervasive instrumentation of memory accesses -- a significant fraction of which is for safe accesses. We address this inefficiency through a compiler-integrated approach that identifies safe accesses using static analysis and eliminates instrumentation for these. We strike a careful balance between analysis precision and cost, to ensure applicability to real-world applications. We show that our optimizations never cause ThreadSanitizer to miss races it would otherwise detect. We further observe that many checks are redundant: They only flag a race if a preceding check has already flagged an equivalent race for the same memory location. We show that, when reporting one representative per class is sufficient, even more instrumentation can be eliminated. Lastly, we introduce a dynamic technique that skips instrumentation when there is only one thread at runtime, even when this could not be determined statically. We integrate these static analyses and program transformations into the ThreadSanitizer race detector based on LLVM. Our experiments on a diverse suite of real-world applications, including Memcached, Redis, SQLite, MySQL, and Chromium, demonstrate that our optimizations reduce the number of instrumentation calls at runtime by up to 91% and yield application-level speedups of up to 1.91x, a geometric-mean Chromium speedup of 1.25x on Blink and 1.14x on Speedometer 3.0, and peak speedups reaching 2.28x on Memcached with two server threads. Our optimizations are in the process of being upstreamed into ThreadSanitizer.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-12-05",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2512.05555",
+        "platform_record_id": "https://openalex.org/W4417142959",
+        "record_url": "https://openalex.org/W4417142959",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2512.05555\", \"publication_year\": 2025, \"publication_date\": \"2025-12-05\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Alexey A. Paznikov\", \"Michael Schwarz\", \"Andrey Kogutenko\", \"Yaroslav Osipov\", \"Umang Mathur\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4417142959\", \"landing_page_url\": \"https://arxiv.org/abs/2512.05555\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "1b7c40ef1610730f14a734703c0a96c564ec2ab34d594bd980f106bbef5bdd19"
+    },
+    {
+      "target": "E-0286",
+      "event": "E-3523",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "Dynamic Graph-based Fingerprinting of In-browser Cryptomining",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The decentralized and unregulated nature of cryptocurrencies, combined with their monetary value, has made them a vehicle for various illicit activities. One such activity is cryptojacking, an attack that uses stolen computing resources to mine cryptocurrencies without consent for profit. In-browser cryptojacking malware exploits high-performance web technologies like WebAssembly to mine cryptocurrencies directly within the browser without file downloads. Although existing methods for cryptomining detection report high accuracy and low overhead, they are often susceptible to various forms of obfuscation, and due to the limited variety of cryptomining scripts in the wild, standard code obfuscation methods present a natural and appealing solution to avoid detection. To address these limitations, we propose using instruction-level data-flow graphs to detect cryptomining behavior. Data-flow graphs offer detailed structural insights into a program's computations, making them suitable for characterizing proof-of-work algorithms, but they can be difficult to analyze due to their large size and susceptibility to noise and fragmentation under obfuscation. We present two techniques to simplify and compare data-flow graphs: (1) a graph simplification algorithm to reduce the computational burden of processing large and granular data-flow graphs while preserving local substructures; and (2) a subgraph similarity measure, the n-fragment inclusion score, based on fragment inclusion that is robust against noise and obfuscation. Using data-flow graphs as computation fingerprints, our detection framework PoT (Proof-of-Theft) was able to achieve high detection accuracy against standard obfuscations, outperforming existing detection methods. Moreover, PoT uses generic data-flow properties that can be applied to other platforms more susceptible to cryptojacking such as servers and data centers.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-05-05",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2505.02493",
+        "platform_record_id": "https://openalex.org/W4415031722",
+        "record_url": "https://openalex.org/W4415031722",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2505.02493\", \"publication_year\": 2025, \"publication_date\": \"2025-05-05\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Tanapoom Sermchaiwong\", \"Jiasi Shen\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4415031722\", \"landing_page_url\": \"http://arxiv.org/abs/2505.02493\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "37",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d1a28f0ef6950ac57b6d7e392e1f3a3e6f769fbacb438fc9ebba0946dd01497c"
+    },
+    {
+      "target": "E-0287",
+      "event": "E-3524",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "WebAssembly-accelerated UMAP for browser environment",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Dimensionality reduction algorithms such as Uniform Manifold Approximation and Projection (UMAP) are widely used for visualizing high-dimensional data. In recent years, there has been increasing interest in performing such analysis directly in web browsers to enable interactive data exploration without server-side computation. However, implementing computationally intensive algorithms like UMAP in JavaScript is constrained by performance limitations, which often result in long execution times and reduced responsiveness for larger datasets. The objective of this thesis was to evaluate whether selectively accelerating performance-critical components of a browser-based UMAP implementation using Rust and WebAssembly can improve execution performance while preserving embedding quality and acceptable browser responsiveness. A WASM-accelerated variant of the JavaScript library umap-js was implemented, where key components such as nearest-neighbour search, distance calculations, and layout optimization were rewritten in Rust and compiled to WASM. A browser-based benchmarking framework was developed to compare the baseline JavaScript implementation with the accelerated version under controlled conditions. The results show that WASM acceleration can significantly reduce execution time, particularly when applied to the layout optimization phase of the UMAP algorithm. However, improvements in memory usage were inconsistent, and faster execution did not always translate into smoother interactive performance during computation. Embedding quality remained comparable to the JavaScript baseline across all tested configurations. Overall, the findings indicate that WASM is a practical approach for improving browser-based UMAP performance when applied selectively to computational bottlenecks, although it introduces additional implementation complexity and potential trade-offs in interactive responsiveness.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W7163303919",
+        "record_url": "https://openalex.org/W7163303919",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Elar Saks\"], \"venue\": \"Theseus (Ammattikorkeakoulujen)\", \"openalex_id\": \"https://openalex.org/W7163303919\", \"landing_page_url\": \"http://www.theseus.fi/handle/10024/923344\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "38",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d3986ed0dd5008c9c20309ea345545442306bb14071344ddd21b4e8cea889f70"
+    }
+  ]
+}

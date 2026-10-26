@@ -1,0 +1,50 @@
+{
+  "scope": "Scholar Batch7 Final38 subtree only",
+  "source_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "files": {
+    "author_checks.tsv": {
+      "sha256": "f10135aef5b3cee1a22dbac1e5350ca6be90bb155f8076539e3bcef5ce6406a4",
+      "bytes": 59071
+    },
+    "author_primary.py": {
+      "sha256": "c3be4638a6055b6028dcc18b057a97ad8ab2a9c893cebfea8fb3467bd39c6c45",
+      "bytes": 10839
+    },
+    "counts.json": {
+      "sha256": "2645b418163d9648d3303e4c85a1b94b856126788bd687324a99bbf8c6e16957",
+      "bytes": 724
+    },
+    "handoff.md": {
+      "sha256": "55ad2b5ed49717aa1ff825908ca2a56024be8f8f912f3ec0e006a792d4fcdf6d",
+      "bytes": 3724
+    },
+    "item_checks.tsv": {
+      "sha256": "9c7739afa540ef863681dd7f203871420e6447665a48a2d2fc8e513d0e9e6312",
+      "bytes": 65775
+    },
+    "overlay.csv": {
+      "sha256": "d9692b92ded00f8eee8be6ad8992f5897fd617131dde0cb26ba01c79467041cd",
+      "bytes": 168236
+    },
+    "primary_judgments.json": {
+      "sha256": "3cc0390711266a4e8692e89abd658a1bc2c7afe88c7fae74afdf2dd6470c0a9e",
+      "bytes": 110203
+    },
+    "secondary_checks.json": {
+      "sha256": "f179c976a7fc21c168478aebfaf3631423ed80d60ad8d56f2f6a9ea24f696eca",
+      "bytes": 7643
+    },
+    "secondary_freeze.json": {
+      "sha256": "03970fbd172da698de18d07481c9415822ae334d9f833757e99cd8248cb10780",
+      "bytes": 1969
+    },
+    "secondary_reread_originals.txt": {
+      "sha256": "4a1331dab24fa09ed51b0c3f49f8e86af270ff2e39e0f55e40e68d29802c725d",
+      "bytes": 11060
+    },
+    "target_freeze.json": {
+      "sha256": "403083ce1678dc932a0582a229865c4f95d28e334ecd3c1b00812cb33f73087a",
+      "bytes": 1440
+    }
+  }
+}

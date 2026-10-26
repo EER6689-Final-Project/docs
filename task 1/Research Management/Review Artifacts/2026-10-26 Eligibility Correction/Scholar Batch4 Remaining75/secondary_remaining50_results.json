@@ -1,0 +1,97 @@
+[
+  {
+    "occurrence_E_ID": "E-0750",
+    "original_stored_export_reread": {
+      "occurrence_E_ID": "E-0750",
+      "title": "The experimental design for data mining to discover web performance issues in a wide area network",
+      "abstract_or_snippet": "… real-life project, emphasizing experimental design and data preparation problems. … a web performance model and summarize the related work. Then we present an experimental design …",
+      "raw_record_metadata": "L Borzemski - Cybernetics and Systems: An International Journal, 2010 - Taylor & Francis",
+      "publication_year": "2010",
+      "publication_date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "display_record_label": "",
+      "duplicate_occurrence": "False",
+      "first_occurrence": "ScholarFinal_R6_start0:1",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "result": "checked-no-discrepancy",
+    "reread_assessment": "The original title/snippet supports only the bounded primary question mappings; it does not verify date/version, language, type, identity, methods or full text. Existing DUP annotations remain unresolved."
+  },
+  {
+    "occurrence_E_ID": "E-0752",
+    "original_stored_export_reread": {
+      "occurrence_E_ID": "E-0752",
+      "title": "Information constraints and technology efficiency: Field experiments benchmarking firms website performance",
+      "abstract_or_snippet": "… can lead managers to enhance performance using an experimental design , we build on a small … where AWPi is the change in the web performance metric compared to the baseline time …",
+      "raw_record_metadata": "A Adem , R Kneller , C Li - 2023 - papers.ssrn.com",
+      "publication_year": "2023",
+      "publication_date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "display_record_label": "",
+      "duplicate_occurrence": "False",
+      "first_occurrence": "ScholarFinal_R6_start0:3",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "result": "checked-no-discrepancy",
+    "reread_assessment": "The original title/snippet supports only the bounded primary question mappings; it does not verify date/version, language, type, identity, methods or full text. Existing DUP annotations remain unresolved."
+  },
+  {
+    "occurrence_E_ID": "E-0756",
+    "original_stored_export_reread": {
+      "occurrence_E_ID": "E-0756",
+      "title": "Web server performance measurement and modeling techniques",
+      "abstract_or_snippet": "The popularity of the Internet, and the usage of the world wide web in particular, has grown rapidly in recent years. Thousands of companies have deployed Web servers and their …",
+      "raw_record_metadata": "J Dilley, R Friedrich, T Jin, J Rolia - Performance evaluation, 1998 - Elsevier",
+      "publication_year": "1998",
+      "publication_date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "display_record_label": "",
+      "duplicate_occurrence": "True",
+      "first_occurrence": "ScholarFinal_R3_start0:9",
+      "candidate_duplicate_target_E_ID": "E-0608"
+    },
+    "result": "checked-no-discrepancy",
+    "reread_assessment": "The original title/snippet supports only the bounded primary question mappings; it does not verify date/version, language, type, identity, methods or full text. Existing DUP annotations remain unresolved."
+  },
+  {
+    "occurrence_E_ID": "E-0761",
+    "original_stored_export_reread": {
+      "occurrence_E_ID": "E-0761",
+      "title": "Website performance and behavioral consequences: A formative measurement approach",
+      "abstract_or_snippet": "… The proposed web performance index is a robust, parsimonious, and simple measurement instrument. This index has an advantage over most reflective measures because often …",
+      "raw_record_metadata": "A Dickinger , B Stangl - Journal of business research, 2013 - Elsevier",
+      "publication_year": "2013",
+      "publication_date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "display_record_label": "",
+      "duplicate_occurrence": "False",
+      "first_occurrence": "ScholarFinal_R6_start0:12",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "result": "checked-no-discrepancy",
+    "reread_assessment": "The original title/snippet supports only the bounded primary question mappings; it does not verify date/version, language, type, identity, methods or full text. Existing DUP annotations remain unresolved."
+  },
+  {
+    "occurrence_E_ID": "E-0769",
+    "original_stored_export_reread": {
+      "occurrence_E_ID": "E-0769",
+      "title": "[PDF] Case-based learning on web in higher education: A review of empirical research",
+      "abstract_or_snippet": "… Three papers were based on an experimental design . … In some study that used experimental design , to compare between the use case-based learning and case-based learning with …",
+      "raw_record_metadata": "D Saleewong , P Suwannatthachote … - Creative Education, 2012 - academia.edu",
+      "publication_year": "2012",
+      "publication_date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "display_record_label": "[PDF] [PDF]",
+      "duplicate_occurrence": "False",
+      "first_occurrence": "ScholarFinal_R6_start0:20",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "result": "checked-no-discrepancy",
+    "reread_assessment": "The title and entire stored snippet concern a review of case-based learning in higher education; there is no stated browser-performance phenomenon or transferable measurement/design mechanism. Tentative X3 routing is supported at metadata stage only; no full-text or citation check."
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "created_at": "2026-10-26T12:12:56.315330+05:30",
+  "operation": "Administrative merge of two completed disjoint Sol QA overlays; not new semantic/source reads",
+  "baseline": {
+    "path": "../Accepted Snapshot 4/effective_state_838.csv",
+    "sha256": "8dade5ef993f499d3d39a129943415c1119dfbda2bbf26cea9e98408d1b4822c",
+    "counts": {
+      "ADVANCE": 258,
+      "X3": 51,
+      "PENDING": 529
+    }
+  },
+  "accepted_overlays": [
+    {
+      "path": "../Sol Scholar Batch3/overlay.csv",
+      "sha256": "a5ca3b223e767ac5f1a71ee97da88c85cf98c2749cc9d21dc7b555ce625704d2",
+      "targets": "E-0600\u2013E-0699",
+      "events": "E-3200\u2013E-3299",
+      "counts": {
+        "ADVANCE": 92,
+        "X3": 8,
+        "PENDING": 0
+      }
+    },
+    {
+      "path": "../Sol Scholar Batch4 First25/delta_overlay25.csv",
+      "sha256": "9f6743df3c21a402f2c8fc6d4c8724adf7f3910b1a90ea35059267a6189bda88",
+      "targets": "E-0700\u2013E-0724",
+      "events": "E-3400\u2013E-3424",
+      "counts": {
+        "ADVANCE": 25,
+        "X3": 0,
+        "PENDING": 0
+      }
+    }
+  ],
+  "counts": {
+    "X3": 59,
+    "ADVANCE": 375,
+    "PENDING": 404
+  },
+  "OA_counts": {
+    "X3": 45,
+    "ADVANCE": 189,
+    "PENDING": 66
+  },
+  "Scholar_counts": {
+    "ADVANCE": 186,
+    "PENDING": 338,
+    "X3": 14
+  },
+  "completed_original_export_semantic_QA": {
+    "OA": 300,
+    "Scholar": 225,
+    "total": 525
+  },
+  "batch3_history_column_repair": {
+    "changed_original_column_names": [
+      "audit_type",
+      "candidate_relevance",
+      "canonical_identity_status",
+      "canonical_pending_reason",
+      "canonical_pending_state",
+      "claim_support",
+      "date_eligibility",
+      "fulltext_language_translation",
+      "fulltext_pass",
+      "methodological_confidence",
+      "reviewer",
+      "semantic_eligibility",
+      "source_type_fit",
+      "stage1_decision",
+      "stage1_primary_code",
+      "stage1_reason",
+      "stage2"
+    ],
+    "changed_column_count": 17,
+    "rows": 100,
+    "action": "New derivative restores every immutable original value, preserves all overwritten Sol values as sol_authored_<original_name>; original Sol overlay and manifest unmodified. Protected title/snippet/raw metadata/URLs/platform identity/date fields matched original. Main accepted merge imports only explicitly identified corrective values into effective_* fields.",
+    "new_source_reads": 0,
+    "new_routing_changes_from_repair": 0
+  },
+  "limits": "OA group discrepancy expansion not included; positive mappings remain bounded/provisional and not all globally QC-passed. Identity/date/language/type, fulltexts/citations and methods remain pending; source support/confidence UNASSESSED."
+}

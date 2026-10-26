@@ -1,0 +1,72 @@
+{
+  "created_at": "2026-10-26T12:41:31.808564+05:30",
+  "operation": "Administrative merge of completed disjoint metadata QA, not new source reads",
+  "baseline": {
+    "path": "../Accepted Snapshot 5/effective_state_838.csv",
+    "sha256": "7addcd9e08da56bef3e4f6afe201170cd30377fa7ca4b50a3dcf12e508d9b75d",
+    "counts": {
+      "ADVANCE": 375,
+      "X3": 59,
+      "PENDING": 404
+    }
+  },
+  "overlays": [
+    {
+      "path": "../Sol Scholar Batch4 Next25/delta_overlay25.csv",
+      "sha256": "d90d1c52bbc3b5b743a5411e187a5b1ed6a00d10af158941704500af8c3fbbd9",
+      "targets": "E-0725\u2013E-0749",
+      "count": 25,
+      "counts": {
+        "ADVANCE": 23,
+        "PENDING": 2
+      }
+    },
+    {
+      "path": "../Sol Scholar Batch5 First25/Sol-FIRST25-overlay.csv",
+      "sha256": "bef88b254b52e40e14bc763eea3399740c0cf5cc5d30c52e021e6b13cf5b02a5",
+      "targets": "E-0800\u2013E-0824",
+      "count": 25,
+      "counts": {
+        "ADVANCE": 13,
+        "X3": 12
+      }
+    },
+    {
+      "path": "../Sol Scholar Final38/overlay.csv",
+      "sha256": "e299c49cc3137de19cba3c5ef3414a88df554ae9c7a678dcd1362c4d11822779",
+      "targets": "E-1000\u2013E-1037",
+      "count": 38,
+      "counts": {
+        "X3": 7,
+        "ADVANCE": 17,
+        "PENDING": 14
+      }
+    }
+  ],
+  "counts": {
+    "X3": 78,
+    "ADVANCE": 428,
+    "PENDING": 332
+  },
+  "OA_counts": {
+    "X3": 45,
+    "ADVANCE": 189,
+    "PENDING": 66
+  },
+  "Scholar_counts": {
+    "ADVANCE": 239,
+    "PENDING": 266,
+    "X3": 33
+  },
+  "accepted_semantic_QA": {
+    "OA": 300,
+    "Scholar": 313,
+    "total": 613
+  },
+  "pending_breakdown": {
+    "reviewed_OA": 66,
+    "reviewed_Scholar": 41,
+    "Scholar_without_accepted_QA": 225
+  },
+  "limits": "OA130 group expansion and active Scholar50/75/100 QA not included. Exact dates/lang/type/identity unverified, source support/confidence UNASSESSED, fulltexts/citations NOT RUN. Original fields preserved. Literal none in an explicit-R grouping field normalizes to empty, not a semantic judgment."
+}

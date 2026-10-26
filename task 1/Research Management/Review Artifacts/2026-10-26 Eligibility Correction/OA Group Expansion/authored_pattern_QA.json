@@ -1,0 +1,15 @@
+{
+  "E-0361": {
+    "R": "R4",
+    "result": "checked-no-discrepancy",
+    "mapping": "supported",
+    "rationale": "Unlike naming ANCOVA alone, this export explicitly connects performance uncertainty and unreliable small differences to repetitions at benchmark-iteration, VM-invocation and binary-rebuild levels. The repeated-performance hierarchy is supplied, although the actual allocation/estimation method is not read. Preserve the bounded R4 lead; do not assert that prior canonical full-text work was rechecked."
+  },
+  "E-0458": {
+    "R": "R4",
+    "result": "checked-no-discrepancy",
+    "mapping": "supported",
+    "rationale": "The original explicitly discusses erratic temporal variation for a fixed client-server pair and modelling all observations versus a selected better-behaved 90% subset. That is a concrete tail/selection and estimand-sensitivity issue for repeated performance, not merely a named regression. Preserve the limited R4 lead without approving tail deletion, confidence coverage or stopping. R1 was not separately re-adjudicated in this added R4 pass."
+  },
+  "closure_boundary": "The finite additional R4/conference-paper pattern check is executed 2/2, not a global pass. Other unselected positive mappings and all inherited mappings retain their recorded appraisal/QA limits; 44 final affected mappings remain unclear. G3/G4 remain OPEN."
+}

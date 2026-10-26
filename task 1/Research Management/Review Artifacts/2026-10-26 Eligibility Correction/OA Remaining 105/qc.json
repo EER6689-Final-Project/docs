@@ -1,0 +1,28 @@
+{
+  "target_count": 105,
+  "target_EIDs_exact_match_frozen": true,
+  "queue_hash_rechecked": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "target_occurrence_order_preserved": true,
+  "reserved_new_event_ids": {
+    "first": "E-2300",
+    "last": "E-2404",
+    "count": 105,
+    "contiguous": true
+  },
+  "dispositions": {
+    "ADVANCE": 91,
+    "X3": 0,
+    "PENDING": 14
+  },
+  "original_export_text_semantic_checks_done": 105,
+  "original_absent_or_defective_abstract_rows": 25,
+  "pending_is_not_irrelevance": true,
+  "no_fulltext_or_source_claim_validation": true,
+  "no_independent_human_review": "Luna AI separate-pass self-audit; not independent human review",
+  "limitations": [
+    "Occurrence counts only; no identity reconciliation or unique-work counts.",
+    "Metadata date/type/language are unverified; no X1/X2/X4 assigned.",
+    "Abstract/title screening only; no full-text, citation, claim-support, confidence, or gate conclusions.",
+    "R mappings are discovery-level itemwise hypotheses, not verified source claims."
+  ]
+}

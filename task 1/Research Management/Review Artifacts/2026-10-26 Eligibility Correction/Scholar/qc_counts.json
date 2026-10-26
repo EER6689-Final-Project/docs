@@ -1,0 +1,18 @@
+{
+  "reviewer": "Luna (AI self-audit; not independent human review)",
+  "date": "2026-10-26",
+  "actual_QC_checks": "None: no proposed exclusions, advances, or eligibility conclusions.",
+  "proposed_exclusions": 0,
+  "exclusion_QC": "Not applicable to overlay; old X2/X3/DUP labels remain unvalidated and were not adopted.",
+  "first_EID_per_RID_type_group": "Not performed: no R/type relevance groups were established; retrospective manifest cannot stand in for prospective selection.",
+  "counts": {
+    "pending": 538
+  },
+  "old_provisional_counts": {
+    "ADVANCE": 463,
+    "DUP": 75
+  },
+  "abstract_availability": "538 Scholar snippets, not abstracts; abstract availability from these records is 0 confirmed by this pass.",
+  "full_text_reads": 0,
+  "independent_review": false
+}

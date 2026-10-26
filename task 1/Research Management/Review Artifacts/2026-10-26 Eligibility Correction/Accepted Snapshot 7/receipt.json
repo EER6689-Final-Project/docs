@@ -1,0 +1,98 @@
+{
+  "created_at": "2026-10-26T12:59:39.019140+05:30",
+  "operation": "Administrative integration of completed metadata QA plus specifically affected mapping correction; not new original reads",
+  "baseline": {
+    "path": "../Accepted Snapshot 6/effective_state_838.csv",
+    "sha256": "b8ce505b80601b7824f40560a3d3a02ad360460d7a2784efb0434bc7efa9cecd",
+    "counts": {
+      "ADVANCE": 428,
+      "X3": 78,
+      "PENDING": 332
+    }
+  },
+  "Scholar_overlays": [
+    {
+      "path": "../Sol Scholar Batch4 Final50/delta_overlay50.csv",
+      "sha256": "e3e19e7c54e1e4cb97f1f307b413bf78996a0e86b39031bd322f1ba9f5956f60",
+      "targets": "E-0750\u2013E-0799",
+      "counts": {
+        "ADVANCE": 41,
+        "PENDING": 8,
+        "X3": 1
+      }
+    },
+    {
+      "path": "../Sol Scholar Batch5 Remaining75/remaining75-overlay.csv",
+      "sha256": "64823ba0556738bc982ec53f27a175ca86e67d08d065f7d12a67041d51e1d703",
+      "targets": "E-0825\u2013E-0899",
+      "counts": {
+        "ADVANCE": 53,
+        "X3": 19,
+        "PENDING": 3
+      }
+    },
+    {
+      "path": "../Sol Scholar Batch6/overlay.csv",
+      "sha256": "ec9193319f6eae1db5ccdb82a92668654d6d4743cbcd4589e65574d510a9e728",
+      "targets": "E-0900\u2013E-0999",
+      "counts": {
+        "ADVANCE": 56,
+        "PENDING": 30,
+        "X3": 14
+      }
+    }
+  ],
+  "counts_before_OA_expansion": {
+    "X3": 112,
+    "ADVANCE": 578,
+    "PENDING": 148
+  },
+  "OA_mapping_overlay": {
+    "path": "../OA Group Expansion/overlay_130_final.csv",
+    "sha256": "bac2cb5b4db91a39935d3a4f0d56b3fe2bf165f5811407210c21dbb9d154517f",
+    "targets": 130,
+    "affected_memberships": 151,
+    "mapping_outcomes": {
+      "unclear": 44,
+      "outside": 20,
+      "supported": 87
+    },
+    "advance_to_pending": [
+      "E-0267",
+      "E-0271",
+      "E-0357",
+      "E-0377"
+    ],
+    "actual_primary": 130,
+    "actual_secondary_distinct": 65,
+    "no_new_exclusions": true,
+    "inherited_mappings_not_revalidated": true
+  },
+  "counts": {
+    "X3": 112,
+    "ADVANCE": 574,
+    "PENDING": 152
+  },
+  "OA_counts": {
+    "X3": 45,
+    "ADVANCE": 185,
+    "PENDING": 70
+  },
+  "Scholar_counts": {
+    "ADVANCE": 389,
+    "PENDING": 82,
+    "X3": 67
+  },
+  "accepted_original_export_semantic_QA": {
+    "OA": 300,
+    "Scholar": 538,
+    "total": 838,
+    "unchecked": 0
+  },
+  "pending_breakdown": {
+    "reviewed_OA": 70,
+    "reviewed_Scholar": 82,
+    "unread": 0
+  },
+  "limits": "All 838 metadata occurrences read, not all eligible or verified works; original date/language/type/identity and source confidence/support UNASSESSED; fulltexts/citations NOT RUN. 44 affected mappings unclear, 20 outside specific R not X3; inherited mappings not globally validated. Prior group results and raw historical defects preserved."
+}

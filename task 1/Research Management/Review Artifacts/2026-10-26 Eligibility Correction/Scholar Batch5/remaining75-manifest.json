@@ -1,0 +1,72 @@
+{
+  "created_at_local": "2026-10-26T12:37:48+05:30",
+  "scope": "E-0825\u2013E-0899 only; first25 remains a separate accepted producer batch, not aggregated here",
+  "source_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "progressive_counts": {
+    "25": {
+      "producer_EID": [
+        "E-3925",
+        "E-3949"
+      ],
+      "ADVANCE": 6,
+      "PENDING": 0,
+      "X3": 19
+    },
+    "50": {
+      "producer_EID": [
+        "E-3925",
+        "E-3974"
+      ],
+      "ADVANCE": 27,
+      "PENDING": 0,
+      "X3": 23
+    },
+    "75": {
+      "producer_EID": [
+        "E-3925",
+        "E-3999"
+      ],
+      "ADVANCE": 48,
+      "PENDING": 0,
+      "X3": 27
+    }
+  },
+  "secondary_QC": {
+    "selected": 33,
+    "actually_reread": 33,
+    "checked_no_discrepancy": 31,
+    "checked_corrected": 2,
+    "independent_human_review": false
+  },
+  "remaining75_disposition_is_not_canonical": true,
+  "files": {
+    "remaining75-freeze.json": {
+      "bytes": 686,
+      "sha256": "17ae815a57bb72938412830d9f31bfc23ab2dae4273340cfffcaee7fabffb209"
+    },
+    "remaining75-overlay.csv": {
+      "bytes": 162958,
+      "sha256": "0fc01959a4ef7d6f797d61b4eab49944e6411dd97866ddbab2a4f610c0610d1c"
+    },
+    "remaining75-QC-sample-freeze.json": {
+      "bytes": 1884,
+      "sha256": "8defd2d5793c5ea2413489615d9605791292491fba2a2435c215517e98942c29"
+    },
+    "remaining75-QC-sample-freeze-v2.json": {
+      "bytes": 1932,
+      "sha256": "0613c45fd6ba21ccddf6b2b9d8d6c717732e52f54f180f3e98e072b58d9a6d45"
+    },
+    "remaining75-QC-results.json": {
+      "bytes": 13256,
+      "sha256": "13290c48fa4730a3e8c6bf0017e39fff3834b657142c2f57cfa56fd4a1884799"
+    },
+    "remaining75-QC-results-v2.json": {
+      "bytes": 12196,
+      "sha256": "6c420c1904f3efc1d6e6ca277ccb0f3755aebf7c67874e011fd5331e3e99c211"
+    },
+    "remaining75-handoff.md": {
+      "bytes": 3209,
+      "sha256": "76a8b264c599d8b2108b473a61b4ed4d2bf9246ca450c7e577955fba3ffd6e23"
+    }
+  }
+}

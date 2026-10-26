@@ -1,0 +1,618 @@
+{
+  "time": "2026-10-26T12:48:37.556834+05:30",
+  "status": "FROZEN BEFORE SECONDARY ORIGINAL-EXPORT REREAD",
+  "source": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+    "bytes": 2286727,
+    "sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad"
+  },
+  "producer_files": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-overlay.csv",
+      "bytes": 162958,
+      "sha256": "0fc01959a4ef7d6f797d61b4eab49944e6411dd97866ddbab2a4f610c0610d1c"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-handoff.md",
+      "bytes": 3209,
+      "sha256": "76a8b264c599d8b2108b473a61b4ed4d2bf9246ca450c7e577955fba3ffd6e23"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-manifest.json",
+      "bytes": 1995,
+      "sha256": "9b43ac7b6aef6906e5c0b770398bf98533f9993c021f2676f00e0273e40bc6c5"
+    }
+  ],
+  "primary_overlay": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Batch5 Remaining75/remaining75-overlay.csv",
+    "bytes": 606022,
+    "sha256": "a3850abd19f1dda9d7ca9518d579c879c89a8de3fa191993a0f0555f83910f0d"
+  },
+  "primary_author_checks": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Batch5 Remaining75/author-checks.json",
+    "bytes": 338597,
+    "sha256": "4f5ac63977b46a836ac01212c0326f928c09d59841ae8395d984b8975dc0ea73"
+  },
+  "producer_all_proposed_exclusions": [
+    "E-0826",
+    "E-0827",
+    "E-0828",
+    "E-0830",
+    "E-0831",
+    "E-0832",
+    "E-0833",
+    "E-0834",
+    "E-0835",
+    "E-0837",
+    "E-0839",
+    "E-0840",
+    "E-0841",
+    "E-0842",
+    "E-0843",
+    "E-0844",
+    "E-0846",
+    "E-0848",
+    "E-0849",
+    "E-0855",
+    "E-0864",
+    "E-0865",
+    "E-0867",
+    "E-0875",
+    "E-0879",
+    "E-0889",
+    "E-0897"
+  ],
+  "Sol_all_proposed_exclusions": [
+    "E-0826",
+    "E-0827",
+    "E-0831",
+    "E-0832",
+    "E-0835",
+    "E-0837",
+    "E-0839",
+    "E-0842",
+    "E-0844",
+    "E-0848",
+    "E-0849",
+    "E-0855",
+    "E-0864",
+    "E-0865",
+    "E-0867",
+    "E-0875",
+    "E-0879",
+    "E-0889",
+    "E-0897"
+  ],
+  "corrected_positive_R_type_proxy_groups": {
+    "R1 / conference-chapter": {
+      "members": [
+        "E-4062",
+        "E-4078"
+      ],
+      "selected_first": "E-4062",
+      "nonselected_count": 1
+    },
+    "R1 / conference-paper": {
+      "members": [
+        "E-4072",
+        "E-4088",
+        "E-4093",
+        "E-4099"
+      ],
+      "selected_first": "E-4072",
+      "nonselected_count": 3
+    },
+    "R1 / journal-paper": {
+      "members": [
+        "E-4052",
+        "E-4077",
+        "E-4086",
+        "E-4087",
+        "E-4090",
+        "E-4094"
+      ],
+      "selected_first": "E-4052",
+      "nonselected_count": 5
+    },
+    "R1 / manuscript": {
+      "members": [
+        "E-4057",
+        "E-4070"
+      ],
+      "selected_first": "E-4057",
+      "nonselected_count": 1
+    },
+    "R1 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "selected_first": "E-4074",
+      "nonselected_count": 0
+    },
+    "R1 / thesis": {
+      "members": [
+        "E-4063",
+        "E-4081"
+      ],
+      "selected_first": "E-4063",
+      "nonselected_count": 1
+    },
+    "R1 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "selected_first": "E-4053",
+      "nonselected_count": 0
+    },
+    "R2 / conference-chapter": {
+      "members": [
+        "E-4029"
+      ],
+      "selected_first": "E-4029",
+      "nonselected_count": 0
+    },
+    "R2 / conference-paper": {
+      "members": [
+        "E-4036",
+        "E-4043",
+        "E-4045"
+      ],
+      "selected_first": "E-4036",
+      "nonselected_count": 2
+    },
+    "R2 / internal-report": {
+      "members": [
+        "E-4047"
+      ],
+      "selected_first": "E-4047",
+      "nonselected_count": 0
+    },
+    "R2 / native-thesis": {
+      "members": [
+        "E-4025"
+      ],
+      "selected_first": "E-4025",
+      "nonselected_count": 0
+    },
+    "R2 / technical-book": {
+      "members": [
+        "E-4028"
+      ],
+      "selected_first": "E-4028",
+      "nonselected_count": 0
+    },
+    "R2 / technical-report": {
+      "members": [
+        "E-4030"
+      ],
+      "selected_first": "E-4030",
+      "nonselected_count": 0
+    },
+    "R2 / thesis": {
+      "members": [
+        "E-4034",
+        "E-4038",
+        "E-4041",
+        "E-4046"
+      ],
+      "selected_first": "E-4034",
+      "nonselected_count": 3
+    },
+    "R3 / conference-chapter": {
+      "members": [
+        "E-4054"
+      ],
+      "selected_first": "E-4054",
+      "nonselected_count": 0
+    },
+    "R3 / conference-paper": {
+      "members": [
+        "E-4084",
+        "E-4095"
+      ],
+      "selected_first": "E-4084",
+      "nonselected_count": 1
+    },
+    "R3 / journal-paper": {
+      "members": [
+        "E-4051",
+        "E-4058",
+        "E-4077",
+        "E-4085",
+        "E-4086",
+        "E-4094",
+        "E-4096"
+      ],
+      "selected_first": "E-4051",
+      "nonselected_count": 6
+    },
+    "R3 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "selected_first": "E-4074",
+      "nonselected_count": 0
+    },
+    "R3 / preprint": {
+      "members": [
+        "E-4098"
+      ],
+      "selected_first": "E-4098",
+      "nonselected_count": 0
+    },
+    "R3 / survey": {
+      "members": [
+        "E-4050"
+      ],
+      "selected_first": "E-4050",
+      "nonselected_count": 0
+    },
+    "R3 / technical-book": {
+      "members": [
+        "E-4061",
+        "E-4066",
+        "E-4071"
+      ],
+      "selected_first": "E-4061",
+      "nonselected_count": 2
+    },
+    "R3 / thesis": {
+      "members": [
+        "E-4034",
+        "E-4041",
+        "E-4063",
+        "E-4081",
+        "E-4082"
+      ],
+      "selected_first": "E-4034",
+      "nonselected_count": 4
+    },
+    "R3 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "selected_first": "E-4053",
+      "nonselected_count": 0
+    },
+    "R6 / conference-chapter": {
+      "members": [
+        "E-4029",
+        "E-4062",
+        "E-4078"
+      ],
+      "selected_first": "E-4029",
+      "nonselected_count": 2
+    },
+    "R6 / conference-paper": {
+      "members": [
+        "E-4069",
+        "E-4072",
+        "E-4084",
+        "E-4088",
+        "E-4093",
+        "E-4095",
+        "E-4099"
+      ],
+      "selected_first": "E-4069",
+      "nonselected_count": 6
+    },
+    "R6 / journal-paper": {
+      "members": [
+        "E-4052",
+        "E-4056",
+        "E-4058",
+        "E-4068",
+        "E-4073",
+        "E-4080",
+        "E-4085",
+        "E-4087",
+        "E-4090",
+        "E-4092",
+        "E-4094",
+        "E-4096"
+      ],
+      "selected_first": "E-4052",
+      "nonselected_count": 11
+    },
+    "R6 / manuscript": {
+      "members": [
+        "E-4057",
+        "E-4070"
+      ],
+      "selected_first": "E-4057",
+      "nonselected_count": 1
+    },
+    "R6 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "selected_first": "E-4074",
+      "nonselected_count": 0
+    },
+    "R6 / preprint": {
+      "members": [
+        "E-4098"
+      ],
+      "selected_first": "E-4098",
+      "nonselected_count": 0
+    },
+    "R6 / survey": {
+      "members": [
+        "E-4050"
+      ],
+      "selected_first": "E-4050",
+      "nonselected_count": 0
+    },
+    "R6 / technical-book": {
+      "members": [
+        "E-4066"
+      ],
+      "selected_first": "E-4066",
+      "nonselected_count": 0
+    },
+    "R6 / technical-book-chapter": {
+      "members": [
+        "E-4083"
+      ],
+      "selected_first": "E-4083",
+      "nonselected_count": 0
+    },
+    "R6 / thesis": {
+      "members": [
+        "E-4059",
+        "E-4060",
+        "E-4076",
+        "E-4082"
+      ],
+      "selected_first": "E-4059",
+      "nonselected_count": 3
+    },
+    "R6 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "selected_first": "E-4053",
+      "nonselected_count": 0
+    }
+  },
+  "base_selected_source_ids": [
+    "E-0825",
+    "E-0826",
+    "E-0827",
+    "E-0828",
+    "E-0829",
+    "E-0830",
+    "E-0831",
+    "E-0832",
+    "E-0833",
+    "E-0834",
+    "E-0835",
+    "E-0836",
+    "E-0837",
+    "E-0839",
+    "E-0840",
+    "E-0841",
+    "E-0842",
+    "E-0843",
+    "E-0844",
+    "E-0846",
+    "E-0847",
+    "E-0848",
+    "E-0849",
+    "E-0850",
+    "E-0851",
+    "E-0852",
+    "E-0853",
+    "E-0854",
+    "E-0855",
+    "E-0857",
+    "E-0859",
+    "E-0861",
+    "E-0862",
+    "E-0863",
+    "E-0864",
+    "E-0865",
+    "E-0866",
+    "E-0867",
+    "E-0869",
+    "E-0872",
+    "E-0874",
+    "E-0875",
+    "E-0879",
+    "E-0883",
+    "E-0884",
+    "E-0889",
+    "E-0897",
+    "E-0898"
+  ],
+  "finite_pattern_expansion": {
+    "reason": "Primary found occurrence-dependent X3 (E-0846), inconsistent intrinsic-profiler treatment (E-0843), broad performance labels promoted to R1 and tool comparison promoted to R5. Six rationale-field repairs do not settle semantic validity. Shared producer extraction patterns occur across the entire assigned 75, so freeze expansion to all 75 before rereading.",
+    "expanded_source_ids": [
+      "E-0838",
+      "E-0845",
+      "E-0856",
+      "E-0858",
+      "E-0860",
+      "E-0868",
+      "E-0870",
+      "E-0871",
+      "E-0873",
+      "E-0876",
+      "E-0877",
+      "E-0878",
+      "E-0880",
+      "E-0881",
+      "E-0882",
+      "E-0885",
+      "E-0886",
+      "E-0887",
+      "E-0888",
+      "E-0890",
+      "E-0891",
+      "E-0892",
+      "E-0893",
+      "E-0894",
+      "E-0895",
+      "E-0896",
+      "E-0899"
+    ],
+    "bounded_to": [
+      "E-0825",
+      "E-0826",
+      "E-0827",
+      "E-0828",
+      "E-0829",
+      "E-0830",
+      "E-0831",
+      "E-0832",
+      "E-0833",
+      "E-0834",
+      "E-0835",
+      "E-0836",
+      "E-0837",
+      "E-0838",
+      "E-0839",
+      "E-0840",
+      "E-0841",
+      "E-0842",
+      "E-0843",
+      "E-0844",
+      "E-0845",
+      "E-0846",
+      "E-0847",
+      "E-0848",
+      "E-0849",
+      "E-0850",
+      "E-0851",
+      "E-0852",
+      "E-0853",
+      "E-0854",
+      "E-0855",
+      "E-0856",
+      "E-0857",
+      "E-0858",
+      "E-0859",
+      "E-0860",
+      "E-0861",
+      "E-0862",
+      "E-0863",
+      "E-0864",
+      "E-0865",
+      "E-0866",
+      "E-0867",
+      "E-0868",
+      "E-0869",
+      "E-0870",
+      "E-0871",
+      "E-0872",
+      "E-0873",
+      "E-0874",
+      "E-0875",
+      "E-0876",
+      "E-0877",
+      "E-0878",
+      "E-0879",
+      "E-0880",
+      "E-0881",
+      "E-0882",
+      "E-0883",
+      "E-0884",
+      "E-0885",
+      "E-0886",
+      "E-0887",
+      "E-0888",
+      "E-0889",
+      "E-0890",
+      "E-0891",
+      "E-0892",
+      "E-0893",
+      "E-0894",
+      "E-0895",
+      "E-0896",
+      "E-0897",
+      "E-0898",
+      "E-0899"
+    ]
+  },
+  "selected_source_ids": [
+    "E-0825",
+    "E-0826",
+    "E-0827",
+    "E-0828",
+    "E-0829",
+    "E-0830",
+    "E-0831",
+    "E-0832",
+    "E-0833",
+    "E-0834",
+    "E-0835",
+    "E-0836",
+    "E-0837",
+    "E-0838",
+    "E-0839",
+    "E-0840",
+    "E-0841",
+    "E-0842",
+    "E-0843",
+    "E-0844",
+    "E-0845",
+    "E-0846",
+    "E-0847",
+    "E-0848",
+    "E-0849",
+    "E-0850",
+    "E-0851",
+    "E-0852",
+    "E-0853",
+    "E-0854",
+    "E-0855",
+    "E-0856",
+    "E-0857",
+    "E-0858",
+    "E-0859",
+    "E-0860",
+    "E-0861",
+    "E-0862",
+    "E-0863",
+    "E-0864",
+    "E-0865",
+    "E-0866",
+    "E-0867",
+    "E-0868",
+    "E-0869",
+    "E-0870",
+    "E-0871",
+    "E-0872",
+    "E-0873",
+    "E-0874",
+    "E-0875",
+    "E-0876",
+    "E-0877",
+    "E-0878",
+    "E-0879",
+    "E-0880",
+    "E-0881",
+    "E-0882",
+    "E-0883",
+    "E-0884",
+    "E-0885",
+    "E-0886",
+    "E-0887",
+    "E-0888",
+    "E-0889",
+    "E-0890",
+    "E-0891",
+    "E-0892",
+    "E-0893",
+    "E-0894",
+    "E-0895",
+    "E-0896",
+    "E-0897",
+    "E-0898",
+    "E-0899"
+  ],
+  "selected_count": 75,
+  "secondary_actually_read_at_freeze": 0,
+  "review_type": "Sol AI separate-pass source-content audit; not independent human review",
+  "network_fulltext_citations": "NOT RUN"
+}

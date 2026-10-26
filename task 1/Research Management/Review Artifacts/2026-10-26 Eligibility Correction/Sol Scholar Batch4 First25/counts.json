@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-10-26T06:38:07.825518+00:00",
+  "count_basis": "occurrences, not unique works",
+  "frozen_targets": 25,
+  "primary_original_export_checks_completed": 25,
+  "original_export_missing": 0,
+  "effective_dispositions": {
+    "ADVANCE": 25
+  },
+  "ADVANCE": 25,
+  "PENDING": 0,
+  "X3": 0,
+  "producer_disposition_changes": 0,
+  "six_question_judgments": 150,
+  "positive_explicit_R_counts": {
+    "R4": 21,
+    "R5": 25
+  },
+  "groups_frozen": 18,
+  "groups_secondary_checked": 18,
+  "group_sample_distinct_occurrences_frozen": 9,
+  "group_sample_distinct_occurrences_checked": 9,
+  "finite_expansion_frozen": 7,
+  "finite_expansion_checked": 7,
+  "secondary_distinct_occurrences_checked": 16,
+  "secondary_result_counts": {
+    "checked-no-discrepancy": 16
+  },
+  "primary_only_occurrences_without_secondary_reread": [
+    "E-0702",
+    "E-0703",
+    "E-0706",
+    "E-0707",
+    "E-0710",
+    "E-0712",
+    "E-0721",
+    "E-0722",
+    "E-0723"
+  ],
+  "proposed_exclusions": 0,
+  "exclusion_QA": "not applicable: no proposed exclusions",
+  "fulltext_pass": "NOT RUN",
+  "citation_pass": "NOT RUN",
+  "claim_support": "UNASSESSED",
+  "methodological_confidence": "UNASSESSED",
+  "identity_date_language_type": "unverified/pending for all 25; metadata proxies are not validation",
+  "other_frozen_batch4_targets_unreviewed_by_this_task": 75,
+  "independent_human_review": "NOT DONE",
+  "shared_aggregate_or_gate_changes": "NONE"
+}

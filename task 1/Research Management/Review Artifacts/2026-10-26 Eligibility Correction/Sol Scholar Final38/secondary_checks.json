@@ -1,0 +1,352 @@
+{
+  "reviewer": "Sol AI self-audit, not independent human scientific review",
+  "recorded_at_utc": "2026-10-26T07:05:37.876637+00:00",
+  "secondary_freeze_sha256": "e5ce8e882bd40d00c2f6ed08dda2b957406da728cab0c94221e89b76897226b9",
+  "reread_sha256": "b73af8dcf82e1623217d378162857e7eeaede73f2e3e088fde7323b674821288",
+  "items": [
+    {
+      "target_E_ID": "E-1000",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3: significant antecedent correlations still concern marketing outcomes; no repeated-measure estimator or agreement mechanism is recoverable."
+    },
+    {
+      "target_E_ID": "E-1001",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation."
+    },
+    {
+      "target_E_ID": "E-1002",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: distributed-cache evaluation and worst-case consistency support state/fixture leads, not confidence intervals on repeated timing."
+    },
+    {
+      "target_E_ID": "E-1003",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: ad hoc measurement in service-quality venue does not resolve business versus technical metric construct; no positive R1 established."
+    },
+    {
+      "target_E_ID": "E-1004",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: telepresence/navigation is a prior-human subject, but exact workload/task transfer remains absent; not excluded for human collection."
+    },
+    {
+      "target_E_ID": "E-1005",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3: institutional repository ranking/visibility has no explicit technical workload or statistical measurement method."
+    },
+    {
+      "target_E_ID": "E-1006",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: W3C performance specifications are mentioned but topic-frequency uncertainty is not browser-repeat uncertainty or normative metric semantics."
+    },
+    {
+      "target_E_ID": "E-1007",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: Pylot system-wide testing remains an unresolved tool-use lead, not a reason to infer browser evidence or discard on land-use keywords."
+    },
+    {
+      "target_E_ID": "E-1008",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3 after methodological challenge: digitization error and three mechanical models disclose no transferable capture intervention, repeated-run estimator or agreement method; physical domain alone is not the reason."
+    },
+    {
+      "target_E_ID": "E-1009",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: explicitly different hardware/platforms bound speed generalization, with metric and browser identity unresolved."
+    },
+    {
+      "target_E_ID": "E-1010",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending separately: same displayed standards topic record does not resolve technical design relevance or authorize an identity merge."
+    },
+    {
+      "target_E_ID": "E-1011",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance separately: transport intervention remains relevant to condition/workload transfer, not matched-tool conformance."
+    },
+    {
+      "target_E_ID": "E-1012",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: volume-level data-mining fragments leave an identifiable original method/chapter unresolved; book proxy is not an exclusion criterion."
+    },
+    {
+      "target_E_ID": "E-1013",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: radio detector noise/correlation could constrain observability assumptions; web-performance wording is biographical, so no direct browser relevance is assigned."
+    },
+    {
+      "target_E_ID": "E-1014",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: tail significance and sample-size passage provide explicit statistical design lead beyond the word experiment; thousands is not an adopted browser run count."
+    },
+    {
+      "target_E_ID": "E-1015",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance separately: caching fixture/consistency lead persists, but cache consistency does not mean reference-tool agreement."
+    },
+    {
+      "target_E_ID": "E-1016",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: evolving Markov workload assumptions can bound resource/workload generalization; future uncertainty is not automatically repeated-mean uncertainty."
+    },
+    {
+      "target_E_ID": "E-1017",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain broadened advance: settled first view, AOP runtime capture, means/run exclusions and framework identity explicitly support R1/R2/R4/R6 leads; no full-text or publication-date verification."
+    },
+    {
+      "target_E_ID": "E-1018",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: cache state/end-user latency supports context transfer; rough-set granularity is not sampling error."
+    },
+    {
+      "target_E_ID": "E-1019",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: technical accessibility/traffic association still lacks a specific technical performance construct and workload-selection bridge."
+    },
+    {
+      "target_E_ID": "E-1020",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3: uncertainty in marketing traffic rankings is not a specified repeated-performance or agreement procedure; no Alexa-specific sampling method disclosed."
+    },
+    {
+      "target_E_ID": "E-1021",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: explicitly interacting online experiments support interference/design lead, not generic experiment-to-R4 or comparison-to-R5 mapping."
+    },
+    {
+      "target_E_ID": "E-1022",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: session duration and conversion association do not identify a browser performance metric; possible construct contrast remains unresolved."
+    },
+    {
+      "target_E_ID": "E-1023",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain uncertain advance: explicit technical optimization/automation may be applied closest work; logistical uncertainty and general benefits add no R4 evidence."
+    },
+    {
+      "target_E_ID": "E-1024",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: older-adult impairment and eye/search behavior explicitly bound user-task coverage; not browser-timing equivalence or new human-study authorization."
+    },
+    {
+      "target_E_ID": "E-1025",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: server-workload Markov prediction is concrete temporal workload context; fuzzy attribute uncertainty is not repeated measurement precision."
+    },
+    {
+      "target_E_ID": "E-1026",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain occurrence-level X3 with contamination warning: paleontology title/venue and disconnected web fragments yield no attributable technical contribution; no underlying web-source identity adjudicated."
+    },
+    {
+      "target_E_ID": "E-1027",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: deaf users/textual navigation/practice identify task-population coverage; Pearson language-score correlations are not tool agreement."
+    },
+    {
+      "target_E_ID": "E-1028",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: security-index title does not erase explicit Lighthouse/W3C evaluation lead, but truncated reference does not establish substantive capture/metric contribution."
+    },
+    {
+      "target_E_ID": "E-1029",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: database consolidation negatively affecting web performance is a possible workload intervention; reporting statistics alone are not R4."
+    },
+    {
+      "target_E_ID": "E-1030",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: explicit lagged model and short/long-term response are a temporal-method candidate, but originality/estimand assumptions for browser measurements remain unshown."
+    },
+    {
+      "target_E_ID": "E-1031",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: query generation/web-performance fragment may concern actual system workload; demand uncertainty is not measurement uncertainty."
+    },
+    {
+      "target_E_ID": "E-1032",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain pending: self-healing observation/solution-overlap role unresolved; Pearson/Kendall method comparison cannot supply R5 agreement or R4 precision."
+    },
+    {
+      "target_E_ID": "E-1033",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: trim(10%) and uncertainty passage identify explicit estimator/tail-handling lead, requiring checks on estimand shift and dependence; no R5 from two methods."
+    },
+    {
+      "target_E_ID": "E-1034",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3: stakeholders and institutional web rankings target visibility/knowledge sharing, not technical performance; no transferable measurement method identified."
+    },
+    {
+      "target_E_ID": "E-1035",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance after exclusion challenge: CI for p(i) versus uncertainty in values/structure is a specific inferential distinction; assumptions and source originality remain unverified."
+    },
+    {
+      "target_E_ID": "E-1036",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": true,
+      "Sol_X3": true,
+      "result": "retain primary with stated limitations",
+      "note": "Retain X3: export-marketing construct and apparent thanks for statistical help supply no actual transferable method; thesis format is not the exclusion basis."
+    },
+    {
+      "target_E_ID": "E-1037",
+      "secondary_actual_original_reread": true,
+      "R1_R6_rechallenged": true,
+      "producer_X3": false,
+      "Sol_X3": false,
+      "result": "retain primary with stated limitations",
+      "note": "Retain advance: request complexity, resource volume and hardware are explicit workload/fixture factors; efficiency/uncertainty constructs are not browser timing or sampling precision."
+    }
+  ],
+  "completed": 38,
+  "unreviewed": 0
+}

@@ -1,0 +1,98 @@
+{
+  "freeze_id": "Luna-Scholar-Batch7-Final38-secondary-QA-freeze-final-2026-10-26",
+  "supersedes": "initial QA scope was prospectively frozen and read; primary classifications were then conservatively revised for three previously excluded occurrences. This final freeze supersedes it and the complete final frozen set was reread afterward.",
+  "frozen_before_final_secondary_original_export_reread": true,
+  "primary_judgments_sha256": "3cc0390711266a4e8692e89abd658a1bc2c7afe88c7fae74afdf2dd6470c0a9e",
+  "proposed_X3_EIDs": [
+    "E-1000",
+    "E-1005",
+    "E-1007",
+    "E-1008",
+    "E-1012",
+    "E-1013",
+    "E-1020",
+    "E-1026",
+    "E-1028",
+    "E-1029",
+    "E-1030",
+    "E-1031",
+    "E-1032",
+    "E-1034",
+    "E-1035",
+    "E-1036"
+  ],
+  "positive_R_groups": {
+    "R2": [
+      "E-1001",
+      "E-1011",
+      "E-1017"
+    ],
+    "R3": [
+      "E-1001",
+      "E-1002",
+      "E-1004",
+      "E-1009",
+      "E-1011",
+      "E-1015",
+      "E-1016",
+      "E-1018",
+      "E-1019",
+      "E-1023",
+      "E-1024",
+      "E-1025",
+      "E-1027",
+      "E-1037"
+    ],
+    "R1": [
+      "E-1003",
+      "E-1022",
+      "E-1037"
+    ],
+    "R6": [
+      "E-1006",
+      "E-1010",
+      "E-1014",
+      "E-1021"
+    ],
+    "R4": [
+      "E-1033"
+    ]
+  },
+  "first_EID_selected_per_actual_positive_R_group": {
+    "R2": "E-1001",
+    "R3": "E-1001",
+    "R1": "E-1003",
+    "R6": "E-1006",
+    "R4": "E-1033"
+  },
+  "type_proxy_groups": "None: source types unverified; no type group invented.",
+  "selected_original_export_reread_EIDs": [
+    "E-1001",
+    "E-1003",
+    "E-1006",
+    "E-1033"
+  ],
+  "all_frozen_originals_reread_EIDs": [
+    "E-1000",
+    "E-1001",
+    "E-1003",
+    "E-1005",
+    "E-1006",
+    "E-1007",
+    "E-1008",
+    "E-1012",
+    "E-1013",
+    "E-1020",
+    "E-1026",
+    "E-1028",
+    "E-1029",
+    "E-1030",
+    "E-1031",
+    "E-1032",
+    "E-1033",
+    "E-1034",
+    "E-1035",
+    "E-1036"
+  ],
+  "date": "2026-10-26"
+}

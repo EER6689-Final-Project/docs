@@ -1,0 +1,155 @@
+{
+  "reviewed_at_local": "2026-10-26T12:28:34+05:30",
+  "sample_manifest": "secondary-QC-sample-freeze.json",
+  "checker": "Luna (same AI reviewer separate-pass self-audit; not independent human review)",
+  "planned_count": 24,
+  "actually_reread_count": 24,
+  "results": [
+    {
+      "source_E_ID": "E-0800",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Concurrent multiresponse non-linear screening: Robust profiling of webpage performance. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0801",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Personalized accessibility based Re-ranking of Search Engine Results (PARSER). Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0802",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: API deprecation: a retrospective analysis and detection method for code examples on the web. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0803",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [B] CLOS, Eiffel, and Sather: A comparison. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0804",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] Nothing to see here!. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0805",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Combating architectural degeneration: a survey. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0806",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Pro internet explorer 8& 9 development. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0807",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Refusals That Reveal: Server-Enforced Teen Contact Policies and Their Age-Inference Side Channels in a Production Social Platform. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0808",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Websphere studio overview. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0809",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Model-driven testing for web applications using abstract state machines. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0810",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: PION: Human mobility-based service provisioning framework for smartphone users. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0811",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Analyzing repositories of OER using web analytics and accessibility tools. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0812",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] of the thesis: An HTML5 Conformance Checker. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0813",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] Language standardization needs grammarware. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0814",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] Towards Conformance in ODRL 3.0.. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0815",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: ProtoSYCL: A Sample Implementation of a SYCL Compiler for Conformance Test Suite Development. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0816",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Peer-to-peer Monte Carlo simulation of photon migration in topical applications of biomedical optics. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0817",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] Personal DECstation Series Technical Overview. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0818",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] DECstation 5000 Model 240 Workstation Technical Overview. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0819",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Using peer-to-peer network for on-line Monte Carlo computation of fluence rate distribution. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0820",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Faster explicit-trace monitoring-oriented programming for runtime verification of software tests. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0821",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: A comparative evaluation of dynamic visualisation tools. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0822",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: Test-Driven MySQL Development. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    },
+    {
+      "source_E_ID": "E-0824",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "original retained queue title + complete Scholar snippet + metadata; no network/full-text retrieval",
+      "review_note": "Re-read: [PDF] Development of a graphical user interface for InterMineR and Cytoscape to. Stored snippet/metadata still support the recorded stage-1 rationale; no new R1–R6 connection is evident for this X3/selected positive-group item. No eligibility beyond stage 1 is inferred."
+    }
+  ],
+  "discrepancies": 0,
+  "scope": "stored exports only; no online full texts/network; no full-text citations or claim support assessment"
+}

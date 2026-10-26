@@ -1,0 +1,60 @@
+{
+  "phase": "pattern",
+  "emitted_at_utc": "2026-10-26T07:20:17.505908+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0361",
+      "event": "E-3551",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Rigorous benchmarking in reasonable time",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Experimental evaluation is key to systems research. Because modern systems are complex and non-deterministic, good experimental methodology demands that researchers account for uncertainty. To obtain valid results, they are expected to run many iterations of benchmarks, invoke virtual machines (VMs) several times, or even rebuild VM or benchmark binaries more than once. All this repetition costs time to complete experiments. Currently, many evaluations give up on sufficient repetition or rigorous statistical methods, or even run benchmarks only in training sizes. The results reported often lack proper variation estimates and, when a small difference between two systems is reported, some are simply unreliable.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-06-20",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/2464157.2464160",
+        "platform_record_id": "https://openalex.org/W2013901208",
+        "record_url": "https://openalex.org/W2013901208",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/2464157.2464160\", \"publication_year\": 2013, \"publication_date\": \"2013-06-20\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Tomáš Kalibera\", \"Richard Jones\"], \"venue\": \"International Symposium on Memory Management\", \"openalex_id\": \"https://openalex.org/W2013901208\", \"landing_page_url\": \"https://doi.org/10.1145/2464157.2464160\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "12",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "c5894e5a3a196e499b2337f4486e549ca5fd90fdf98cd2f558286633a5971180"
+    },
+    {
+      "target": "E-0458",
+      "event": "E-3612",
+      "affected": [
+        "R1",
+        "R4"
+      ],
+      "previous_RIDs": "R1;R3;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Web Page Design and Download Time.",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Many factors contribute to Web site performance, most of which are at least partially outside the control of the site designer. Web page download times depend on page design, on Web server and client hardware and software configurations, and on the performance characteristics of the Internet route connecting a client to the site [Neil2000]. Of these, only page design is truly under the site designer’s control. However, if we assume a user with a high-speed connection and a site whose servers are not overloaded — as is typical of a business to business (“B2B”) interaction — then only two significant factors remain: site design and Internet latency between the client and the server [Sper1995] [Heid1997] [Touc1998]. In this paper we analyze measurement data based on test pages to explore various relationships between Web page design and page download time. Concentrating on information about the page and measures of Internet round trip time, we develop several specialized formulae to predict typical page download times in a B2B environment. After some introductory discussion of Web download components and experimental setup, the first part of this paper identifies packet count, rather than page size, as the crucial predictor of download time. We indicate how to calculate packet count in the absence of packet sniffer software. Next, we explore page download time as a function of page size, in a single-threaded environment. Here we build two different linear models to understand the bulk of page download for simple test pages (“Experiment A”). Then, we investigate how multi-threading improves performance for more complex pages. It is particularly challenging to build accurate models for multi-threaded behavior since the distribution of download activity among threads can be altered substantially by a single Web page element that loads unusually slowly. A more complicated model is built and discussed for pages with one to 64 embedded images (“Experiment B”). Since Internet performance varies erratically over time even for a fixed client-server pair, we discuss tradeoffs that can be made in modeling performance based on all available measurements vs. a more well-behaved subset containing approximately 90% of available measurements. We find that these experimental results represent and explain the basic mechanisms that regulate many of the performance characteristics observed while working with the extensive set of measurements collected annually by the author’s company.",
+      "metadata": {
+        "publication_year": "2001",
+        "publication_date": "2001-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W5290310",
+        "record_url": "https://openalex.org/W5290310",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2001, \"publication_date\": \"2001-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Jing Zhi\"], \"venue\": \"Int. CMG Conference\", \"openalex_id\": \"https://openalex.org/W5290310\", \"landing_page_url\": \"https://dblp.uni-trier.de/db/conf/cmg/cmg2001.html#Zhi01\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "beb4e2cb8551efa0bf0f5c540a96bc060037a57fa97333dbf9cebd887020bb82"
+    }
+  ]
+}

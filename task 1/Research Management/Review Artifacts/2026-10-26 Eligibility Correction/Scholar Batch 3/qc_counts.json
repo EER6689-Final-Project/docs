@@ -1,0 +1,18 @@
+{
+  "target_count": 100,
+  "reviewed_count": 100,
+  "counts": {
+    "ADVANCE": 59,
+    "EXCLUDE": 31,
+    "DUP": 10
+  },
+  "stage1_unique_advances": 59,
+  "stage1_X3_exclusions": 31,
+  "duplicate_occurrences": 10,
+  "source_title_snippet_metadata_alignment_checks": 100,
+  "mismatches": [],
+  "date_language_source_type_identity": "unverified; no X2 or X1 applied on year-only discovery data",
+  "fulltext_citations_claim_support_confidence": "not run/unassessed",
+  "new_SIDs": 0,
+  "novelty_or_gate_changes": 0
+}

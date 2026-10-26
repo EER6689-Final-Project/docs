@@ -1,0 +1,322 @@
+{
+  "phase": "secondary",
+  "emitted_at_utc": "2026-10-26T07:16:40.386533+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0271",
+      "event": "E-3514",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Measuring and Defeating Anti-Instrumentation-Equipped Malware",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2017",
+        "publication_date": "2017-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-319-60876-1_4",
+        "platform_record_id": "https://openalex.org/W2620946705",
+        "record_url": "https://openalex.org/W2620946705",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-319-60876-1_4\", \"publication_year\": 2017, \"publication_date\": \"2017-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Mario Polino\", \"Andrea Continella\", \"Sebastiano Mariani\", \"Stefano D’Alessio\", \"Lorenzo Fontana\", \"Fabio Gritti\", \"Stefano Zanero\"], \"venue\": \"Lecture notes in computer science\", \"openalex_id\": \"https://openalex.org/W2620946705\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-319-60876-1_4\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "22",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9e6fba0c131a1bb6b95f40f9889e58cbdeec7762c86ab74bf5a2cbcd6129442b"
+    },
+    {
+      "target": "E-0277",
+      "event": "E-3517",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R2",
+      "previous_status": "ADVANCE",
+      "title": "Micro-architectural side channels: Studying the attack surface from hardware to browsers",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Hardware is often represented as an abstract layer that behaves correctly, executes instructions and produces a result. However, side effects due to the execution of computations on actual computers can lead to information leakage. Fault attacks also threaten security, by generating errors in the physical system and thus bypassing security mechanisms. Typically, information leakage from side-channel attacks includes power consumption or electromagnetic emissions, and fault attacks include altering the system's power supply or clock. All of these attacks require physical access to the device. In contrast, my research activities since October 2015 have focused on side-channel and fault attacks that do not require physical access, and instead use the micro-architecture components of the processors. These attacks are software-based, and, therefore, remotely executable. The main research challenge in micro-architectural attacks is to build secure systems and hardware that are immune to these vulnerabilities. In this manuscript, I give a partial view of my contributions in this domain, focusing on the attack surface, one of the main issues we face. In the first part, we cover the hardware attack surface, i.e., the discovery of new side channels in unsuspected micro-architectural components. In the second part, we focus on a particular delivery method for side-channel attacks: web browsers.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-05-24",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W4392497378",
+        "record_url": "https://openalex.org/W4392497378",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2023, \"publication_date\": \"2023-05-24\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Clémentine Maurice\"], \"venue\": \"HAL\", \"openalex_id\": \"https://openalex.org/W4392497378\", \"landing_page_url\": \"https://inria.hal.science/tel-04180074\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "ff20c259fb914f2b551a40d6fd4462201cba36bac9f5d32f39f989482313019e"
+    },
+    {
+      "target": "E-0278",
+      "event": "E-3518",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "ShadowBlock: A Lightweight and Stealthy Adblocking Browser",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "As the popularity of adblocking has soared over the last few years, publishers are increasingly deploying anti-adblocking paywalls that ask users to either disable their adblockers or pay to access content. In this work we propose ShadowBlock, a new Chromium-based adblocking browser that can hide traces of adblocking activities from anti-adblockers as it removes ads from web pages. To bypass anti-adblocking paywalls, ShadowBlock takes advantage of existing filter lists used by adblockers and hides all ad elements stealthily in such a way that anti-adblocking scripts cannot detect any tampering of the ads (e.g., absence of ad elements). Specifically, ShadowBlock introduces lightweight hooks in Chromium to ensure that DOM states queried by anti-adblocking scripts are exactly as if adblocking is not employed. We implement a fully working prototype by modifying Chromium which shows great promise in terms of adblocking effectiveness and anti-adblocking circumvention but also more efficient than the state-of-the-art adblocking browser extensions. Our evaluation on Alexa top-1K websites shows that ShadowBlock successfully blocks 98.3% of all visible ads while only causing minor breakage on less than 0.6% of the websites. Most importantly, ShadowBlock is able to bypass anti-adblocking paywalls on more than 200 websites that deploy visible anti-adblocking paywalls with a 100% success rate. Our performance evaluation further shows that ShadowBlock loads pages as fast as the state-of-the-art adblocking browser extension on average.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-05-13",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3308558.3313558",
+        "platform_record_id": "https://openalex.org/W2911989315",
+        "record_url": "https://openalex.org/W2911989315",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3308558.3313558\", \"publication_year\": 2019, \"publication_date\": \"2019-05-13\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Shitong Zhu\", \"Umar Iqbal\", \"Zhongjie Wang\", \"Zhiyun Qian\", \"Zubair Shafiq\", \"Weiteng Chen\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2911989315\", \"landing_page_url\": \"https://doi.org/10.1145/3308558.3313558\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "cc60ff5ab6d0a674ffdcb74b9941d2e427cdd80d597077f74e9834de835a6f85"
+    },
+    {
+      "target": "E-0283",
+      "event": "E-3520",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "PENDING",
+      "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Large Language Model (LLM) based agents integrated into web browsers (often called agentic AI browsers) offer powerful automation of web tasks. However, they are vulnerable to indirect prompt injection attacks, where malicious instructions hidden in a webpage deceive the agent into unwanted actions. These attacks can bypass traditional web security boundaries, as the AI agent operates with the user privileges across sites. In this paper, we present a novel fuzzing framework that runs entirely in the browser and is guided by an LLM to automatically discover such prompt injection vulnerabilities in real time.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-10-15",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2510.13543",
+        "platform_record_id": "https://openalex.org/W4415276507",
+        "record_url": "https://openalex.org/W4415276507",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2510.13543\", \"publication_year\": 2025, \"publication_date\": \"2025-10-15\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Cohen, Avihay\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4415276507\", \"landing_page_url\": \"http://arxiv.org/abs/2510.13543\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "34",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d36abe7cfc27e72565b5548af589327c91e31c4b1a5cb9d09551bdbcdb880217"
+    },
+    {
+      "target": "E-0285",
+      "event": "E-3522",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "Instrumentation Optimization for Practical Dynamic Race Detection",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Dynamic data race detectors are successful at flagging concurrency bugs, but their high runtime overhead limits adoption. This overhead stems primarily from pervasive instrumentation of memory accesses -- a significant fraction of which is for safe accesses. We address this inefficiency through a compiler-integrated approach that identifies safe accesses using static analysis and eliminates instrumentation for these. We strike a careful balance between analysis precision and cost, to ensure applicability to real-world applications. We show that our optimizations never cause ThreadSanitizer to miss races it would otherwise detect. We further observe that many checks are redundant: They only flag a race if a preceding check has already flagged an equivalent race for the same memory location. We show that, when reporting one representative per class is sufficient, even more instrumentation can be eliminated. Lastly, we introduce a dynamic technique that skips instrumentation when there is only one thread at runtime, even when this could not be determined statically. We integrate these static analyses and program transformations into the ThreadSanitizer race detector based on LLVM. Our experiments on a diverse suite of real-world applications, including Memcached, Redis, SQLite, MySQL, and Chromium, demonstrate that our optimizations reduce the number of instrumentation calls at runtime by up to 91% and yield application-level speedups of up to 1.91x, a geometric-mean Chromium speedup of 1.25x on Blink and 1.14x on Speedometer 3.0, and peak speedups reaching 2.28x on Memcached with two server threads. Our optimizations are in the process of being upstreamed into ThreadSanitizer.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-12-05",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2512.05555",
+        "platform_record_id": "https://openalex.org/W4417142959",
+        "record_url": "https://openalex.org/W4417142959",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2512.05555\", \"publication_year\": 2025, \"publication_date\": \"2025-12-05\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Alexey A. Paznikov\", \"Michael Schwarz\", \"Andrey Kogutenko\", \"Yaroslav Osipov\", \"Umang Mathur\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4417142959\", \"landing_page_url\": \"https://arxiv.org/abs/2512.05555\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "1b7c40ef1610730f14a734703c0a96c564ec2ab34d594bd980f106bbef5bdd19"
+    },
+    {
+      "target": "E-0287",
+      "event": "E-3524",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "WebAssembly-accelerated UMAP for browser environment",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Dimensionality reduction algorithms such as Uniform Manifold Approximation and Projection (UMAP) are widely used for visualizing high-dimensional data. In recent years, there has been increasing interest in performing such analysis directly in web browsers to enable interactive data exploration without server-side computation. However, implementing computationally intensive algorithms like UMAP in JavaScript is constrained by performance limitations, which often result in long execution times and reduced responsiveness for larger datasets. The objective of this thesis was to evaluate whether selectively accelerating performance-critical components of a browser-based UMAP implementation using Rust and WebAssembly can improve execution performance while preserving embedding quality and acceptable browser responsiveness. A WASM-accelerated variant of the JavaScript library umap-js was implemented, where key components such as nearest-neighbour search, distance calculations, and layout optimization were rewritten in Rust and compiled to WASM. A browser-based benchmarking framework was developed to compare the baseline JavaScript implementation with the accelerated version under controlled conditions. The results show that WASM acceleration can significantly reduce execution time, particularly when applied to the layout optimization phase of the UMAP algorithm. However, improvements in memory usage were inconsistent, and faster execution did not always translate into smoother interactive performance during computation. Embedding quality remained comparable to the JavaScript baseline across all tested configurations. Overall, the findings indicate that WASM is a practical approach for improving browser-based UMAP performance when applied selectively to computational bottlenecks, although it introduces additional implementation complexity and potential trade-offs in interactive responsiveness.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W7163303919",
+        "record_url": "https://openalex.org/W7163303919",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Elar Saks\"], \"venue\": \"Theseus (Ammattikorkeakoulujen)\", \"openalex_id\": \"https://openalex.org/W7163303919\", \"landing_page_url\": \"http://www.theseus.fi/handle/10024/923344\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "38",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d3986ed0dd5008c9c20309ea345545442306bb14071344ddd21b4e8cea889f70"
+    },
+    {
+      "target": "E-0288",
+      "event": "E-3525",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R3",
+      "previous_status": "ADVANCE",
+      "title": "Designing a Better Browser for Tor with BLAST",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Tor is an anonymity network that allows clients to browse web pages privately, but loading web pages with Tor is slow.To analyze how the browser loads web pages, we examine their resource trees using our new browser logging and simulation tool, BLAST.We find that the time it takes to load a web page with Tor is almost entirely determined by the number of round trips incurred, not its bandwidth, and Tor Browser incurs unnecessary round trips.Resources sit in the browser queue excessively waiting for the TCP and TLS handshakes, each of which takes a separate round trip.We show that increasing resource loading capacity with larger pipelines and even HTTP/2 do not decrease load time because they do not save round trips.We set out to minimize round trips with a number of protocol and browser improvements, including TCP Fast Open, optimistic data and 0-RTT TLS.We also recommend the use of databases to assist the client with redirection, identifying HTTP/2 servers, and prefetching.All of these features are designed to cut down on the number of round trips incurred in loading web pages.To evaluate these proposed improvements, we create a simulation tool and validate that it is highly accurate in predicting mean page load times.We use the simulator to analyze these features and it predicts that they will decrease the mean page load time by 61% over HTTP/2.Our large improvement to user experience comes at trivial cost to the Tor network.",
+      "metadata": {
+        "publication_year": "2020",
+        "publication_date": "2020-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.14722/ndss.2020.24199",
+        "platform_record_id": "https://openalex.org/W3006955189",
+        "record_url": "https://openalex.org/W3006955189",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.14722/ndss.2020.24199\", \"publication_year\": 2020, \"publication_date\": \"2020-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Tao Wang\"], \"venue\": \"Network and Distributed System Security Symposium\", \"openalex_id\": \"https://openalex.org/W3006955189\", \"landing_page_url\": \"https://doi.org/10.14722/ndss.2020.24199\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "39",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e495870e425b7b86f5ed94e21012fe226037bf04e8029861517f956a99e259e8"
+    },
+    {
+      "target": "E-0292",
+      "event": "E-3527",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R5;R6",
+      "previous_status": "PENDING",
+      "title": "Classroom Digital Twins with Instrumentation-Free Gaze Tracking",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Classroom sensing is an important and active area of research with great potential to improve instruction. Complementing professional observers – the current best practice – automated pedagogical professional development systems can attend every class and capture fine-grained details of all occupants. One particularly valuable facet to capture is class gaze behavior. For students, certain gaze patterns have been shown to correlate with interest in the material, while for instructors, student-centered gaze patterns have been shown to increase approachability and immediacy. Unfortunately, prior classroom gaze-sensing systems have limited accuracy and often require specialized external or worn sensors. In this work, we developed a new computer-vision-driven system that powers a 3D “digital twin” of the classroom and enables whole-class, 6DOF head gaze vector estimation without instrumenting any of the occupants. We describe our open source implementation, and results from both controlled studies and real-world classroom deployments.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-05-06",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3411764.3445711",
+        "platform_record_id": "https://openalex.org/W3159980834",
+        "record_url": "https://openalex.org/W3159980834",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3411764.3445711\", \"publication_year\": 2021, \"publication_date\": \"2021-05-06\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Karan Ahuja\", \"Deval Shah\", \"Sujeath Pareddy\", \"Françeska Xhakaj\", \"Amy Ogan\", \"Yuvraj Agarwal\", \"Chris Harrison\"], \"venue\": \"CHI Conference on Human Factors in Computing Systems\", \"openalex_id\": \"https://openalex.org/W3159980834\", \"landing_page_url\": \"https://doi.org/10.1145/3411764.3445711\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "43",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "66b76930c96bfed5c15677b5cad8a09bb791daf1fc442c5e342d925211db089d"
+    },
+    {
+      "target": "E-0294",
+      "event": "E-3529",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "PENDING",
+      "title": "Browser-Based Enforcement of Interface Contracts in Web Applications with BeepBeep",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2009",
+        "publication_date": "2009-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-642-02658-4_50",
+        "platform_record_id": "https://openalex.org/W1536000481",
+        "record_url": "https://openalex.org/W1536000481",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-642-02658-4_50\", \"publication_year\": 2009, \"publication_date\": \"2009-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Sylvain Hallé\", \"Roger Villemaire\"], \"venue\": \"Lecture notes in computer science\", \"openalex_id\": \"https://openalex.org/W1536000481\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-642-02658-4_50\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "45",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b97a9f5162b1de63da33c13cff3a52667f316f8a12482f333d80a2accfd230ce"
+    },
+    {
+      "target": "E-0308",
+      "event": "E-3532",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R3;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Assessing the Reliability of Large Language Models in Generating Synthetic and Representative Datasets for International Study Program Recommendations",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The rise of generative AI, particularly Large Language Models (LLMs), has revolutionized the tech industry, research, and society, sparking excitement about their potential to automate tedious tasks while also raising concerns over their reliability, ethical implications, and misuse. This study investigates the reliability of popular open and free LLMs, such as ChatGPT, Gemini, and DeepSeek, in generating accurate, well-supported datasets in the field of education. Our research is rooted in a project where a web application was developed to help students find suitable international study programs. The project required extensive data collection, including tuition fees, university rankings, healthcare costs, general cost of living, etc. The sheer difficulty of finding and accumulating that data, which was oftentimes poorly documented, prompted us to examine LLMs' performance in replicating these datasets. We evaluated their outputs by calculating the coefficient of determination between synthetic and fact-checked real data. Results demonstrate that LLMs can generate representative data, though occasional deviations raise questions about their limitations and the complexity of prompt engineering. This research sheds light on the practicality of LLMs in automating data-intensive tasks while highlighting their potential and limitations, offering valuable insights into the broader capabilities of generative AI.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-04-21",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/smagrimet66590.2025.11030048",
+        "platform_record_id": "https://openalex.org/W4411359576",
+        "record_url": "https://openalex.org/W4411359576",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/smagrimet66590.2025.11030048\", \"publication_year\": 2025, \"publication_date\": \"2025-04-21\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Rita Zonjić\", \"Luka Alfirević\", \"Karlo Bašić\", \"Ivan Džanija\", \"Mihaela Vranić\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W4411359576\", \"landing_page_url\": \"https://doi.org/10.1109/smagrimet66590.2025.11030048\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4b147a6ca7999450bba447e92ad0ee91ec5f7bb4bb76b76acc9b2df59e398e54"
+    },
+    {
+      "target": "E-0335",
+      "event": "E-3538",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R6",
+      "previous_status": "PENDING",
+      "title": "Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The rapid progress of generative artificial intelligence has led to a significant increase in manipulated multimedia content, including synthetic faces, forged videos, AI-generated images, fake audio, and locally edited images. Existing detection approaches are typically designed for a single manipulation type, limiting their applicability in real-world scenarios involving heterogeneous media sources. In this work, we present the Media Intelligence Platform (MIP), a unified web-based framework for multimodal media forensics integrating specialized modules for fake video detection, face morphing detection, AI-generated image detection, audio deepfake detection, localized image manipulation detection, and text analysis. Its modular architecture enables flexible integration of heterogeneous models and supports future extensions for emerging manipulation techniques. Experimental results on representative benchmark datasets demonstrate reliable detection performance across multiple media modalities while providing a practical and user-friendly interface for forensic investigations. The platform highlights the potential of unified multimodal systems for comprehensive deepfake detection in real-world environments, and is accompanied by a public demonstrator released with this workshop submission to support reproducibility and community evaluation.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-10-20",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2610.27974",
+        "platform_record_id": "https://openalex.org/W7223099805",
+        "record_url": "https://openalex.org/W7223099805",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2610.27974\", \"publication_year\": 2026, \"publication_date\": \"2026-10-20\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"David Fischinger\", \"Marcel Hasenbalg\", \"S. Poletti\", \"Davide Antonutti\", \"Mina Schütz\", \"Lam Dang Pham\", \"Justin Ilyes\", \"Péter Rjabcsenkó\", \"Simon Freitter\", \"Martin Boyer\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7223099805\", \"landing_page_url\": \"https://arxiv.org/abs/2610.27974\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "dcb24820669bf520a89db33f4f54311d511f8bdff16de38ddd3f6921d80ef115"
+    },
+    {
+      "target": "E-0345",
+      "event": "E-3541",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R3",
+      "previous_status": "ADVANCE",
+      "title": "A Service Provider's View of Web Site Performance.",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2001",
+        "publication_date": "2001-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W30965998",
+        "record_url": "https://openalex.org/W30965998",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2001, \"publication_date\": \"2001-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Chris L. Molloy\"], \"venue\": \"Int. CMG Conference\", \"openalex_id\": \"https://openalex.org/W30965998\", \"landing_page_url\": \"https://dblp.uni-trier.de/db/conf/cmg/cmg2001.html#Molloy01\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "46",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "f4cfff98683a51338e7a814b266533298d2026e81b4d16f5123e57bdb377278b"
+    }
+  ]
+}

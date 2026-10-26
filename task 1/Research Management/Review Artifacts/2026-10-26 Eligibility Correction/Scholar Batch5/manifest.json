@@ -1,0 +1,35 @@
+{
+  "created_at_local": "2026-10-26T12:28:41+05:30",
+  "scope": "E-0800\u2013E-0824 only; E-0825\u2013E-0899 remain unreviewed",
+  "source_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "results": {
+    "actual_itemwise_stage1": 25,
+    "ADVANCE": 2,
+    "X3": 23,
+    "PENDING": 0,
+    "secondary_self_audit_reread": 24,
+    "secondary_self_audit_discrepancies": 0,
+    "independent_human_review": false,
+    "fulltext_citation_pass": "NOT RUN",
+    "claim_support": "UNASSESSED",
+    "methodological_confidence": "UNASSESSED"
+  },
+  "files": {
+    "FIRST25-freeze.json": {
+      "bytes": 880,
+      "sha256": "1d8d149e731ff9361f860f360476b7b4f1b99b1e8b148a714728798d443c6d4d"
+    },
+    "FIRST25-overlay.csv": {
+      "bytes": 67128,
+      "sha256": "449f7b2e5f2c3f7be9aa4af81aafc2623ce398f04e08e8646408a611a62f7b70"
+    },
+    "secondary-QC-sample-freeze.json": {
+      "bytes": 1102,
+      "sha256": "0dca96eb67d7ce3cb823379beb4ccb2e3664d2a247ebdd69eb80105b25f82efc"
+    },
+    "secondary-QC-results.json": {
+      "bytes": 12621,
+      "sha256": "52bda351a8b23436bad7989b4db74e52cf8a899a5abe3fbed5645fe6b25520ae"
+    }
+  }
+}

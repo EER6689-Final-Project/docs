@@ -1,0 +1,43 @@
+{
+  "targets": 50,
+  "primary_original_reads": 50,
+  "explicit_R_judgments": 300,
+  "stage1": {
+    "ADVANCE": 41,
+    "PENDING": 8,
+    "X3": 1
+  },
+  "routing_changes_from_producer": 0,
+  "positive_R_membership_changes_occurrences": 30,
+  "positive_R_membership_changes_total": 38,
+  "producer_positive_R_counts": {
+    "R1": 4,
+    "R2": 3,
+    "R3": 38,
+    "R4": 29,
+    "R5": 0,
+    "R6": 46
+  },
+  "Sol_positive_or_possible_R_counts": {
+    "R1": 3,
+    "R2": 0,
+    "R3": 35,
+    "R4": 6,
+    "R5": 0,
+    "R6": 48
+  },
+  "minimum_selected_unique": 9,
+  "actual_secondary_original_rereads": 50,
+  "secondary_vs_Sol_primary_no_discrepancy": 50,
+  "secondary_vs_producer_mapping_corrected": 30,
+  "unreviewed_assigned_targets": 0,
+  "identity_pending_routes": 8,
+  "DUP_merges_or_adjudications": 0,
+  "new_SID_allocations": 0,
+  "effective_event_first": "E-3825",
+  "effective_event_last": "E-3874",
+  "full_text": "NOT RUN",
+  "citations": "NOT RUN",
+  "claim_support_confidence": "UNASSESSED",
+  "independent_human_review": false
+}

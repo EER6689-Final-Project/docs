@@ -1,0 +1,271 @@
+{
+  "phase": "secondary",
+  "emitted_at_utc": "2026-10-26T07:15:59.776334+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0204",
+      "event": "E-3500",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R6",
+      "previous_status": "ADVANCE",
+      "title": "Enhancing Web Performance",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2002",
+        "publication_date": "2002-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-0-387-35600-6_4",
+        "platform_record_id": "https://openalex.org/W1575585528",
+        "record_url": "https://openalex.org/W1575585528",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-0-387-35600-6_4\", \"publication_year\": 2002, \"publication_date\": \"2002-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Arun Iyengar\", \"Erich Nahum\", \"Anees Shaikh\", \"Renu Tewari\"], \"venue\": \"Springer eBooks\", \"openalex_id\": \"https://openalex.org/W1575585528\", \"landing_page_url\": \"https://doi.org/10.1007/978-0-387-35600-6_4\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "5",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "f1bdeccef8f2f5c38d6f3e8b9565f5c7a71f3229e436b805f68d107f969800d0"
+    },
+    {
+      "target": "E-0220",
+      "event": "E-3501",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "Time Robustness for Point-Based Semantics of Metric Interval Temporal Logic",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Time-critical systems must satisfy temporal constraints whose correctness depends not only on event ordering but also on precise timing. Metric Interval Temporal Logic (MITL) provides a formalism to express such requirements. Although robustness has been widely studied under signal-based interpretations, it remains largely unexplored for point-based semantics, where executions are sequences of timestamped facts. In this setting, small timing variations may arbitrarily change Boolean satisfaction, revealing the instability of temporal truth under uncertainty. We introduce a notion of time robustness for MITL over point-based semantics, interpreting robustness as a margin of validity of temporal interpretations. We define a quantitative semantics and prove soundness with respect to Boolean satisfaction together with a Lipschitz stability property with respect to timestamp perturbations, which induces a metric notion of proximity between interpretations. The semantics admits a polynomial-time evaluation procedure and is illustrated on two case studies (drone surveillance and smart hospital), where robustness empirically correlates with tolerance to temporal noise.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-07-01",
+        "language": "",
+        "doi": "https://doi.org/10.24963/kr.2026/56",
+        "platform_record_id": "https://openalex.org/W7168811614",
+        "record_url": "https://openalex.org/W7168811614",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.24963/kr.2026/56\", \"publication_year\": 2026, \"publication_date\": \"2026-07-01\", \"type\": \"conference-paper\", \"language\": null, \"authorships\": [\"Simone Silvetti\", \"Ivan Compagnucci\", \"Francesca Cairoli\", \"Catia Trubiani\", \"Laura Nenzi\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W7168811614\", \"landing_page_url\": \"https://doi.org/10.24963/kr.2026/56\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "21",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b2ae695563e81d9057352de92c961e155a16396bca6c64b4f8d8e57502e9b350"
+    },
+    {
+      "target": "E-0232",
+      "event": "E-3502",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Disentangling Syntax and Semantics in the Brain with Deep Networks",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The activations of language transformers like GPT-2 have been shown to linearly map onto brain activity during speech comprehension. However, the nature of these activations remains largely unknown and presumably conflate distinct linguistic classes. Here, we propose a taxonomy to factorize the high-dimensional activations of language models into four combinatorial classes: lexical, compositional, syntactic, and semantic representations. We then introduce a statistical method to decompose, through the lens of GPT-2's activations, the brain activity of 345 subjects recorded with functional magnetic resonance imaging (fMRI) during the listening of ~4.6 hours of narrated text. The results highlight two findings. First, compositional representations recruit a more widespread cortical network than lexical ones, and encompass the bilateral temporal, parietal and prefrontal cortices. Second, contrary to previous claims, syntax and semantics are not associated with separated modules, but, instead, appear to share a common and distributed neural substrate. Overall, this study introduces a versatile framework to isolate, in the brain activity, the distributed representations of linguistic constructs.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-03-02",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2103.01620",
+        "platform_record_id": "https://openalex.org/W3171589458",
+        "record_url": "https://openalex.org/W3171589458",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2103.01620\", \"publication_year\": 2021, \"publication_date\": \"2021-03-02\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Charlotte Caucheteux\", \"Alexandre Gramfort\", \"Jean-Rémi King\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W3171589458\", \"landing_page_url\": \"http://arxiv.org/abs/2103.01620\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "33",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3a15a1e55e1fe8c1abadf7e896e1bd8727584ee2fbf659bc75ede616c15a879d"
+    },
+    {
+      "target": "E-0240",
+      "event": "E-3503",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R1;R6",
+      "previous_status": "ADVANCE",
+      "title": "Adding semantics to measurements: Ontology-guided, systematic performance analysis",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The design and operation of modern software systems exhibit a shift towards virtualization, containerization and service-based orchestration. Performance capacity engineering and resource utilization tuning become priority requirements in such environments. Measurement-based performance evaluation is the cornerstone of capacity engineering and designing for performance. Moreover, the increasing complexity of systems necessitates rigorous performance analysis approaches. However, empirical performance analysis lacks sophisticated model-based support similar to the functional design of the system. The paper proposes an ontology-based approach for facilitating and guiding the empirical evaluation throughout its various steps. Hyperledger Fabric (HLF), an open-source blockchain platform by the Linux Foundation, is modelled and evaluated as a pilot example of the approach, using the standard TPC-C performance benchmark workload.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-12-21",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2112.11270",
+        "platform_record_id": "https://openalex.org/W4226495197",
+        "record_url": "https://openalex.org/W4226495197",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2112.11270\", \"publication_year\": 2021, \"publication_date\": \"2021-12-21\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Attila Klenik\", \"András Pataricza\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4226495197\", \"landing_page_url\": \"http://arxiv.org/abs/2112.11270\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "41",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "7f567368da6f40348af5d8b2a6fbc865c32de98b256259423482498f97e8a802"
+    },
+    {
+      "target": "E-0241",
+      "event": "E-3504",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Large language models (LLMs) increasingly ground their answers in proprietary data and live web content through both single-shot retrieval-augmented generation (RAG) and multi-turn agentic search. Yet the web path they use was built for human readers: search services return URLs and snippets ranked by generic relevance, and content delivery networks (CDNs) cache URL-addressed objects without knowing which passage an agent needs. LLMs instead consume short, semantically coherent passages - hereafter, chunks - selected for downstream utility rather than similarity alone, retrieve statefully across reasoning turns, and, as uncoordinated streams, repeatedly fetch, clean, chunk, and embed the same content. We argue that semantic chunk retrieval should become a first-class network-delivery abstraction, and propose the Semantics Delivery Network (SemDN): an origin-authorized, hierarchical substrate that indexes, searches, and caches web content at chunk granularity, serving clients and origins alike. SemDN is more than finer-grained caching: it must estimate missing or stale evidence without an explicit miss signal, let clients choose retrieval representations that origins need not see, and share state among clients with the same representation. Preliminary results show that page-first retrieval processes two to three orders of magnitude more content than agents consume, that agentic queries exhibit task-local chunk reuse invisible to URL caches, and that chunk delivery improves answer quality per context token. We organize an open research agenda around shareable retrieval state, hierarchical caching and refresh under coverage risk, and deployability, including incentives, privacy, and verifiability. Our code is available at: https://github.com/sarendis56/SemDN_HotNets26",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-09-18",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2609.22486",
+        "platform_record_id": "https://openalex.org/W7214034503",
+        "record_url": "https://openalex.org/W7214034503",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2609.22486\", \"publication_year\": 2026, \"publication_date\": \"2026-09-18\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Peichun Hua\", \"Yunming Xiao\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7214034503\", \"landing_page_url\": \"https://arxiv.org/abs/2609.22486\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "42",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "50ab782675c9f9c6d89179e6aa3f875b4265894f4ecb84f3dc9c0d8ad184ef83"
+    },
+    {
+      "target": "E-0244",
+      "event": "E-3505",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Converging Evidence for the Neuroanatomic Basis of Combinatorial Semantics in the Angular Gyrus",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Human thought and language rely on the brain's ability to combine conceptual information. This fundamental process supports the construction of complex concepts from basic constituents. For example, both \"jacket\" and \"plaid\" can be represented as individual concepts, but they can also be integrated to form the more complex representation \"plaid jacket.\" Although this process is central to the expression and comprehension of language, little is known about its neural basis. Here we present evidence for a neuroanatomic model of conceptual combination from three experiments. We predicted that the highly integrative region of heteromodal association cortex in the angular gyrus would be critical for conceptual combination, given its anatomic connectivity and its strong association with semantic memory in functional neuroimaging studies. Consistent with this hypothesis, we found that the process of combining concepts to form meaningful representations specifically modulates neural activity in the angular gyrus of healthy adults, independent of the modality of the semantic content integrated. We also found that individual differences in the structure of the angular gyrus in healthy adults are related to variability in behavioral performance on the conceptual combination task. Finally, in a group of patients with neurodegenerative disease, we found that the degree of atrophy in the angular gyrus is specifically related to impaired performance on combinatorial processing. These converging anatomic findings are consistent with a critical role for the angular gyrus in conceptual combination.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-02-18",
+        "language": "en",
+        "doi": "https://doi.org/10.1523/jneurosci.3446-14.2015",
+        "platform_record_id": "https://openalex.org/W1969634671",
+        "record_url": "https://openalex.org/W1969634671",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1523/jneurosci.3446-14.2015\", \"publication_year\": 2015, \"publication_date\": \"2015-02-18\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Amy Rose Price\", \"Michael Bonner\", \"Jonathan Erik Peelle\", \"Murray Grossman\"], \"venue\": \"Journal of Neuroscience\", \"openalex_id\": \"https://openalex.org/W1969634671\", \"landing_page_url\": \"https://doi.org/10.1523/jneurosci.3446-14.2015\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "45",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "37f6581fb0056d2761d9082ba70ba05a9391904a0e024f0ffa18594c29b44528"
+    },
+    {
+      "target": "E-0247",
+      "event": "E-3506",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Formal semantics and high performance in declarative machine learning using Datalog",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract With an escalating arms race to adopt machine learning (ML) in diverse application domains, there is an urgent need to support declarative machine learning over distributed data platforms. Toward this goal, a new framework is needed where users can specify ML tasks in a manner where programming is decoupled from the underlying algorithmic and system concerns. In this paper, we argue that declarative abstractions based on Datalog are natural fits for machine learning and propose a purely declarative ML framework with a Datalog query interface. We show that using aggregates in recursive Datalog programs entails a concise expression of ML applications, while providing a strictly declarative formal semantics. This is achieved by introducing simple conditions under which the semantics of recursive programs is guaranteed to be equivalent to that of aggregate-stratified ones. We further provide specialized compilation and planning techniques for semi-naive fixpoint computation in the presence of aggregates and optimization strategies that are effective on diverse recursive programs and distributed data platforms. To test and demonstrate these research advances, we have developed a powerful and user-friendly system on top of Apache Spark. Extensive evaluations on large-scale datasets illustrate that this approach will achieve promising performance gains while improving both programming flexibility and ease of development and deployment for ML applications.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-05-31",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/s00778-021-00665-6",
+        "platform_record_id": "https://openalex.org/W3169050797",
+        "record_url": "https://openalex.org/W3169050797",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/s00778-021-00665-6\", \"publication_year\": 2021, \"publication_date\": \"2021-05-31\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Jin Wang\", \"Jiacheng Wu\", \"Mingda Li\", \"Jiaqi Gu\", \"Ariyam Das\", \"Carlo Zaniolo\"], \"venue\": \"The VLDB Journal\", \"openalex_id\": \"https://openalex.org/W3169050797\", \"landing_page_url\": \"https://doi.org/10.1007/s00778-021-00665-6\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R1",
+        "query": "web performance metrics semantics",
+        "rank": "48",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e5ddf0231c998ec783b34863dfa19bbef44ae20e8d359a1da8af83919ba628cb"
+    },
+    {
+      "target": "E-0254",
+      "event": "E-3507",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Mobile phone batteries draining: Is green web browsing the solution?",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Providing mechanisms to improve energy efficiency of mobile devices is, in the past few years, one of the important objectives in the field of green computing and energy savings. Several studies have addressed this issue from different point of views, i.e., hardware, software, as well as by analyzing the energy drained by different mobile applications. On the other hand, the energy consumption of Web browsing activities has been poorly addressed, given the lack of analysis about users' real browsing sessions. We propose in this paper a new methodology that exploits an hardware-based instrumentation to measure energy savings in mobile devices when switching on/off filtering techniques offered by a privacy-enhancing technology. We discuss an extensive experimental study that shows how privacy-preserving mechanisms can help users to protect their privacy, their personal information, and en passant efficiently reduce communication and computation overhead and thus battery consumption.",
+      "metadata": {
+        "publication_year": "2014",
+        "publication_date": "2014-11-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/igcc.2014.7039152",
+        "platform_record_id": "https://openalex.org/W2021974051",
+        "record_url": "https://openalex.org/W2021974051",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/igcc.2014.7039152\", \"publication_year\": 2014, \"publication_date\": \"2014-11-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Salvatore D’Ambrosio\", \"S. De Pasquale\", \"G. Iannone\", \"Delfina Malandrino\", \"Alberto Negro\", \"Giovanni Patimo\", \"Andrea Petta\", \"Vittorio Scarano\", \"Luigi Serra\", \"Raffaele Spinelli\"], \"venue\": \"International Green Computing Conference (IGCC)\", \"openalex_id\": \"https://openalex.org/W2021974051\", \"landing_page_url\": \"https://doi.org/10.1109/igcc.2014.7039152\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "5",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4cb05243acfdab5133b4a0b7603e8b62b1f2c22c2503068b4b8c1081724e91e0"
+    },
+    {
+      "target": "E-0258",
+      "event": "E-3509",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "PENDING",
+      "title": "Towards a Universal Data Provenance Framework Using Dynamic Instrumentation",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2012",
+        "publication_date": "2012-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-642-30436-1_9",
+        "platform_record_id": "https://openalex.org/W1553695897",
+        "record_url": "https://openalex.org/W1553695897",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-642-30436-1_9\", \"publication_year\": 2012, \"publication_date\": \"2012-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Eleni Gessiou\", \"Vasilis Pappas\", \"Elias Athanasopoulos\", \"Angelos Dennis Keromytis\", \"Sotiris Ioannidis\"], \"venue\": \"IFIP International Federation for Information Processing/IFIP\", \"openalex_id\": \"https://openalex.org/W1553695897\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-642-30436-1_9\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e17969d971141de21a44045957cd568827f8d7863a60a776fb270af1d6db93ff"
+    },
+    {
+      "target": "E-0267",
+      "event": "E-3512",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating Web-Based Post-Quantum Cryptography: A Statistical Analysis of ML-KEM-768 in Controlled Browser Environments",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.6744539",
+        "platform_record_id": "https://openalex.org/W7168368050",
+        "record_url": "https://openalex.org/W7168368050",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.6744539\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Samin Yasar\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7168368050\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.6744539\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "18",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "87deeade259d1afbb7bdd478947cc1369e02940dcc4a253662c5823e685afd7f"
+    }
+  ]
+}

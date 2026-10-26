@@ -1,0 +1,90 @@
+{
+  "freeze_type": "prospective Scholar Batch 1 first-25 semantic-review QC",
+  "created_before_separate_QC_pass": true,
+  "date": "2026-10-26",
+  "checker": "same AI agent; self-audit, not independent human review",
+  "frozen_proposed_exclusions": [
+    {
+      "E_ID": "E-0519",
+      "proposed_code": "X3",
+      "qc_target": true
+    }
+  ],
+  "frozen_first_occurrence_per_explicit_R_group": {
+    "R1": "E-0501",
+    "R3": "E-0501",
+    "R6": "E-0501",
+    "R5": "E-0503",
+    "R2": "E-0505",
+    "R4": "E-0508"
+  },
+  "group_membership_occurrence_EIDs": {
+    "R1": [
+      "E-0501",
+      "E-0503",
+      "E-0504",
+      "E-0505",
+      "E-0507",
+      "E-0512",
+      "E-0513",
+      "E-0514",
+      "E-0516",
+      "E-0517",
+      "E-0523",
+      "E-0524"
+    ],
+    "R3": [
+      "E-0501",
+      "E-0502",
+      "E-0505",
+      "E-0506",
+      "E-0507",
+      "E-0508",
+      "E-0509",
+      "E-0511",
+      "E-0513",
+      "E-0514",
+      "E-0515",
+      "E-0516",
+      "E-0517",
+      "E-0518",
+      "E-0520",
+      "E-0521",
+      "E-0522",
+      "E-0523",
+      "E-0524"
+    ],
+    "R6": [
+      "E-0501",
+      "E-0505",
+      "E-0507",
+      "E-0508",
+      "E-0509",
+      "E-0511",
+      "E-0513",
+      "E-0514",
+      "E-0516",
+      "E-0517",
+      "E-0518",
+      "E-0523",
+      "E-0524"
+    ],
+    "R5": [
+      "E-0503",
+      "E-0505",
+      "E-0514",
+      "E-0516"
+    ],
+    "R2": [
+      "E-0505",
+      "E-0506",
+      "E-0523"
+    ],
+    "R4": [
+      "E-0508",
+      "E-0514",
+      "E-0524"
+    ]
+  },
+  "actual_QC_status": "not yet checked at freeze time"
+}

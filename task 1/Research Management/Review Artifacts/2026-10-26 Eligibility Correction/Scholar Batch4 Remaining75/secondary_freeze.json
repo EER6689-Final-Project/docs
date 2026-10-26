@@ -1,0 +1,43 @@
+{
+  "phase": "after primary judgments, before secondary original-export reread",
+  "original_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "primary_overlay_sha256": "735c19ec39678019e4133f2a9fb99d64020c49309384b6de77999062828cf614",
+  "primary_judgments_sha256": "39a1e1c2481d70936d136588fcb9868e2c8da6a576265694ed2bc8a5c48ad551",
+  "proposed_exclusions": [],
+  "explicit_positive_groups": {
+    "R5_method_comparison_agreement": [
+      "E-0725",
+      "E-0726",
+      "E-0727",
+      "E-0728",
+      "E-0729",
+      "E-0730",
+      "E-0731",
+      "E-0732",
+      "E-0733",
+      "E-0734",
+      "E-0735",
+      "E-0736",
+      "E-0737",
+      "E-0738",
+      "E-0739",
+      "E-0740",
+      "E-0741",
+      "E-0742",
+      "E-0743",
+      "E-0744",
+      "E-0745",
+      "E-0746",
+      "E-0747",
+      "E-0748",
+      "E-0749"
+    ]
+  },
+  "first_EID_per_group_selected": [
+    "E-0725"
+  ],
+  "secondary_targets": [
+    "E-0725"
+  ],
+  "note": "only actual positive metadata group in this bounded first-25 portion; R4 is an explicitly limited-transfer judgment, not a positive R mapping"
+}

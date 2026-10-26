@@ -1,0 +1,1220 @@
+[
+  {
+    "occurrence_E_ID": "E-0750",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0750",
+    "original_stored_export_reread": {
+      "title": "The experimental design for data mining to discover web performance issues in a wide area network",
+      "abstract_or_snippet": "… real-life project, emphasizing experimental design and data preparation problems. … a web performance model and summarize the related work. Then we present an experimental design …",
+      "raw_record_metadata": "L Borzemski - Cybernetics and Systems: An International Journal, 2010 - Taylor & Francis",
+      "publication_year": "2010",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "JD-1zyAQc-IJ",
+      "record_url": "https://www.tandfonline.com/doi/abs/10.1080/01969720903408763",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "WAN data preparation/design is explicit; R6 retained, design-only R4 removed. Article-like venue is a selection proxy only.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0751",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0751",
+    "original_stored_export_reread": {
+      "title": "Seven rules of thumb for web site experimenters",
+      "abstract_or_snippet": "… Some rules of thumb have previously been stated, such as “speed matters,” but we describe the assumptions in the experimental design and share additional experiments that improved …",
+      "raw_record_metadata": "R Kohavi , A Deng , R Longbotham , Y Xu - Proceedings of the 20th ACM …, 2014 - dl.acm.org",
+      "publication_year": "2014",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "pDL_HTaBVhAJ",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/2623330.2623341",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Website experiment assumptions support R6 planning only; speed matters does not establish metric semantics or repeat uncertainty.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0752",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0752",
+    "original_stored_export_reread": {
+      "title": "Information constraints and technology efficiency: Field experiments benchmarking firms website performance",
+      "abstract_or_snippet": "… can lead managers to enhance performance using an experimental design , we build on a small … where AWPi is the change in the web performance metric compared to the baseline time …",
+      "raw_record_metadata": "A Adem , R Kneller , C Li - 2023 - papers.ssrn.com",
+      "publication_year": "2023",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "OkIIi_PAZ8cJ",
+      "record_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4467978",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Firm field experiment and baseline AWPi support bounded workload/design leads, not browser validity or method agreement.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0753",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0753",
+    "original_stored_export_reread": {
+      "title": "Effect of scroll bar and navigation menu co-location on web performance",
+      "abstract_or_snippet": "… Experimental Design . There were three factors in this mixed-design experiment: placement of the navigation menu (left or right), which was between-subjects; placement of the scroll …",
+      "raw_record_metadata": "H Devine, AD Andre - … of the Human Factors and Ergonomics …, 2005 - journals.sagepub.com",
+      "publication_year": "2005",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "i8PdiYr5jnUJ",
+      "record_url": "https://journals.sagepub.com/doi/abs/10.1177/154193120504901507",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Menu placement between subjects is explicit; human task/design transfer is bounded, not a repeated browser variance method.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0754",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0754",
+    "original_stored_export_reread": {
+      "title": "[PDF] Network-level impacts on user-level web performance",
+      "abstract_or_snippet": "This paper uses packet-level ns2 network simulations to study the impacts of TCP and network-level effects on userperceived Web performance in Web proxy caching hierarchies. We …",
+      "raw_record_metadata": "C Williamson , N Markatchev - SIMULATION SERIES, 2003 - cspages.ucalgary.ca",
+      "publication_year": "2003",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "xp69i-gHa6UJ",
+      "record_url": "https://cspages.ucalgary.ca/~cwill/papers/2003/NWeffects.pdf",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "ns2 packet simulation and proxy hierarchy explicitly limit browser transfer; R4 removed while R3/R6 remain leads.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4",
+      "R6"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0755",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0755",
+    "original_stored_export_reread": {
+      "title": "Identifying root causes of web performance degradation using changepoint analysis",
+      "abstract_or_snippet": "… The experimental design for data mining to discover web perfor… Time series forecasting of web performance data monitored … Knowledge engineering relating to spatial web performance …",
+      "raw_record_metadata": "J Cito , D Suljoti , P Leitner , S Dustdar - International Conference on Web …, 2014 - Springer",
+      "publication_year": "2014",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "fdUivF68KnoJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-319-08245-5_11",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Changepoint title supports drift lead; snippet looks like other work titles, not own methods. No promoted quantitative result.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0756",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0756",
+    "original_stored_export_reread": {
+      "title": "Web server performance measurement and modeling techniques",
+      "abstract_or_snippet": "The popularity of the Internet, and the usage of the world wide web in particular, has grown rapidly in recent years. Thousands of companies have deployed Web servers and their …",
+      "raw_record_metadata": "J Dilley, R Friedrich, T Jin, J Rolia - Performance evaluation, 1998 - Elsevier",
+      "publication_year": "1998",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "1VHeY0jU9PMJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S016653169800008X",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0608"
+    },
+    "reread_note": "Server measurement/modeling title does not establish observer effects. Remove R2/R4, retain bounded server design and identity hold E-0608.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0757",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0757",
+    "original_stored_export_reread": {
+      "title": "Identifying web performance degradations through synthetic and real-user monitoring",
+      "abstract_or_snippet": "… In Section 4 we apply changepoint analysis to web performance data to detect fundamental … The experimental design for data mining to discover web performance issues in a wide area …",
+      "raw_record_metadata": "J CITO , D Gotowka, P Leitner … - Journal of Web …, 2015 - journals.riverpublishers.com",
+      "publication_year": "2015",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "M3Q1KG870ZoJ",
+      "record_url": "https://journals.riverpublishers.com/index.php/JWE/article/view/3845",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0514"
+    },
+    "reread_note": "Synthetic/real-user title and changepoint snippet support R3/R4/R6 leads; original candidate E-0514 stays identity pending.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0758",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0758",
+    "original_stored_export_reread": {
+      "title": "Accessibility and energy efficiency in sustainable web design: a comparative empirical study",
+      "abstract_or_snippet": "… Due to this reason, the research adopts a quantitative experimental design . An experimental structure … It had to be done repeatedly since web performance measurements are always …",
+      "raw_record_metadata": "F Akhtar - 2026 - lutpub.lut.fi",
+      "publication_year": "2026",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "P9HuFypBukYJ",
+      "record_url": "https://lutpub.lut.fi/handle/10024/172044",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Repeated web measurements explicitly stated; R4/R6 retained. Accessibility/energy comparison does not establish R3; exact 2026 date unknown.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R3"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0759",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0759",
+    "original_stored_export_reread": {
+      "title": "[PDF] Statistical analysis of active web performance measurements",
+      "abstract_or_snippet": "… Abstract: Web performance is an emerging issue in modern Internet. We present a study of the Web performance measurement data, collected during over a year of operation of MWING …",
+      "raw_record_metadata": "M DRWAL , L BORZEMSKI - 6th Working Conference HET-NETs, 2010 - researchgate.net",
+      "publication_year": "2010",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "Cl_MesQmqI4J",
+      "record_url": "https://www.researchgate.net/profile/Leszek-Borzemski/publication/228996138_Statistical_analysis_of_active_web_performance_measurements/links/543c30040cf204cab1dbd051/Statistical-analysis-of-active-web-performance-measurements.pdf",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "MWING over-year data supports temporal uncertainty/design lead; no estimator, numerical finding or full abstract verified.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0760",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0760",
+    "original_stored_export_reread": {
+      "title": "Wireless Web Performance Issues",
+      "abstract_or_snippet": "… how the wireless bottleneck affects network-level and user-level Web performance . … Experimental Design A one-factor-at-a-time experimental design is used to study the impacts of …",
+      "raw_record_metadata": "C Williamson - Web Content Delivery, 2005 - Springer",
+      "publication_year": "2005",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "vrC0_kbzRJAJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/0-387-27727-7_14",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0621"
+    },
+    "reread_note": "Wireless bottleneck and OFAT support R3/R6 but not uncertainty. Identity E-0621 remains held.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0761",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0761",
+    "original_stored_export_reread": {
+      "title": "Website performance and behavioral consequences: A formative measurement approach",
+      "abstract_or_snippet": "… The proposed web performance index is a robust, parsimonious, and simple measurement instrument. This index has an advantage over most reflective measures because often …",
+      "raw_record_metadata": "A Dickinger , B Stangl - Journal of business research, 2013 - Elsevier",
+      "publication_year": "2013",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "zmGfOkeqcjMJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0148296311003262",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Formative versus reflective index supports construct distinction; robust assertion not endorsed. R1/R3/R6 bounded.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0762",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0762",
+    "original_stored_export_reread": {
+      "title": "3D web performance forecasting using turning bands method",
+      "abstract_or_snippet": "… The experimental design for data mining to discover web performance issues in a Wide Area Network. Cybernetics and Systems: An International Journal 41, 31–45 (2010) …",
+      "raw_record_metadata": "L Borzemski , A Kamińska-Chuchmała - International Conference on …, 2011 - Springer",
+      "publication_year": "2011",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "Z0lI796zCJgJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-642-21771-5_12",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Entire snippet is citation to other experimental-design work; remove R4. Retain forecasting title only as R6 prior work.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0763",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0763",
+    "original_stored_export_reread": {
+      "title": "The use of data mining to predict web performance",
+      "abstract_or_snippet": "… and experimental design . Therefore, we need to construct an experimental design in such a … Proper data usable for Web performance evaluation as it is considered in this article can be …",
+      "raw_record_metadata": "L Borzemski - Cybernetics and Systems, 2006 - Taylor & Francis",
+      "publication_year": "2006",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "j09jVgId0TMJ",
+      "record_url": "https://www.tandfonline.com/doi/abs/10.1080/01969720600734586",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Data preparation/design stated but no repeated-run uncertainty or representative population; retain R6, remove R3/R4.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R3",
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0764",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0764",
+    "original_stored_export_reread": {
+      "title": "Client-perceived web performance knowledge discovery through turning bands method",
+      "abstract_or_snippet": "… In this article we present TB-based web performance prediction … In this article we present TB-based web performance prediction … Then we present web performance prediction using an …",
+      "raw_record_metadata": "L Borzemski , A Kamińska-Chuchmała - Cybernetics and Systems, 2012 - Taylor & Francis",
+      "publication_year": "2012",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "TJ_lWUZRo6YJ",
+      "record_url": "https://www.tandfonline.com/doi/abs/10.1080/01969722.2012.678221",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Repeated TB-prediction wording does not describe replicate measurements; R6 prior-work lead only, no R3/R4 inference.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R3",
+      "R4",
+      "R6"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0765",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0765",
+    "original_stored_export_reread": {
+      "title": "Performance benchmarking of wireless web servers",
+      "abstract_or_snippet": "… We study in-building Web performance for wireless Web clients. All mobile computers are … Experimental design A one-factor-at-a-time experimental design is used to study the impacts …",
+      "raw_record_metadata": "G Bai, K Oladosu, C Williamson - Ad Hoc Networks, 2007 - Elsevier",
+      "publication_year": "2007",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "xVPKUjkJNHcJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S1570870506000023",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "In-building wireless client scope and OFAT are explicit; R3/R6 valid bounded leads, not R4.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0766",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0766",
+    "original_stored_export_reread": {
+      "title": "Web image formats: Assessment of their real-world-usage and performance across popular web browsers",
+      "abstract_or_snippet": "… Through the web scraping and web performance evaluation, this research serves to (1) … The experimental design employed in this study follows a 4–5 (for Windows: 4–4) Factorial …",
+      "raw_record_metadata": "B Dornauer , M Felderer - International Conference on Product-Focused …, 2023 - Springer",
+      "publication_year": "2023",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "ZXNSHPnHMFIJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-031-49266-2_9",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Browser usage/image format/factorial design supports workload/design leads, not metric definitions; remove R1.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R1"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0767",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0767",
+    "original_stored_export_reread": {
+      "title": "[PDF] Beaconnect: continuous web performance A/B testing at scale",
+      "abstract_or_snippet": "… analyzing Web performance data without being subject to these limitations. Our contributions are threefold. First, Beaconnect is natively compatible with A/B testing Web performance as …",
+      "raw_record_metadata": "W Wingerath , B Wollmer … - … of the VLDB …, 2022 - horizon.documentation.ird.fr",
+      "publication_year": "2022",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "KHVFnGk5ru8J",
+      "record_url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-03/010086183.pdf#page=164",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Continuous A/B system is relevant prior platform design; compatibility alone supplies neither replicate uncertainty nor observer evidence.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0768",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0768",
+    "original_stored_export_reread": {
+      "title": "Statistical methods in managing web performance",
+      "abstract_or_snippet": "… with the management of web performance issues. In order to … Web Performance Benchmarking of competitors is discussed … A general methodology for web performance benchmarking …",
+      "raw_record_metadata": "J Cito - 2014 - repositum.tuwien.at",
+      "publication_year": "2014",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "tbPEUbve9UoJ",
+      "record_url": "https://repositum.tuwien.at/handle/20.500.12708/5604",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Statistical methods title warrants uncertain R4 follow-up; no estimator claimed. Competitor benchmark is R6, not instrument agreement.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0769",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0769",
+    "original_stored_export_reread": {
+      "title": "[PDF] Case-based learning on web in higher education: A review of empirical research",
+      "abstract_or_snippet": "… Three papers were based on an experimental design . … In some study that used experimental design , to compare between the use case-based learning and case-based learning with …",
+      "raw_record_metadata": "D Saleewong , P Suwannatthachote … - Creative Education, 2012 - academia.edu",
+      "publication_year": "2012",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "CeXpVjkfW_kJ",
+      "record_url": "https://www.academia.edu/download/97829803/PaperDownload.pdf",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Learning pedagogy review remains X3: no browser measurement/design mechanism stated. Human status and source type not exclusion reasons.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0770",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0770",
+    "original_stored_export_reread": {
+      "title": "Performance benchmarking of wireless web servers",
+      "abstract_or_snippet": "… We study in-building Web performance for wireless Web clients. All mobile computers are … Experimental design A one-factor-at-a-time experimental design is used to study the impacts …",
+      "raw_record_metadata": "G Bai, K Oladosu, C Williamson - Ad Hoc Networks, 2007 - Elsevier",
+      "publication_year": "2007",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "xVPKUjkJNHcJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S1570870506000023",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0765"
+    },
+    "reread_note": "Independently reread wireless occurrence gives scope/OFAT design, not uncertainty; keep identity E-0765 unresolved without merging.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0771",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0771",
+    "original_stored_export_reread": {
+      "title": "[PDF] Web performance tuning of wordpress-based websites through automatic image optimization",
+      "abstract_or_snippet": "… optimization has on web performance . Our research objective is to … , and their impact on web performance . To achieve this objective, … on WordPress sites to improve web performance . …",
+      "raw_record_metadata": "T Heriăko , Š Čučko , B Šumak … - … European Conference on …, 2021 - drive.google.com",
+      "publication_year": "2021",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "SEnYyS5ravoJ",
+      "record_url": "https://drive.google.com/file/d/1LV2uPHpe-KCnDNl7lHB2DY0e6kqjZxGi/view",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "WordPress image optimization is explicit workload intervention; no repetitions stated. Remove R4; bounded R3/R6 retained.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0772",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0772",
+    "original_stored_export_reread": {
+      "title": "3D web performance forecasting using turning bands method",
+      "abstract_or_snippet": "… The experimental design for data mining to discover web performance issues in a Wide Area Network. Cybernetics and Systems: An International Journal 41, 31–45 (2010) …",
+      "raw_record_metadata": "L Borzemski , A Kamińska-Chuchmała - International Conference on …, 2011 - Springer",
+      "publication_year": "2011",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "Z0lI796zCJgJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-642-21771-5_12",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0762"
+    },
+    "reread_note": "Forecast title retained under R6; snippet is a citation, not source methods. R3/R4 removed; identity E-0762 pending.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R3",
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0773",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0773",
+    "original_stored_export_reread": {
+      "title": "An anatomy of mobile web performance over multipath TCP",
+      "abstract_or_snippet": "… measurement study of mobile web performance over multipath TCP (… for improving mobile web performance over MPTCP. … effective way to enhance mobile web performance . Notably, in …",
+      "raw_record_metadata": "B Han , F Qian , S Hao , L Ji - Proceedings of the 11th ACM Conference on …, 2015 - dl.acm.org",
+      "publication_year": "2015",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "ooqSHSJsVRUJ",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/2716281.2836090",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Mobile MPTCP study provides network/workload context; no uncertainty method stated, so R4 removed.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0774",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0774",
+    "original_stored_export_reread": {
+      "title": "Integrating user-perceived quality into web server design",
+      "abstract_or_snippet": "… We thank Ilja Bedner for invaluable assistance with system configuration, Sharad Singhal, Ed Perry and Ilja Bedner for their help with experimental design , and members of HP Labs for …",
+      "raw_record_metadata": "N Bhatti, A Bouch, A Kuchinsky - Computer Networks, 2000 - Elsevier",
+      "publication_year": "2000",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "9DzUXX6mztoJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S1389128600000876",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Snippet is acknowledgements. Title supports perceived-quality/server context only; no own experimental-method inference.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0775",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0775",
+    "original_stored_export_reread": {
+      "title": "[PDF] Case-based learning on web in higher education: A review of empirical research",
+      "abstract_or_snippet": "… Three papers were based on an experimental design . … In some study that used experimental design , to compare between the use case-based learning and case-based learning with …",
+      "raw_record_metadata": "D Saleewong , P Suwannatthachote … - Creative Education, 2012 - academia.edu",
+      "publication_year": "2012",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "CeXpVjkfW_kJ",
+      "record_url": "https://www.academia.edu/download/97829803/PaperDownload.pdf",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0769"
+    },
+    "reread_note": "Pedagogy occurrence independently lacks R mappings. PENDING identity E-0769 retained, no automatic X3 inheritance or DUP merge.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0776",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0776",
+    "original_stored_export_reread": {
+      "title": "ReactSmart: ML-Driven Adaptation for Scalable React-Based Web Application Performance",
+      "abstract_or_snippet": "… : Section II summarizes relevant research in web performance optimization; Section III … is explained in Section V; Experimental design methodology are presented in Section VI; …",
+      "raw_record_metadata": "S Mankotia , DC De Leon, HM Jamil - IEEE access, 2026 - ieeexplore.ieee.org",
+      "publication_year": "2026",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "J6waBJU3Hj8J",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/11328049/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "React ML adaptation is closest optimization lead; no metric definition. Remove R1 and leave exact 2026 date pending.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R1"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0777",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0777",
+    "original_stored_export_reread": {
+      "title": "[PDF] Investigating Optimization Strategies that Determine Performance of CMS Websites in Organizations",
+      "abstract_or_snippet": "… This study informed the researcher that there is a relationship between web performance and … Experimental design was used to determine if a specific treatment on the experimental …",
+      "raw_record_metadata": "SK Shitote , K Omieno , J Ondulo - Int. J. Adv. Res. Comput. Commun …, 2018 - academia.edu",
+      "publication_year": "2018",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "gdtpzuXu1QEJ",
+      "record_url": "https://www.academia.edu/download/93078205/ijarcce.2018.pdf",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "CMS treatment design supports intervention context; no methodological validity or repeated-run result inferred from treatment language.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0778",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0778",
+    "original_stored_export_reread": {
+      "title": "Evaluating content management techniques for web proxy caches",
+      "abstract_or_snippet": "… Cacheable Objects: In order for caching to improve Web performance it is vital that most … This section provides an overview of the experimental design used for this simulation study. …",
+      "raw_record_metadata": "M Arlitt , L Cherkasova , J Dilley, R Friedrich… - ACM SIGMETRICS …, 2000 - dl.acm.org",
+      "publication_year": "2000",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "IjevFJH86I0J",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/346000.346003",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Proxy cache simulation and cacheable-object restriction support R3/R6 only; experimental design not sufficient for R4.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0779",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0779",
+    "original_stored_export_reread": {
+      "title": "Evaluation of QUIC on web page performance",
+      "abstract_or_snippet": "… Let us revisit the questions posed in the experimental design phase: … Our goal is to improve mobile Web performance over QUIC. QUIC's default congestion control algorithm is TCP …",
+      "raw_record_metadata": "SR Das - 2014 - dspace.mit.edu",
+      "publication_year": "2014",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "Md6U_5_JW6wJ",
+      "record_url": "https://dspace.mit.edu/handle/1721.1/91444",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0482"
+    },
+    "reread_note": "QUIC mobile page-performance context supports R3/R6 only; design questions not R4. Identity candidate E-0482 remains unresolved.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0780",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0780",
+    "original_stored_export_reread": {
+      "title": "[PDF] Optimizing Web Performance and Computational Efficiency: A Deep Dive into WebAssembly's Technical Advancements and Real-World Applications",
+      "abstract_or_snippet": "… This comprehensive technical section has provided an in-depth look at the experimental design , implementation details, memory management strategies, and performance analysis …",
+      "raw_record_metadata": "SD Nguyen - 2025 - researchgate.net",
+      "publication_year": "2025",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "I7lLMu5fhu8J",
+      "record_url": "https://www.researchgate.net/profile/Son-Nguyen-386/publication/389517325_Optimizing_Web_Performance_and_Computational_Efficiency_A_Deep_Dive_into_WebAssembly's_Technical_Advancements_and_Real-World_Applications/links/67c62ce1207c0c20faa03019/Optimizing-Web-Performance-and-Computational-Efficiency-A-Deep-Dive-into-WebAssemblys-Technical-Advancements-and-Real-World-Applications.pdf",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "WebAssembly implementation and memory management are not instrumentation evidence; remove R2, retain uncertain workload/design lead with type unknown.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R2"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0781",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0781",
+    "original_stored_export_reread": {
+      "title": "Interaction Effects of Framework Architectures and Optimization Strategies on User-Centric Metrics: VDOM vs. Compile-Time Approaches",
+      "abstract_or_snippet": "… 2.1 Experimental Design The experimental design used is a two-way factorial design to test … it is a reliable tool for quantitative web performance measurement [13]. Testing automation is …",
+      "raw_record_metadata": "D Dafa, T Afirianto , MC Saputra - Journal of Information Technology …, 2026 - jitecs.ub.ac.id",
+      "publication_year": "2026",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "haXwp5k1zQsJ",
+      "record_url": "https://jitecs.ub.ac.id/index.php/jitecs/article/view/865",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Two-way factorial design explicit, but metric definitions/reliability unsupported. Remove R1; R3/R6 retained and 2026 date pending.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R1"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0782",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0782",
+    "original_stored_export_reread": {
+      "title": "An experimental QoE performance evaluation of HTTP over Multipath TCP",
+      "abstract_or_snippet": "… In [12], the web performance is investigated using two approaches; HTTP over MPTCP and … Experimental Design To gauge the impact of transport layer protocols in experimental design …",
+      "raw_record_metadata": "MS Alias, SAM Rofie, SMM Hassan … - 2016 6th IEEE …, 2016 - ieeexplore.ieee.org",
+      "publication_year": "2016",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "N0rtAMCbReEJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/7893592/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "HTTP/MPTCP QoE protocol factors support bounded R3/R6; no repeated uncertainty and no reference agreement.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0783",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0783",
+    "original_stored_export_reread": {
+      "title": "Applied Intelligence and Knowledge Based Systems: Approaches and Case Studies–Part 2",
+      "abstract_or_snippet": "… The focus of the article is on application of data mining to web performance forecasting. The … the experimental design and data preparation steps of web performance forecasting based …",
+      "raw_record_metadata": "E Szczerbicki , NT Nguyen - 2010 - Taylor & Francis",
+      "publication_year": "2010",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "YYgEIsuiBs4J",
+      "record_url": "https://www.tandfonline.com/doi/full/10.1080/01969720903408490",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Snippet describes forecasting/design content, not verified book chapter or primary study. Context-original discovery R6 only; remove R4.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0784",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0784",
+    "original_stored_export_reread": {
+      "title": "A performance comparison of dynamic web technologies",
+      "abstract_or_snippet": "… Section 4 presents our methodology and experimental design , while Section 5 presents the results of our study. Section 6 concludes the paper with a summary of our work and a …",
+      "raw_record_metadata": "L Titchkosky, M Arlitt , C Williamson - ACM SIGMETRICS Performance …, 2003 - dl.acm.org",
+      "publication_year": "2003",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "Qa4ChEUrK74J",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/974036.974037",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Dynamic web technology comparison is R6 prior design and possible R3 workload context, not paired reference tools.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0785",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0785",
+    "original_stored_export_reread": {
+      "title": "How crisp is the crease? A subjective study on Web browsing perception of above-the-fold",
+      "abstract_or_snippet": "… In this paper, we present an experimental design and methodology to measure ATF perception … 4) Discussing the impact of estimated ATF on web performance metrics and QoE models. …",
+      "raw_record_metadata": "HZ Jahromi , DT Delaney … - 2020 6th IEEE Conference …, 2020 - ieeexplore.ieee.org",
+      "publication_year": "2020",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "wuK-P9m4JowJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/9165497/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "ATF perception and estimated metric/QoE connection support additional bounded R1 construct lead; human literature retained, no study authorized.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R1"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0786",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0786",
+    "original_stored_export_reread": {
+      "title": "Microfrontends versus Monolithic Frontends: An Experimental Study on Performance in Web Applications",
+      "abstract_or_snippet": "… Studies on Web performance traditionally investigate loading optimization, bundling … , were intentionally excluded from the experimental design . Consequently, the results should be …",
+      "raw_record_metadata": "LFC Dos Santos, SRR Dos Santos… - IEEE Internet of …, 2026 - ieeexplore.ieee.org",
+      "publication_year": "2026",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "_crJuXyGlOoJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/11682950/",
+      "doi": "",
+      "duplicate_occurrence": "True",
+      "candidate_duplicate_target_E_ID": "E-0524"
+    },
+    "reread_note": "Architecture workload exclusions explicitly bound transfer; candidate E-0524 and exact 2026 date unresolved. No merger.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0787",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0787",
+    "original_stored_export_reread": {
+      "title": "Distributed web systems performance forecasting using turning bands method",
+      "abstract_or_snippet": "… to predict the Web performance . In this paper, we present Web performance prediction in time … The results show good quality of Web performance prediction made by means of the TB …",
+      "raw_record_metadata": "L Borzemski … - IEEE Transactions on …, 2012 - ieeexplore.ieee.org",
+      "publication_year": "2012",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "wMu-3-VsJQ4J",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/6198331/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Prediction in time and good quality do not demonstrate repeated-run uncertainty. R4 removed; forecasting context retained without accuracy endorsement.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0788",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0788",
+    "original_stored_export_reread": {
+      "title": "Understanding web server configuration issues",
+      "abstract_or_snippet": "… in order to quantify wide-area Web performance . We apply a similar … Experimental design We explore 11 factors in our experiments using a one-factor-at-a-time experimental design …",
+      "raw_record_metadata": "M Arlitt , C Williamson - Software: Practice and Experience, 2004 - Wiley Online Library",
+      "publication_year": "2004",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "vnjxab9WULkJ",
+      "record_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.575",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Eleven-factor OFAT is intervention design, not observation mechanism. R2 removed, R3/R6 retained with interaction limits.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R2"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0789",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0789",
+    "original_stored_export_reread": {
+      "title": "Spatio-temporal Web Performance Prediction: Turning Bands Method and Sequential Gaussian Simulation",
+      "abstract_or_snippet": "… We consider web performance in the context of data transfer throughput measured at HTTP … The experimental design for data mining to discover web performance issues in a Wide …",
+      "raw_record_metadata": "L Borzemski , M Danielak… - Procedia Computer …, 2016 - Elsevier",
+      "publication_year": "2016",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "epxXaoHG4b8J",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S1877050916320464",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "HTTP throughput explicitly states construct: add R1 and distinguish page UX. Prediction/citation does not establish R4.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R1",
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0790",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0790",
+    "original_stored_export_reread": {
+      "title": "Impact of Different HTTP Versions on Backend Application",
+      "abstract_or_snippet": "… The research employs an experimental design , deploying backend applications on Google … , in their paper \" Web performance characteristics of HTTP/2 and comparison to HTTP/1.1\" [9]. …",
+      "raw_record_metadata": "HTR Achmad, FA Yulianto - JIPI (Jurnal …, 2025 - jurnal.stkippgritulungagung.ac.id",
+      "publication_year": "2025",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "MoAW-VYa1JMJ",
+      "record_url": "https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/6442",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Backend Google deployment and HTTP-version intervention delimit workload/design transfer, not browser validation or agreement.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0791",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0791",
+    "original_stored_export_reread": {
+      "title": "Online controlled experiments at large scale",
+      "abstract_or_snippet": "… A controlled experiment provides very close to perfect information (up to the uncertainty from the p-value and other experimental design factors), but it can be more expensive than other …",
+      "raw_record_metadata": "R Kohavi , A Deng , B Frasca, T Walker , Y Xu… - Proceedings of the 19th …, 2013 - dl.acm.org",
+      "publication_year": "2013",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "hYLD9BYbdAAJ",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/2487575.2488217",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Generic p-value uncertainty is not repeated performance uncertainty. Remove R4; bounded cost/design R6 context remains.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0792",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0792",
+    "original_stored_export_reread": {
+      "title": "Navigational cues on user interface design to produce better information seeking on the World Wide Web",
+      "abstract_or_snippet": "… The dependent variable data were collected using an experimental design with students … This approach would improve Web performance thereby reducing client/server overhead, …",
+      "raw_record_metadata": "C Rumpradit, ML Donnell - … 1999. HICSS-32. Abstracts and CD …, 1999 - ieeexplore.ieee.org",
+      "publication_year": "1999",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "5lGxrrjlPS4J",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/772930/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Student navigation cue experiment is valid bounded prior interaction literature; overhead assertion not instrumentation evidence.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0793",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0793",
+    "original_stored_export_reread": {
+      "title": "Optimization of web page cache replacement strategy based on pheromone",
+      "abstract_or_snippet": "… the context of rapidly growing web traffic and increasing demands for efficient data access, optimizing cache replacement strategies has become critical for enhancing web performance . …",
+      "raw_record_metadata": "T Meng, C Lin, T Deng, Z Liao - … International Conference on …, 2025 - spiedigitallibrary.org",
+      "publication_year": "2025",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "8HcNvrsXF9oJ",
+      "record_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13692/136920L/Optimization-of-web-page-cache-replacement-strategy-based-on-pheromone/10.1117/12.3068322.short",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Cache replacement topic supports possible state/workload and prior optimization context; no corpus, method or outcome invented.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0794",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0794",
+    "original_stored_export_reread": {
+      "title": "Energy-Efficient Web Design: Measuring Impact of Front-end Optimizations",
+      "abstract_or_snippet": "… or AVIF, bundling and minifying scripts, leveraging caching strategies, and incorporating CDNs—may provide a more comprehensive understanding of sustainable web performance …",
+      "raw_record_metadata": "JA Proma, FT Zannat, MS Aftab , TA Tripty… - Proceedings of the 12th …, 2025 - dl.acm.org",
+      "publication_year": "2025",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "WPmxSR8Z5skJ",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/3777555.3777561",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "AVIF/script/cache/CDN interventions support bounded workload design. Remove R4 and avoid computational-efficiency/energy equivalence not in snippet.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0795",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0795",
+    "original_stored_export_reread": {
+      "title": "The Impact of Network Characteristics on the Accuracy of Spatial Web Performance Forecasts",
+      "abstract_or_snippet": "… knowledge the geospatial approach to Web performance prediction presented in this … The experimental design for data mining to discover web performance issues in a wide area …",
+      "raw_record_metadata": "L Borzemski , A Kamińska-Chuchmała - Recent Advances in Knowledge …, 2013 - Springer",
+      "publication_year": "2013",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "ZEtImTwdxlkJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-319-01649-8_11",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Spatial forecast accuracy and network context support R3/R6, not repeat uncertainty or tool agreement. Citation not own design evidence.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0796",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0796",
+    "original_stored_export_reread": {
+      "title": "Temporal locality and its impact on web proxy cache performance",
+      "abstract_or_snippet": "… A popular and effective technique for improving Web performance is caching. Caching is effective because a small fraction of the total documents accessed on the Web often account for …",
+      "raw_record_metadata": "A Mahanti , D Eager , C Williamson - Performance Evaluation, 2000 - Elsevier",
+      "publication_year": "2000",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "RPqgHbFNkmMJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0166531600000328",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Temporal locality/cache skew is a possible sequential dependence mechanism for R4, bounded explicitly away from a verified uncertainty estimator.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0797",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0797",
+    "original_stored_export_reread": {
+      "title": "Socket intents: Os support for using multiple access networks and its benefits for web browsing",
+      "abstract_or_snippet": "… Using a flow-based simulator and a full factorial experimental design , we study a broad … We use a single Web server since we assume that Web performance is dominated by the …",
+      "raw_record_metadata": "PS Tiesel , T Enghardt, M Palmer… - arXiv preprint arXiv …, 2018 - arxiv.org",
+      "publication_year": "2018",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "j_k0utsx5_sJ",
+      "record_url": "https://arxiv.org/abs/1804.08484",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Flow simulation/full factorial/single server are explicit: R3/R6 retained, R4 removed. arXiv preprint-like proxy unverified.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-corrected",
+    "changed_R_memberships": [
+      "R4"
+    ],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0798",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0798",
+    "original_stored_export_reread": {
+      "title": "Performance benchmarking of dynamic Web technologies",
+      "abstract_or_snippet": "… Section 4 presents our methodology and experimental design , while Section 5 presents the results of our study. Section 6 concludes the paper with a summary of our work and a …",
+      "raw_record_metadata": "L Titchkosky, M Arlitt … - 11th IEEE/ACM …, 2003 - ieeexplore.ieee.org",
+      "publication_year": "2003",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "i_PyhRt_yqUJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/1240668/",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Dynamic-technology benchmark independently retained under R6/possible R3; similarity to E-0784 left unresolved, no merger.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  },
+  {
+    "occurrence_E_ID": "E-0799",
+    "anchor": "Original Discovery/REVIEWQUEUE.csv occurrence_E_ID=E-0799",
+    "original_stored_export_reread": {
+      "title": "Age differences in search of web pages: The effects of link size, link number, and clutter",
+      "abstract_or_snippet": "… of link characteristics on Web performance , and this is particularly true for older adults. … %–65%) of the cells in the experimental design . To determine if these outliers affected the results …",
+      "raw_record_metadata": "M Grahame, J Laberge, CT Scialfa - Human factors, 2004 - journals.sagepub.com",
+      "publication_year": "2004",
+      "publication_date": "",
+      "language": "",
+      "platform_record_id": "99Pnmf1owlkJ",
+      "record_url": "https://journals.sagepub.com/doi/abs/10.1518/hfes.46.3.385.50404",
+      "doi": "",
+      "duplicate_occurrence": "False",
+      "candidate_duplicate_target_E_ID": ""
+    },
+    "reread_note": "Age/link/clutter task differences inform bounded journey factors and user transfer; outlier mention not repeated browser uncertainty.",
+    "vs_Sol_frozen_primary": "checked-no-discrepancy",
+    "vs_producer_positive_mappings": "checked-no-discrepancy",
+    "changed_R_memberships": [],
+    "scope": "Metadata-stage leads only; date/language/type/identity remain unverified; full text/citations NOT RUN",
+    "audit": "Sol separate-pass AI self-audit, not independent review"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "E-0204": ["unresolved", "R1 unclear retained: absent abstract cannot define a metric. Existing R6 is inherited only; no all-R exclusion follows."],
+  "E-0220": ["checked-no-discrepancy", "R1/R2 outside affected scope retained: MITL truth margins and timestamp noise describe neither browser metric semantics nor observation altering execution. R6 remains inherited and unverified; null language is pending."],
+  "E-0232": ["checked-no-discrepancy", "R4/R6 outside affected scope retained: the fMRI representation taxonomy and subject count do not establish repetition precision or a transferable evaluation fixture. No positive mapping remains, but routing is PENDING, not an unaudited X3."],
+  "E-0240": ["checked-no-discrepancy", "R6 support remains narrowly contextual: an ontology guides model-to-benchmark empirical evaluation, piloted on HLF/TPC-C. This is a design-process lead, not a read allocation procedure, browser validation or source-claim confirmation."],
+  "E-0241": ["checked-no-discrepancy", "R2 removal and R6 contextual support retained: chunk caching is not instrumentation, while page-first/chunk comparisons and task-local reuse explicitly distinguish workload/evaluation units. Inherited R3 retained; null language not resolved."],
+  "E-0244": ["checked-no-discrepancy", "R4 removal retained: three convergent neuroanatomic experiments and individual variation do not specify uncertainty estimation. R6 remains carried forward without a new positive scientific judgment."],
+  "E-0247": ["checked-no-discrepancy", "R4 removal retained: Datalog aggregate/fixpoint semantics and Spark gains do not supply repeated-measurement precision. Inherited R6 is not validated by this pass."],
+  "E-0254": ["checked-no-discrepancy", "R2 support restricted to explicit hardware energy capture. Filter off/on is the treatment comparator, not profiler off/on; neither sensor nonintrusion nor quantified observer overhead is established."],
+  "E-0258": ["unresolved", "R2 unclear retained: dynamic provenance instrumentation in a title is a retrieval lead, with no abstract specifying captured state or perturbation. No invented exclusion."],
+  "E-0267": ["unresolved", "Both R4 and R6 unclear retained: no abstract or known language; controlled-browser/statistical-analysis title does not reveal uncertainty hierarchy or evaluation design. PENDING routing preserves the lead."]
+}

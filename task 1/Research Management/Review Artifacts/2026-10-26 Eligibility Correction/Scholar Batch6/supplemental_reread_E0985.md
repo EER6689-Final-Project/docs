@@ -1,0 +1,3 @@
+## E-0985 | Artificial Intelligence in the Service of Digital Accessibility–Evaluating the Effectiveness of AI Models in Website Accessibility Auditing Compared to Traditional Methods
+Metadata: M Pilski - EdMedia, 2026 - learntechlib.org | year=2026 | date= | language= | platform ID=jq_OZ81yPCkJ | URL=https://www.learntechlib.org/p/2129732/
+Complete stored snippet (not abstract): … developed to ensure objective comparison . Results indicate that … increasing its objectivity and repeatability . The most significant … The first is Google Lighthouse , an integrated tool that …

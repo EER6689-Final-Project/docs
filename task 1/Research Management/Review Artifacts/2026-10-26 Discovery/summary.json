@@ -1,0 +1,237 @@
+{
+  "freeze": "ERP-2026-10-25-v1.0",
+  "artifact_date": "2026-10-26",
+  "eligibility_cutoff": "2026-10-25 inclusive",
+  "purpose": "Preservation and corrective pending review, not completed screening",
+  "occurrences": 838,
+  "platform_occurrences": {
+    "OpenAlex": 300,
+    "Google Scholar": 538
+  },
+  "provisional_triage_only": {
+    "X3": 144,
+    "ADVANCE": 613,
+    "X2": 3,
+    "DUP": 78
+  },
+  "provisional_counts_by_Q_ID": {
+    "Q-200": {
+      "X3": 41,
+      "ADVANCE": 8,
+      "X2": 1
+    },
+    "Q-201": {
+      "ADVANCE": 44,
+      "X3": 6
+    },
+    "Q-202": {
+      "ADVANCE": 13,
+      "DUP": 1,
+      "X3": 36
+    },
+    "Q-203": {
+      "ADVANCE": 29,
+      "X3": 20,
+      "DUP": 1
+    },
+    "Q-204": {
+      "ADVANCE": 39,
+      "X3": 11
+    },
+    "Q-205": {
+      "ADVANCE": 17,
+      "X3": 30,
+      "DUP": 1,
+      "X2": 2
+    },
+    "Q-206": {
+      "ADVANCE": 43,
+      "DUP": 7
+    },
+    "Q-207": {
+      "ADVANCE": 39,
+      "DUP": 11
+    },
+    "Q-208": {
+      "ADVANCE": 40,
+      "DUP": 10
+    },
+    "Q-209": {
+      "ADVANCE": 50
+    },
+    "Q-210": {
+      "ADVANCE": 46,
+      "DUP": 4
+    },
+    "Q-211": {
+      "ADVANCE": 42,
+      "DUP": 8
+    },
+    "Q-224": {
+      "ADVANCE": 43,
+      "DUP": 7
+    },
+    "Q-225": {
+      "ADVANCE": 40,
+      "DUP": 10
+    },
+    "Q-226": {
+      "ADVANCE": 28,
+      "DUP": 10
+    },
+    "Q-227": {
+      "ADVANCE": 50
+    },
+    "Q-228": {
+      "ADVANCE": 42,
+      "DUP": 8
+    }
+  },
+  "canonical_pending_counts": {
+    "STAGE1-PENDING": 838
+  },
+  "validated_new_eligibility_outcomes_in_this_audit": {
+    "included": 0,
+    "excluded": 0
+  },
+  "unique_works": "unknown; complete canonical crosswalk pending",
+  "identity_annotations": {
+    "reported_existing_aliases": 2,
+    "unreviewed_heuristic_duplicate_candidates": 76,
+    "other_occurrences_needing_crosswalk": 760
+  },
+  "new_S_IDs_allocated": 0,
+  "occurrence_ID_allocation": {
+    "first": "E-0200",
+    "last": "E-1037",
+    "date": "2026-10-26",
+    "basis": "unaltered source CSV row order; new allocation, not retrospective screening attestation",
+    "collision_check": "No exact E-ID matches in other repository md/csv/json/txt files at allocation",
+    "prior_reservation": "E-0200..E-0999; orchestrator extended through E-1037"
+  },
+  "request_receipts": 95,
+  "receipt_categories": {
+    "diagnostic Scholar request; not additional occurrence inventory": 44,
+    "selected OpenAlex window": 6,
+    "Google JS shell; organic results unknown": 6,
+    "Bing explicit no-results page; 0 organic retrieved, not absence proof": 6,
+    "selected Scholar page": 33
+  },
+  "abstract_status": {
+    "OpenAlex inverted-index reconstructed abstract": 246,
+    "No abstract supplied": 54,
+    "Scholar snippet only; not abstract/full text": 538
+  },
+  "C3": {
+    "Q_ID": "Q-226",
+    "exported_occurrences": 38,
+    "coverage": "partial first-50; not complete fewer-than-50",
+    "observed_requested_offset_ordinals": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      41,
+      42,
+      43,
+      44
+    ],
+    "missing_nominal_ordinals": [
+      19,
+      20,
+      37,
+      38,
+      39,
+      40,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "rank_stability": "not verified"
+  },
+  "web_coverage": {
+    "Google": {
+      "requests": 6,
+      "organic_result_count": "unknown; JS shells unparsed"
+    },
+    "Bing": {
+      "requests": 6,
+      "organic_records_retrieved_per_request": 0,
+      "interpretation": "explicit captured no-results pages, not source absence"
+    }
+  },
+  "filters": {
+    "Scholar_exact_cutoff": "uncertified; year-only UI",
+    "Scholar_patent_exclusion": "uncertified",
+    "OpenAlex_cutoff": "submitted API filter, not independent original-source date check",
+    "language": "full-text/authorized translation not verified; no blanket metadata exclusion"
+  },
+  "corrective_review": {
+    "critical_deviation": "Automatic keyword X3 and metadata-language X2 do not establish ERP section 7 eligibility; section 9 pattern-wide corrective list pending",
+    "automatic_exclusions_to_validate": 147,
+    "X3_to_validate": 144,
+    "X2_to_validate": 3,
+    "expanded_list_occurrences": 838,
+    "protocol_amendment": "none; no retrospective legitimation",
+    "checker": "Sol separate-pass AI artifact audit, not independent human scientific review"
+  },
+  "passes": {
+    "semantic_eligibility": "not evidenced itemwise; pending for all occurrences",
+    "fulltext": "NOT RUN",
+    "citation": "NOT RUN",
+    "passage_QC": "NOT RUN in discovery"
+  },
+  "gates": {
+    "G3": "OPEN",
+    "G4": "OPEN"
+  },
+  "handoff_discrepancies": [
+    {
+      "Q_ID": "Q-210",
+      "handoff": "50 ADVANCE",
+      "CSV": "46 ADVANCE + 4 DUP"
+    },
+    {
+      "Q_ID": "Q-211",
+      "handoff": "50 ADVANCE",
+      "CSV": "42 ADVANCE + 8 DUP"
+    }
+  ],
+  "raw_HTTP_bodies": "scratch /tmp/opencode/eei6689-discovery only; not archived in repository",
+  "library_writes": false,
+  "shared_tracker_edits": false,
+  "staging_or_commits": false
+}

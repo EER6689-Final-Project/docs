@@ -1,0 +1,809 @@
+{
+  "created_utc": "2026-10-26T05:42:43.445728+00:00",
+  "selection": "First occurrence EID per nonempty final mapped R/type group; no RIDs invented for unresolved rows",
+  "groups": [
+    {
+      "RID": "R1",
+      "metadata_type": "article",
+      "members": [
+        "E-0218",
+        "E-0248",
+        "E-0252",
+        "E-0350",
+        "E-0381",
+        "E-0390",
+        "E-0439",
+        "E-0440",
+        "E-0442",
+        "E-0480",
+        "E-0488",
+        "E-0491",
+        "E-0498"
+      ],
+      "selected": "E-0218",
+      "nonselected_count": 12,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0204",
+        "E-0220",
+        "E-0278",
+        "E-0461",
+        "E-0466",
+        "E-0485"
+      ],
+      "selected": "E-0204",
+      "nonselected_count": 5,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0277",
+        "E-0287",
+        "E-0310"
+      ],
+      "selected": "E-0277",
+      "nonselected_count": 2,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0240",
+        "E-0382"
+      ],
+      "selected": "E-0240",
+      "nonselected_count": 1,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "report",
+      "members": [
+        "E-0445"
+      ],
+      "selected": "E-0445",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0259",
+        "E-0275",
+        "E-0279",
+        "E-0298",
+        "E-0324",
+        "E-0350",
+        "E-0385",
+        "E-0446",
+        "E-0491",
+        "E-0499"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 10,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0220",
+        "E-0254",
+        "E-0258",
+        "E-0278",
+        "E-0294",
+        "E-0295",
+        "E-0469",
+        "E-0483"
+      ],
+      "selected": "E-0220",
+      "nonselected_count": 7,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0251",
+        "E-0277",
+        "E-0280",
+        "E-0287",
+        "E-0310"
+      ],
+      "selected": "E-0251",
+      "nonselected_count": 4,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0241",
+        "E-0283",
+        "E-0286",
+        "E-0342"
+      ],
+      "selected": "E-0241",
+      "nonselected_count": 3,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "review",
+      "members": [
+        "E-0441"
+      ],
+      "selected": "E-0441",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "article",
+      "members": [
+        "E-0203",
+        "E-0218",
+        "E-0252",
+        "E-0275",
+        "E-0282",
+        "E-0304",
+        "E-0324",
+        "E-0340",
+        "E-0341",
+        "E-0385",
+        "E-0443",
+        "E-0454",
+        "E-0457",
+        "E-0465",
+        "E-0480",
+        "E-0488",
+        "E-0489",
+        "E-0498",
+        "E-0499"
+      ],
+      "selected": "E-0203",
+      "nonselected_count": 18,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "conference-abstract",
+      "members": [
+        "E-0221"
+      ],
+      "selected": "E-0221",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0201",
+        "E-0254",
+        "E-0278",
+        "E-0289",
+        "E-0306",
+        "E-0308",
+        "E-0319",
+        "E-0366",
+        "E-0459",
+        "E-0461",
+        "E-0468",
+        "E-0485",
+        "E-0496"
+      ],
+      "selected": "E-0201",
+      "nonselected_count": 12,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0310"
+      ],
+      "selected": "E-0310",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0241",
+        "E-0323",
+        "E-0325",
+        "E-0328",
+        "E-0330",
+        "E-0342",
+        "E-0358"
+      ],
+      "selected": "E-0241",
+      "nonselected_count": 6,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "report",
+      "members": [
+        "E-0349",
+        "E-0375"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 1,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "article",
+      "members": [
+        "E-0244",
+        "E-0247",
+        "E-0353",
+        "E-0355",
+        "E-0356",
+        "E-0360",
+        "E-0363",
+        "E-0367",
+        "E-0368",
+        "E-0376",
+        "E-0379",
+        "E-0381",
+        "E-0383",
+        "E-0385",
+        "E-0387",
+        "E-0390",
+        "E-0393",
+        "E-0394",
+        "E-0399",
+        "E-0419",
+        "E-0425",
+        "E-0426",
+        "E-0428",
+        "E-0438",
+        "E-0439",
+        "E-0442",
+        "E-0444",
+        "E-0447",
+        "E-0467",
+        "E-0470",
+        "E-0478",
+        "E-0492",
+        "E-0494"
+      ],
+      "selected": "E-0244",
+      "nonselected_count": 32,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0351",
+        "E-0352",
+        "E-0466",
+        "E-0468",
+        "E-0469",
+        "E-0483",
+        "E-0496"
+      ],
+      "selected": "E-0351",
+      "nonselected_count": 6,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0432"
+      ],
+      "selected": "E-0432",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "other",
+      "members": [
+        "E-0397"
+      ],
+      "selected": "E-0397",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0232",
+        "E-0267",
+        "E-0354",
+        "E-0362",
+        "E-0364",
+        "E-0369",
+        "E-0378",
+        "E-0382",
+        "E-0412"
+      ],
+      "selected": "E-0232",
+      "nonselected_count": 8,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "report",
+      "members": [
+        "E-0371",
+        "E-0386"
+      ],
+      "selected": "E-0371",
+      "nonselected_count": 1,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0355",
+        "E-0360",
+        "E-0376",
+        "E-0381",
+        "E-0387",
+        "E-0390",
+        "E-0394",
+        "E-0399",
+        "E-0419",
+        "E-0425",
+        "E-0428",
+        "E-0436",
+        "E-0437",
+        "E-0438",
+        "E-0439",
+        "E-0440",
+        "E-0442",
+        "E-0443",
+        "E-0444",
+        "E-0446",
+        "E-0447"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 21,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0292",
+        "E-0308",
+        "E-0352",
+        "E-0366"
+      ],
+      "selected": "E-0292",
+      "nonselected_count": 3,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0432"
+      ],
+      "selected": "E-0432",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0325",
+        "E-0362",
+        "E-0412"
+      ],
+      "selected": "E-0325",
+      "nonselected_count": 2,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "report",
+      "members": [
+        "E-0375",
+        "E-0386",
+        "E-0445"
+      ],
+      "selected": "E-0375",
+      "nonselected_count": 2,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "review",
+      "members": [
+        "E-0441"
+      ],
+      "selected": "E-0441",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "article",
+      "members": [
+        "E-0203",
+        "E-0218",
+        "E-0237",
+        "E-0244",
+        "E-0247",
+        "E-0248",
+        "E-0252",
+        "E-0259",
+        "E-0275",
+        "E-0282",
+        "E-0298",
+        "E-0304",
+        "E-0324",
+        "E-0340",
+        "E-0341",
+        "E-0346",
+        "E-0350",
+        "E-0353",
+        "E-0356",
+        "E-0363",
+        "E-0367",
+        "E-0368",
+        "E-0376",
+        "E-0379",
+        "E-0381",
+        "E-0383",
+        "E-0385",
+        "E-0390",
+        "E-0393",
+        "E-0399",
+        "E-0437",
+        "E-0440",
+        "E-0443",
+        "E-0446",
+        "E-0447",
+        "E-0454",
+        "E-0457",
+        "E-0465",
+        "E-0467",
+        "E-0470",
+        "E-0478",
+        "E-0480",
+        "E-0488",
+        "E-0489",
+        "E-0491",
+        "E-0492",
+        "E-0494",
+        "E-0498",
+        "E-0499"
+      ],
+      "selected": "E-0203",
+      "nonselected_count": 48,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "conference-abstract",
+      "members": [
+        "E-0221"
+      ],
+      "selected": "E-0221",
+      "nonselected_count": 0,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0201",
+        "E-0204",
+        "E-0220",
+        "E-0249",
+        "E-0254",
+        "E-0278",
+        "E-0289",
+        "E-0292",
+        "E-0294",
+        "E-0295",
+        "E-0306",
+        "E-0308",
+        "E-0319",
+        "E-0351",
+        "E-0366",
+        "E-0459",
+        "E-0461",
+        "E-0466",
+        "E-0468",
+        "E-0469",
+        "E-0483",
+        "E-0485",
+        "E-0496"
+      ],
+      "selected": "E-0201",
+      "nonselected_count": 22,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0251",
+        "E-0280",
+        "E-0287",
+        "E-0310",
+        "E-0432"
+      ],
+      "selected": "E-0251",
+      "nonselected_count": 4,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0232",
+        "E-0240",
+        "E-0241",
+        "E-0267",
+        "E-0283",
+        "E-0286",
+        "E-0323",
+        "E-0325",
+        "E-0328",
+        "E-0330",
+        "E-0335",
+        "E-0342",
+        "E-0354",
+        "E-0358",
+        "E-0364",
+        "E-0369",
+        "E-0378",
+        "E-0382"
+      ],
+      "selected": "E-0232",
+      "nonselected_count": 17,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "report",
+      "members": [
+        "E-0349",
+        "E-0371",
+        "E-0375"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 2,
+      "status": "PLANNED ONLY; no post-correction group recheck claimed"
+    }
+  ],
+  "unresolved_unmapped_rows": [
+    "E-0206",
+    "E-0207",
+    "E-0209",
+    "E-0210",
+    "E-0212",
+    "E-0215",
+    "E-0222",
+    "E-0224",
+    "E-0227",
+    "E-0229",
+    "E-0230",
+    "E-0236",
+    "E-0238",
+    "E-0239",
+    "E-0242",
+    "E-0245",
+    "E-0246",
+    "E-0250",
+    "E-0255",
+    "E-0256",
+    "E-0257",
+    "E-0260",
+    "E-0261",
+    "E-0262",
+    "E-0264",
+    "E-0265",
+    "E-0266",
+    "E-0268",
+    "E-0269",
+    "E-0271",
+    "E-0272",
+    "E-0273",
+    "E-0274",
+    "E-0276",
+    "E-0281",
+    "E-0284",
+    "E-0285",
+    "E-0288",
+    "E-0290",
+    "E-0291",
+    "E-0293",
+    "E-0296",
+    "E-0297",
+    "E-0299",
+    "E-0300",
+    "E-0301",
+    "E-0302",
+    "E-0303",
+    "E-0309",
+    "E-0311",
+    "E-0313",
+    "E-0314",
+    "E-0315",
+    "E-0316",
+    "E-0317",
+    "E-0322",
+    "E-0327",
+    "E-0329",
+    "E-0331",
+    "E-0332",
+    "E-0333",
+    "E-0334",
+    "E-0337",
+    "E-0343",
+    "E-0345",
+    "E-0347",
+    "E-0348",
+    "E-0357",
+    "E-0359",
+    "E-0361",
+    "E-0365",
+    "E-0372",
+    "E-0373",
+    "E-0374",
+    "E-0377",
+    "E-0380",
+    "E-0384",
+    "E-0388",
+    "E-0389",
+    "E-0391",
+    "E-0392",
+    "E-0395",
+    "E-0396",
+    "E-0398",
+    "E-0400",
+    "E-0401",
+    "E-0402",
+    "E-0403",
+    "E-0404",
+    "E-0405",
+    "E-0406",
+    "E-0408",
+    "E-0409",
+    "E-0410",
+    "E-0411",
+    "E-0413",
+    "E-0414",
+    "E-0415",
+    "E-0416",
+    "E-0417",
+    "E-0418",
+    "E-0420",
+    "E-0421",
+    "E-0422",
+    "E-0423",
+    "E-0424",
+    "E-0429",
+    "E-0430",
+    "E-0431",
+    "E-0433",
+    "E-0434",
+    "E-0435",
+    "E-0448",
+    "E-0449",
+    "E-0450",
+    "E-0451",
+    "E-0452",
+    "E-0453",
+    "E-0455",
+    "E-0456",
+    "E-0458",
+    "E-0462",
+    "E-0463",
+    "E-0464",
+    "E-0471",
+    "E-0476",
+    "E-0477",
+    "E-0479",
+    "E-0482",
+    "E-0486",
+    "E-0490"
+  ],
+  "final_QC": "OPEN; snapshot for next separate pass, not retrospective success"
+}

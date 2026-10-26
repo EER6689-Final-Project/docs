@@ -1,0 +1,286 @@
+{
+  "note": "Post-QC descriptive coverage, not a retrospective replacement for the prospective secondary freeze. All final groups are covered by already-frozen all75 selection.",
+  "groups": {
+    "R1 / conference-chapter": {
+      "members": [
+        "E-4062",
+        "E-4078"
+      ],
+      "first": "E-4062",
+      "first_actually_checked": true
+    },
+    "R1 / conference-paper": {
+      "members": [
+        "E-4072",
+        "E-4088",
+        "E-4093",
+        "E-4099"
+      ],
+      "first": "E-4072",
+      "first_actually_checked": true
+    },
+    "R1 / journal-paper": {
+      "members": [
+        "E-4052",
+        "E-4077",
+        "E-4086",
+        "E-4087",
+        "E-4090",
+        "E-4094"
+      ],
+      "first": "E-4052",
+      "first_actually_checked": true
+    },
+    "R1 / manuscript": {
+      "members": [
+        "E-4057",
+        "E-4070"
+      ],
+      "first": "E-4057",
+      "first_actually_checked": true
+    },
+    "R1 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "first": "E-4074",
+      "first_actually_checked": true
+    },
+    "R1 / thesis": {
+      "members": [
+        "E-4063",
+        "E-4081"
+      ],
+      "first": "E-4063",
+      "first_actually_checked": true
+    },
+    "R1 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "first": "E-4053",
+      "first_actually_checked": true
+    },
+    "R2 / conference-chapter": {
+      "members": [
+        "E-4029"
+      ],
+      "first": "E-4029",
+      "first_actually_checked": true
+    },
+    "R2 / conference-paper": {
+      "members": [
+        "E-4045"
+      ],
+      "first": "E-4045",
+      "first_actually_checked": true
+    },
+    "R2 / internal-report": {
+      "members": [
+        "E-4047"
+      ],
+      "first": "E-4047",
+      "first_actually_checked": true
+    },
+    "R2 / native-thesis": {
+      "members": [
+        "E-4025"
+      ],
+      "first": "E-4025",
+      "first_actually_checked": true
+    },
+    "R2 / technical-book": {
+      "members": [
+        "E-4028"
+      ],
+      "first": "E-4028",
+      "first_actually_checked": true
+    },
+    "R2 / technical-report": {
+      "members": [
+        "E-4030"
+      ],
+      "first": "E-4030",
+      "first_actually_checked": true
+    },
+    "R2 / thesis": {
+      "members": [
+        "E-4034",
+        "E-4038",
+        "E-4041",
+        "E-4046"
+      ],
+      "first": "E-4034",
+      "first_actually_checked": true
+    },
+    "R3 / conference-chapter": {
+      "members": [
+        "E-4054"
+      ],
+      "first": "E-4054",
+      "first_actually_checked": true
+    },
+    "R3 / conference-paper": {
+      "members": [
+        "E-4084",
+        "E-4095"
+      ],
+      "first": "E-4084",
+      "first_actually_checked": true
+    },
+    "R3 / journal-paper": {
+      "members": [
+        "E-4051",
+        "E-4058",
+        "E-4077",
+        "E-4085",
+        "E-4086",
+        "E-4094",
+        "E-4096"
+      ],
+      "first": "E-4051",
+      "first_actually_checked": true
+    },
+    "R3 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "first": "E-4074",
+      "first_actually_checked": true
+    },
+    "R3 / survey": {
+      "members": [
+        "E-4050"
+      ],
+      "first": "E-4050",
+      "first_actually_checked": true
+    },
+    "R3 / technical-book": {
+      "members": [
+        "E-4061",
+        "E-4066",
+        "E-4071"
+      ],
+      "first": "E-4061",
+      "first_actually_checked": true
+    },
+    "R3 / thesis": {
+      "members": [
+        "E-4034",
+        "E-4041",
+        "E-4063",
+        "E-4081",
+        "E-4082"
+      ],
+      "first": "E-4034",
+      "first_actually_checked": true
+    },
+    "R3 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "first": "E-4053",
+      "first_actually_checked": true
+    },
+    "R6 / conference-chapter": {
+      "members": [
+        "E-4029",
+        "E-4062",
+        "E-4078"
+      ],
+      "first": "E-4029",
+      "first_actually_checked": true
+    },
+    "R6 / conference-paper": {
+      "members": [
+        "E-4069",
+        "E-4072",
+        "E-4084",
+        "E-4088",
+        "E-4093",
+        "E-4095",
+        "E-4099"
+      ],
+      "first": "E-4069",
+      "first_actually_checked": true
+    },
+    "R6 / journal-paper": {
+      "members": [
+        "E-4052",
+        "E-4056",
+        "E-4058",
+        "E-4068",
+        "E-4073",
+        "E-4080",
+        "E-4085",
+        "E-4087",
+        "E-4090",
+        "E-4092",
+        "E-4094",
+        "E-4096"
+      ],
+      "first": "E-4052",
+      "first_actually_checked": true
+    },
+    "R6 / manuscript": {
+      "members": [
+        "E-4057",
+        "E-4070"
+      ],
+      "first": "E-4057",
+      "first_actually_checked": true
+    },
+    "R6 / preparatory-report": {
+      "members": [
+        "E-4074"
+      ],
+      "first": "E-4074",
+      "first_actually_checked": true
+    },
+    "R6 / preprint": {
+      "members": [
+        "E-4098"
+      ],
+      "first": "E-4098",
+      "first_actually_checked": true
+    },
+    "R6 / survey": {
+      "members": [
+        "E-4050"
+      ],
+      "first": "E-4050",
+      "first_actually_checked": true
+    },
+    "R6 / technical-book": {
+      "members": [
+        "E-4066"
+      ],
+      "first": "E-4066",
+      "first_actually_checked": true
+    },
+    "R6 / technical-book-chapter": {
+      "members": [
+        "E-4083"
+      ],
+      "first": "E-4083",
+      "first_actually_checked": true
+    },
+    "R6 / thesis": {
+      "members": [
+        "E-4059",
+        "E-4060",
+        "E-4076",
+        "E-4082"
+      ],
+      "first": "E-4059",
+      "first_actually_checked": true
+    },
+    "R6 / web-article": {
+      "members": [
+        "E-4053"
+      ],
+      "first": "E-4053",
+      "first_actually_checked": true
+    }
+  }
+}

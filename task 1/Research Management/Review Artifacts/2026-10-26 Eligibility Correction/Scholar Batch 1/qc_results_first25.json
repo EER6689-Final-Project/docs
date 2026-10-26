@@ -1,0 +1,146 @@
+{
+  "frozen_targets": 25,
+  "actual_checked": 25,
+  "proposed_exclusion_targets": 1,
+  "proposed_exclusions_checked": 1,
+  "proposed_exclusions_standing": 1,
+  "exclusion_changes": 0,
+  "first_per_R_group_frozen": {
+    "R1": "E-0501",
+    "R3": "E-0501",
+    "R6": "E-0501",
+    "R5": "E-0503",
+    "R2": "E-0505",
+    "R4": "E-0508"
+  },
+  "group_samples_checked": 6,
+  "all_first25_rechecked": true,
+  "independent_human_review": false,
+  "results": [
+    {
+      "E_ID": "E-0500",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0501",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0502",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0503",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0504",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0505",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0506",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0507",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0508",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0509",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0510",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0511",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0512",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0513",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0514",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0515",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0516",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0517",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0518",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0519",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0520",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0521",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0522",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0523",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    },
+    {
+      "E_ID": "E-0524",
+      "QC": "checked",
+      "finding": "Rationale matches frozen title/snippet scope; no field/judgment correction required."
+    }
+  ]
+}

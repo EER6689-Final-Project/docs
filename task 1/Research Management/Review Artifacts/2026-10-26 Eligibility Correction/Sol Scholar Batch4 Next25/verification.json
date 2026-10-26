@@ -1,0 +1,33 @@
+{
+  "verified_utc": "2026-10-26T07:02:53.547905+00:00",
+  "original_columns": 56,
+  "original_field_comparisons": 1400,
+  "all_original_queue_values_unchanged": true,
+  "new_overlay_fields_effective_prefix_only": true,
+  "exact25_target_order": true,
+  "exact_event_order": true,
+  "all25_have_explicit_six_question_judgments": true,
+  "source_and_completed25_producer_hashes": {
+    "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv": {
+      "frozen_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "current_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch4 Remaining75/overlay_first25.csv": {
+      "frozen_sha256": "735c19ec39678019e4133f2a9fb99d64020c49309384b6de77999062828cf614",
+      "current_sha256": "735c19ec39678019e4133f2a9fb99d64020c49309384b6de77999062828cf614",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch4 Remaining75/authored_judgments_first25.json": {
+      "frozen_sha256": "39a1e1c2481d70936d136588fcb9868e2c8da6a576265694ed2bc8a5c48ad551",
+      "current_sha256": "39a1e1c2481d70936d136588fcb9868e2c8da6a576265694ed2bc8a5c48ad551",
+      "unchanged": true
+    }
+  },
+  "freeze_preceded_original_read": true,
+  "qa_freeze_preceded_actual_secondary_reread": true,
+  "qa_selected_equals_actual": true,
+  "all_proposed_exclusions_checked": true,
+  "no_shared_or_original_writes": true,
+  "freeze_boundary_note": "Initial byte-hash receipt included all then-present producer directory files, including remaining50_freeze.json. That concurrent file was not semantically read, used for decisions, or revalidated. Only completed first25 overlay/authored judgments are consumed. Other batches were not semantically read; same-batch prior freeze.py was inspected for schema/workflow only."
+}

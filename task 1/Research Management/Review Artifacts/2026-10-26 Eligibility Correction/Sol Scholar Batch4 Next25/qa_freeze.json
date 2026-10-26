@@ -1,0 +1,195 @@
+{
+  "created_utc": "2026-10-26T07:01:19.084274+00:00",
+  "phase": "before secondary stored-original rereads",
+  "primary_sha256": "e90c45f2037c9bdc6044e726db0a5b215ca4a4152cd621f93e770677106d55d4",
+  "overlay_sha256": "d90d1c52bbc3b5b743a5411e187a5b1ed6a00d10af158941704500af8c3fbbd9",
+  "all_proposed_exclusions": [],
+  "rule": "all exclusions plus lexicographically first EID per explicit positive R/type-proxy group; also each no-positive pending type proxy",
+  "groups": {
+    "PENDING / identity_ambiguous": {
+      "members": [
+        "E-0742"
+      ],
+      "selected": "E-0742",
+      "nonselected_count": 0
+    },
+    "PENDING / software_measurement_unclear": {
+      "members": [
+        "E-0741"
+      ],
+      "selected": "E-0741",
+      "nonselected_count": 0
+    },
+    "R4 / context_review": {
+      "members": [
+        "E-0745"
+      ],
+      "selected": "E-0745",
+      "nonselected_count": 0
+    },
+    "R4 / empirical_application": {
+      "members": [
+        "E-0728",
+        "E-0732",
+        "E-0733",
+        "E-0735",
+        "E-0736",
+        "E-0737",
+        "E-0746",
+        "E-0749"
+      ],
+      "selected": "E-0728",
+      "nonselected_count": 7
+    },
+    "R4 / methodological_lead": {
+      "members": [
+        "E-0740",
+        "E-0743",
+        "E-0744",
+        "E-0748"
+      ],
+      "selected": "E-0740",
+      "nonselected_count": 3
+    },
+    "R4 / reporting_statement": {
+      "members": [
+        "E-0747"
+      ],
+      "selected": "E-0747",
+      "nonselected_count": 0
+    },
+    "R4 / software_method": {
+      "members": [
+        "E-0729"
+      ],
+      "selected": "E-0729",
+      "nonselected_count": 0
+    },
+    "R5 / context_review": {
+      "members": [
+        "E-0725",
+        "E-0730",
+        "E-0738",
+        "E-0739",
+        "E-0745"
+      ],
+      "selected": "E-0725",
+      "nonselected_count": 4
+    },
+    "R5 / empirical_application": {
+      "members": [
+        "E-0727",
+        "E-0728",
+        "E-0731",
+        "E-0732",
+        "E-0733",
+        "E-0735",
+        "E-0736",
+        "E-0737",
+        "E-0746",
+        "E-0749"
+      ],
+      "selected": "E-0727",
+      "nonselected_count": 9
+    },
+    "R5 / methodological_lead": {
+      "members": [
+        "E-0726",
+        "E-0740",
+        "E-0743",
+        "E-0744",
+        "E-0748"
+      ],
+      "selected": "E-0726",
+      "nonselected_count": 4
+    },
+    "R5 / reporting_statement": {
+      "members": [
+        "E-0747"
+      ],
+      "selected": "E-0747",
+      "nonselected_count": 0
+    },
+    "R5 / software_method": {
+      "members": [
+        "E-0729",
+        "E-0734"
+      ],
+      "selected": "E-0729",
+      "nonselected_count": 1
+    }
+  },
+  "selected_ids": [
+    "E-0725",
+    "E-0726",
+    "E-0727",
+    "E-0728",
+    "E-0729",
+    "E-0740",
+    "E-0741",
+    "E-0742",
+    "E-0745",
+    "E-0747"
+  ],
+  "selected_count": 10,
+  "status": "PLANNED; not checked by manifest creation",
+  "type_boundary": "Proxies are exported-title/metadata cues, not verified source types",
+  "original_columns": [
+    "occurrence_E_ID",
+    "source_csv_row_1based",
+    "operation",
+    "query",
+    "rank",
+    "title",
+    "display_record_label",
+    "dedup_key",
+    "duplicate_occurrence",
+    "first_occurrence",
+    "local_exact_filename_match",
+    "publication_year",
+    "publication_date",
+    "language",
+    "source_platform",
+    "abstract_or_snippet",
+    "abstract_status",
+    "stage1_decision",
+    "stage1_primary_code",
+    "stage1_reason",
+    "stage2",
+    "reviewer",
+    "review_date",
+    "SID",
+    "Q_ID",
+    "platform_record_id",
+    "record_url",
+    "doi",
+    "raw_record_metadata",
+    "canonical_crosswalk",
+    "canonical_SID",
+    "rank_basis",
+    "canonical_pending_state",
+    "canonical_pending_reason",
+    "canonical_identity_status",
+    "candidate_duplicate_target_E_ID",
+    "raw_first_occurrence_E_ID",
+    "canonical_work_ID",
+    "canonical_primary_exclusion_code",
+    "semantic_eligibility",
+    "source_type_fit",
+    "candidate_relevance",
+    "date_eligibility",
+    "fulltext_language_translation",
+    "fulltext_pass",
+    "citation_pass",
+    "claim_support",
+    "methodological_confidence",
+    "pending_reviewer",
+    "audit_type",
+    "allocation_date",
+    "request_url",
+    "request_timestamp_local",
+    "request_timestamp_utc",
+    "response_sha256_claimed",
+    "raw_body_location_scratch_only"
+  ]
+}

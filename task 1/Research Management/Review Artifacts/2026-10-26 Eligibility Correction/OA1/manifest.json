@@ -1,0 +1,913 @@
+{
+  "manifest_type": "prospective continuation/correction manifest; original scratch manifest was not durable",
+  "created_at_local": "2026-10-26T10:48:49+05:30",
+  "freeze_before_this_correction_pass": true,
+  "protocol": "ERP-2026-10-25-v1.0",
+  "input_path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "input_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "selection_rule": "first 150 source_platform=OpenAlex occurrences in original REVIEWQUEUE.csv row order",
+  "selected_count": 150,
+  "occurrences": [
+    {
+      "source_csv_row_1based": 1,
+      "target_occurrence_EID": "E-0200",
+      "platform_record_id": "https://openalex.org/W2898796029",
+      "title": "ColNet: Embedding the Semantics of Web Tables for Column Type Prediction"
+    },
+    {
+      "source_csv_row_1based": 2,
+      "target_occurrence_EID": "E-0201",
+      "platform_record_id": "https://openalex.org/W4366549916",
+      "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics"
+    },
+    {
+      "source_csv_row_1based": 3,
+      "target_occurrence_EID": "E-0202",
+      "platform_record_id": "https://openalex.org/W4391290503",
+      "title": "Developing a semantic framework for categorizing IoT agriculture sensor data: A machine learning and web semantics approach"
+    },
+    {
+      "source_csv_row_1based": 4,
+      "target_occurrence_EID": "E-0203",
+      "platform_record_id": "https://openalex.org/W2158273074",
+      "title": "An adaptive semantics-aware replacement algorithm for web caching"
+    },
+    {
+      "source_csv_row_1based": 5,
+      "target_occurrence_EID": "E-0204",
+      "platform_record_id": "https://openalex.org/W1575585528",
+      "title": "Enhancing Web Performance"
+    },
+    {
+      "source_csv_row_1based": 6,
+      "target_occurrence_EID": "E-0205",
+      "platform_record_id": "https://openalex.org/W1523783981",
+      "title": "Improving Web Recommendations Using Web Usage Mining and Web Semantics"
+    },
+    {
+      "source_csv_row_1based": 7,
+      "target_occurrence_EID": "E-0206",
+      "platform_record_id": "https://openalex.org/W217313739",
+      "title": "Latent Semantic Analysis – The Dynamics of Semantics Web Services Discovery"
+    },
+    {
+      "source_csv_row_1based": 8,
+      "target_occurrence_EID": "E-0207",
+      "platform_record_id": "https://openalex.org/W123069810",
+      "title": "Getting the Meaning Right: A Complementary Distributional Layer for the Web Semantics"
+    },
+    {
+      "source_csv_row_1based": 9,
+      "target_occurrence_EID": "E-0208",
+      "platform_record_id": "https://openalex.org/W2803865615",
+      "title": "Surface Web Semantics for Structured Natural Language Processing"
+    },
+    {
+      "source_csv_row_1based": 10,
+      "target_occurrence_EID": "E-0209",
+      "platform_record_id": "https://openalex.org/W2592542762",
+      "title": "Web service composition techniques based on semantics: A comparative study"
+    },
+    {
+      "source_csv_row_1based": 11,
+      "target_occurrence_EID": "E-0210",
+      "platform_record_id": "https://openalex.org/W3170186186",
+      "title": "Extracting and Learning Semantics from Social Web Data"
+    },
+    {
+      "source_csv_row_1based": 12,
+      "target_occurrence_EID": "E-0211",
+      "platform_record_id": "https://openalex.org/W2606342375",
+      "title": "The Interplay of Semantics and Morphology in Word Embeddings"
+    },
+    {
+      "source_csv_row_1based": 13,
+      "target_occurrence_EID": "E-0212",
+      "platform_record_id": "https://openalex.org/W2062913298",
+      "title": "Contextual semantics for sentiment analysis of Twitter"
+    },
+    {
+      "source_csv_row_1based": 14,
+      "target_occurrence_EID": "E-0213",
+      "platform_record_id": "https://openalex.org/W3049122368",
+      "title": "Using Data Sciences in Digital Marketing: Framework, methods, and performance metrics"
+    },
+    {
+      "source_csv_row_1based": 15,
+      "target_occurrence_EID": "E-0214",
+      "platform_record_id": "https://openalex.org/W2903282143",
+      "title": "Semantics Based Web Ranking Using a Robust Weight Scheme"
+    },
+    {
+      "source_csv_row_1based": 16,
+      "target_occurrence_EID": "E-0215",
+      "platform_record_id": "https://openalex.org/W2498282322",
+      "title": "Optimising Environmental Performance of Symbiotic Networks Using Semantics"
+    },
+    {
+      "source_csv_row_1based": 17,
+      "target_occurrence_EID": "E-0216",
+      "platform_record_id": "https://openalex.org/W1600272871",
+      "title": "Semantics and the medical web: a review of barriers and breakthroughs in effective healthcare query"
+    },
+    {
+      "source_csv_row_1based": 18,
+      "target_occurrence_EID": "E-0217",
+      "platform_record_id": "https://openalex.org/W2534337457",
+      "title": "The semantics of role labeling"
+    },
+    {
+      "source_csv_row_1based": 19,
+      "target_occurrence_EID": "E-0218",
+      "platform_record_id": "https://openalex.org/W2335170200",
+      "title": "A new metric for ranking high-performance computing systems"
+    },
+    {
+      "source_csv_row_1based": 20,
+      "target_occurrence_EID": "E-0219",
+      "platform_record_id": "https://openalex.org/W4391928105",
+      "title": "Diverse Metrics for Robust LBS Privacy: Distance, Semantics, and Temporal Factors"
+    },
+    {
+      "source_csv_row_1based": 21,
+      "target_occurrence_EID": "E-0220",
+      "platform_record_id": "https://openalex.org/W7168811614",
+      "title": "Time Robustness for Point-Based Semantics of Metric Interval Temporal Logic"
+    },
+    {
+      "source_csv_row_1based": 22,
+      "target_occurrence_EID": "E-0221",
+      "platform_record_id": "https://openalex.org/W2944326956",
+      "title": "Analysing the tor web with high performance graph algorithms"
+    },
+    {
+      "source_csv_row_1based": 23,
+      "target_occurrence_EID": "E-0222",
+      "platform_record_id": "https://openalex.org/W4406139823",
+      "title": "Citation structural diversity: a novel metric combining structure and semantics for literature evaluation"
+    },
+    {
+      "source_csv_row_1based": 24,
+      "target_occurrence_EID": "E-0223",
+      "platform_record_id": "https://openalex.org/W1662133657",
+      "title": "From Frequency to Meaning: Vector Space Models of Semantics"
+    },
+    {
+      "source_csv_row_1based": 25,
+      "target_occurrence_EID": "E-0224",
+      "platform_record_id": "https://openalex.org/W2612091601",
+      "title": "WEB LINKAGE VIA LEARNING INHERENT SEMANTICS AND EVOLUTION OF ONTOLOGIES"
+    },
+    {
+      "source_csv_row_1based": 26,
+      "target_occurrence_EID": "E-0225",
+      "platform_record_id": "https://openalex.org/W3044517463",
+      "title": "Semantics-Empowered Communication for Networked Intelligent Systems"
+    },
+    {
+      "source_csv_row_1based": 27,
+      "target_occurrence_EID": "E-0226",
+      "platform_record_id": "https://openalex.org/W7217526348",
+      "title": "Intelligent Image Spam Analysis Using CNN-Based Visual Semantics and Web Log Mining for Next-Generation Spam Filtering"
+    },
+    {
+      "source_csv_row_1based": 28,
+      "target_occurrence_EID": "E-0227",
+      "platform_record_id": "https://openalex.org/W2046844528",
+      "title": "Enhancing clinical concept extraction with distributional semantics"
+    },
+    {
+      "source_csv_row_1based": 29,
+      "target_occurrence_EID": "E-0228",
+      "platform_record_id": "https://openalex.org/W2911895462",
+      "title": "Probabilistic Semantics"
+    },
+    {
+      "source_csv_row_1based": 30,
+      "target_occurrence_EID": "E-0229",
+      "platform_record_id": "https://openalex.org/W2527896214",
+      "title": "Distributional Semantics Resources for Biomedical Text Processing"
+    },
+    {
+      "source_csv_row_1based": 31,
+      "target_occurrence_EID": "E-0230",
+      "platform_record_id": "https://openalex.org/W2803200182",
+      "title": "Big Data Semantics"
+    },
+    {
+      "source_csv_row_1based": 32,
+      "target_occurrence_EID": "E-0231",
+      "platform_record_id": "https://openalex.org/W2149557440",
+      "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences"
+    },
+    {
+      "source_csv_row_1based": 33,
+      "target_occurrence_EID": "E-0232",
+      "platform_record_id": "https://openalex.org/W3171589458",
+      "title": "Disentangling Syntax and Semantics in the Brain with Deep Networks"
+    },
+    {
+      "source_csv_row_1based": 34,
+      "target_occurrence_EID": "E-0233",
+      "platform_record_id": "https://openalex.org/W4304080058",
+      "title": "Enriching Language Models with Semantics"
+    },
+    {
+      "source_csv_row_1based": 35,
+      "target_occurrence_EID": "E-0234",
+      "platform_record_id": "https://openalex.org/W2138477762",
+      "title": "Discovering the Semantics of User Keywords"
+    },
+    {
+      "source_csv_row_1based": 36,
+      "target_occurrence_EID": "E-0235",
+      "platform_record_id": "https://openalex.org/W2395379085",
+      "title": "Bayesian Semantics Incorporation to Web Content for Natural Language Information Retrieval"
+    },
+    {
+      "source_csv_row_1based": 37,
+      "target_occurrence_EID": "E-0236",
+      "platform_record_id": "https://openalex.org/W2076766778",
+      "title": "Empirical distributional semantics: Methods and biomedical applications"
+    },
+    {
+      "source_csv_row_1based": 38,
+      "target_occurrence_EID": "E-0237",
+      "platform_record_id": "https://openalex.org/W2052300994",
+      "title": "Semantics-based dynamic service composition"
+    },
+    {
+      "source_csv_row_1based": 39,
+      "target_occurrence_EID": "E-0238",
+      "platform_record_id": "https://openalex.org/W2313508106",
+      "title": "Interoperability of semantics in news production"
+    },
+    {
+      "source_csv_row_1based": 40,
+      "target_occurrence_EID": "E-0239",
+      "platform_record_id": "https://openalex.org/W2538145160",
+      "title": "Semantics-based Web service classification using morphological analysis and ensemble learning techniques"
+    },
+    {
+      "source_csv_row_1based": 41,
+      "target_occurrence_EID": "E-0240",
+      "platform_record_id": "https://openalex.org/W4226495197",
+      "title": "Adding semantics to measurements: Ontology-guided, systematic performance analysis"
+    },
+    {
+      "source_csv_row_1based": 42,
+      "target_occurrence_EID": "E-0241",
+      "platform_record_id": "https://openalex.org/W7214034503",
+      "title": "Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents"
+    },
+    {
+      "source_csv_row_1based": 43,
+      "target_occurrence_EID": "E-0242",
+      "platform_record_id": "https://openalex.org/W1546160919",
+      "title": "Linked Data Metrics for Flexible Expert Search on the Open Web"
+    },
+    {
+      "source_csv_row_1based": 44,
+      "target_occurrence_EID": "E-0243",
+      "platform_record_id": "https://openalex.org/W4313455370",
+      "title": "Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications"
+    },
+    {
+      "source_csv_row_1based": 45,
+      "target_occurrence_EID": "E-0244",
+      "platform_record_id": "https://openalex.org/W1969634671",
+      "title": "Converging Evidence for the Neuroanatomic Basis of Combinatorial Semantics in the Angular Gyrus"
+    },
+    {
+      "source_csv_row_1based": 46,
+      "target_occurrence_EID": "E-0245",
+      "platform_record_id": "https://openalex.org/W2233823309",
+      "title": "Learning the Semantics of Structured Data Sources"
+    },
+    {
+      "source_csv_row_1based": 47,
+      "target_occurrence_EID": "E-0246",
+      "platform_record_id": "https://openalex.org/W2507821185",
+      "title": "Towards common reusable semantics"
+    },
+    {
+      "source_csv_row_1based": 48,
+      "target_occurrence_EID": "E-0247",
+      "platform_record_id": "https://openalex.org/W3169050797",
+      "title": "Formal semantics and high performance in declarative machine learning using Datalog"
+    },
+    {
+      "source_csv_row_1based": 49,
+      "target_occurrence_EID": "E-0248",
+      "platform_record_id": "https://openalex.org/W2260026176",
+      "title": "Improving performance of a distributed file system using a speculative semantics-based algorithm"
+    },
+    {
+      "source_csv_row_1based": 50,
+      "target_occurrence_EID": "E-0249",
+      "platform_record_id": "https://openalex.org/W4386075729",
+      "title": "Habitat-Matterport 3D Semantics Dataset"
+    },
+    {
+      "source_csv_row_1based": 51,
+      "target_occurrence_EID": "E-0250",
+      "platform_record_id": "https://openalex.org/W4239199746",
+      "title": "Evaluation of Instrumentation and Dynamic Thermal Ratings for Overhead Lines"
+    },
+    {
+      "source_csv_row_1based": 52,
+      "target_occurrence_EID": "E-0251",
+      "platform_record_id": "https://openalex.org/W7133055353",
+      "title": "Instrumenter: A Low-Overhead Instrumentation Tool for Java, Android, and Python"
+    },
+    {
+      "source_csv_row_1based": 53,
+      "target_occurrence_EID": "E-0252",
+      "platform_record_id": "https://openalex.org/W3204990116",
+      "title": "Validation of HTTP Response Time From Network Traffic as an Alternative to Web Browser Instrumentation"
+    },
+    {
+      "source_csv_row_1based": 54,
+      "target_occurrence_EID": "E-0253",
+      "platform_record_id": "https://openalex.org/W2021415832",
+      "title": "Browsers with changing parts"
+    },
+    {
+      "source_csv_row_1based": 55,
+      "target_occurrence_EID": "E-0254",
+      "platform_record_id": "https://openalex.org/W2021974051",
+      "title": "Mobile phone batteries draining: Is green web browsing the solution?"
+    },
+    {
+      "source_csv_row_1based": 56,
+      "target_occurrence_EID": "E-0255",
+      "platform_record_id": "https://openalex.org/W2901722541",
+      "title": "Work-in-Progress: Fast Snapshot Migration Using Static Code Instrumentation"
+    },
+    {
+      "source_csv_row_1based": 57,
+      "target_occurrence_EID": "E-0256",
+      "platform_record_id": "https://openalex.org/W2902788006",
+      "title": "Fast snapshot migration using static code instrumentation: work-in-progress"
+    },
+    {
+      "source_csv_row_1based": 58,
+      "target_occurrence_EID": "E-0257",
+      "platform_record_id": "https://openalex.org/W3118592480",
+      "title": "Vulnerability detection on web browsers"
+    },
+    {
+      "source_csv_row_1based": 59,
+      "target_occurrence_EID": "E-0258",
+      "platform_record_id": "https://openalex.org/W1553695897",
+      "title": "Towards a Universal Data Provenance Framework Using Dynamic Instrumentation"
+    },
+    {
+      "source_csv_row_1based": 60,
+      "target_occurrence_EID": "E-0259",
+      "platform_record_id": "https://openalex.org/W645664730",
+      "title": "Defending Browsers against Drive-by Downloads"
+    },
+    {
+      "source_csv_row_1based": 61,
+      "target_occurrence_EID": "E-0260",
+      "platform_record_id": "https://openalex.org/W2025809422",
+      "title": "SurfGuard JavaScript instrumentation-based defense against Drive-by downloads"
+    },
+    {
+      "source_csv_row_1based": 62,
+      "target_occurrence_EID": "E-0261",
+      "platform_record_id": "https://openalex.org/W2072079538",
+      "title": "Booting, browsing and streaming time profiling, and bottleneck analysis on android-based systems"
+    },
+    {
+      "source_csv_row_1based": 63,
+      "target_occurrence_EID": "E-0262",
+      "platform_record_id": "https://openalex.org/W2295117419",
+      "title": "Energy consumption and privacy in mobile Web browsing: Individual issues and connected solutions"
+    },
+    {
+      "source_csv_row_1based": 64,
+      "target_occurrence_EID": "E-0263",
+      "platform_record_id": "https://openalex.org/W4281478490",
+      "title": "Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument"
+    },
+    {
+      "source_csv_row_1based": 65,
+      "target_occurrence_EID": "E-0264",
+      "platform_record_id": "https://openalex.org/W7220904399",
+      "title": "Safe Multi-site Binary Instrumentation of Running x86-64 Programs"
+    },
+    {
+      "source_csv_row_1based": 66,
+      "target_occurrence_EID": "E-0265",
+      "platform_record_id": "https://openalex.org/W2890051894",
+      "title": "Evaluation of Dynamic Binary Instrumentation Approaches: Dynamic Binary Translation vs. Dynamic Probe Injection"
+    },
+    {
+      "source_csv_row_1based": 67,
+      "target_occurrence_EID": "E-0266",
+      "platform_record_id": "https://openalex.org/W2033109295",
+      "title": "Persistence in dynamic code transformation systems"
+    },
+    {
+      "source_csv_row_1based": 68,
+      "target_occurrence_EID": "E-0267",
+      "platform_record_id": "https://openalex.org/W7168368050",
+      "title": "Evaluating Web-Based Post-Quantum Cryptography: A Statistical Analysis of ML-KEM-768 in Controlled Browser Environments"
+    },
+    {
+      "source_csv_row_1based": 69,
+      "target_occurrence_EID": "E-0268",
+      "platform_record_id": "https://openalex.org/W2787734695",
+      "title": "Towards Efficient Instrumentation for Reverse-Engineering Object Oriented Software through Static and Dynamic Analyses"
+    },
+    {
+      "source_csv_row_1based": 70,
+      "target_occurrence_EID": "E-0269",
+      "platform_record_id": "https://openalex.org/W1794159487",
+      "title": "High System-Code Security with Low Overhead"
+    },
+    {
+      "source_csv_row_1based": 71,
+      "target_occurrence_EID": "E-0270",
+      "platform_record_id": "https://openalex.org/W7199296126",
+      "title": "Browsing the bog"
+    },
+    {
+      "source_csv_row_1based": 72,
+      "target_occurrence_EID": "E-0271",
+      "platform_record_id": "https://openalex.org/W2620946705",
+      "title": "Measuring and Defeating Anti-Instrumentation-Equipped Malware"
+    },
+    {
+      "source_csv_row_1based": 73,
+      "target_occurrence_EID": "E-0272",
+      "platform_record_id": "https://openalex.org/W2798290321",
+      "title": "Universal context propagation for distributed system instrumentation"
+    },
+    {
+      "source_csv_row_1based": 74,
+      "target_occurrence_EID": "E-0273",
+      "platform_record_id": "https://openalex.org/W3007878096",
+      "title": "UISCOPE: Accurate, Instrumentation-free, and Visible Attack Investigation for GUI Applications"
+    },
+    {
+      "source_csv_row_1based": 75,
+      "target_occurrence_EID": "E-0274",
+      "platform_record_id": "https://openalex.org/W2748487247",
+      "title": "Time-Aware Dynamic Binary Instrumentation"
+    },
+    {
+      "source_csv_row_1based": 76,
+      "target_occurrence_EID": "E-0275",
+      "platform_record_id": "https://openalex.org/W2497316715",
+      "title": "Enhancing Web Browsing Security"
+    },
+    {
+      "source_csv_row_1based": 77,
+      "target_occurrence_EID": "E-0276",
+      "platform_record_id": "https://openalex.org/W2731121321",
+      "title": "Privacy as a proxy for Green Web browsing: Methodology and experimentation"
+    },
+    {
+      "source_csv_row_1based": 78,
+      "target_occurrence_EID": "E-0277",
+      "platform_record_id": "https://openalex.org/W4392497378",
+      "title": "Micro-architectural side channels: Studying the attack surface from hardware to browsers"
+    },
+    {
+      "source_csv_row_1based": 79,
+      "target_occurrence_EID": "E-0278",
+      "platform_record_id": "https://openalex.org/W2911989315",
+      "title": "ShadowBlock: A Lightweight and Stealthy Adblocking Browser"
+    },
+    {
+      "source_csv_row_1based": 80,
+      "target_occurrence_EID": "E-0279",
+      "platform_record_id": "https://openalex.org/W2119588373",
+      "title": "Survey on JavaScript security policies and their enforcement mechanisms in a web browser"
+    },
+    {
+      "source_csv_row_1based": 81,
+      "target_occurrence_EID": "E-0280",
+      "platform_record_id": "https://openalex.org/W916837809",
+      "title": "Language-based Security for Web Browsers"
+    },
+    {
+      "source_csv_row_1based": 82,
+      "target_occurrence_EID": "E-0281",
+      "platform_record_id": "https://openalex.org/W2793337260",
+      "title": "JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions"
+    },
+    {
+      "source_csv_row_1based": 83,
+      "target_occurrence_EID": "E-0282",
+      "platform_record_id": "https://openalex.org/W4387674220",
+      "title": "Towards Better Semantics Exploration for Browser Fuzzing"
+    },
+    {
+      "source_csv_row_1based": 84,
+      "target_occurrence_EID": "E-0283",
+      "platform_record_id": "https://openalex.org/W4415276507",
+      "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers"
+    },
+    {
+      "source_csv_row_1based": 85,
+      "target_occurrence_EID": "E-0284",
+      "platform_record_id": "https://openalex.org/W2393286498",
+      "title": "Feedback-directed instrumentation for deployed JavaScript applications"
+    },
+    {
+      "source_csv_row_1based": 86,
+      "target_occurrence_EID": "E-0285",
+      "platform_record_id": "https://openalex.org/W4417142959",
+      "title": "Instrumentation Optimization for Practical Dynamic Race Detection"
+    },
+    {
+      "source_csv_row_1based": 87,
+      "target_occurrence_EID": "E-0286",
+      "platform_record_id": "https://openalex.org/W4415031722",
+      "title": "Dynamic Graph-based Fingerprinting of In-browser Cryptomining"
+    },
+    {
+      "source_csv_row_1based": 88,
+      "target_occurrence_EID": "E-0287",
+      "platform_record_id": "https://openalex.org/W7163303919",
+      "title": "WebAssembly-accelerated UMAP for browser environment"
+    },
+    {
+      "source_csv_row_1based": 89,
+      "target_occurrence_EID": "E-0288",
+      "platform_record_id": "https://openalex.org/W3006955189",
+      "title": "Designing a Better Browser for Tor with BLAST"
+    },
+    {
+      "source_csv_row_1based": 90,
+      "target_occurrence_EID": "E-0289",
+      "platform_record_id": "https://openalex.org/W4308643070",
+      "title": "Minerva: browser API fuzzing with dynamic mod-ref analysis"
+    },
+    {
+      "source_csv_row_1based": 91,
+      "target_occurrence_EID": "E-0290",
+      "platform_record_id": "https://openalex.org/W2404316264",
+      "title": "Utilization of instrumentation data to improve distributed multimedia processing"
+    },
+    {
+      "source_csv_row_1based": 92,
+      "target_occurrence_EID": "E-0291",
+      "platform_record_id": "https://openalex.org/W4400440042",
+      "title": "BoaSpect: An Expressive Instrumentation Platform for JavaScript"
+    },
+    {
+      "source_csv_row_1based": 93,
+      "target_occurrence_EID": "E-0292",
+      "platform_record_id": "https://openalex.org/W3159980834",
+      "title": "Classroom Digital Twins with Instrumentation-Free Gaze Tracking"
+    },
+    {
+      "source_csv_row_1based": 94,
+      "target_occurrence_EID": "E-0293",
+      "platform_record_id": "https://openalex.org/W7164909127",
+      "title": "uringscope: Portable, Low-Overhead Observability for io_uring"
+    },
+    {
+      "source_csv_row_1based": 95,
+      "target_occurrence_EID": "E-0294",
+      "platform_record_id": "https://openalex.org/W1536000481",
+      "title": "Browser-Based Enforcement of Interface Contracts in Web Applications with BeepBeep"
+    },
+    {
+      "source_csv_row_1based": 96,
+      "target_occurrence_EID": "E-0295",
+      "platform_record_id": "https://openalex.org/W4205529937",
+      "title": "CorbFuzz: Checking Browser Security Policies with Fuzzing"
+    },
+    {
+      "source_csv_row_1based": 97,
+      "target_occurrence_EID": "E-0296",
+      "platform_record_id": "https://openalex.org/W2889103186",
+      "title": "Phase-Aware Web Browser Power Management on HMP Platforms"
+    },
+    {
+      "source_csv_row_1based": 98,
+      "target_occurrence_EID": "E-0297",
+      "platform_record_id": "https://openalex.org/W2227836152",
+      "title": "Binary instrumentation and transformation for software security applications"
+    },
+    {
+      "source_csv_row_1based": 99,
+      "target_occurrence_EID": "E-0298",
+      "platform_record_id": "https://openalex.org/W7165914681",
+      "title": "Proof-of-Theft: Dynamic Graph-Based Fingerprinting of In-Browser Cryptomining"
+    },
+    {
+      "source_csv_row_1based": 100,
+      "target_occurrence_EID": "E-0299",
+      "platform_record_id": "https://openalex.org/W3138838255",
+      "title": "ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation"
+    },
+    {
+      "source_csv_row_1based": 101,
+      "target_occurrence_EID": "E-0300",
+      "platform_record_id": "https://openalex.org/W2026940388",
+      "title": "ProWGen: a synthetic workload generation tool for simulation evaluation of web proxy caches"
+    },
+    {
+      "source_csv_row_1based": 102,
+      "target_occurrence_EID": "E-0301",
+      "platform_record_id": "https://openalex.org/W1978687257",
+      "title": "A model-based approach for testing the performance of web applications"
+    },
+    {
+      "source_csv_row_1based": 103,
+      "target_occurrence_EID": "E-0302",
+      "platform_record_id": "https://openalex.org/W1502140395",
+      "title": "WALTy: a user behavior tailored tool for evaluating web application performance"
+    },
+    {
+      "source_csv_row_1based": 104,
+      "target_occurrence_EID": "E-0303",
+      "platform_record_id": "https://openalex.org/W1575585528",
+      "title": "Enhancing Web Performance"
+    },
+    {
+      "source_csv_row_1based": 105,
+      "target_occurrence_EID": "E-0304",
+      "platform_record_id": "https://openalex.org/W7212156239",
+      "title": "Chemometrics Web App: Synthetic Sampling"
+    },
+    {
+      "source_csv_row_1based": 106,
+      "target_occurrence_EID": "E-0305",
+      "platform_record_id": "https://openalex.org/W4391638627",
+      "title": "Web Formation with Synthetic Organic Polymers"
+    },
+    {
+      "source_csv_row_1based": 107,
+      "target_occurrence_EID": "E-0306",
+      "platform_record_id": "https://openalex.org/W4416157195",
+      "title": "SynthAgent: Adapting Web Agents with Synthetic Supervision"
+    },
+    {
+      "source_csv_row_1based": 108,
+      "target_occurrence_EID": "E-0307",
+      "platform_record_id": "https://openalex.org/W7162664993",
+      "title": "Synthetic chamber: agentic mediation in representative democracy"
+    },
+    {
+      "source_csv_row_1based": 109,
+      "target_occurrence_EID": "E-0308",
+      "platform_record_id": "https://openalex.org/W4411359576",
+      "title": "Assessing the Reliability of Large Language Models in Generating Synthetic and Representative Datasets for International Study Program Recommendations"
+    },
+    {
+      "source_csv_row_1based": 110,
+      "target_occurrence_EID": "E-0309",
+      "platform_record_id": "https://openalex.org/W2145097322",
+      "title": "Rapid Benchmarking for Semantic Web Knowledge Base Systems"
+    },
+    {
+      "source_csv_row_1based": 111,
+      "target_occurrence_EID": "E-0310",
+      "platform_record_id": "https://openalex.org/W3136517018",
+      "title": "Performance measurements of Web services"
+    },
+    {
+      "source_csv_row_1based": 112,
+      "target_occurrence_EID": "E-0311",
+      "platform_record_id": "https://openalex.org/W2056272925",
+      "title": "Characterization of real workloads of web search engines"
+    },
+    {
+      "source_csv_row_1based": 113,
+      "target_occurrence_EID": "E-0312",
+      "platform_record_id": "https://openalex.org/W4225820450",
+      "title": "SynLethDB 2.0: a web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery"
+    },
+    {
+      "source_csv_row_1based": 114,
+      "target_occurrence_EID": "E-0313",
+      "platform_record_id": "https://openalex.org/W2902965289",
+      "title": "PAIN: A Passive Web performance indicator for ISPs"
+    },
+    {
+      "source_csv_row_1based": 115,
+      "target_occurrence_EID": "E-0314",
+      "platform_record_id": "https://openalex.org/W1526879790",
+      "title": "Web Workload Generation According to the UniLoG Approach"
+    },
+    {
+      "source_csv_row_1based": 116,
+      "target_occurrence_EID": "E-0315",
+      "platform_record_id": "https://openalex.org/W2273867387",
+      "title": "Coding Gender: Performance and Gender Identity in a Synthetic World"
+    },
+    {
+      "source_csv_row_1based": 117,
+      "target_occurrence_EID": "E-0316",
+      "platform_record_id": "https://openalex.org/W1990750663",
+      "title": "LTF: A Model-Based Load Testing Framework for Web Applications"
+    },
+    {
+      "source_csv_row_1based": 118,
+      "target_occurrence_EID": "E-0317",
+      "platform_record_id": "https://openalex.org/W2620847194",
+      "title": "Increases in synthetic cannabinoids-related harms: Results from a longitudinal web-based content analysis"
+    },
+    {
+      "source_csv_row_1based": 119,
+      "target_occurrence_EID": "E-0318",
+      "platform_record_id": "https://openalex.org/W1228700129",
+      "title": "Applications of synthetic polymers in clinical medicine"
+    },
+    {
+      "source_csv_row_1based": 120,
+      "target_occurrence_EID": "E-0319",
+      "platform_record_id": "https://openalex.org/W4410888267",
+      "title": "Evolution of Detection Performance Throughout the Online Lifespan of Synthetic Images"
+    },
+    {
+      "source_csv_row_1based": 121,
+      "target_occurrence_EID": "E-0320",
+      "platform_record_id": "https://openalex.org/W2765370702",
+      "title": "Ultra-antireflective synthetic brochosomes"
+    },
+    {
+      "source_csv_row_1based": 122,
+      "target_occurrence_EID": "E-0321",
+      "platform_record_id": "https://openalex.org/W3198532185",
+      "title": "Synthetic nicotine has arrived"
+    },
+    {
+      "source_csv_row_1based": 123,
+      "target_occurrence_EID": "E-0322",
+      "platform_record_id": "https://openalex.org/W4382315317",
+      "title": "Deep Generative Models for Synthetic Data: A Survey"
+    },
+    {
+      "source_csv_row_1based": 124,
+      "target_occurrence_EID": "E-0323",
+      "platform_record_id": "https://openalex.org/W4403523317",
+      "title": "Evolution of Detection Performance throughout the Online Lifespan of Synthetic Images"
+    },
+    {
+      "source_csv_row_1based": 125,
+      "target_occurrence_EID": "E-0324",
+      "platform_record_id": "https://openalex.org/W2139984758",
+      "title": "Web usage mining for Web site evaluation"
+    },
+    {
+      "source_csv_row_1based": 126,
+      "target_occurrence_EID": "E-0325",
+      "platform_record_id": "https://openalex.org/W7204480411",
+      "title": "Evaluating the performance of splicing predictors on thousands of synthetic gene variants"
+    },
+    {
+      "source_csv_row_1based": 127,
+      "target_occurrence_EID": "E-0326",
+      "platform_record_id": "https://openalex.org/W2804130130",
+      "title": "Synthetic and Non-synthetic Cannabinoid Drugs and Their Adverse Effects-A Review From Public Health Prospective"
+    },
+    {
+      "source_csv_row_1based": 128,
+      "target_occurrence_EID": "E-0327",
+      "platform_record_id": "https://openalex.org/W2010551744",
+      "title": "Synthetic meniscus replacement: a review"
+    },
+    {
+      "source_csv_row_1based": 129,
+      "target_occurrence_EID": "E-0328",
+      "platform_record_id": "https://openalex.org/W7204166068",
+      "title": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning"
+    },
+    {
+      "source_csv_row_1based": 130,
+      "target_occurrence_EID": "E-0329",
+      "platform_record_id": "https://openalex.org/W1659961413",
+      "title": "Accurate workload design for web performance evaluation."
+    },
+    {
+      "source_csv_row_1based": 131,
+      "target_occurrence_EID": "E-0330",
+      "platform_record_id": "https://openalex.org/W4321175801",
+      "title": "SynGraphy: Succinct Summarisation of Large Networks via Small Synthetic Representative Graphs"
+    },
+    {
+      "source_csv_row_1based": 132,
+      "target_occurrence_EID": "E-0331",
+      "platform_record_id": "https://openalex.org/W2164644193",
+      "title": "Modeling web requests: a multifractal approach"
+    },
+    {
+      "source_csv_row_1based": 133,
+      "target_occurrence_EID": "E-0332",
+      "platform_record_id": "https://openalex.org/W3204931725",
+      "title": "Rapid benchmarking for semantic web knowledge base systems"
+    },
+    {
+      "source_csv_row_1based": 134,
+      "target_occurrence_EID": "E-0333",
+      "platform_record_id": "https://openalex.org/W3139082009",
+      "title": "Measurements based performance analysis of Web services"
+    },
+    {
+      "source_csv_row_1based": 135,
+      "target_occurrence_EID": "E-0334",
+      "platform_record_id": "https://openalex.org/W4411667868",
+      "title": "Synthetic Data for Sharing and Exploration in High-Performance Sport: Considerations for Application"
+    },
+    {
+      "source_csv_row_1based": 136,
+      "target_occurrence_EID": "E-0335",
+      "platform_record_id": "https://openalex.org/W7223099805",
+      "title": "Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content"
+    },
+    {
+      "source_csv_row_1based": 137,
+      "target_occurrence_EID": "E-0336",
+      "platform_record_id": "https://openalex.org/W4210465401",
+      "title": "Sustainability performance by ten representative intelligent Façade technologies: A systematic review"
+    },
+    {
+      "source_csv_row_1based": 138,
+      "target_occurrence_EID": "E-0337",
+      "platform_record_id": "https://openalex.org/W1849672500",
+      "title": "Quantification of the gene silencing performances of rationally-designed synthetic small RNAs"
+    },
+    {
+      "source_csv_row_1based": 139,
+      "target_occurrence_EID": "E-0338",
+      "platform_record_id": "https://openalex.org/W2734032589",
+      "title": "Tracking the emergence of synthetic biology"
+    },
+    {
+      "source_csv_row_1based": 140,
+      "target_occurrence_EID": "E-0339",
+      "platform_record_id": "https://openalex.org/W2547229409",
+      "title": "Structure and Function of Iron-Loaded Synthetic Melanin"
+    },
+    {
+      "source_csv_row_1based": 141,
+      "target_occurrence_EID": "E-0340",
+      "platform_record_id": "https://openalex.org/W2750778915",
+      "title": "Performance evaluation of top-k sequential mining methods on synthetic and real datasets"
+    },
+    {
+      "source_csv_row_1based": 142,
+      "target_occurrence_EID": "E-0341",
+      "platform_record_id": "https://openalex.org/W2108192693",
+      "title": "Designer synthetic media for studying microbial-catalyzed biofuel production"
+    },
+    {
+      "source_csv_row_1based": 143,
+      "target_occurrence_EID": "E-0342",
+      "platform_record_id": "https://openalex.org/W7133330813",
+      "title": "The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents"
+    },
+    {
+      "source_csv_row_1based": 144,
+      "target_occurrence_EID": "E-0343",
+      "platform_record_id": "https://openalex.org/W2006905279",
+      "title": "Community contribution award -- Measuring and mitigating web performance bottlenecks in broadband access networks"
+    },
+    {
+      "source_csv_row_1based": 145,
+      "target_occurrence_EID": "E-0344",
+      "platform_record_id": "https://openalex.org/W2086842989",
+      "title": "Natural and synthetic substances related to human health (IUPAC Technical Report)"
+    },
+    {
+      "source_csv_row_1based": 146,
+      "target_occurrence_EID": "E-0345",
+      "platform_record_id": "https://openalex.org/W30965998",
+      "title": "A Service Provider's View of Web Site Performance."
+    },
+    {
+      "source_csv_row_1based": 147,
+      "target_occurrence_EID": "E-0346",
+      "platform_record_id": "https://openalex.org/W2907337795",
+      "title": "Synthetic glycolate metabolism pathways stimulate crop growth and productivity in the field"
+    },
+    {
+      "source_csv_row_1based": 148,
+      "target_occurrence_EID": "E-0347",
+      "platform_record_id": "https://openalex.org/W2187529660",
+      "title": "An Innovative of Semantics-Empowered Sensors, Services and Social Computing on the Ubiquitous Web"
+    },
+    {
+      "source_csv_row_1based": 149,
+      "target_occurrence_EID": "E-0348",
+      "platform_record_id": "https://openalex.org/W2745766115",
+      "title": "Synthetic data generation for statistical testing"
+    },
+    {
+      "source_csv_row_1based": 150,
+      "target_occurrence_EID": "E-0349",
+      "platform_record_id": "https://openalex.org/W2299444250",
+      "title": "Content Aware Request Distribution for High Performance Web Service: A Performance Study"
+    }
+  ],
+  "prior_work_status": "Prior 150 title/abstract/metadata reads and initial pass retained in session observations and scratch. This prospective manifest does not retroactively establish durable timestamps/receipt; correction pass follows now. No record will be re-read unless correction needs it."
+}

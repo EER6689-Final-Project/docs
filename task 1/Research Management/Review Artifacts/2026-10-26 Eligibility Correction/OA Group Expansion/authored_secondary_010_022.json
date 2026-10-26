@@ -1,0 +1,14 @@
+{
+  "E-0271": ["unresolved", "R2 remains unclear: the absent abstract supplies no anti-instrumentation detection channel or transferable mechanism. The topical title warrants retrieval, not exclusion."],
+  "E-0277": ["checked-no-discrepancy", "R1 removal retained: hardware leakage/fault attacks and browser delivery do not define a performance metric. The unchanged R2 lead is not a new judgment in this expansion."],
+  "E-0278": ["checked-no-discrepancy", "R1 outside/R2 supported distinction retained: equal-looking queried DOM states despite ad removal provide a concrete observable-state boundary, whereas page-load speed alone supplies no metric semantics."],
+  "E-0283": ["unresolved", "R2/R6 remain unclear: the short complete export announces LLM-guided browser fuzzing but no capture mechanism, test generation detail or independent expected effect. Null language is unresolved."],
+  "E-0285": ["checked-no-discrepancy", "R2 supported retained: removing safe/redundant memory checks and single-thread skipping explicitly trade instrumentation count against capture coverage. The claimed no-missed-races proof and Chromium speedups are not verified."],
+  "E-0287": ["checked-no-discrepancy", "R1 supported retained: the export explicitly says faster execution does not always yield smoother interaction. This is a concrete construct distinction, not inference from any WASM speedup."],
+  "E-0288": ["checked-no-discrepancy", "R1/R2 supported only within stated bounds: bandwidth/loading capacity differs from elapsed page load; resource-tree logging exposes queue/handshake waits. No simulator accuracy or observer-overhead claim is certified."],
+  "E-0292": ["unresolved", "R5 unclear retained: professional observers are context, not a specified paired reference; gaze accuracy/deployment statements do not supply agreement analysis."],
+  "E-0294": ["unresolved", "R2 unclear retained: absent abstract prevents identifying the contract-monitor capture/perturbation mechanism. R6 remains inherited, not revalidated."],
+  "E-0308": ["checked-no-discrepancy", "R5 removal retained: coefficient of determination is the only explicit evaluation statistic, not agreement/tolerance or bias analysis. Existing R3/R6 generic-transfer risk remains outside this frozen affected mapping check."],
+  "E-0335": ["unresolved", "R6 unclear retained: neither unnamed representative datasets nor a modular web interface specify independent fixture truth or allocation. Null language remains pending; no all-R exclusion is proposed."],
+  "E-0345": ["unresolved", "R1 unclear retained: service-provider perspective in a broad title with no abstract establishes no metric boundary. Keep inherited R3 without treating it as checked."]
+}

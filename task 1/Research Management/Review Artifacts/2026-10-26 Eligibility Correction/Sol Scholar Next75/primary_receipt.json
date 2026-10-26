@@ -1,0 +1,19 @@
+{
+  "completed_at_utc": "2026-10-26T06:34:05.099688+00:00",
+  "original_records_actually_read": 75,
+  "authored_six_question_records": 75,
+  "original_snippets_present": 75,
+  "missing_snippets": 0,
+  "dispositions": {
+    "ADVANCE": 50,
+    "EXCLUDE": 5,
+    "PENDING": 20
+  },
+  "producer_dispositions": {
+    "ADVANCE": 50,
+    "PENDING": 25
+  },
+  "overlay_sha256": "eed1222b3b7475adaa64ed5e934d7582088f4e4e22cc53de94ec642d742cfaf9",
+  "author_checks_sha256": "d65809b32ba2ccfa2f6f7ceeb8213f4c71eb8fba797b7742a2f9360ed6ebed76",
+  "source_claims": "UNASSESSED; all primary judgments are stage-1 routing only"
+}

@@ -1,0 +1,8 @@
+{
+  "trigger": "Sol original-export review found a proposed X3 for E-0201 despite an explicitly described 400,000-rendered-page corpus and corpus-composition/noise analysis; potential R3/R6 transfer requires retaining rather than generic exclusion. E-0210 exported abstract is acknowledgements, not scientific content. OA2 generic outside-all explanations cannot establish itemwise QC.",
+  "frozen_before_further_checking": true,
+  "input_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "finite_expanded_target_list": "Every original OpenAlex occurrence, E-0200 through E-0499 inclusive, input rows 1 through 300 inclusive. Exactly 300 targets; no Scholar or new searches.",
+  "expansion_basis": "All OA rows share producer semantic-screen/explanation patterns; original 173 exclusion targets and 35 provisional R/type groups are enumerated in Sol_frozen_QA_manifest.json. This is an occurrence-level metadata QA expansion, not passage/SID/claim QC.",
+  "execution": "Frozen target list, NOT a claim all 300 were rechecked. Actual coverage must be recorded itemwise. Unvalidated rows remain pending in Sol effective state."
+}

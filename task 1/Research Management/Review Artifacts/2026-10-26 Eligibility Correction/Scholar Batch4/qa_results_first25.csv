@@ -1,0 +1,8 @@
+occurrence_E_ID,selected_for_groups,original_text_check_status,actual_check_result,fulltext_claims,support,confidence
+E-0700,R4_repeated_measurement_method_analogue; R5_method_comparison_agreement; source_type_proxy_journal_methodology,UNREVIEWED,Tool returned 403 GET; original text could not be checked.,NONE,UNASSESSED,UNASSESSED
+E-0701,source_type_proxy_book,UNREVIEWED,"Retrieved Google Books metadata/display information (book title/author/page-display notice); no substantive original passage was available in returned content, so not counted as original-text check.",NONE,UNASSESSED,UNASSESSED
+E-0709,source_type_proxy_review,UNREVIEWED,"Returned Springer client-challenge page, not chapter text.",NONE,UNASSESSED,UNASSESSED
+E-0714,source_type_proxy_preprint,UNREVIEWED_FULLTEXT,Original arXiv abstract and submission metadata were returned and inspected; this is not the full text. Submission shown 12 Jun 2026; no claim or finding extracted.,NONE,UNASSESSED,UNASSESSED
+E-0716,source_type_proxy_empirical_domain_study,UNREVIEWED,Tool returned 403 GET; original text could not be checked.,NONE,UNASSESSED,UNASSESSED
+E-0719,source_type_proxy_training_or_course_material,UNREVIEWED,Tool reported unsupported fetched file content type application/pdf; original text not accessed.,NONE,UNASSESSED,UNASSESSED
+E-0724,source_type_proxy_unclassified_hosted_PDF,UNREVIEWED,Tool reported unsupported fetched file content type application/pdf; original text not accessed.,NONE,UNASSESSED,UNASSESSED

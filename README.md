@@ -15,7 +15,7 @@ Use these documents for the cross-topic evidence base, project choices, and sour
 - [Phase 0 Evidence Synthesis](task%201/Research%20Management/Phase%200%20Evidence%20Synthesis.md)
 - [Evidence Map](task%201/Research%20Management/Evidence%20Map.md)
 - [Literature Review and Research Gap Matrix](task%201/Research%20Management/Literature%20Review%20and%20Research%20Gap%20Matrix.md)
-- [T1.1 Candidate Gap Assessment](task%201/Research%20Management/T1.1%20Candidate%20Gap%20Assessment.md)
+- [Candidate Gap Assessment (T1.1–T1.6)](task%201/Research%20Management/Candidate%20Gap%20Assessment.md)
 - [Decision Log](task%201/Research%20Management/Decision%20Log.md)
 - [Zotero Verification Queue](task%201/Research%20Management/Zotero%20Verification%20Queue.md)
 - [Supporting Phase 0 evidence note](task%201/.memory/phase-0-evidence-synthesis.md)

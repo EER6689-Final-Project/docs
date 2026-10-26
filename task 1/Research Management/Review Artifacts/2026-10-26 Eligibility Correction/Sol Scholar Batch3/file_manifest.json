@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-10-26T12:09:32.067513+05:30",
+  "scope": "Only this additive Sol Scholar Batch3 subtree; no self-hash",
+  "files": {
+    "author_checks.psv": {
+      "sha256": "27d7252eadd28b8f30c1b5ca68daa248001e0e9fd5ebb210966c2fb7cde1648b",
+      "bytes": 26394
+    },
+    "build_artifacts.py": {
+      "sha256": "00825e4bb26d5de5f17fe7bfb322667fd648fc0f3ce6e8f9e9aa3bc9f9c3147b",
+      "bytes": 14085
+    },
+    "finalize_artifacts.py": {
+      "sha256": "ff7e283aaa3bb16e5301cdf9eb1c52bba4ed31273988b00f5f4d8296b20f60cc",
+      "bytes": 7585
+    },
+    "handoff.md": {
+      "sha256": "e2defa20f1200c554bc880dff31fbae774969ad7d1f44178f1795679263a9677",
+      "bytes": 6436
+    },
+    "input_freeze.json": {
+      "sha256": "e8cf65321fda88b21d07ea72a0b9364a1797003c444d2bdcf0d72df9353b4459",
+      "bytes": 4721
+    },
+    "overlay.csv": {
+      "sha256": "a5ca3b223e767ac5f1a71ee97da88c85cf98c2749cc9d21dc7b555ce625704d2",
+      "bytes": 439734
+    },
+    "overlay.primary.csv": {
+      "sha256": "61fb2893043dcc3b1c0a21681fbaf285d9dbeb61b18fed344dede735c31b921d",
+      "bytes": 433752
+    },
+    "preservation_receipt.json": {
+      "sha256": "47cf02d37d825448cacccb1f8c8f913b8d5c490ea429ac9fab3f2d39e3142129",
+      "bytes": 3836
+    },
+    "primary_itemwise_checks.json": {
+      "sha256": "034b15863f45c6fcbb65a1c1f35a7cd55dfa0a133c503e7d3a0b678950099b49",
+      "bytes": 328293
+    },
+    "qc_counts.json": {
+      "sha256": "094c4ca81525ce2a3063e400590aa7bd037f61716a5b5acfed6348269706e390",
+      "bytes": 3693
+    },
+    "qc_results.json": {
+      "sha256": "a399f0dd9050dfe41383bec1e7c87246e23e468f32e34dfa4cfdf9ff1de9f602",
+      "bytes": 76563
+    },
+    "secondary_QA_freeze.json": {
+      "sha256": "f8cbc447a8b838c22202ab73fa32c4aa67f6258f86d38a891dd7ebfa070ebace",
+      "bytes": 9496
+    },
+    "secondary_author_checks.psv": {
+      "sha256": "03d5aba67fa0fcfb2f44fc4060ea1b10c57d49310fa84780f1c8a2734003c1f3",
+      "bytes": 16535
+    }
+  },
+  "validation": {
+    "target_order_and_event_order": "PASS: 100 exact targets and E-3200\u2013E-3299",
+    "primary_six_question_checks": 100,
+    "secondary_original_records_checked": 54,
+    "all_34_explicit_groups_checked": true,
+    "all_31_producer_exclusions_and_8_Sol_exclusions_checked": true,
+    "frozen_inputs_preserved": true,
+    "original_occurrence_metadata_preserved_rows": 100,
+    "accepted_work_merges": 0,
+    "scoped_git_diff_check": "PASS; untracked authored text separately whitespace-checked",
+    "limitations": "Semantic title/snippet routing only; AI self-audit, not full-text or independent scientific review"
+  }
+}

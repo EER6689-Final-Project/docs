@@ -1,0 +1,231 @@
+{
+  "created_at_local": "2026-10-26T10:51:44+05:30",
+  "protocol_rule": "ERP v1.0 §9 first EID per nonempty topic/source-type group among retained noncritical stage-1 candidates, here the available advance/pending records; grouping is provisional because source types are export metadata and identities unresolved",
+  "selection_rule": "First new review-event EID in each final R1-R6 × exported source-type group",
+  "planned_group_count": 22,
+  "actual_checked_group_count": 22,
+  "groups": [
+    {
+      "R_ID": "R1",
+      "source_type_metadata": "article",
+      "group_member_count": 4,
+      "selected_event_EID": "E-1152",
+      "target_occurrence_EID": "E-0252",
+      "selected_title": "Validation of HTTP Response Time From Network Traffic as an Alternative to Web Browser Instrumentation",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R1",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 4,
+      "selected_event_EID": "E-1104",
+      "target_occurrence_EID": "E-0204",
+      "selected_title": "Enhancing Web Performance",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R1",
+      "source_type_metadata": "dissertation",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1187",
+      "target_occurrence_EID": "E-0287",
+      "selected_title": "WebAssembly-accelerated UMAP for browser environment",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R2",
+      "source_type_metadata": "article",
+      "group_member_count": 6,
+      "selected_event_EID": "E-1152",
+      "target_occurrence_EID": "E-0252",
+      "selected_title": "Validation of HTTP Response Time From Network Traffic as an Alternative to Web Browser Instrumentation",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R2",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 12,
+      "selected_event_EID": "E-1154",
+      "target_occurrence_EID": "E-0254",
+      "selected_title": "Mobile phone batteries draining: Is green web browsing the solution?",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R2",
+      "source_type_metadata": "dissertation",
+      "group_member_count": 5,
+      "selected_event_EID": "E-1151",
+      "target_occurrence_EID": "E-0251",
+      "selected_title": "Instrumenter: A Low-Overhead Instrumentation Tool for Java, Android, and Python",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R2",
+      "source_type_metadata": "preprint",
+      "group_member_count": 3,
+      "selected_event_EID": "E-1167",
+      "target_occurrence_EID": "E-0267",
+      "selected_title": "Evaluating Web-Based Post-Quantum Cryptography: A Statistical Analysis of ML-KEM-768 in Controlled Browser Environments",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R3",
+      "source_type_metadata": "article",
+      "group_member_count": 10,
+      "selected_event_EID": "E-1103",
+      "target_occurrence_EID": "E-0203",
+      "selected_title": "An adaptive semantics-aware replacement algorithm for web caching",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R3",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 12,
+      "selected_event_EID": "E-1154",
+      "target_occurrence_EID": "E-0254",
+      "selected_title": "Mobile phone batteries draining: Is green web browsing the solution?",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R3",
+      "source_type_metadata": "dissertation",
+      "group_member_count": 4,
+      "selected_event_EID": "E-1187",
+      "target_occurrence_EID": "E-0287",
+      "selected_title": "WebAssembly-accelerated UMAP for browser environment",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R3",
+      "source_type_metadata": "preprint",
+      "group_member_count": 2,
+      "selected_event_EID": "E-1141",
+      "target_occurrence_EID": "E-0241",
+      "selected_title": "Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R3",
+      "source_type_metadata": "report",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1249",
+      "target_occurrence_EID": "E-0349",
+      "selected_title": "Content Aware Request Distribution for High Performance Web Service: A Performance Study",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R4",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 2,
+      "selected_event_EID": "E-1120",
+      "target_occurrence_EID": "E-0220",
+      "selected_title": "Time Robustness for Point-Based Semantics of Metric Interval Temporal Logic",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R4",
+      "source_type_metadata": "dissertation",
+      "group_member_count": 2,
+      "selected_event_EID": "E-1210",
+      "target_occurrence_EID": "E-0310",
+      "selected_title": "Performance measurements of Web services",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R4",
+      "source_type_metadata": "preprint",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1140",
+      "target_occurrence_EID": "E-0240",
+      "selected_title": "Adding semantics to measurements: Ontology-guided, systematic performance analysis",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R5",
+      "source_type_metadata": "article",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1152",
+      "target_occurrence_EID": "E-0252",
+      "selected_title": "Validation of HTTP Response Time From Network Traffic as an Alternative to Web Browser Instrumentation",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R5",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 3,
+      "selected_event_EID": "E-1178",
+      "target_occurrence_EID": "E-0278",
+      "selected_title": "ShadowBlock: A Lightweight and Stealthy Adblocking Browser",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R6",
+      "source_type_metadata": "article",
+      "group_member_count": 8,
+      "selected_event_EID": "E-1118",
+      "target_occurrence_EID": "E-0218",
+      "selected_title": "A new metric for ranking high-performance computing systems",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R6",
+      "source_type_metadata": "conference-paper",
+      "group_member_count": 9,
+      "selected_event_EID": "E-1104",
+      "target_occurrence_EID": "E-0204",
+      "selected_title": "Enhancing Web Performance",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R6",
+      "source_type_metadata": "dissertation",
+      "group_member_count": 2,
+      "selected_event_EID": "E-1187",
+      "target_occurrence_EID": "E-0287",
+      "selected_title": "WebAssembly-accelerated UMAP for browser environment",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R6",
+      "source_type_metadata": "preprint",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1228",
+      "target_occurrence_EID": "E-0328",
+      "selected_title": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    },
+    {
+      "R_ID": "R6",
+      "source_type_metadata": "report",
+      "group_member_count": 1,
+      "selected_event_EID": "E-1249",
+      "target_occurrence_EID": "E-0349",
+      "selected_title": "Content Aware Request Distribution for High Performance Web Service: A Performance Study",
+      "actual_status": "selected by first EID rule and checked in separate metadata-stage pass; not full text",
+      "discrepancy_or_correction": "Context-only review limitation retained where applicable; no methods/full-text inference."
+    }
+  ],
+  "reviewer": "Luna AI self-review; not independent human review",
+  "limitation": "Stage-1 title/abstract/metadata check only; this does not satisfy passage rechecks or validate source types."
+}

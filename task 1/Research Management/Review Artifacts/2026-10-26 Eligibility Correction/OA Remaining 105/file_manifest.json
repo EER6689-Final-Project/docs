@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "file": "freeze_manifest.json",
+      "sha256": "9a8d613196c52b58541c356233f381eef508304296b3e361285587df4cac7cc7",
+      "bytes": 4279,
+      "data_rows": null
+    },
+    {
+      "file": "overlay.csv",
+      "sha256": "495378f21bef9e13f9c5d0b8c8ffb52669746614d761a128864b0aeb85bf3375",
+      "bytes": 120728,
+      "data_rows": 105
+    },
+    {
+      "file": "qc.json",
+      "sha256": "87f1377278688a98c406a35bc775feeb3dd191d674d46479d8c0c1a9a838756f",
+      "bytes": 1068,
+      "data_rows": null
+    },
+    {
+      "file": "handoff.md",
+      "sha256": "b01a6fd54eb40b18972e59aeb3dc325b02b62730b60ba37fc8f4156539602c52",
+      "bytes": 1809,
+      "data_rows": null
+    }
+  ]
+}

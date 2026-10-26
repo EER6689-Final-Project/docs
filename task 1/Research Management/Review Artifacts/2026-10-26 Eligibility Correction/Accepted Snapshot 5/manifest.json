@@ -1,0 +1,21 @@
+{
+  "scope": "Accepted snapshot 5 only; self hash excluded; source and previous snapshot artifacts unchanged",
+  "files": {
+    "README.md": {
+      "sha256": "535cbbf8999fed84b8ad27852091f306c79148894d8b46ebc1e38686d15d90f1",
+      "bytes": 4007
+    },
+    "batch3_overlay_original_fields_restored.csv": {
+      "sha256": "685dec86d0d16bd15c78ea0a52e680391fce88258e9759baf23ec6e199738d18",
+      "bytes": 525085
+    },
+    "effective_state_838.csv": {
+      "sha256": "7addcd9e08da56bef3e4f6afe201170cd30377fa7ca4b50a3dcf12e508d9b75d",
+      "bytes": 3538148
+    },
+    "receipt.json": {
+      "sha256": "20b5ef9e0329898f3b8e99fc390f4c3634d84f4275325947383b8128b53483c2",
+      "bytes": 2705
+    }
+  }
+}

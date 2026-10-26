@@ -1,0 +1,408 @@
+{
+  "completed_utc": "2026-10-26T05:53:39.178877+00:00",
+  "frozen_plan_sha256": "36ba6d70bf482cfb7d2ec48b80dfaeb423c3132c44f0ae35e1d6ed8b42bab851",
+  "actual_checks_sha256": "2378b95624dc26c0ddf655dadfe41f4f50ba712e6594776bb334ddb1d1021a31",
+  "scope": "105 cohort metadata eligibility proxies ONLY; not canonical claim QC; not complete global 300 grouping",
+  "groups": [
+    {
+      "group": "R1|article",
+      "members": [
+        "E-0313"
+      ],
+      "selected": "E-0313",
+      "nonselected_count": 0,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R1/article: abstract absence rechecked. Passive web-performance indicator for ISPs specifically identifies a measurement construct and vantage point; title-only routing is sufficient, not indicator validation. R2 is item-level but not selected for its group here.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0313",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R1|conference-paper",
+      "members": [
+        "E-0288",
+        "E-0343",
+        "E-0345",
+        "E-0458",
+        "E-0464",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0288",
+      "nonselected_count": 6,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R1 and R3/conference-paper: re-read full Tor abstract. Resource-tree/round-trip decomposition supports construct routing; Tor and mean-model simulation bound workload transfer. Logging also supports item-level R2, though it is not that group's selected row.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0288",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R1|dissertation",
+      "members": [
+        "E-0486"
+      ],
+      "selected": "E-0486",
+      "nonselected_count": 0,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R1/dissertation: re-read entire page-performance abstract. Response time is explicitly page-level and measured/modeled/monitored; construct routing stands. Modeled response time is not independently measured reference-tool agreement.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0486",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R2|article",
+      "members": [
+        "E-0256",
+        "E-0261",
+        "E-0265",
+        "E-0266",
+        "E-0313",
+        "E-0462"
+      ],
+      "selected": "E-0256",
+      "nonselected_count": 5,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R2/article: re-read this occurrence's full abstract separately; API versus source instrumentation tradeoff is explicit. Metadata says article despite similar conference record; no canonical type or duplicate resolution claimed.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0256",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R2|conference-paper",
+      "members": [
+        "E-0255",
+        "E-0260",
+        "E-0264",
+        "E-0269",
+        "E-0271",
+        "E-0272",
+        "E-0273",
+        "E-0281",
+        "E-0284",
+        "E-0288",
+        "E-0291",
+        "E-0299",
+        "E-0343"
+      ],
+      "selected": "E-0255",
+      "nonselected_count": 12,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R2/conference-paper: re-read full migration abstract; closure/event-handler extraction and extra instrumented code are explicit. Metadata type matches; no quantitative speed claim promoted.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0255",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R2|dissertation",
+      "members": [
+        "E-0268",
+        "E-0274",
+        "E-0290",
+        "E-0297",
+        "E-0333"
+      ],
+      "selected": "E-0268",
+      "nonselected_count": 4,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R2/dissertation: re-read entire hybrid-analysis abstract, including deadline failures and optimization contributions. Timing perturbation is the transferable mechanism; metadata says dissertation.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0268",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R2|preprint",
+      "members": [
+        "E-0285",
+        "E-0293"
+      ],
+      "selected": "E-0285",
+      "nonselected_count": 1,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R2/preprint: re-read safe/redundant-check elimination and single-thread suppression, including Chromium examples. Coverage/cost transfer is bounded; metadata says preprint and 2025-12-05 is before the 2026 cutoff, not a date exclusion.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0285",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R3|article",
+      "members": [
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0331",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0453",
+        "E-0462",
+        "E-0477"
+      ],
+      "selected": "E-0300",
+      "nonselected_count": 9,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R3 and R6/article: abstract absence rechecked, not silently filled. Title explicitly identifies a synthetic web-proxy workload generator and simulation evaluation; metadata says article. Only title-level routing is accepted.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0300",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R3|conference-paper",
+      "members": [
+        "E-0288",
+        "E-0301",
+        "E-0302",
+        "E-0311",
+        "E-0316",
+        "E-0343",
+        "E-0345",
+        "E-0348",
+        "E-0388",
+        "E-0451",
+        "E-0458",
+        "E-0479"
+      ],
+      "selected": "E-0288",
+      "nonselected_count": 11,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R1 and R3/conference-paper: re-read full Tor abstract. Resource-tree/round-trip decomposition supports construct routing; Tor and mean-model simulation bound workload transfer. Logging also supports item-level R2, though it is not that group's selected row.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0288",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R3|dissertation",
+      "members": [
+        "E-0329",
+        "E-0333"
+      ],
+      "selected": "E-0329",
+      "nonselected_count": 1,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R3 and R6/dissertation: re-read the entire short life quotation and metadata. It is defective abstract content. Workload-design title supports routing only; no accuracy or method findings inferred.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0329",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R4|article",
+      "members": [
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0384",
+        "E-0395",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0408",
+        "E-0409",
+        "E-0410",
+        "E-0411",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0417",
+        "E-0418",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448"
+      ],
+      "selected": "E-0373",
+      "nonselected_count": 27,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R4/article: re-read full dynamic-metrology abstract. Regularized inverse reconstruction lacks uncertainty assignment in its case studies, so transfer is conditional on analogous reconstruction, not generic physical uncertainty imported as browser evidence.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0373",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R4|conference-paper",
+      "members": [
+        "E-0361",
+        "E-0458"
+      ],
+      "selected": "E-0361",
+      "nonselected_count": 1,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R4/conference-paper: re-read full supplied paragraph. Iterations, VM invocations and rebuilds are distinct repetition levels; uncertainty/cost routing stands, without claiming to have read the rest of the paper.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0361",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R4|preprint",
+      "members": [
+        "E-0357",
+        "E-0391",
+        "E-0420"
+      ],
+      "selected": "E-0357",
+      "nonselected_count": 2,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R4/preprint: abstract absence rechecked. Title explicitly names repeated measurements, heteroscedastic uncertainty and a proper scoring rule; no unreported estimator assumption or numerical result is supplied. Metadata type remains provisional.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0357",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R5|article",
+      "members": [
+        "E-0395",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0408",
+        "E-0409",
+        "E-0410",
+        "E-0411",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448",
+        "E-0449"
+      ],
+      "selected": "E-0395",
+      "nonselected_count": 28,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R5/article: re-read full primer abstract. It explicitly warns that dissimilar uncertainty-quality methods misrepresent comparisons and illustrates calibration. R5 context/original-source discovery only, not a new agreement model or calibrated browser reference.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0395",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R5|preprint",
+      "members": [
+        "E-0420"
+      ],
+      "selected": "E-0420",
+      "nonselected_count": 0,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R5/preprint: re-read full multi-rater abstract. Maximum pairwise differences, replicated GEE inference and stated mild assumptions justify bounded agreement-method routing; no human-study exclusion or distribution-free guarantee asserted.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0420",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R6|article",
+      "members": [
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0374",
+        "E-0384",
+        "E-0396",
+        "E-0450",
+        "E-0453",
+        "E-0455",
+        "E-0462",
+        "E-0463",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0300",
+      "nonselected_count": 15,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R3 and R6/article: abstract absence rechecked, not silently filled. Title explicitly identifies a synthetic web-proxy workload generator and simulation evaluation; metadata says article. Only title-level routing is accepted.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0300",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R6|conference-paper",
+      "members": [
+        "E-0296",
+        "E-0301",
+        "E-0302",
+        "E-0303",
+        "E-0311",
+        "E-0316",
+        "E-0348",
+        "E-0361",
+        "E-0388",
+        "E-0451",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0296",
+      "nonselected_count": 15,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R6/conference-paper: re-read full phase-aware Chrome power-manager abstract. Phase, governor and hardware comparison support experimental-factor routing, not a claim of profiler validation or R3 population coverage.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0296",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    },
+    {
+      "group": "R6|dissertation",
+      "members": [
+        "E-0329",
+        "E-0333",
+        "E-0486"
+      ],
+      "selected": "E-0329",
+      "nonselected_count": 2,
+      "state": "checked-no-discrepancy",
+      "actual_observation": "R3 and R6/dissertation: re-read the entire short life quotation and metadata. It is defective abstract content. Workload-design title supports routing only; no accuracy or method findings inferred.",
+      "original_anchor": "original_export_targets.csv#occurrence_E_ID=E-0329",
+      "plan_anchor": "group_exclusion_freeze.json",
+      "checker": "Sol separate-pass AI self-audit; not independent human review"
+    }
+  ],
+  "distinct_group_sample_occurrences": 15,
+  "proposed_exclusions": [
+    {
+      "target_EID": "E-0452",
+      "actual": {
+        "target_EID": "E-0452",
+        "actual_state": "checked-no-discrepancy",
+        "actual_observation": "Prospectively listed sole proposed X3: re-read exact concrete-beam title, absent abstract and civil-engineering metadata. Structural web reinforcement is not Web execution. No transferable uncertainty, instrumentation, agreement or corpus-design procedure is stated; experimental wording alone does not answer R6. Accept stage-1 X3 on these supplied boundaries only; no full-text exclusion inferred."
+      },
+      "accepted_status": "X3"
+    }
+  ],
+  "planned_group_count": 18,
+  "actually_checked_group_count": 18,
+  "planned_only_groups": [],
+  "unresolved_mappings": [
+    "E-0262",
+    "E-0276",
+    "E-0309",
+    "E-0359",
+    "E-0380",
+    "E-0389",
+    "E-0392",
+    "E-0398",
+    "E-0433"
+  ],
+  "global_300_group_QA": "OPEN: earlier 195 not rechecked/regrouped; 57 earlier unresolved mappings + 9 here remain pending; old root planned group snapshot is unchanged"
+}

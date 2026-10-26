@@ -1,0 +1,507 @@
+{
+  "timestamp": "2026-10-26T12:04:31.733124+05:30",
+  "primary_checks_sha256": "034b15863f45c6fcbb65a1c1f35a7cd55dfa0a133c503e7d3a0b678950099b49",
+  "authored_sha256": "27d7252eadd28b8f30c1b5ca68daa248001e0e9fd5ebb210966c2fb7cde1648b",
+  "overlay_primary_sha256": "61fb2893043dcc3b1c0a21681fbaf285d9dbeb61b18fed344dede735c31b921d",
+  "producer_exclusions": [
+    "E-0608",
+    "E-0617",
+    "E-0624",
+    "E-0630",
+    "E-0640",
+    "E-0646",
+    "E-0649",
+    "E-0650",
+    "E-0659",
+    "E-0664",
+    "E-0665",
+    "E-0672",
+    "E-0673",
+    "E-0674",
+    "E-0675",
+    "E-0676",
+    "E-0677",
+    "E-0679",
+    "E-0680",
+    "E-0681",
+    "E-0682",
+    "E-0683",
+    "E-0684",
+    "E-0685",
+    "E-0686",
+    "E-0688",
+    "E-0689",
+    "E-0691",
+    "E-0692",
+    "E-0696",
+    "E-0697"
+  ],
+  "sol_proposed_exclusions": [
+    "E-0617",
+    "E-0624",
+    "E-0636",
+    "E-0646",
+    "E-0665",
+    "E-0682",
+    "E-0686",
+    "E-0697"
+  ],
+  "groups": {
+    "OUTSIDE-ALL-SIX / empirical-study": {
+      "members": [
+        "E-0646",
+        "E-0682"
+      ],
+      "selected": "E-0646",
+      "nonselected_count": 1
+    },
+    "OUTSIDE-ALL-SIX / journal-proxy": {
+      "members": [
+        "E-0617",
+        "E-0624",
+        "E-0636"
+      ],
+      "selected": "E-0617",
+      "nonselected_count": 2
+    },
+    "OUTSIDE-ALL-SIX / preprint": {
+      "members": [
+        "E-0665",
+        "E-0686",
+        "E-0697"
+      ],
+      "selected": "E-0665",
+      "nonselected_count": 2
+    },
+    "R1 / thesis-proxy": {
+      "members": [
+        "E-0611"
+      ],
+      "selected": "E-0611",
+      "nonselected_count": 0
+    },
+    "R2 / empirical-study": {
+      "members": [
+        "E-0608"
+      ],
+      "selected": "E-0608",
+      "nonselected_count": 0
+    },
+    "R3 / book-context": {
+      "members": [
+        "E-0602",
+        "E-0628"
+      ],
+      "selected": "E-0602",
+      "nonselected_count": 1
+    },
+    "R3 / case-study": {
+      "members": [
+        "E-0649"
+      ],
+      "selected": "E-0649",
+      "nonselected_count": 0
+    },
+    "R3 / chapter-proxy": {
+      "members": [
+        "E-0621"
+      ],
+      "selected": "E-0621",
+      "nonselected_count": 0
+    },
+    "R3 / context-proxy": {
+      "members": [
+        "E-0619",
+        "E-0623",
+        "E-0632"
+      ],
+      "selected": "E-0619",
+      "nonselected_count": 2
+    },
+    "R3 / empirical-study": {
+      "members": [
+        "E-0601",
+        "E-0603",
+        "E-0604",
+        "E-0608",
+        "E-0609",
+        "E-0612",
+        "E-0613",
+        "E-0614",
+        "E-0616",
+        "E-0620",
+        "E-0625",
+        "E-0627",
+        "E-0629",
+        "E-0630",
+        "E-0633",
+        "E-0638",
+        "E-0639",
+        "E-0640",
+        "E-0641",
+        "E-0642",
+        "E-0644",
+        "E-0645",
+        "E-0648",
+        "E-0684"
+      ],
+      "selected": "E-0601",
+      "nonselected_count": 23
+    },
+    "R3 / preprint": {
+      "members": [
+        "E-0606"
+      ],
+      "selected": "E-0606",
+      "nonselected_count": 0
+    },
+    "R3 / thesis-proxy": {
+      "members": [
+        "E-0607",
+        "E-0610",
+        "E-0618",
+        "E-0622",
+        "E-0631",
+        "E-0637",
+        "E-0643"
+      ],
+      "selected": "E-0607",
+      "nonselected_count": 6
+    },
+    "R3 / tool-study": {
+      "members": [
+        "E-0600",
+        "E-0605",
+        "E-0626",
+        "E-0634",
+        "E-0635",
+        "E-0647"
+      ],
+      "selected": "E-0600",
+      "nonselected_count": 5
+    },
+    "R4 / chapter-proxy": {
+      "members": [
+        "E-0668"
+      ],
+      "selected": "E-0668",
+      "nonselected_count": 0
+    },
+    "R4 / conceptual-proxy": {
+      "members": [
+        "E-0698"
+      ],
+      "selected": "E-0698",
+      "nonselected_count": 0
+    },
+    "R4 / dataset-proxy": {
+      "members": [
+        "E-0678"
+      ],
+      "selected": "E-0678",
+      "nonselected_count": 0
+    },
+    "R4 / empirical-study": {
+      "members": [
+        "E-0650",
+        "E-0652",
+        "E-0653",
+        "E-0654",
+        "E-0655",
+        "E-0658",
+        "E-0660",
+        "E-0661",
+        "E-0663",
+        "E-0666",
+        "E-0672",
+        "E-0673",
+        "E-0676",
+        "E-0677",
+        "E-0680",
+        "E-0683",
+        "E-0684",
+        "E-0688",
+        "E-0692",
+        "E-0693",
+        "E-0694",
+        "E-0696",
+        "E-0699"
+      ],
+      "selected": "E-0650",
+      "nonselected_count": 22
+    },
+    "R4 / method-context": {
+      "members": [
+        "E-0657",
+        "E-0674",
+        "E-0690",
+        "E-0691"
+      ],
+      "selected": "E-0657",
+      "nonselected_count": 3
+    },
+    "R4 / method-preprint": {
+      "members": [
+        "E-0659",
+        "E-0662",
+        "E-0664"
+      ],
+      "selected": "E-0659",
+      "nonselected_count": 2
+    },
+    "R4 / method-study": {
+      "members": [
+        "E-0667",
+        "E-0675",
+        "E-0685",
+        "E-0687"
+      ],
+      "selected": "E-0667",
+      "nonselected_count": 3
+    },
+    "R4 / preprint": {
+      "members": [
+        "E-0651",
+        "E-0656",
+        "E-0689"
+      ],
+      "selected": "E-0651",
+      "nonselected_count": 2
+    },
+    "R4 / thesis-proxy": {
+      "members": [
+        "E-0670",
+        "E-0681"
+      ],
+      "selected": "E-0670",
+      "nonselected_count": 1
+    },
+    "R4 / tool-study": {
+      "members": [
+        "E-0671"
+      ],
+      "selected": "E-0671",
+      "nonselected_count": 0
+    },
+    "R5 / empirical-study": {
+      "members": [
+        "E-0661"
+      ],
+      "selected": "E-0661",
+      "nonselected_count": 0
+    },
+    "R5 / method-study": {
+      "members": [
+        "E-0687"
+      ],
+      "selected": "E-0687",
+      "nonselected_count": 0
+    },
+    "R6 / case-study": {
+      "members": [
+        "E-0649"
+      ],
+      "selected": "E-0649",
+      "nonselected_count": 0
+    },
+    "R6 / conceptual-proxy": {
+      "members": [
+        "E-0698"
+      ],
+      "selected": "E-0698",
+      "nonselected_count": 0
+    },
+    "R6 / empirical-study": {
+      "members": [
+        "E-0603",
+        "E-0604",
+        "E-0608",
+        "E-0609",
+        "E-0612",
+        "E-0614",
+        "E-0615",
+        "E-0616",
+        "E-0625",
+        "E-0629",
+        "E-0630",
+        "E-0633",
+        "E-0638",
+        "E-0640",
+        "E-0641",
+        "E-0642",
+        "E-0644",
+        "E-0645",
+        "E-0648",
+        "E-0650",
+        "E-0653",
+        "E-0655",
+        "E-0658",
+        "E-0666",
+        "E-0676",
+        "E-0677",
+        "E-0680",
+        "E-0683",
+        "E-0684",
+        "E-0688",
+        "E-0693",
+        "E-0699"
+      ],
+      "selected": "E-0603",
+      "nonselected_count": 31
+    },
+    "R6 / method-context": {
+      "members": [
+        "E-0690",
+        "E-0695"
+      ],
+      "selected": "E-0690",
+      "nonselected_count": 1
+    },
+    "R6 / method-preprint": {
+      "members": [
+        "E-0664"
+      ],
+      "selected": "E-0664",
+      "nonselected_count": 0
+    },
+    "R6 / method-study": {
+      "members": [
+        "E-0669",
+        "E-0675",
+        "E-0679",
+        "E-0685"
+      ],
+      "selected": "E-0669",
+      "nonselected_count": 3
+    },
+    "R6 / preprint": {
+      "members": [
+        "E-0606",
+        "E-0656",
+        "E-0689"
+      ],
+      "selected": "E-0606",
+      "nonselected_count": 2
+    },
+    "R6 / thesis-proxy": {
+      "members": [
+        "E-0610",
+        "E-0618",
+        "E-0622",
+        "E-0631",
+        "E-0637",
+        "E-0643",
+        "E-0681"
+      ],
+      "selected": "E-0610",
+      "nonselected_count": 6
+    },
+    "R6 / tool-study": {
+      "members": [
+        "E-0600",
+        "E-0605",
+        "E-0626",
+        "E-0634",
+        "E-0635",
+        "E-0647",
+        "E-0671"
+      ],
+      "selected": "E-0600",
+      "nonselected_count": 6
+    }
+  },
+  "selection_rule": "Lexicographically first explicit E-ID per explicit corrected R/type-proxy group; no range parsing",
+  "critical_EIDs": [
+    "E-0608",
+    "E-0617",
+    "E-0624",
+    "E-0630",
+    "E-0636",
+    "E-0640",
+    "E-0646",
+    "E-0649",
+    "E-0650",
+    "E-0659",
+    "E-0664",
+    "E-0665",
+    "E-0672",
+    "E-0673",
+    "E-0674",
+    "E-0675",
+    "E-0676",
+    "E-0677",
+    "E-0679",
+    "E-0680",
+    "E-0681",
+    "E-0682",
+    "E-0683",
+    "E-0684",
+    "E-0685",
+    "E-0686",
+    "E-0688",
+    "E-0689",
+    "E-0691",
+    "E-0692",
+    "E-0696",
+    "E-0697"
+  ],
+  "target_EIDs": [
+    "E-0600",
+    "E-0601",
+    "E-0602",
+    "E-0603",
+    "E-0606",
+    "E-0607",
+    "E-0608",
+    "E-0610",
+    "E-0611",
+    "E-0617",
+    "E-0619",
+    "E-0621",
+    "E-0624",
+    "E-0630",
+    "E-0636",
+    "E-0640",
+    "E-0646",
+    "E-0649",
+    "E-0650",
+    "E-0651",
+    "E-0657",
+    "E-0659",
+    "E-0661",
+    "E-0664",
+    "E-0665",
+    "E-0667",
+    "E-0668",
+    "E-0669",
+    "E-0670",
+    "E-0671",
+    "E-0672",
+    "E-0673",
+    "E-0674",
+    "E-0675",
+    "E-0676",
+    "E-0677",
+    "E-0678",
+    "E-0679",
+    "E-0680",
+    "E-0681",
+    "E-0682",
+    "E-0683",
+    "E-0684",
+    "E-0685",
+    "E-0686",
+    "E-0687",
+    "E-0688",
+    "E-0689",
+    "E-0690",
+    "E-0691",
+    "E-0692",
+    "E-0696",
+    "E-0697",
+    "E-0698"
+  ],
+  "status": "FROZEN BEFORE SECONDARY ORIGINAL REREAD",
+  "pattern_expansion_rule": "If substantive discrepancy emerges, prospectively freeze finite same-pattern list before rereading; otherwise no expansion claimed",
+  "checks_completed": false
+}

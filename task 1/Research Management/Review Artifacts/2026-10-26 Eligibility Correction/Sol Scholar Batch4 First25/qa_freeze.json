@@ -1,0 +1,196 @@
+{
+  "created_utc": "2026-10-26T06:36:09.003528+00:00",
+  "phase": "after completed primary review; before secondary original-export reread",
+  "primary_overlay_sha256": "9f6743df3c21a402f2c8fc6d4c8724adf7f3910b1a90ea35059267a6189bda88",
+  "judgments_sha256": "5b5ad47f4a6d1ddfdf9d70aac1cd467ec92c1ffa7fa1fa63c10cf45deb512681",
+  "original_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "producer_sha256": "1d47ab4a385e67fcfa85bc2ca7e942f4583a4f3570352220dfb06ca28e8a824b",
+  "proposed_exclusions": [],
+  "group_basis": "actual explicit positive R4/R5 judgments only; exported title/metadata source-type proxies, not query membership; no canonical S/C groups",
+  "groups": [
+    {
+      "group": "R4|book-record",
+      "members": [
+        "E-0701"
+      ],
+      "selected_first_EID": "E-0701",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|course-pdf-record",
+      "members": [
+        "E-0719",
+        "E-0724"
+      ],
+      "selected_first_EID": "E-0719",
+      "nonselected_count": 1
+    },
+    {
+      "group": "R4|hosted-pdf-journal-record",
+      "members": [
+        "E-0715"
+      ],
+      "selected_first_EID": "E-0715",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|html-journal-record",
+      "members": [
+        "E-0716"
+      ],
+      "selected_first_EID": "E-0716",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|journal-record",
+      "members": [
+        "E-0700",
+        "E-0702",
+        "E-0703",
+        "E-0704",
+        "E-0706",
+        "E-0707",
+        "E-0710",
+        "E-0711",
+        "E-0712",
+        "E-0721",
+        "E-0722",
+        "E-0723"
+      ],
+      "selected_first_EID": "E-0700",
+      "nonselected_count": 11
+    },
+    {
+      "group": "R4|preprint-record",
+      "members": [
+        "E-0714"
+      ],
+      "selected_first_EID": "E-0714",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|repository-record",
+      "members": [
+        "E-0720"
+      ],
+      "selected_first_EID": "E-0720",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|review-chapter-record",
+      "members": [
+        "E-0709"
+      ],
+      "selected_first_EID": "E-0709",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R4|tutorial-record",
+      "members": [
+        "E-0708"
+      ],
+      "selected_first_EID": "E-0708",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|book-record",
+      "members": [
+        "E-0701",
+        "E-0713"
+      ],
+      "selected_first_EID": "E-0701",
+      "nonselected_count": 1
+    },
+    {
+      "group": "R5|course-pdf-record",
+      "members": [
+        "E-0719",
+        "E-0724"
+      ],
+      "selected_first_EID": "E-0719",
+      "nonselected_count": 1
+    },
+    {
+      "group": "R5|hosted-pdf-journal-record",
+      "members": [
+        "E-0715"
+      ],
+      "selected_first_EID": "E-0715",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|html-journal-record",
+      "members": [
+        "E-0716"
+      ],
+      "selected_first_EID": "E-0716",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|journal-record",
+      "members": [
+        "E-0700",
+        "E-0702",
+        "E-0703",
+        "E-0704",
+        "E-0705",
+        "E-0706",
+        "E-0707",
+        "E-0710",
+        "E-0711",
+        "E-0712",
+        "E-0717",
+        "E-0718",
+        "E-0721",
+        "E-0722",
+        "E-0723"
+      ],
+      "selected_first_EID": "E-0700",
+      "nonselected_count": 14
+    },
+    {
+      "group": "R5|preprint-record",
+      "members": [
+        "E-0714"
+      ],
+      "selected_first_EID": "E-0714",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|repository-record",
+      "members": [
+        "E-0720"
+      ],
+      "selected_first_EID": "E-0720",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|review-chapter-record",
+      "members": [
+        "E-0709"
+      ],
+      "selected_first_EID": "E-0709",
+      "nonselected_count": 0
+    },
+    {
+      "group": "R5|tutorial-record",
+      "members": [
+        "E-0708"
+      ],
+      "selected_first_EID": "E-0708",
+      "nonselected_count": 0
+    }
+  ],
+  "selected_ids": [
+    "E-0700",
+    "E-0701",
+    "E-0708",
+    "E-0709",
+    "E-0714",
+    "E-0715",
+    "E-0716",
+    "E-0719",
+    "E-0720"
+  ],
+  "checker": "Sol separate-pass AI self-audit; not independent human review"
+}

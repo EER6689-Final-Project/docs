@@ -1,0 +1,401 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:43:39.107616+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0466",
+      "event": "E-3615",
+      "affected": [
+        "R1",
+        "R4"
+      ],
+      "previous_RIDs": "R1;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "MIMO control of an Apache web server: modeling and controller design",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "This paper considers the efficacy of feedback control in improving the performance of computing systems. Computing systems typically have many competing performance goals which are affected by several external variables. A feedback control strategy is desirable because well established techniques exist to handle these performance trade-offs and external disturbances. In order to employ such a strategy, decisions need to be made about the inputs, outputs, sample time, model type, and performance measures. This paper describes this process, which is often nebulous for computing systems, in the context of an Apache web server. A linear multi-input multi-output model of the system is identified experimentally and used to design several feedback controllers. Experimental results are presented showing the problems associated with a pure pole placement design and effectiveness of LQ control based techniques. The paper concludes with a discussion of future work.",
+      "metadata": {
+        "publication_year": "2002",
+        "publication_date": "2002-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/acc.2002.1025440",
+        "platform_record_id": "https://openalex.org/W2151531626",
+        "record_url": "https://openalex.org/W2151531626",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/acc.2002.1025440\", \"publication_year\": 2002, \"publication_date\": \"2002-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"N. Gandhi\", \"Dawn M. Tilbury\", \"Yixin Diao\", \"Joseph M. Hellerstein\", \"S. Parekh\"], \"venue\": \"Proceedings of the ... American Control Conference/Proceedings of the American Control Conference\", \"openalex_id\": \"https://openalex.org/W2151531626\", \"landing_page_url\": \"https://doi.org/10.1109/acc.2002.1025440\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "17",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9cc1e19638862c39f1b440e76e1ccd2fcb6253861844f643a3db5d9f78b5edd6"
+    },
+    {
+      "target": "E-0467",
+      "event": "E-3616",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Near-optimal experimental design for model selection in systems biology",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "MOTIVATION: Biological systems are understood through iterations of modeling and experimentation. Not all experiments, however, are equally valuable for predictive modeling. This study introduces an efficient method for experimental design aimed at selecting dynamical models from data. Motivated by biological applications, the method enables the design of crucial experiments: it determines a highly informative selection of measurement readouts and time points. RESULTS: We demonstrate formal guarantees of design efficiency on the basis of previous results. By reducing our task to the setting of graphical models, we prove that the method finds a near-optimal design selection with a polynomial number of evaluations. Moreover, the method exhibits the best polynomial-complexity constant approximation factor, unless P = NP. We measure the performance of the method in comparison with established alternatives, such as ensemble non-centrality, on example models of different complexity. Efficient design accelerates the loop between modeling and experimentation: it enables the inference of complex mechanisms, such as those controlling central metabolic operation. AVAILABILITY: Toolbox 'NearOED' available with source code under GPL on the Machine Learning Open Source Software Web site (mloss.org).",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-07-29",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/bioinformatics/btt436",
+        "platform_record_id": "https://openalex.org/W2137443247",
+        "record_url": "https://openalex.org/W2137443247",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/bioinformatics/btt436\", \"publication_year\": 2013, \"publication_date\": \"2013-07-29\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Alberto Giovanni Busetto\", \"Alain Hauser\", \"Gabriel Krummenacher\", \"Mikael Sunnåker\", \"Sotiris Dimopoulos\", \"Cheng Soon Ong\", \"Jörg Stelling\", \"Joachim M. Buhmann\"], \"venue\": \"Bioinformatics\", \"openalex_id\": \"https://openalex.org/W2137443247\", \"landing_page_url\": \"https://doi.org/10.1093/bioinformatics/btt436\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "18",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e727b566da1ed226aa04acd87608f1361d8e4d81565303ddc0ec625e054f631b"
+    },
+    {
+      "target": "E-0468",
+      "event": "E-3617",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R3;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "The effects of active queue management on web performance",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We present an empirical study of the effects of active queue management (AQM) on the distribution of response times experienced by a population of web users. Three prominent AQM schemes are considered: the Proportional Integrator (PI) controller, the Random Exponential Marking (REM) controller, and Adaptive Random Early Detection (ARED). The effects of these AQM schemes were studied alone and in combination with Explicit Congestion Notification (ECN). Our major results are:",
+      "metadata": {
+        "publication_year": "2003",
+        "publication_date": "2003-08-25",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/863955.863986",
+        "platform_record_id": "https://openalex.org/W2167390864",
+        "record_url": "https://openalex.org/W2167390864",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/863955.863986\", \"publication_year\": 2003, \"publication_date\": \"2003-08-25\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Long Le\", \"Jay Aikat\", \"Kevin Jeffay B\", \"F. Donelson Smith\"], \"venue\": \"ACM SIGCOMM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications (SIGCOMM)\", \"openalex_id\": \"https://openalex.org/W2167390864\", \"landing_page_url\": \"https://doi.org/10.1145/863955.863986\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "19",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "ad9ed54489529da49c90a11f7c1723654945be4ebf31e8c05926b1f2abf8aeff"
+    },
+    {
+      "target": "E-0469",
+      "event": "E-3618",
+      "affected": [
+        "R2",
+        "R4"
+      ],
+      "previous_RIDs": "R2;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "An Experimental Study on Software Aging and Rejuvenation in Web Servers",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Several studies have been conducted in order to understand the 'software aging' phenomenon. This paper presents the results of an experimental research work, which evaluated the software aging effects on a web server as well as the performance of a rejuvenation agent. Its main contribution is the identification and analytical validation of the factors that contribute for the web server aging. We adopted the design of experiment technique (DOE) to characterize the aging phenomenon. The results showed evidence that the 'page type' and 'page size' factors were responsible for over 99% of memory size variation in httpd processes. A 'rejuvenation agent' was implemented and integrated into the server environment to mitigate the aging effects. As a result, the size of the httpd processes could be kept under control and a higher availability and performance of the web server could be provided, as compared to the scenario without rejuvenation.",
+      "metadata": {
+        "publication_year": "2006",
+        "publication_date": "2006-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/compsac.2006.25",
+        "platform_record_id": "https://openalex.org/W2145213895",
+        "record_url": "https://openalex.org/W2145213895",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/compsac.2006.25\", \"publication_year\": 2006, \"publication_date\": \"2006-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Rivalino Matias\", \"Paulo Ferrareze Filho\"], \"venue\": \"IEEE Annual International Computer Software and Applications Conference (COMPSAC)\", \"openalex_id\": \"https://openalex.org/W2145213895\", \"landing_page_url\": \"https://doi.org/10.1109/compsac.2006.25\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "05a218beb98947e7f25618dc8675e5fb9c3936d19539e0bb9956d08dcc0034e9"
+    },
+    {
+      "target": "E-0470",
+      "event": "E-3619",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Practical Aspects of Experimental Design in Animal Research",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "A brief overview is presented of the key steps involved in designing a research animal experiment, with reference to resources that specifically address each topic of discussion in more detail. After an idea for a research project is conceived, a thorough review of the literature and consultation with experts in that field are pursued to refine the problem statement and to assimilate background information that is necessary for the experimental design phase. A null and an alternate hypothesis that address the problem statement are then formulated, and only then is the specific design of the experiment developed. Likely the most critical step in designing animal experiments is the identification of the most appropriate animal model to address the experimental question being asked. Other practical considerations include defining the necessary control groups, randomly assigning animals to control/treatment groups, determining the number of animals needed per group, evaluating the logistics of the actual performance of the animal experiments, and identifying the most appropriate statistical analyses and potential collaborators experienced in the area of study. All of these factors are critical to designing an experiment that will generate scientifically valid and reproducible data, which should be considered the ultimate goal of any scientific investigation.",
+      "metadata": {
+        "publication_year": "2002",
+        "publication_date": "2002-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/ilar.43.4.202",
+        "platform_record_id": "https://openalex.org/W2103204596",
+        "record_url": "https://openalex.org/W2103204596",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/ilar.43.4.202\", \"publication_year\": 2002, \"publication_date\": \"2002-01-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"P. D. Johnson\", \"David G. Besselsen\"], \"venue\": \"ILAR Journal\", \"openalex_id\": \"https://openalex.org/W2103204596\", \"landing_page_url\": \"https://doi.org/10.1093/ilar.43.4.202\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "21",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "0d52e024ae49ffc5d838d7efb036809ed421b763f76800c3263fc418c299f167"
+    },
+    {
+      "target": "E-0476",
+      "event": "E-3620",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R6",
+      "previous_status": "ADVANCE",
+      "title": "Improving Perceived Web Performance by Size Based Congestion Control",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2004",
+        "publication_date": "2004-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-540-24693-0_57",
+        "platform_record_id": "https://openalex.org/W1584197317",
+        "record_url": "https://openalex.org/W1584197317",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-540-24693-0_57\", \"publication_year\": 2004, \"publication_date\": \"2004-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Thomas Ziegler\", \"Hung Tuan Tran\", \"Eduard Hasenleithner\"], \"venue\": \"Lecture notes in computer science\", \"openalex_id\": \"https://openalex.org/W1584197317\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-540-24693-0_57\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "27",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "be74db7330cdfa7e5efa672ec3670664e3e298cc274bab698df72d4f814080e3"
+    },
+    {
+      "target": "E-0478",
+      "event": "E-3621",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Behavioral phenotyping of transgenic and knockout mice: experimental design and evaluation of general health, sensory functions, motor abilities, and specific behavioral tests1Published on the World Wide Web on 2 December 1998.1",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "1999",
+        "publication_date": "1999-07-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1016/s0006-8993(98)01258-x",
+        "platform_record_id": "https://openalex.org/W2021193054",
+        "record_url": "https://openalex.org/W2021193054",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1016/s0006-8993(98)01258-x\", \"publication_year\": 1999, \"publication_date\": \"1999-07-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Jacqueline N. Crawley\"], \"venue\": \"Brain Research\", \"openalex_id\": \"https://openalex.org/W2021193054\", \"landing_page_url\": \"https://doi.org/10.1016/s0006-8993(98)01258-x\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "6015edf3554e18df7c14ed77e2e87b76bd0bab2e83e14c5f50f6675db4940f3a"
+    },
+    {
+      "target": "E-0479",
+      "event": "E-3622",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "HTTP/2 Prioritization and its Impact on Web Performance",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Web performance is a hot topic, as many studies have shown a strong correlation between slow webpages and loss of revenue due to user dissatisfaction. Front and center in Page Load Time (PLT) optimization is the order in which resources are downloaded and processed. The new HTTP/2 specification includes dedicated resource prioritization provisions, to be used in tandem with resource multiplexing over a single, well-filled TCP connection. However, little is yet known about its application by browsers and its impact on page load performance. This article details an extensive survey of modern User Agent implementations, with the conclusion that the major vendors all approach HTTP/2 prioritization in widely different ways, from naive (Safari, IE, Edge) to complex (Chrome, Firefox). We investigate the performance effect of these discrepancies with a full-factorial experimental evaluation involving eight prioritization algorithms, two off-the-shelf User Agents, 40 realistic webpages, and five heterogeneous (emulated) network conditions. We find that in general the complex approaches yield the best results, while naive schemes can lead to over 25% slower median visual load times. Also, prioritization is found to matter most for heavy-weight pages. Finally, it is ascertained that achieving PLT optimizations via generic server-side HTTP/2 re-prioritization schemes is a non-trivial task and that their performance is influenced by the implementation intricacies of individual browsers.",
+      "metadata": {
+        "publication_year": "2018",
+        "publication_date": "2018-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3178876.3186181",
+        "platform_record_id": "https://openalex.org/W2797707263",
+        "record_url": "https://openalex.org/W2797707263",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3178876.3186181\", \"publication_year\": 2018, \"publication_date\": \"2018-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Maarten Wijnants\", \"Robin Marx\", \"Peter Quax\", \"Wim Lamotte\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2797707263\", \"landing_page_url\": \"https://doi.org/10.1145/3178876.3186181\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "30",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "c113c6cfac2cd158af3f247ed1e37fa1492f270b2e32c51cbee99ed82d91d974"
+    },
+    {
+      "target": "E-0483",
+      "event": "E-3623",
+      "affected": [
+        "R2",
+        "R4"
+      ],
+      "previous_RIDs": "R2;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Experimental and Analytical Evaluation of the Impact of Security Compliance on System Performance of Web Applications",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "In this paper, we present a combined experimental and analytical investigation of the impact of security compliance on a three-tier web application hosted on a virtualized platform. We used two-group experimental design for our experiments, and analyzed the impact of security using the ANCOVA model. The results of experiments suggest that security measures have significant impact on system performance of web application, particularly on the web and the database tiers. We modeled the three-tier web application using Queueing Network and incorporated security delays in the existing MVA based solution. We compared the results of the experiments with the MVA model results.",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-08-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/ccc.2016.19",
+        "platform_record_id": "https://openalex.org/W2537169660",
+        "record_url": "https://openalex.org/W2537169660",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/ccc.2016.19\", \"publication_year\": 2016, \"publication_date\": \"2016-08-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"John Oluwole Babatunde\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2537169660\", \"landing_page_url\": \"https://doi.org/10.1109/ccc.2016.19\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "34",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "f4661bb903f08d043fa5f96d1f970e6eda9b7bd025e0e3336ccc03990bace3d4"
+    },
+    {
+      "target": "E-0484",
+      "event": "E-3624",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R1;R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "Web Application Performance",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Web applications are designed to handle hundreds and even thousands of requests per second. To build such applications successfully, it is important to identify potential performance bottlenecks and to do everything you can to prevent them from occurring. But handling and preventing bottlenecks in ASP.NET applications is not confined to your code alone. From the time a web request reaches the server to the time it reaches your application’s code, it passes through an HTTP pipeline and then through the IIS pipeline, only to reach another pipeline, the ASP.NET’s pipeline, and only then does it reach your code. And when you finish handling the request, the response is sent down those pipelines until it is eventually received by the client’s machine. Every one of these pipelines is a potential bottleneck, so improving the performance of ASP.NET applications actually means improving both your code and the performance of the pipeline. These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+      "metadata": {
+        "publication_year": "2012",
+        "publication_date": "2012-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-1-4302-4459-2_11",
+        "platform_record_id": "https://openalex.org/W117939781",
+        "record_url": "https://openalex.org/W117939781",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-1-4302-4459-2_11\", \"publication_year\": 2012, \"publication_date\": \"2012-01-01\", \"type\": \"book-chapter\", \"language\": \"en\", \"authorships\": [\"Sasha Goldshtein\", \"Dima Zurbalev\", \"Ido Flatow\"], \"venue\": \"Apress eBooks\", \"openalex_id\": \"https://openalex.org/W117939781\", \"landing_page_url\": \"https://doi.org/10.1007/978-1-4302-4459-2_11\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "35",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d83e2eff9d4116140ea70f25f18fea7600614e792a5bf746414ec66819194a80"
+    },
+    {
+      "target": "E-0485",
+      "event": "E-3625",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Yaksha: a self-tuning controller for managing the performance of 3-tiered web sites",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Managing the performance of multiple-tiered Web sites under high client loads is a critical problem with the advent of dynamic content and database-driven servers on the Internet. This paper presents a control-theoretic approach for admission control in multitiered Web sites that both prevents overload and enforces absolute client response times, while still maintaining high throughput under load. We use classical control theoretic techniques to design a proportional integral (PI) controller for admission control of client HTTP requests. In addition, we present a processor-sharing model that is used to make the controller self-tuning, so that no parameter setting is required beyond a target response time. Our controller is implemented as a proxy, called Yaksha, which operates by taking simple external measurements of the client response times. Our design is noninvasive and requires minimal operator intervention. We evaluate our techniques experimentally using a 3-tiered dynamic content Web site as a testbed. Using the industry standard TPC-W client workload generator, we study the performance of the PI admission controller with extensive experiments. We show that the controller effectively bounds the response times of requests for dynamic content while still maintaining high throughput levels, even when the client request rate is many times that of the server's maximum processing rate. We demonstrate the effectiveness of our self-tuning mechanism, showing that it responds and adapts smoothly to changes in the workload.",
+      "metadata": {
+        "publication_year": "2004",
+        "publication_date": "2004-11-13",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/iwqos.2004.1309356",
+        "platform_record_id": "https://openalex.org/W2109480140",
+        "record_url": "https://openalex.org/W2109480140",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/iwqos.2004.1309356\", \"publication_year\": 2004, \"publication_date\": \"2004-11-13\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Abhinav Kamra\", \"Vishal Misra\", \"Erich Nahum\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2109480140\", \"landing_page_url\": \"https://doi.org/10.1109/iwqos.2004.1309356\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "15d7ea84157c992a7c4c952b4b8426b14a8aed8a76669a6f3443af5df943a9c8"
+    },
+    {
+      "target": "E-0486",
+      "event": "E-3626",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R6",
+      "previous_status": "ADVANCE",
+      "title": "Web page performance analysis",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Computer systems play an increasingly crucial and ubiquitous role in human endeavour by carrying out or facilitating tasks and providing information and services. How much work these systems can accomplish, within a certain amount of time, using a certain amount of resources, characterises the systems’ performance, which is a major concern when the systems are planned, designed, implemented, deployed, and evolve. As one of the most popular computer systems, the Web is inevitably scrutinised in terms of performance analysis that deals with its speed, capacity, resource utilisation, and availability. Performance analyses for the Web are normally done from the perspective of the Web servers and the underlying network (the Internet). This research, on the other hand, approaches Web performance analysis from the perspective of Web pages. The performance metric of interest here is response time. Response time is studied as an attribute of Web pages, instead of being considered purely a result of network and server conditions. A framework that consists of measurement, modelling, and monitoring (3Ms) of Web pages that revolves around response time is adopted to support the performance analysis activity. The measurement module enables Web page response time to be measured and is used to support the modelling module, which in turn provides references for the monitoring module. The monitoring module estimates response time. The three modules are used in the software development lifecycle to ensure that developed Web pages deliver at worst satisfactory response time (within a maximum acceptable time), or preferably much better response time, thereby maximising the efficiency of the pages. The framework proposes a systematic way to understand response time as it is related to specific characteristics of Web pages and explains how individual Web page response time can be examined and improved.",
+      "metadata": {
+        "publication_year": "2009",
+        "publication_date": "2009-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W1527852396",
+        "record_url": "https://openalex.org/W1527852396",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2009, \"publication_date\": \"2009-01-01\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Thiam Kian Chiew\"], \"venue\": \"Enlighten: Theses (The University of Glasgow)\", \"openalex_id\": \"https://openalex.org/W1527852396\", \"landing_page_url\": \"https://theses.gla.ac.uk/658/1/2009chiewtkphd.pdf\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "37",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "2d185000908c680a3b57036c4ef24b9e8fc7d705578c7f75c16be472b885c066"
+    },
+    {
+      "target": "E-0492",
+      "event": "E-3627",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "fMRI reliability: Influences of task and experimental design",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-08-09",
+        "language": "en",
+        "doi": "https://doi.org/10.3758/s13415-013-0195-1",
+        "platform_record_id": "https://openalex.org/W2049228309",
+        "record_url": "https://openalex.org/W2049228309",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.3758/s13415-013-0195-1\", \"publication_year\": 2013, \"publication_date\": \"2013-08-09\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Craig M. Bennett\", \"Michael B. Miller\"], \"venue\": \"Cognitive Affective & Behavioral Neuroscience\", \"openalex_id\": \"https://openalex.org/W2049228309\", \"landing_page_url\": \"https://doi.org/10.3758/s13415-013-0195-1\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "43",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "dd6d97c6e4b55aac4e67d816a5eab5ca486a663fac2166544b000ee664dc83e1"
+    },
+    {
+      "target": "E-0494",
+      "event": "E-3628",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Sloppy models, parameter uncertainty, and the role of experimental design",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Computational models are increasingly used to understand and predict complex biological phenomena. These models contain many unknown parameters, at least some of which are difficult to measure directly, and instead are estimated by fitting to time-course data. Previous work has suggested that even with precise data sets, many parameters are unknowable by trajectory measurements. We examined this question in the context of a pathway model of epidermal growth factor (EGF) and neuronal growth factor (NGF) signaling. Computationally, we examined a palette of experimental perturbations that included different doses of EGF and NGF as well as single and multiple gene knockdowns and overexpressions. While no single experiment could accurately estimate all of the parameters, experimental design methodology identified a set of five complementary experiments that could. These results suggest optimism for the prospects for calibrating even large models, that the success of parameter estimation is intimately linked to the experimental perturbations used, and that experimental design methodology is important for parameter fitting of biological models and likely for the accuracy that can be expected from them.",
+      "metadata": {
+        "publication_year": "2010",
+        "publication_date": "2010-06-17",
+        "language": "en",
+        "doi": "https://doi.org/10.1039/b918098b",
+        "platform_record_id": "https://openalex.org/W2116361328",
+        "record_url": "https://openalex.org/W2116361328",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1039/b918098b\", \"publication_year\": 2010, \"publication_date\": \"2010-06-17\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Joshua F. Apgar\", \"David K Witmer\", \"Forest M. White\", \"Bruce Tidor\"], \"venue\": \"Molecular BioSystems\", \"openalex_id\": \"https://openalex.org/W2116361328\", \"landing_page_url\": \"https://doi.org/10.1039/b918098b\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "45",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "696f6d367734006069ecc6c5903b00ff361d1cf4b6d526808af78787a8707b22"
+    },
+    {
+      "target": "E-0496",
+      "event": "E-3629",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R3;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Experimental studies of scalability in clustered web systems",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Summary form only given. As the Internet is becoming more robust with the addition of new services such as audio and video streaming, e-commerce, and news casting, the traditional Web server architecture is unable to keep up with the increasing demands and requisites of such new services. This situation has created a need for secure, reliable, highly available, and scalable Web servers that rely on clustering technologies to be able to meet the growth in the user base and offered services. Our work is concerned with scalability and performance of clustered Web systems based on open technologies. We study the scalability of clustered Web servers and HTTP traffic distribution methods through an experimental testbed and present the results of a series of experiments we conducted to benchmark the performance and scalability of a clustered Web system. We describe the prototyped target cluster and its components; the benchmarking methodology, metrics, and test scenarios; and the performance and scalability test results. The results demonstrate nonlinear scalability. We use these results to better understand scalability and performance issues in clustered systems. In future work, we aim to design and build linearly scalable Web server platforms within the concept of next generation Internet server.",
+      "metadata": {
+        "publication_year": "2004",
+        "publication_date": "2004-06-10",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/ipdps.2004.1303197",
+        "platform_record_id": "https://openalex.org/W2116820886",
+        "record_url": "https://openalex.org/W2116820886",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/ipdps.2004.1303197\", \"publication_year\": 2004, \"publication_date\": \"2004-06-10\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Ibrahim Haddad\", \"Gregory Butler\"], \"venue\": \"Proceedings - IEEE International Parallel and Distributed Processing Symposium\", \"openalex_id\": \"https://openalex.org/W2116820886\", \"landing_page_url\": \"https://doi.org/10.1109/ipdps.2004.1303197\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R6",
+        "query": "web performance experimental design",
+        "rank": "47",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "78bbe6e40a564707aaf0aa383d4d7dfc92c5f97cb9ec80ba8193245fde2fa8a5"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "groups": [
+    {
+      "R": "R1",
+      "source_type_metadata_proxy": "conference-paper",
+      "original_global_QC": "QC-402",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0204",
+        "E-0220",
+        "E-0278",
+        "E-0288",
+        "E-0343",
+        "E-0345",
+        "E-0458",
+        "E-0461",
+        "E-0464",
+        "E-0466",
+        "E-0476",
+        "E-0479",
+        "E-0485"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0288",
+          "E-0343",
+          "E-0458",
+          "E-0485"
+        ],
+        "unclear": [
+          "E-0204",
+          "E-0345",
+          "E-0464",
+          "E-0466",
+          "E-0476",
+          "E-0479"
+        ],
+        "outside": [
+          "E-0220",
+          "E-0278",
+          "E-0461"
+        ]
+      },
+      "final_positive_first_EID": "E-0288",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R1",
+      "source_type_metadata_proxy": "dissertation",
+      "original_global_QC": "QC-403",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0277",
+        "E-0287",
+        "E-0310",
+        "E-0486"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0287",
+          "E-0310",
+          "E-0486"
+        ],
+        "unclear": [],
+        "outside": [
+          "E-0277"
+        ]
+      },
+      "final_positive_first_EID": "E-0287",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R2",
+      "source_type_metadata_proxy": "book-chapter",
+      "original_global_QC": "QC-407",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0484"
+      ],
+      "final_results": {
+        "supported": [],
+        "unclear": [],
+        "outside": [
+          "E-0484"
+        ]
+      },
+      "final_positive_first_EID": null,
+      "first_EID_secondary_actually_checked": "EMPTY GROUP",
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R2",
+      "source_type_metadata_proxy": "conference-paper",
+      "original_global_QC": "QC-408",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0220",
+        "E-0254",
+        "E-0255",
+        "E-0258",
+        "E-0260",
+        "E-0264",
+        "E-0269",
+        "E-0271",
+        "E-0272",
+        "E-0273",
+        "E-0278",
+        "E-0281",
+        "E-0284",
+        "E-0288",
+        "E-0291",
+        "E-0294",
+        "E-0295",
+        "E-0299",
+        "E-0343",
+        "E-0469",
+        "E-0483"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0254",
+          "E-0255",
+          "E-0260",
+          "E-0264",
+          "E-0269",
+          "E-0272",
+          "E-0273",
+          "E-0278",
+          "E-0281",
+          "E-0284",
+          "E-0288",
+          "E-0291",
+          "E-0295",
+          "E-0299",
+          "E-0343"
+        ],
+        "unclear": [
+          "E-0258",
+          "E-0271",
+          "E-0294"
+        ],
+        "outside": [
+          "E-0220",
+          "E-0469",
+          "E-0483"
+        ]
+      },
+      "final_positive_first_EID": "E-0254",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R2",
+      "source_type_metadata_proxy": "preprint",
+      "original_global_QC": "QC-410",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0241",
+        "E-0283",
+        "E-0285",
+        "E-0286",
+        "E-0293",
+        "E-0342"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0285",
+          "E-0286",
+          "E-0293",
+          "E-0342"
+        ],
+        "unclear": [
+          "E-0283"
+        ],
+        "outside": [
+          "E-0241"
+        ]
+      },
+      "final_positive_first_EID": "E-0285",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R4",
+      "source_type_metadata_proxy": "article",
+      "original_global_QC": "QC-418",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0244",
+        "E-0247",
+        "E-0353",
+        "E-0355",
+        "E-0356",
+        "E-0360",
+        "E-0363",
+        "E-0367",
+        "E-0368",
+        "E-0373",
+        "E-0374",
+        "E-0376",
+        "E-0377",
+        "E-0379",
+        "E-0381",
+        "E-0383",
+        "E-0384",
+        "E-0385",
+        "E-0387",
+        "E-0390",
+        "E-0393",
+        "E-0394",
+        "E-0395",
+        "E-0399",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0408",
+        "E-0409",
+        "E-0410",
+        "E-0411",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0417",
+        "E-0418",
+        "E-0419",
+        "E-0424",
+        "E-0425",
+        "E-0426",
+        "E-0428",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0438",
+        "E-0439",
+        "E-0442",
+        "E-0444",
+        "E-0447",
+        "E-0448",
+        "E-0467",
+        "E-0470",
+        "E-0478",
+        "E-0492",
+        "E-0494"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0353",
+          "E-0355",
+          "E-0360",
+          "E-0367",
+          "E-0368",
+          "E-0373",
+          "E-0374",
+          "E-0381",
+          "E-0384",
+          "E-0390",
+          "E-0393",
+          "E-0394",
+          "E-0399",
+          "E-0400",
+          "E-0401",
+          "E-0402",
+          "E-0403",
+          "E-0404",
+          "E-0405",
+          "E-0406",
+          "E-0408",
+          "E-0409",
+          "E-0410",
+          "E-0411",
+          "E-0413",
+          "E-0414",
+          "E-0417",
+          "E-0418",
+          "E-0424",
+          "E-0425",
+          "E-0426",
+          "E-0428",
+          "E-0429",
+          "E-0430",
+          "E-0434",
+          "E-0435",
+          "E-0442",
+          "E-0444",
+          "E-0447",
+          "E-0448",
+          "E-0494"
+        ],
+        "unclear": [
+          "E-0356",
+          "E-0376",
+          "E-0377",
+          "E-0379",
+          "E-0383",
+          "E-0385",
+          "E-0387",
+          "E-0395",
+          "E-0415",
+          "E-0419",
+          "E-0431",
+          "E-0438",
+          "E-0439",
+          "E-0467",
+          "E-0470",
+          "E-0478",
+          "E-0492"
+        ],
+        "outside": [
+          "E-0244",
+          "E-0247",
+          "E-0363"
+        ]
+      },
+      "final_positive_first_EID": "E-0353",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R4",
+      "source_type_metadata_proxy": "conference-paper",
+      "original_global_QC": "QC-420",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0351",
+        "E-0352",
+        "E-0361",
+        "E-0458",
+        "E-0466",
+        "E-0468",
+        "E-0469",
+        "E-0483",
+        "E-0496"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0352",
+          "E-0361",
+          "E-0458",
+          "E-0469"
+        ],
+        "unclear": [
+          "E-0466",
+          "E-0468",
+          "E-0483",
+          "E-0496"
+        ],
+        "outside": [
+          "E-0351"
+        ]
+      },
+      "final_positive_first_EID": "E-0352",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R4",
+      "source_type_metadata_proxy": "dataset",
+      "original_global_QC": "QC-421",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0427"
+      ],
+      "final_results": {
+        "supported": [],
+        "unclear": [
+          "E-0427"
+        ],
+        "outside": []
+      },
+      "final_positive_first_EID": null,
+      "first_EID_secondary_actually_checked": "EMPTY GROUP",
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R4",
+      "source_type_metadata_proxy": "preprint",
+      "original_global_QC": "QC-424",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0232",
+        "E-0267",
+        "E-0354",
+        "E-0357",
+        "E-0362",
+        "E-0364",
+        "E-0369",
+        "E-0378",
+        "E-0382",
+        "E-0391",
+        "E-0412",
+        "E-0420"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0378",
+          "E-0391",
+          "E-0420"
+        ],
+        "unclear": [
+          "E-0267",
+          "E-0357",
+          "E-0362",
+          "E-0412"
+        ],
+        "outside": [
+          "E-0232",
+          "E-0354",
+          "E-0364",
+          "E-0369",
+          "E-0382"
+        ]
+      },
+      "final_positive_first_EID": "E-0378",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R5",
+      "source_type_metadata_proxy": "conference-paper",
+      "original_global_QC": "QC-428",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0292",
+        "E-0308",
+        "E-0352",
+        "E-0366"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0366"
+        ],
+        "unclear": [
+          "E-0292",
+          "E-0352"
+        ],
+        "outside": [
+          "E-0308"
+        ]
+      },
+      "final_positive_first_EID": "E-0366",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R6",
+      "source_type_metadata_proxy": "book-chapter",
+      "original_global_QC": "QC-436",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0484"
+      ],
+      "final_results": {
+        "supported": [],
+        "unclear": [
+          "E-0484"
+        ],
+        "outside": []
+      },
+      "final_positive_first_EID": null,
+      "first_EID_secondary_actually_checked": "EMPTY GROUP",
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    },
+    {
+      "R": "R6",
+      "source_type_metadata_proxy": "preprint",
+      "original_global_QC": "QC-440",
+      "original_global_result": "held; preserved, not retrospectively passed",
+      "original_members": [
+        "E-0232",
+        "E-0240",
+        "E-0241",
+        "E-0267",
+        "E-0283",
+        "E-0286",
+        "E-0323",
+        "E-0325",
+        "E-0328",
+        "E-0330",
+        "E-0335",
+        "E-0342",
+        "E-0354",
+        "E-0358",
+        "E-0364",
+        "E-0369",
+        "E-0378",
+        "E-0382"
+      ],
+      "final_results": {
+        "supported": [
+          "E-0240",
+          "E-0241",
+          "E-0286",
+          "E-0323",
+          "E-0325",
+          "E-0328",
+          "E-0330",
+          "E-0342",
+          "E-0354",
+          "E-0358",
+          "E-0364",
+          "E-0378"
+        ],
+        "unclear": [
+          "E-0267",
+          "E-0283",
+          "E-0335",
+          "E-0369",
+          "E-0382"
+        ],
+        "outside": [
+          "E-0232"
+        ]
+      },
+      "final_positive_first_EID": "E-0240",
+      "first_EID_secondary_actually_checked": true,
+      "original_source_type_fit": "PENDING; raw metadata proxy only"
+    }
+  ],
+  "group_count": 12,
+  "scope": "Affected memberships only; no all-42 or all-300 QC pass"
+}

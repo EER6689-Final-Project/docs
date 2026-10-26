@@ -1,0 +1,450 @@
+{
+  "created_utc": "2026-10-26T05:52:02.148954+00:00",
+  "qc_freeze_sha256": "8c2df27462f914752ae7dc747c8e0a176e78b5a2cf8bb0d87a7a56819eacfc51",
+  "primary_checked": 25,
+  "secondary_original_item_checked": 25,
+  "unreviewed_targets": [],
+  "results": [
+    {
+      "E_ID": "E-0500",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Confounding structures are explicit; R6 candidate stands, no uncertainty procedure inferred."
+    },
+    {
+      "E_ID": "E-0501",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+    },
+    {
+      "E_ID": "E-0502",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Click evaluation supports construct contrast; actual user behavior alone does not demonstrate transfer."
+    },
+    {
+      "E_ID": "E-0503",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "PENDING",
+      "finding": "HTML table excerpt cannot sustain earlier R5 relevance; book remains contextual pending."
+    },
+    {
+      "E_ID": "E-0504",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Ontology title justifies uncertain routing, not a verified browser definition."
+    },
+    {
+      "E_ID": "E-0505",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Replay/network hook stands; accurate title and historical DUP do not establish agreement or identity."
+    },
+    {
+      "E_ID": "E-0506",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Network vantage analogue is explicit and bounded; no browser capture/overhead result inferred."
+    },
+    {
+      "E_ID": "E-0507",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Confirmed copied cross-browser wording absent; all six mappings appropriately unclear."
+    },
+    {
+      "E_ID": "E-0508",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+    },
+    {
+      "E_ID": "E-0509",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Thesis/HTML remediation supports R6 only; relation to later conference occurrence unresolved."
+    },
+    {
+      "E_ID": "E-0510",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "PENDING",
+      "finding": "Named aggregate indicators and trustworthiness leave exact timing-construct transfer pending."
+    },
+    {
+      "E_ID": "E-0511",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "DOM remediation title supports R6, not automatic workload coverage or runtime capture."
+    },
+    {
+      "E_ID": "E-0512",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "PENDING",
+      "finding": "Governance excerpt and book-like metadata leave specific measurement role pending."
+    },
+    {
+      "E_ID": "E-0513",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+    },
+    {
+      "E_ID": "E-0514",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+    },
+    {
+      "E_ID": "E-0515",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Low-bandwidth and prefetch state support narrow context transfer, not verified effects."
+    },
+    {
+      "E_ID": "E-0516",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Protocol comparison is R6 candidate, not matched-tool agreement; workload specifics absent."
+    },
+    {
+      "E_ID": "E-0517",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Page-specific FNs support bounded diagnostic dependence, not measurement capture accuracy."
+    },
+    {
+      "E_ID": "E-0518",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Proposed novel framework explicit; advance under stage-1 uncertainty, no non-originality presumption."
+    },
+    {
+      "E_ID": "E-0519",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "X3",
+      "finding": "Six item-specific outside judgments rechecked. Semantic service reuse/integration/scalability and truncated comparison basis expose no transferable measurement mechanism; X3 stands at snippet-limited stage 1."
+    },
+    {
+      "E_ID": "E-0520",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "PENDING",
+      "finding": "Site-goal click outcome supports R1 contrast; missing year and unresolved repository identity remain holds."
+    },
+    {
+      "E_ID": "E-0521",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "User success construct is distinct from timing; near-matching E-0520 is not counted as resolved duplicate."
+    },
+    {
+      "E_ID": "E-0522",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "PENDING",
+      "finding": "Overview/server scaling is contextual pending; no precise workload-method transfer assumed."
+    },
+    {
+      "E_ID": "E-0523",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Specialized first-view runtime framework supports bounded four-question routing; truncated title/date unresolved."
+    },
+    {
+      "E_ID": "E-0524",
+      "status": "checked-no-discrepancy against corrected primary overlay",
+      "disposition": "ADVANCE",
+      "finding": "Mock data/request semantics support fidelity candidate; experimental label does not establish R4 method."
+    }
+  ],
+  "group_outcomes": {
+    "corrected_explicit_R_type_groups": {
+      "R1|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: snippet explicitly questions semantics of cross-browser load-time comparisons",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R1|conference-chapter-candidate": {
+        "selected_EID": "E-0502",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: implicit-feedback indicator evaluated via clickstream/site semantics is a construct contrast to browser timing",
+        "finding": "Click evaluation supports construct contrast; actual user behavior alone does not demonstrate transfer."
+      },
+      "R1|journal-candidate": {
+        "selected_EID": "E-0521",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: user-trace success assessment against site objectives is a bounded construct contrast to browser timing",
+        "finding": "User success construct is distinct from timing; near-matching E-0520 is not counted as resolved duplicate."
+      },
+      "R1|repository-pdf-unresolved": {
+        "selected_EID": "E-0520",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: click contributions to site objectives supply a behavioral-performance versus timing construct contrast",
+        "finding": "Site-goal click outcome supports R1 contrast; missing year and unresolved repository identity remain holds."
+      },
+      "R2|conference-candidate": {
+        "selected_EID": "E-0506",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: looking-glass vantage capture offers a bounded network-observability coverage analogue",
+        "finding": "Network vantage analogue is explicit and bounded; no browser capture/overhead result inferred."
+      },
+      "R3|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: website complexity supplies a workload-composition candidate",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R3|conference-pdf-candidate": {
+        "selected_EID": "E-0513",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: snippet explicitly varies link conditions for HTTP/3 web performance",
+        "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+      },
+      "R3|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: title explicitly joins synthetic and real-user performance monitoring",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R3|proceedings-pdf-candidate": {
+        "selected_EID": "E-0508",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: session-management semantics offer a bounded session/workload-model analogue",
+        "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+      },
+      "R6|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: website complexity and comparison semantics bound evaluation design",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R6|conference-chapter-candidate": {
+        "selected_EID": "E-0516",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: explicit comparative web-performance study is an evaluation-design candidate",
+        "finding": "Protocol comparison is R6 candidate, not matched-tool agreement; workload specifics absent."
+      },
+      "R6|conference-pdf-candidate": {
+        "selected_EID": "E-0513",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: resource prioritization/HOL study is a bounded network-factor design candidate",
+        "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+      },
+      "R6|journal-candidate": {
+        "selected_EID": "E-0500",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: snippet explicitly names confounding structures in web-performance studies",
+        "finding": "Confounding structures are explicit; R6 candidate stands, no uncertainty procedure inferred."
+      },
+      "R6|journal-pdf-candidate": {
+        "selected_EID": "E-0518",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: proposed performance-driven development framework is an explicit closest-solution/design candidate",
+        "finding": "Proposed novel framework explicit; advance under stage-1 uncertainty, no non-originality presumption."
+      },
+      "R6|proceedings-pdf-candidate": {
+        "selected_EID": "E-0508",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: simulation methodology and explicit session module motivate workload-fixture design inspection",
+        "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+      },
+      "R6|thesis-candidate": {
+        "selected_EID": "E-0509",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: automated resolution of web-performance issues is a bounded closest-solution candidate",
+        "finding": "Thesis/HTML remediation supports R6 only; relation to later conference occurrence unresolved."
+      }
+    },
+    "producer_explicit_R_type_groups_for_discrepancy_audit": {
+      "R1|book-candidate": {
+        "selected_EID": "E-0512",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: governance excerpt exposes no metric definition",
+        "finding": "Governance excerpt and book-like metadata leave specific measurement role pending."
+      },
+      "R1|book-explicit": {
+        "selected_EID": "E-0503",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: WebPageTest title names a tool but supplied excerpt defines no metric",
+        "finding": "HTML table excerpt cannot sustain earlier R5 relevance; book remains contextual pending."
+      },
+      "R1|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: snippet explicitly questions semantics of cross-browser load-time comparisons",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R1|conference-chapter-candidate": {
+        "selected_EID": "E-0516",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: performance characteristics title exposes no metric definition",
+        "finding": "Protocol comparison is R6 candidate, not matched-tool agreement; workload specifics absent."
+      },
+      "R1|conference-pdf-candidate": {
+        "selected_EID": "E-0513",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: HTTP stream semantics are not defined browser metric semantics",
+        "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+      },
+      "R1|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: title exposes monitoring modes, not metric definitions",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R1|thesis-candidate": {
+        "selected_EID": "E-0507",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: page-performance title does not reveal metric definitions",
+        "finding": "Confirmed copied cross-browser wording absent; all six mappings appropriately unclear."
+      },
+      "R2|conference-candidate": {
+        "selected_EID": "E-0505",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: record/replay capture is named but observer effects/coverage are not explained",
+        "finding": "Replay/network hook stands; accurate title and historical DUP do not establish agreement or identity."
+      },
+      "R3|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: website complexity supplies a workload-composition candidate",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R3|conference-chapter-candidate": {
+        "selected_EID": "E-0502",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: observed user behavior does not establish synthetic-to-user transfer",
+        "finding": "Click evaluation supports construct contrast; actual user behavior alone does not demonstrate transfer."
+      },
+      "R3|conference-pdf-candidate": {
+        "selected_EID": "E-0513",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: snippet explicitly varies link conditions for HTTP/3 web performance",
+        "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+      },
+      "R3|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: title explicitly joins synthetic and real-user performance monitoring",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R3|journal-pdf-candidate": {
+        "selected_EID": "E-0518",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: no workload sampling or transfer supplied",
+        "finding": "Proposed novel framework explicit; advance under stage-1 uncertainty, no non-originality presumption."
+      },
+      "R3|overview-chapter-candidate": {
+        "selected_EID": "E-0522",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: multiple servers/load efficiency may affect delivery context but no workload-transfer mechanism exposed",
+        "finding": "Overview/server scaling is contextual pending; no precise workload-method transfer assumed."
+      },
+      "R3|proceedings-pdf-candidate": {
+        "selected_EID": "E-0508",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: session-management semantics offer a bounded session/workload-model analogue",
+        "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+      },
+      "R3|repository-pdf-unresolved": {
+        "selected_EID": "E-0520",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: clickstreams do not establish synthetic-to-user coverage",
+        "finding": "Site-goal click outcome supports R1 contrast; missing year and unresolved repository identity remain holds."
+      },
+      "R3|thesis-candidate": {
+        "selected_EID": "E-0507",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: no workload coverage supplied",
+        "finding": "Confirmed copied cross-browser wording absent; all six mappings appropriately unclear."
+      },
+      "R4|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: degradation detection does not expose uncertainty procedure",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R4|proceedings-pdf-candidate": {
+        "selected_EID": "E-0508",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: collecting simulation statistics does not demonstrate repeated-measure uncertainty",
+        "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+      },
+      "R5|book-explicit": {
+        "selected_EID": "E-0503",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: tool testing is not demonstrated reference agreement",
+        "finding": "HTML table excerpt cannot sustain earlier R5 relevance; book remains contextual pending."
+      },
+      "R5|conference-candidate": {
+        "selected_EID": "E-0505",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: accurate in title is not evidence of paired reference agreement",
+        "finding": "Replay/network hook stands; accurate title and historical DUP do not establish agreement or identity."
+      },
+      "R5|conference-chapter-candidate": {
+        "selected_EID": "E-0516",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: HTTP/2 versus HTTP/1.1 is not reference-tool conformance",
+        "finding": "Protocol comparison is R6 candidate, not matched-tool agreement; workload specifics absent."
+      },
+      "R5|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: comparing modes is not demonstrated reference agreement",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R6|conference-candidate": {
+        "selected_EID": "E-0501",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: website complexity and comparison semantics bound evaluation design",
+        "finding": "Only this snippet names cross-browser load-time semantics; workload-complexity candidate stands."
+      },
+      "R6|conference-chapter-candidate": {
+        "selected_EID": "E-0516",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: explicit comparative web-performance study is an evaluation-design candidate",
+        "finding": "Protocol comparison is R6 candidate, not matched-tool agreement; workload specifics absent."
+      },
+      "R6|conference-pdf-candidate": {
+        "selected_EID": "E-0513",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: resource prioritization/HOL study is a bounded network-factor design candidate",
+        "finding": "Various link conditions support network-factor transfer, not metric definition or agreement."
+      },
+      "R6|journal-candidate": {
+        "selected_EID": "E-0514",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: synthetic/real-user degradation monitoring is a close evaluation-context candidate",
+        "finding": "Synthetic/real-user title supports routing; protocol snippet supplies no repeated-measure methods."
+      },
+      "R6|journal-pdf-candidate": {
+        "selected_EID": "E-0518",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: proposed performance-driven development framework is an explicit closest-solution/design candidate",
+        "finding": "Proposed novel framework explicit; advance under stage-1 uncertainty, no non-originality presumption."
+      },
+      "R6|proceedings-pdf-candidate": {
+        "selected_EID": "E-0508",
+        "status": "checked-no-discrepancy",
+        "actual_judgment": "relevant: simulation methodology and explicit session module motivate workload-fixture design inspection",
+        "finding": "Session semantics support workload-fixture analogy; simulation statistics do not imply R4 methods."
+      },
+      "R6|thesis-candidate": {
+        "selected_EID": "E-0507",
+        "status": "checked-corrected",
+        "actual_judgment": "unclear: broad page-analysis thesis is a candidate but design/overlap unexposed",
+        "finding": "Confirmed copied cross-browser wording absent; all six mappings appropriately unclear."
+      }
+    }
+  },
+  "producer_X3_checked": [
+    "E-0519"
+  ],
+  "producer_X3_retained": [
+    "E-0519"
+  ],
+  "invalid_X3_caught": [],
+  "secondary_changes_to_Sol_overlay": [],
+  "review_limit": "Actual original exported snippet/metadata recheck by same Sol AI, not independent human or passage-level claim QC"
+}

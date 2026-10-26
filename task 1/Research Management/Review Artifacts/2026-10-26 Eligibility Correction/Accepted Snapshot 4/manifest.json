@@ -1,0 +1,17 @@
+{
+  "scope": "Accepted snapshot 4; self hash excluded",
+  "files": {
+    "README.md": {
+      "sha256": "0044ab274482720de93d5aa78303496328ec4d7bbe03d7877271c497f36f0483",
+      "bytes": 2929
+    },
+    "effective_state_838.csv": {
+      "sha256": "8dade5ef993f499d3d39a129943415c1119dfbda2bbf26cea9e98408d1b4822c",
+      "bytes": 3430988
+    },
+    "receipt.json": {
+      "sha256": "f96d7bf0b57a63d2eb662d607f33cb02bb84f172ab9b68fa5eff78f6547a71ae",
+      "bytes": 1760
+    }
+  }
+}

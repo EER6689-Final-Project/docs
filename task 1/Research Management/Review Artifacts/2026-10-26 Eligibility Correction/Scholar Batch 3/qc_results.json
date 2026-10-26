@@ -1,0 +1,73 @@
+{
+  "reviewer": "Luna AI separate-pass self-audit; not independent human review",
+  "date": "2026-10-26",
+  "read_boundary": "Reread original immutable queue title, abstract_or_snippet field, metadata and duplicate fields for all 100 frozen EIDs after exclusions/groups were frozen; no external abstract or full text accessed.",
+  "row_alignment_checks": 100,
+  "title_snippet_metadata_exact_matches": 100,
+  "mismatches": [],
+  "frozen_proposed_exclusions_rechecked": 31,
+  "exclusion_results": "Each frozen X3 exclusion reread; no identified in-scope mechanism omitted after expansion pattern was considered.",
+  "selected_first_EID_group_sample": [
+    {
+      "R": "R1",
+      "source_type_proxy": "[PDF] [PDF]",
+      "first_EID": "E-0611",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[BOOK] [B]",
+      "first_EID": "E-0602",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[HTML] [HTML]",
+      "first_EID": "E-0647",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[PDF] [PDF]",
+      "first_EID": "E-0604",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "first_EID": "E-0600",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "[HTML] [HTML]",
+      "first_EID": "E-0655",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "[PDF] [PDF]",
+      "first_EID": "E-0662",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "first_EID": "E-0651",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R5",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "first_EID": "E-0661",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    },
+    {
+      "R": "R6",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "first_EID": "E-0656",
+      "result": "checked-no-discrepancy; original title/snippet align with overlay and assigned R relevance is no stronger than itemwise rationale"
+    }
+  ],
+  "known_limit": "No passage reading, identity/date/language/source-type verification, full-text/citation pass, canonical crosswalk or scientific reviewer check."
+}

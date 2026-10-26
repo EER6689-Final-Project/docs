@@ -1,0 +1,20 @@
+{
+  "preserved_at": "2026-10-26T09:38:42.281110+05:30",
+  "manifest": "V-T16-002",
+  "operation": "Q-120",
+  "files": {
+    "handoff.md": {
+      "bytes": 7230,
+      "sha256": "54cfbb4a4c6e4a1e1c3f03f413a79ea1b4e2c37adb230efa95433a5644a3ea16"
+    },
+    "claim-receipts.md": {
+      "bytes": 23692,
+      "sha256": "8fd447cac8a8227840e29b7089b4091359d5071086b2356ac24058e794ce9470"
+    },
+    "claim-receipts.json": {
+      "bytes": 29692,
+      "sha256": "508637a9100ac697878b2e719db6d60b8bf08672cad4d0c56b226866c7230e35"
+    }
+  },
+  "limits": "Receipts reconstructed by reviewer from retained completed tool observations after a server restart deleted its original raw scratch. Not raw HTML/text/image preservation; original source PDFs remain in repository. AI technical audit, not independent human review."
+}

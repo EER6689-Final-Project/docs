@@ -1,0 +1,137 @@
+{
+  "target_occurrences": 100,
+  "primary_original_reads": 100,
+  "primary_six_question_checks": 100,
+  "producer_counts": {
+    "ADVANCE": 59,
+    "DUP": 10,
+    "EXCLUDE": 31
+  },
+  "corrected_occurrence_counts": {
+    "ADVANCE": 92,
+    "EXCLUDE": 8
+  },
+  "metadata_stage1_pending": 0,
+  "canonical_identity_unverified": 100,
+  "rejected_producer_exclusions": 24,
+  "rejected_producer_exclusion_EIDs": [
+    "E-0608",
+    "E-0630",
+    "E-0640",
+    "E-0649",
+    "E-0650",
+    "E-0659",
+    "E-0664",
+    "E-0672",
+    "E-0673",
+    "E-0674",
+    "E-0675",
+    "E-0676",
+    "E-0677",
+    "E-0679",
+    "E-0680",
+    "E-0681",
+    "E-0683",
+    "E-0684",
+    "E-0685",
+    "E-0688",
+    "E-0689",
+    "E-0691",
+    "E-0692",
+    "E-0696"
+  ],
+  "retained_producer_exclusions": 7,
+  "retained_producer_exclusion_EIDs": [
+    "E-0617",
+    "E-0624",
+    "E-0646",
+    "E-0665",
+    "E-0682",
+    "E-0686",
+    "E-0697"
+  ],
+  "new_semantic_exclusions_from_producer_DUP": [
+    "E-0636"
+  ],
+  "duplicate_candidates_reviewed": 10,
+  "duplicate_candidates": [
+    {
+      "occurrence_E_ID": "E-0603",
+      "candidate_target": "E-0516",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0615",
+      "candidate_target": "E-0535",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0620",
+      "candidate_target": "E-0601",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0622",
+      "candidate_target": "E-0618",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0628",
+      "candidate_target": "E-0602",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0631",
+      "candidate_target": "E-0610",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0632",
+      "candidate_target": "E-0619",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0636",
+      "candidate_target": "E-0617",
+      "semantic_disposition": "EXCLUDE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0639",
+      "candidate_target": "E-0613",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    },
+    {
+      "occurrence_E_ID": "E-0641",
+      "candidate_target": "E-0612",
+      "semantic_disposition": "ADVANCE",
+      "identity_status": "DUP-CANDIDATE; UNADJUDICATED; NO MERGE"
+    }
+  ],
+  "accepted_DUP_work_merges": 0,
+  "secondary_original_rereads": 54,
+  "secondary_critical_union": 32,
+  "producer_exclusions_secondary_checked": 31,
+  "sol_exclusions_secondary_checked": 8,
+  "explicit_groups_frozen": 34,
+  "explicit_groups_checked": 34,
+  "additional_pattern_expansions": 0,
+  "unreviewed_primary_occurrences": 0,
+  "primary_only_not_secondary_sampled": 46,
+  "fulltext_pass": "NOT RUN",
+  "citation_pass": "NOT RUN",
+  "claim_support": "UNASSESSED",
+  "methodological_confidence": "UNASSESSED",
+  "independent_works": "UNDETERMINED; occurrence counts are not unique-work counts",
+  "fulltext_inclusions": "NOT ADJUDICATED",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff": "2026-10-25 inclusive"
+}

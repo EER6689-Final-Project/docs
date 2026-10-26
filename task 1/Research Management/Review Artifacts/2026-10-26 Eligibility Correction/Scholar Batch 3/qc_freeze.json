@@ -1,0 +1,200 @@
+{
+  "protocol": "ERP-2026-10-25-v1.0",
+  "primary_review_count": 100,
+  "proposed_exclusion_EIDs_frozen_before_expanded_secondary_pass": [
+    "E-0608",
+    "E-0617",
+    "E-0624",
+    "E-0630",
+    "E-0640",
+    "E-0646",
+    "E-0649",
+    "E-0650",
+    "E-0659",
+    "E-0664",
+    "E-0665",
+    "E-0672",
+    "E-0673",
+    "E-0674",
+    "E-0675",
+    "E-0676",
+    "E-0677",
+    "E-0679",
+    "E-0680",
+    "E-0681",
+    "E-0682",
+    "E-0683",
+    "E-0684",
+    "E-0685",
+    "E-0686",
+    "E-0688",
+    "E-0689",
+    "E-0691",
+    "E-0692",
+    "E-0696",
+    "E-0697"
+  ],
+  "exclusion_count": 31,
+  "explicit_R_source_type_groups_frozen_before_expanded_secondary_pass": [
+    {
+      "R": "R1",
+      "source_type_proxy": "[PDF] [PDF]",
+      "members": [
+        "E-0611"
+      ],
+      "first_occurrence_E_ID": "E-0611"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[BOOK] [B]",
+      "members": [
+        "E-0602",
+        "E-0610",
+        "E-0643"
+      ],
+      "first_occurrence_E_ID": "E-0602"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[HTML] [HTML]",
+      "members": [
+        "E-0647"
+      ],
+      "first_occurrence_E_ID": "E-0647"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "[PDF] [PDF]",
+      "members": [
+        "E-0604",
+        "E-0619",
+        "E-0623",
+        "E-0637",
+        "E-0642"
+      ],
+      "first_occurrence_E_ID": "E-0604"
+    },
+    {
+      "R": "R3",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "members": [
+        "E-0600",
+        "E-0601",
+        "E-0605",
+        "E-0606",
+        "E-0607",
+        "E-0609",
+        "E-0612",
+        "E-0613",
+        "E-0614",
+        "E-0616",
+        "E-0618",
+        "E-0621",
+        "E-0625",
+        "E-0626",
+        "E-0627",
+        "E-0629",
+        "E-0633",
+        "E-0634",
+        "E-0635",
+        "E-0638",
+        "E-0644",
+        "E-0645",
+        "E-0648"
+      ],
+      "first_occurrence_E_ID": "E-0600"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "[HTML] [HTML]",
+      "members": [
+        "E-0655",
+        "E-0678",
+        "E-0699"
+      ],
+      "first_occurrence_E_ID": "E-0655"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "[PDF] [PDF]",
+      "members": [
+        "E-0662"
+      ],
+      "first_occurrence_E_ID": "E-0662"
+    },
+    {
+      "R": "R4",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "members": [
+        "E-0651",
+        "E-0652",
+        "E-0653",
+        "E-0654",
+        "E-0656",
+        "E-0657",
+        "E-0658",
+        "E-0660",
+        "E-0663",
+        "E-0666",
+        "E-0667",
+        "E-0668",
+        "E-0669",
+        "E-0670",
+        "E-0671",
+        "E-0687",
+        "E-0690",
+        "E-0693",
+        "E-0694",
+        "E-0695",
+        "E-0698"
+      ],
+      "first_occurrence_E_ID": "E-0651"
+    },
+    {
+      "R": "R5",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "members": [
+        "E-0661",
+        "E-0669"
+      ],
+      "first_occurrence_E_ID": "E-0661"
+    },
+    {
+      "R": "R6",
+      "source_type_proxy": "unlabelled; metadata proxy",
+      "members": [
+        "E-0656",
+        "E-0690"
+      ],
+      "first_occurrence_E_ID": "E-0656"
+    }
+  ],
+  "secondary_QA_status": "separate reread completed after freeze",
+  "expansion_trigger": "Secondary self-audit noticed plausible question-level transfer in titles/snippets explicitly describing synthetic Web workloads (R3) and repeated-measure uncertainty/benchmark methods (R4). Expanded prospectively before confirming final dispositions. This self-audit is not independent human review.",
+  "initial_exclusion_freeze_count": 54,
+  "expansion_added_advances": [
+    "E-0605",
+    "E-0609",
+    "E-0613",
+    "E-0619",
+    "E-0623",
+    "E-0627",
+    "E-0635",
+    "E-0652",
+    "E-0653",
+    "E-0654",
+    "E-0655",
+    "E-0658",
+    "E-0660",
+    "E-0663",
+    "E-0666",
+    "E-0670",
+    "E-0671",
+    "E-0678",
+    "E-0687",
+    "E-0694",
+    "E-0695",
+    "E-0698",
+    "E-0699"
+  ]
+}

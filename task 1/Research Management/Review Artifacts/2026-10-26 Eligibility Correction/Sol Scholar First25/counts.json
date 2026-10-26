@@ -1,0 +1,71 @@
+{
+  "unit": "metadata occurrences, not works or full-text inclusions",
+  "targets": 25,
+  "actual_primary_checks": 25,
+  "actual_secondary_checks": 25,
+  "unreviewed_in_target25": [],
+  "Luna": {
+    "ADVANCE": 18,
+    "PENDING": 6,
+    "X3": 1
+  },
+  "Sol": {
+    "ADVANCE": 19,
+    "PENDING": 5,
+    "X3": 1
+  },
+  "disposition_changed_EIDs": [
+    "E-0518"
+  ],
+  "R_status_changed_EIDs": [
+    "E-0500",
+    "E-0501",
+    "E-0502",
+    "E-0503",
+    "E-0504",
+    "E-0505",
+    "E-0506",
+    "E-0507",
+    "E-0508",
+    "E-0509",
+    "E-0511",
+    "E-0512",
+    "E-0513",
+    "E-0514",
+    "E-0516",
+    "E-0517",
+    "E-0518",
+    "E-0520",
+    "E-0521",
+    "E-0522",
+    "E-0524"
+  ],
+  "all_25_have_new_itemwise_bounded_rationale": true,
+  "baseline": {
+    "ADVANCE": 94,
+    "X3": 44,
+    "PENDING": 700
+  },
+  "baseline_delta_ONLY": {
+    "ADVANCE": 19,
+    "X3": 1,
+    "PENDING": -20
+  },
+  "other_Scholar_not_reviewed_by_this_pass": 513,
+  "exact_2026_cutoff_date_pending": [
+    "E-0506",
+    "E-0510",
+    "E-0511",
+    "E-0523",
+    "E-0524"
+  ],
+  "year_missing": [
+    "E-0520"
+  ],
+  "all_25_exact_date_version_language_identity_type_verification": "PENDING",
+  "support_and_confidence": "UNASSESSED",
+  "fulltext_and_citation_pass": "NOT RUN",
+  "producer_preservation_hashes_checked": true,
+  "original_fields_preserved_in_overlay": true,
+  "no_concurrent_output_read_or_merge": true
+}

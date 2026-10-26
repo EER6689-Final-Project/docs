@@ -1,0 +1,21 @@
+{
+  "operation": "Q-343",
+  "command": [
+    "zotero-cli",
+    "--json",
+    "get",
+    "metadata",
+    "3TNGADXQ"
+  ],
+  "started_at": "2026-10-26T12:34:43.469697+05:30",
+  "ended_at": "2026-10-26T12:34:44.980532+05:30",
+  "exit_code": 0,
+  "response_file": "Q-343-VisibleV8-metadata.json",
+  "sha256": "d5c7e7fbb939d3b1f51f6f194374656ecc4d93c945132eab11512fb0c6cadb0b",
+  "scope": "Read-only local library metadata identity check, not paper passage verification or duplicate merge",
+  "library_context": {
+    "id": 0,
+    "name": "My Library",
+    "type": "user"
+  }
+}

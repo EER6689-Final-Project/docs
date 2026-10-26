@@ -1,0 +1,12 @@
+{
+  "original_queue_hash_unchanged": true,
+  "producer_hash_unchanged": true,
+  "ordered_target_and_event_joins": true,
+  "all_original_fields_preserved": true,
+  "all_25_nonempty_original_title_and_snippet": true,
+  "all_150_R_judgments_present": true,
+  "QA_selection_exact_and_disjoint": true,
+  "all_18_first_EID_group_selections_reproduced": true,
+  "all_frozen_primary_hashes_match": true,
+  "meaning": "mechanical integrity only, not source-method validation or independent scientific review"
+}

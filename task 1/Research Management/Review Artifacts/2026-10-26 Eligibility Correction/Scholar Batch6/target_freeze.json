@@ -1,0 +1,817 @@
+{
+  "freeze_id": "Scholar-Batch6-stage1-semantic-review",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "frozen_on": "2026-10-26",
+  "cutoff": "2026-10-25 inclusive",
+  "source_queue": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "source_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "target_count": 100,
+  "target_ids": [
+    "E-0900",
+    "E-0901",
+    "E-0902",
+    "E-0903",
+    "E-0904",
+    "E-0905",
+    "E-0906",
+    "E-0907",
+    "E-0908",
+    "E-0909",
+    "E-0910",
+    "E-0911",
+    "E-0912",
+    "E-0913",
+    "E-0914",
+    "E-0915",
+    "E-0916",
+    "E-0917",
+    "E-0918",
+    "E-0919",
+    "E-0920",
+    "E-0921",
+    "E-0922",
+    "E-0923",
+    "E-0924",
+    "E-0925",
+    "E-0926",
+    "E-0927",
+    "E-0928",
+    "E-0929",
+    "E-0930",
+    "E-0931",
+    "E-0932",
+    "E-0933",
+    "E-0934",
+    "E-0935",
+    "E-0936",
+    "E-0937",
+    "E-0938",
+    "E-0939",
+    "E-0940",
+    "E-0941",
+    "E-0942",
+    "E-0943",
+    "E-0944",
+    "E-0945",
+    "E-0946",
+    "E-0947",
+    "E-0948",
+    "E-0949",
+    "E-0950",
+    "E-0951",
+    "E-0952",
+    "E-0953",
+    "E-0954",
+    "E-0955",
+    "E-0956",
+    "E-0957",
+    "E-0958",
+    "E-0959",
+    "E-0960",
+    "E-0961",
+    "E-0962",
+    "E-0963",
+    "E-0964",
+    "E-0965",
+    "E-0966",
+    "E-0967",
+    "E-0968",
+    "E-0969",
+    "E-0970",
+    "E-0971",
+    "E-0972",
+    "E-0973",
+    "E-0974",
+    "E-0975",
+    "E-0976",
+    "E-0977",
+    "E-0978",
+    "E-0979",
+    "E-0980",
+    "E-0981",
+    "E-0982",
+    "E-0983",
+    "E-0984",
+    "E-0985",
+    "E-0986",
+    "E-0987",
+    "E-0988",
+    "E-0989",
+    "E-0990",
+    "E-0991",
+    "E-0992",
+    "E-0993",
+    "E-0994",
+    "E-0995",
+    "E-0996",
+    "E-0997",
+    "E-0998",
+    "E-0999"
+  ],
+  "source_positions_1based": [
+    701,
+    702,
+    703,
+    704,
+    705,
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    764,
+    765,
+    766,
+    767,
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774,
+    775,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    784,
+    785,
+    786,
+    787,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800
+  ],
+  "target_records": [
+    {
+      "occurrence_E_ID": "E-0900",
+      "source_csv_row_1based": "701",
+      "platform_record_id": "gLaY4v8R7IIJ",
+      "record_url": "https://journal.unm.ac.id/index.php/JESSI/article/view/14599"
+    },
+    {
+      "occurrence_E_ID": "E-0901",
+      "source_csv_row_1based": "702",
+      "platform_record_id": "Sl9IouD1A38J",
+      "record_url": "https://ijsir.org/index.php/IJSIR/article/view/31"
+    },
+    {
+      "occurrence_E_ID": "E-0902",
+      "source_csv_row_1based": "703",
+      "platform_record_id": "_X8UH6GnlGEJ",
+      "record_url": "https://jsiar.com/2025-May/JSIAR-A-25-04250.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0903",
+      "source_csv_row_1based": "704",
+      "platform_record_id": "0zXGadXC4t4J",
+      "record_url": "https://sciup.org/file/15020496/IJEM-V16-N3-13.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0904",
+      "source_csv_row_1based": "705",
+      "platform_record_id": "_8-8pqGK4ogJ",
+      "record_url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1366934/full"
+    },
+    {
+      "occurrence_E_ID": "E-0905",
+      "source_csv_row_1based": "706",
+      "platform_record_id": "ELeCMrjmHIEJ",
+      "record_url": "https://ela.kpi.ua/items/43c480e4-f6b9-4395-af49-62815a8b020e"
+    },
+    {
+      "occurrence_E_ID": "E-0906",
+      "source_csv_row_1based": "707",
+      "platform_record_id": "dd4wtS95bm8J",
+      "record_url": "https://arxiv.org/abs/2608.08073"
+    },
+    {
+      "occurrence_E_ID": "E-0907",
+      "source_csv_row_1based": "708",
+      "platform_record_id": "C2lRTOBjUCMJ",
+      "record_url": "https://arxiv.org/abs/2610.25980"
+    },
+    {
+      "occurrence_E_ID": "E-0908",
+      "source_csv_row_1based": "709",
+      "platform_record_id": "lnxK77SDLM0J",
+      "record_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5646210"
+    },
+    {
+      "occurrence_E_ID": "E-0909",
+      "source_csv_row_1based": "710",
+      "platform_record_id": "u5sNAdZpzksJ",
+      "record_url": "https://www.aijfr.com/papers/2025/6/2178.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0910",
+      "source_csv_row_1based": "711",
+      "platform_record_id": "9MTaip_6VMYJ",
+      "record_url": "https://brocku.scholaris.ca/server/api/core/bitstreams/dd5c92b7-e662-4275-9d3e-f4f4936a7547/content"
+    },
+    {
+      "occurrence_E_ID": "E-0911",
+      "source_csv_row_1based": "712",
+      "platform_record_id": "de-6YH-Uo5kJ",
+      "record_url": "https://arxiv.org/abs/2609.32991"
+    },
+    {
+      "occurrence_E_ID": "E-0912",
+      "source_csv_row_1based": "713",
+      "platform_record_id": "iyaXyDWBeIcJ",
+      "record_url": "https://repositorio-aberto.up.pt/bitstream/10216/176159/2/787405.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0913",
+      "source_csv_row_1based": "714",
+      "platform_record_id": "ZnkOMKsbVZsJ",
+      "record_url": "https://www.scirp.net/journal/paperinformation?paperid=108574"
+    },
+    {
+      "occurrence_E_ID": "E-0914",
+      "source_csv_row_1based": "715",
+      "platform_record_id": "BpUaAp5BGPQJ",
+      "record_url": "https://www.nature.com/articles/s41598-026-69728-4"
+    },
+    {
+      "occurrence_E_ID": "E-0915",
+      "source_csv_row_1based": "716",
+      "platform_record_id": "vUsupYdJ6kUJ",
+      "record_url": "https://www.academia.edu/download/71711079/leader_2020_000245.full.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0916",
+      "source_csv_row_1based": "717",
+      "platform_record_id": "INTXlHZCEowJ",
+      "record_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315761428-2&type=chapterpdf"
+    },
+    {
+      "occurrence_E_ID": "E-0917",
+      "source_csv_row_1based": "718",
+      "platform_record_id": "lPgz50rLxZUJ",
+      "record_url": "https://www.academia.edu/download/109861504/4671802.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0918",
+      "source_csv_row_1based": "719",
+      "platform_record_id": "8sEfH0R0AiUJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/11433417/"
+    },
+    {
+      "occurrence_E_ID": "E-0919",
+      "source_csv_row_1based": "720",
+      "platform_record_id": "HxMy2evgmtIJ",
+      "record_url": "https://arxiv.org/abs/2605.27366"
+    },
+    {
+      "occurrence_E_ID": "E-0920",
+      "source_csv_row_1based": "721",
+      "platform_record_id": "9MTaip_6VMYJ",
+      "record_url": "https://brocku.scholaris.ca/server/api/core/bitstreams/dd5c92b7-e662-4275-9d3e-f4f4936a7547/content"
+    },
+    {
+      "occurrence_E_ID": "E-0921",
+      "source_csv_row_1based": "722",
+      "platform_record_id": "S5S6CaUnO0kJ",
+      "record_url": "https://www.sirtbhopal.ac.in/2nd-national-student-conference-2026/assets/pdf/Conference-Proceeding-RAEMPS2026.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0922",
+      "source_csv_row_1based": "723",
+      "platform_record_id": "BpUaAp5BGPQJ",
+      "record_url": "https://www.nature.com/articles/s41598-026-69728-4"
+    },
+    {
+      "occurrence_E_ID": "E-0923",
+      "source_csv_row_1based": "724",
+      "platform_record_id": "iyaXyDWBeIcJ",
+      "record_url": "https://repositorio-aberto.up.pt/bitstream/10216/176159/2/787405.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0924",
+      "source_csv_row_1based": "725",
+      "platform_record_id": "de-6YH-Uo5kJ",
+      "record_url": "https://arxiv.org/abs/2609.32991"
+    },
+    {
+      "occurrence_E_ID": "E-0925",
+      "source_csv_row_1based": "726",
+      "platform_record_id": "REPn0w245S4J",
+      "record_url": "https://hal.science/hal-04787265/"
+    },
+    {
+      "occurrence_E_ID": "E-0926",
+      "source_csv_row_1based": "727",
+      "platform_record_id": "hNgRyS3pcPkJ",
+      "record_url": "https://wellcome.org/sites/default/files/open-research-fund-concept-note-proposals-received-2019.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0927",
+      "source_csv_row_1based": "728",
+      "platform_record_id": "weqiKPGPYXQJ",
+      "record_url": "https://www.researchgate.net/profile/Emmanuel-Balogun-11/publication/390118704_Integrated_framework_for_enhancing_sales_enablement_through_advanced_CRM_and_analytics_solutions/links/67e1e018e62c604a0d11d8d2/Integrated-framework-for-enhancing-sales-enablement-through-advanced-CRM-and-analytics-solutions.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0928",
+      "source_csv_row_1based": "729",
+      "platform_record_id": "muRPU9KTL1YJ",
+      "record_url": "https://search.proquest.com/openview/11bd702d0d490786439bf874d35a83c3/1?pq-origsite=gscholar&cbl=51922"
+    },
+    {
+      "occurrence_E_ID": "E-0929",
+      "source_csv_row_1based": "730",
+      "platform_record_id": "veUQ_T8cjcEJ",
+      "record_url": "https://search.proquest.com/openview/24ae2277da02f514114646a8e0244f93/1?pq-origsite=gscholar&cbl=18750&diss=y"
+    },
+    {
+      "occurrence_E_ID": "E-0930",
+      "source_csv_row_1based": "731",
+      "platform_record_id": "tdvBnYpzt94J",
+      "record_url": "https://www.researchgate.net/profile/Enoch-Alonge/publication/390033672_A_Predictive_Analytics_Model_for_Optimizing_Cash_Flow_Management_in_Multi-Location_and_Global_Business_Enterprises/links/67dc9faf35f7044c924df1d5/A-Predictive-Analytics-Model-for-Optimizing-Cash-Flow-Management-in-Multi-Location-and-Global-Business-Enterprises.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0931",
+      "source_csv_row_1based": "732",
+      "platform_record_id": "ZnkOMKsbVZsJ",
+      "record_url": "https://www.scirp.net/journal/paperinformation?paperid=108574"
+    },
+    {
+      "occurrence_E_ID": "E-0932",
+      "source_csv_row_1based": "733",
+      "platform_record_id": "INTXlHZCEowJ",
+      "record_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315761428-2&type=chapterpdf"
+    },
+    {
+      "occurrence_E_ID": "E-0933",
+      "source_csv_row_1based": "734",
+      "platform_record_id": "lPgz50rLxZUJ",
+      "record_url": "https://www.academia.edu/download/109861504/4671802.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0934",
+      "source_csv_row_1based": "735",
+      "platform_record_id": "ZnkOMKsbVZsJ",
+      "record_url": "https://www.scirp.net/journal/paperinformation?paperid=108574"
+    },
+    {
+      "occurrence_E_ID": "E-0935",
+      "source_csv_row_1based": "736",
+      "platform_record_id": "INTXlHZCEowJ",
+      "record_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315761428-2&type=chapterpdf"
+    },
+    {
+      "occurrence_E_ID": "E-0936",
+      "source_csv_row_1based": "737",
+      "platform_record_id": "JWhOPmkx29gJ",
+      "record_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5527979"
+    },
+    {
+      "occurrence_E_ID": "E-0937",
+      "source_csv_row_1based": "738",
+      "platform_record_id": "lPgz50rLxZUJ",
+      "record_url": "https://www.academia.edu/download/109861504/4671802.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0938",
+      "source_csv_row_1based": "739",
+      "platform_record_id": "Wxmh-J8Dhw8J",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0731708514003410"
+    },
+    {
+      "occurrence_E_ID": "E-0939",
+      "source_csv_row_1based": "740",
+      "platform_record_id": "-6ZGzOHUY_oJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/9050546/"
+    },
+    {
+      "occurrence_E_ID": "E-0940",
+      "source_csv_row_1based": "741",
+      "platform_record_id": "q6cPlqb4vtAJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0886335009006002"
+    },
+    {
+      "occurrence_E_ID": "E-0941",
+      "source_csv_row_1based": "742",
+      "platform_record_id": "LeM_hzcsbLIJ",
+      "record_url": "https://onlinelibrary.wiley.com/doi/abs/10.1097/01.opx.0000187844.27025.ea"
+    },
+    {
+      "occurrence_E_ID": "E-0942",
+      "source_csv_row_1based": "743",
+      "platform_record_id": "-dqwOAmWdU8J",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/3731459.3779348"
+    },
+    {
+      "occurrence_E_ID": "E-0943",
+      "source_csv_row_1based": "744",
+      "platform_record_id": "wQkoYk8ePrIJ",
+      "record_url": "https://www.emerald.com/jmaen/article-abstract/doi/10.1680/jmaen.26.00025/1398244"
+    },
+    {
+      "occurrence_E_ID": "E-0944",
+      "source_csv_row_1based": "745",
+      "platform_record_id": "f3nVp9c9SgUJ",
+      "record_url": "https://www.mdpi.com/1424-8220/25/11/3294"
+    },
+    {
+      "occurrence_E_ID": "E-0945",
+      "source_csv_row_1based": "746",
+      "platform_record_id": "AoaBBq4wtMYJ",
+      "record_url": "https://www.nature.com/articles/eye201594"
+    },
+    {
+      "occurrence_E_ID": "E-0946",
+      "source_csv_row_1based": "747",
+      "platform_record_id": "CvlZNXqjnmYJ",
+      "record_url": "https://bjo.bmj.com/content/92/2/241.short"
+    },
+    {
+      "occurrence_E_ID": "E-0947",
+      "source_csv_row_1based": "748",
+      "platform_record_id": "OvA6K2Yv2OAJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/8593707/"
+    },
+    {
+      "occurrence_E_ID": "E-0948",
+      "source_csv_row_1based": "749",
+      "platform_record_id": "SNGbulrVKfgJ",
+      "record_url": "https://banglajol.info/index.php/BJMS/article/view/18964"
+    },
+    {
+      "occurrence_E_ID": "E-0949",
+      "source_csv_row_1based": "750",
+      "platform_record_id": "zWkFxH7gkbwJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0161642007005805"
+    },
+    {
+      "occurrence_E_ID": "E-0950",
+      "source_csv_row_1based": "751",
+      "platform_record_id": "lTAlnqvRJD8J",
+      "record_url": "https://ira.lib.polyu.edu.hk/handle/10397/97005"
+    },
+    {
+      "occurrence_E_ID": "E-0951",
+      "source_csv_row_1based": "752",
+      "platform_record_id": "SCdoF2bEoGwJ",
+      "record_url": "https://tvst.arvojournals.org/article.aspx?articleid=2183714"
+    },
+    {
+      "occurrence_E_ID": "E-0952",
+      "source_csv_row_1based": "753",
+      "platform_record_id": "KJDvngJcRkkJ",
+      "record_url": "https://link.springer.com/article/10.1186/s40662-024-00385-2"
+    },
+    {
+      "occurrence_E_ID": "E-0953",
+      "source_csv_row_1based": "754",
+      "platform_record_id": "CCRgng77t-AJ",
+      "record_url": "https://unbscholar.lib.unb.ca/bitstreams/a0aa07c4-d122-43a7-a4d0-8bc33cc5a855/download"
+    },
+    {
+      "occurrence_E_ID": "E-0954",
+      "source_csv_row_1based": "755",
+      "platform_record_id": "Gv1ozp7kZUUJ",
+      "record_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6710468/"
+    },
+    {
+      "occurrence_E_ID": "E-0955",
+      "source_csv_row_1based": "756",
+      "platform_record_id": "75Sr17DsazsJ",
+      "record_url": "https://link.springer.com/article/10.1007/s00417-013-2421-5"
+    },
+    {
+      "occurrence_E_ID": "E-0956",
+      "source_csv_row_1based": "757",
+      "platform_record_id": "JAcv6d8rVOwJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/8788750/"
+    },
+    {
+      "occurrence_E_ID": "E-0957",
+      "source_csv_row_1based": "758",
+      "platform_record_id": "fRPpgTcaO3cJ",
+      "record_url": "https://iovs.arvojournals.org/article.aspx?articleid=2356998"
+    },
+    {
+      "occurrence_E_ID": "E-0958",
+      "source_csv_row_1based": "759",
+      "platform_record_id": "6721Gmz1vEwJ",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-642-34234-9_5"
+    },
+    {
+      "occurrence_E_ID": "E-0959",
+      "source_csv_row_1based": "760",
+      "platform_record_id": "7devSXGiDEUJ",
+      "record_url": "https://arvojournals.org/article.aspx?articleID=2163713"
+    },
+    {
+      "occurrence_E_ID": "E-0960",
+      "source_csv_row_1based": "761",
+      "platform_record_id": "USyVHovDPPcJ",
+      "record_url": "https://onlinelibrary.wiley.com/doi/abs/10.1097/01.opx.0000187863.12609.7b"
+    },
+    {
+      "occurrence_E_ID": "E-0961",
+      "source_csv_row_1based": "762",
+      "platform_record_id": "hFeD5S8HRgMJ",
+      "record_url": "https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=3273&context=secam-research"
+    },
+    {
+      "occurrence_E_ID": "E-0962",
+      "source_csv_row_1based": "763",
+      "platform_record_id": "si3HJf385tkJ",
+      "record_url": "https://iovs.arvojournals.org/article.aspx?articleid=2179037"
+    },
+    {
+      "occurrence_E_ID": "E-0963",
+      "source_csv_row_1based": "764",
+      "platform_record_id": "cvCNUqfePjcJ",
+      "record_url": "https://www.aemjournal.org/index.php/AEM/article/view/3113"
+    },
+    {
+      "occurrence_E_ID": "E-0964",
+      "source_csv_row_1based": "765",
+      "platform_record_id": "TkRBiuE7h8wJ",
+      "record_url": "https://www.researchgate.net/profile/Keranka-Vassileva-2/publication/319527999_Search_for_the_plate_transition_zone_in_Bulgaria_with_GPS/links/59b124dba6fdcc3f888dd0c7/Search-for-the-plate-transition-zone-in-Bulgaria-with-GPS.pdf#page=41"
+    },
+    {
+      "occurrence_E_ID": "E-0965",
+      "source_csv_row_1based": "766",
+      "platform_record_id": "AjCA6O3lPpIJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0886335005000271"
+    },
+    {
+      "occurrence_E_ID": "E-0966",
+      "source_csv_row_1based": "767",
+      "platform_record_id": "mYweZlHgK1MJ",
+      "record_url": "https://www.nature.com/articles/eye201114"
+    },
+    {
+      "occurrence_E_ID": "E-0967",
+      "source_csv_row_1based": "768",
+      "platform_record_id": "WwxYQE01GPsJ",
+      "record_url": "https://repository.seeu.edu.mk/sites/thesis/ThesisSharedDocs/MA_117162.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0968",
+      "source_csv_row_1based": "769",
+      "platform_record_id": "eUo9fO9oIckJ",
+      "record_url": "https://www.researchgate.net/profile/Davide-Banfi-3/publication/325553419_A_field_and_laboratory_study_on_the_dynamic_response_of_the_Eddystone_lighthouse_to_wave_loading/links/5b201f500f7e9b0e373ee72e/A-field-and-laboratory-study-on-the-dynamic-response-of-the-Eddystone-lighthouse-to-wave-loading.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0969",
+      "source_csv_row_1based": "770",
+      "platform_record_id": "AVX7cyyAfN0J",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0886335008001259"
+    },
+    {
+      "occurrence_E_ID": "E-0970",
+      "source_csv_row_1based": "771",
+      "platform_record_id": "f7TUxD9FM4gJ",
+      "record_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1528/0000/Two-dimensional-control-of-radiant-intensity-by-use-of-nonimaging/10.1117/12.49134.short"
+    },
+    {
+      "occurrence_E_ID": "E-0971",
+      "source_csv_row_1based": "772",
+      "platform_record_id": "a37z_fnWfLkJ",
+      "record_url": "https://www.academia.edu/download/61854688/%E6%A2%81%E4%BA%AE2020_Progress_in_Organic_Coatings20200121-116810-9zpt26.pdf"
+    },
+    {
+      "occurrence_E_ID": "E-0972",
+      "source_csv_row_1based": "773",
+      "platform_record_id": "Ru7c1-CmvNYJ",
+      "record_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ceo.12629"
+    },
+    {
+      "occurrence_E_ID": "E-0973",
+      "source_csv_row_1based": "774",
+      "platform_record_id": "ibO2UxlqkWUJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0263224121014974"
+    },
+    {
+      "occurrence_E_ID": "E-0974",
+      "source_csv_row_1based": "775",
+      "platform_record_id": "SzfDLMDRs5QJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0034425719303888"
+    },
+    {
+      "occurrence_E_ID": "E-0975",
+      "source_csv_row_1based": "776",
+      "platform_record_id": "PhK2b8ohJDYJ",
+      "record_url": "https://www.etasr.com/index.php/ETASR/article/view/18092"
+    },
+    {
+      "occurrence_E_ID": "E-0976",
+      "source_csv_row_1based": "777",
+      "platform_record_id": "iMdtOffgSe8J",
+      "record_url": "https://www.mdpi.com/1424-8220/21/9/3145"
+    },
+    {
+      "occurrence_E_ID": "E-0977",
+      "source_csv_row_1based": "778",
+      "platform_record_id": "Vz4LS5S0J8EJ",
+      "record_url": "https://iovs.arvojournals.org/article.aspx?articleid=2793461"
+    },
+    {
+      "occurrence_E_ID": "E-0978",
+      "source_csv_row_1based": "779",
+      "platform_record_id": "LEQMoyO9QTUJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S1888429613000903"
+    },
+    {
+      "occurrence_E_ID": "E-0979",
+      "source_csv_row_1based": "780",
+      "platform_record_id": "OKxE7kw6xBAJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/9636329/"
+    },
+    {
+      "occurrence_E_ID": "E-0980",
+      "source_csv_row_1based": "781",
+      "platform_record_id": "a0u6joa3wkoJ",
+      "record_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4005227/"
+    },
+    {
+      "occurrence_E_ID": "E-0981",
+      "source_csv_row_1based": "782",
+      "platform_record_id": "nHG5wXsd4j8J",
+      "record_url": "https://bjo.bmj.com/content/91/6/749.short"
+    },
+    {
+      "occurrence_E_ID": "E-0982",
+      "source_csv_row_1based": "783",
+      "platform_record_id": "dI5WvRKT84MJ",
+      "record_url": "https://link.springer.com/article/10.1007/s11136-022-03159-2"
+    },
+    {
+      "occurrence_E_ID": "E-0983",
+      "source_csv_row_1based": "784",
+      "platform_record_id": "Saa96jBFKuwJ",
+      "record_url": "https://www.tandfonline.com/doi/abs/10.2147/OPTH.S131371"
+    },
+    {
+      "occurrence_E_ID": "E-0984",
+      "source_csv_row_1based": "785",
+      "platform_record_id": "HMLgHkfwiJgJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/9309218/"
+    },
+    {
+      "occurrence_E_ID": "E-0985",
+      "source_csv_row_1based": "786",
+      "platform_record_id": "jq_OZ81yPCkJ",
+      "record_url": "https://www.learntechlib.org/p/2129732/"
+    },
+    {
+      "occurrence_E_ID": "E-0986",
+      "source_csv_row_1based": "787",
+      "platform_record_id": "1pVb3-U0uS4J",
+      "record_url": "https://iovs.arvojournals.org/article.aspx?articleid=2127886"
+    },
+    {
+      "occurrence_E_ID": "E-0987",
+      "source_csv_row_1based": "788",
+      "platform_record_id": "9PzmG4uvgHUJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S0195670120303558"
+    },
+    {
+      "occurrence_E_ID": "E-0988",
+      "source_csv_row_1based": "789",
+      "platform_record_id": "1xahoNemJbIJ",
+      "record_url": "https://www.sciencedirect.com/science/article/pii/S095058492600337X"
+    },
+    {
+      "occurrence_E_ID": "E-0989",
+      "source_csv_row_1based": "790",
+      "platform_record_id": "h-KiQk-KsuIJ",
+      "record_url": "https://books.google.com/books?hl=en&lr=&id=TIiZDgAAQBAJ&oi=fnd&pg=PP1&dq=%22web+performance%22+%22statistical%22+%22uncertainty%22&ots=AQN1vOlWjE&sig=UtZJT4g58xqIhr03sIv-gEomVU4"
+    },
+    {
+      "occurrence_E_ID": "E-0990",
+      "source_csv_row_1based": "791",
+      "platform_record_id": "KbKdZOpDzn8J",
+      "record_url": "https://link.springer.com/chapter/10.1007/978-3-642-31217-5_12"
+    },
+    {
+      "occurrence_E_ID": "E-0991",
+      "source_csv_row_1based": "792",
+      "platform_record_id": "skE_LbGLUOIJ",
+      "record_url": "https://www.dbc.wroc.pl/Content/15407/PDF/ISAT2011_1.pdf#page=39"
+    },
+    {
+      "occurrence_E_ID": "E-0992",
+      "source_csv_row_1based": "793",
+      "platform_record_id": "B_dHGIfTzMYJ",
+      "record_url": "https://dl.acm.org/doi/abs/10.1145/1806916.1806918"
+    },
+    {
+      "occurrence_E_ID": "E-0993",
+      "source_csv_row_1based": "794",
+      "platform_record_id": "nLhAk0a1RHcJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/6008704/"
+    },
+    {
+      "occurrence_E_ID": "E-0994",
+      "source_csv_row_1based": "795",
+      "platform_record_id": "RVufXcoaS0UJ",
+      "record_url": "https://www.mdpi.com/2073-431X/14/10/446"
+    },
+    {
+      "occurrence_E_ID": "E-0995",
+      "source_csv_row_1based": "796",
+      "platform_record_id": "VQE4N8duznEJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/843532/"
+    },
+    {
+      "occurrence_E_ID": "E-0996",
+      "source_csv_row_1based": "797",
+      "platform_record_id": "6mBbmUCe2I0J",
+      "record_url": "https://www.igi-global.com/chapter/performance-analysis-models-web-traffic/17743"
+    },
+    {
+      "occurrence_E_ID": "E-0997",
+      "source_csv_row_1based": "798",
+      "platform_record_id": "V99tYmRftMsJ",
+      "record_url": "https://www.mdpi.com/2073-8994/17/12/2058"
+    },
+    {
+      "occurrence_E_ID": "E-0998",
+      "source_csv_row_1based": "799",
+      "platform_record_id": "UZ8tpRaLS2QJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/10001139/"
+    },
+    {
+      "occurrence_E_ID": "E-0999",
+      "source_csv_row_1based": "800",
+      "platform_record_id": "1pnwwFm_ZSYJ",
+      "record_url": "https://ieeexplore.ieee.org/abstract/document/10053726/"
+    }
+  ],
+  "scope": "Exact E-0900–E-0999 by explicit ID range; these are source queue rows/positions 701–800, not 401–500. Parenthetical position conflict resolved in favor of explicit EIDs. No other IDs.",
+  "review_status": "FROZEN BEFORE itemwise semantic review"
+}

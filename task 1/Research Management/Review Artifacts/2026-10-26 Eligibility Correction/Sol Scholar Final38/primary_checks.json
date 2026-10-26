@@ -1,0 +1,2036 @@
+{
+  "reviewer": "Sol AI separate-pass technical QA, not independent human review",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "items": [
+    {
+      "target_E_ID": "E-1000",
+      "event_E_ID": "E-4400",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Antecedents in marketing do not operationalize browser timing."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture or observation intervention stated."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Correlates of business website outcomes do not establish workload/user transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Significant correlations are not repeat-run uncertainty methods."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Correlation between antecedents and outcomes is not matched-method agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No fixture, corpus or browser evaluation design identified."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Marketing antecedent associations are a different outcome construct; neither correlation significance nor uncertainty about associations supplies a transferable performance-measurement method.",
+      "type_proxy": "journal",
+      "method_proxy": "marketing-construct",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "The antecedents of Web site performance",
+      "complete_Scholar_snippet_as_exported": "… However, there is still much uncertainty about the extent … to Web performance . No more than two antecedents did not show a significant correlation with one of the two Web performance …",
+      "authors_metadata_as_exported": "EKRE Huizingh - European journal of Marketing, 2002 - emerald.com",
+      "year_as_exported": "2002",
+      "record_url_as_exported": "https://www.emerald.com/ejm/article/36/11-12/1225/33645",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1001",
+      "event_E_ID": "E-4401",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No metric definition supplied."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Performance extension might involve measurement but capture mechanism is unstated."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Lossy cellular conditions and domain sharding bound network and page-delivery transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Disagreement about h2 is not a sampling-uncertainty procedure."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "h1 versus h2 compares protocols, not reference conformance."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Network intervention may inform controlled fixture factors, not established design."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R2",
+        "R6"
+      ],
+      "reason": "Retain network-condition/workload lead; test page and network equivalence before any browser transfer, and do not infer instrumentation overhead.",
+      "type_proxy": "preprint",
+      "method_proxy": "network-workload",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Domain-sharding for faster http/2 in lossy cellular networks",
+      "complete_Scholar_snippet_as_exported": "… The disagreement about h2 performance creates uncertainty … In order to understand Web performance , we first extend our … In Section VII, we compare Web performance over h1 and h2 …",
+      "authors_metadata_as_exported": "U Goel , M Steiner , MP Wittie , S Ludin … - arXiv preprint arXiv …, 2017 - arxiv.org",
+      "year_as_exported": "2017",
+      "record_url_as_exported": "https://arxiv.org/abs/1707.05836",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1002",
+      "event_E_ID": "E-4402",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Worst-case cache consistency is a construct distinct from browser timing; its exact definition is unavailable."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Evaluation tool may expose cache state, but capture details absent."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Distributed cache state can change delivered content and latency, bounding replay/live equivalence."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Worst-case consistency uncertainty is not repeated-run precision."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Cache consistency is not agreement between matched tools."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Named caching evaluation tool is a fixture/evaluation-method lead; browser implementation remains unestablished."
+        }
+      },
+      "positive_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R2"
+      ],
+      "reason": "Retain cache-evaluation context for state/content equivalence; worst-case consistency must not be relabeled as timing confidence or reference agreement.",
+      "type_proxy": "conference",
+      "method_proxy": "cache-evaluation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Saperlipopette!: a distributed Web caching systems evaluation tool",
+      "complete_Scholar_snippet_as_exported": "… Abstract Designing a distributed cache infrastructure to improve the Web performance for … To reflect this uncertainty , Saperlipopette! calculates the consistency metric both in the worst …",
+      "authors_metadata_as_exported": "G Pierre, M Makpangou - Middleware'98: IFIP International Conference on …, 1998 - Springer",
+      "year_as_exported": "1998",
+      "record_url_as_exported": "https://link.springer.com/chapter/10.1007/978-1-4471-1283-9_24",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1003",
+      "event_E_ID": "E-4403",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Website performance measurement is explicit but service-quality setting leaves business versus runtime construct unresolved."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture mechanism."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "No workload or user coverage comparison."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Ad hoc measurement is not a repeat-run uncertainty method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched reference procedure."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Measurement-practice study could inform design only if technical operationalization is present."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1",
+        "R6"
+      ],
+      "reason": "Producer R1 advance overstates a potentially marketing-only title: hold for construct clarification; snippet alone does not justify either browser mapping or confident exclusion.",
+      "type_proxy": "journal",
+      "method_proxy": "marketing-construct",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Web site performance measurement: promise and reality",
+      "complete_Scholar_snippet_as_exported": "… remarkably, but there continues to be uncertainty regarding the impact of the internet on … (as in the present study), the use of web - performance measurement is found to be more ad hoc. …",
+      "authors_metadata_as_exported": "R Welling , L White - Managing Service Quality: An International …, 2006 - emerald.com",
+      "year_as_exported": "2006",
+      "record_url_as_exported": "https://www.emerald.com/jstp/article/16/6/654/309375",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1004",
+      "event_E_ID": "E-4404",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Telepresence is not a browser timing metric."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No instrumentation intervention."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Destination navigation and imagined travel might inform user-task coverage, but no synthetic-to-user performance bridge is supplied."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "No repeated-measure uncertainty design stated."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No browser fixture or profiler design."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R3"
+      ],
+      "reason": "Prior human studies are allowed; this particular navigation/telepresence outcome needs a concrete task-coverage bridge, not automatic R3 relevance from human participation.",
+      "type_proxy": "journal",
+      "method_proxy": "human-navigation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Outcomes of destination marketing organization website navigation: The role of telepresence",
+      "complete_Scholar_snippet_as_exported": "… This study also found that telepresence is a necessary part of DMO web performance . When planning a trip, people may visualize their chosen destination and then visit the destination …",
+      "authors_metadata_as_exported": "J Choi , C Ok , S Choi - Journal of Travel & Tourism Marketing, 2016 - Taylor & Francis",
+      "year_as_exported": "2016",
+      "record_url_as_exported": "https://www.tandfonline.com/doi/abs/10.1080/10548408.2015.1024913",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1005",
+      "event_E_ID": "E-4405",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Repository visibility/ranking is not runtime metric semantics."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No observation mechanism."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Institutional visibility does not establish browser workload coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "No repeat-performance statistical method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Web ranking is not matched-tool agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No corpus sampling or profiler evaluation method stated."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Institutional repository visibility is the target; ranking recommendations provide no browser-measurement or transferable method mechanism in this export.",
+      "type_proxy": "journal",
+      "method_proxy": "ranking-visibility",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "GLOBAL VISIBILITY OF ASIAN UNIVERSITIES'OPEN ACCESS INSTITUTIONAL REPOSITORIES",
+      "complete_Scholar_snippet_as_exported": "… As advised by the Cybermetrics Laboratory (Ranking Web of World Repositories 2010), this paper concludes that if the web performance of a research institution is below the expected …",
+      "authors_metadata_as_exported": "A Abrizah , A Noorhidawati , K Kiran - Malaysian Journal of Library …, 2010 - mjlis.um.edu.my",
+      "year_as_exported": "2010",
+      "record_url_as_exported": "https://mjlis.um.edu.my/article/view/6942",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1006",
+      "event_E_ID": "E-4406",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Web Performance WG specifications are mentioned but no normative metric statement supplied."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No instrumentation capture or perturbation method."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Topic frequencies are not workload coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Low-count topic noise is not repeated-performance uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference conformance procedure."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "W3C topic mapping is a standards-discovery lead, not yet a closest technical solution or evaluation design."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1",
+        "R6"
+      ],
+      "reason": "Retain unresolved standards-discovery context without treating topic analysis as normative semantics or a validated R6 design. Exact 2026 date unverified.",
+      "type_proxy": "conference",
+      "method_proxy": "standards-topics",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Who shapes Web standards? Uncovering the main topics of interest in the W3C",
+      "complete_Scholar_snippet_as_exported": "… – features with low counts carry high statistical uncertainty and tend to introduce more noise … Similarly, several specifications published by the Web Performance WG facilitate or focus …",
+      "authors_metadata_as_exported": "HS Xavier , B Rocha, D Cortiz - … of the ACM Web Conference 2026, 2026 - dl.acm.org",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/3774905.3795481",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1007",
+      "event_E_ID": "E-4407",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Land-allocation uncertainty is not browser metric semantics."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Pylot system-wide testing is explicit; could indicate a web measurement component, but its role is truncated."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Spatial allocation is not itself web workload coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Unbounded awareness uncertainty is not repeat-run precision."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Tool evaluation might be a methods lead if tied to the actual study rather than incidental material."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R2",
+        "R6"
+      ],
+      "reason": "Reject confident exclusion: Pylot is an explicit testing-tool lead, but its role is unresolved. Do not infer browser validation from the mention or adopt spatial uncertainty as performance statistics.",
+      "type_proxy": "journal",
+      "method_proxy": "tool-mention",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "Spatial model steering, an exploratory approach to uncertainty awareness in land use allocation",
+      "complete_Scholar_snippet_as_exported": "… of unbounded, implicit uncertainty understood as an awareness of uncertainty generated by exposure to the … Pylot 2.6 Open source web performance tool 5 (For system wide Testing). …",
+      "authors_metadata_as_exported": "M Nino-Ruiz , I Bishop , C Pettit - Environmental modelling & software, 2013 - Elsevier",
+      "year_as_exported": "2013",
+      "record_url_as_exported": "https://www.sciencedirect.com/science/article/pii/S1364815212001910",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1008",
+      "event_E_ID": "E-4408",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Spider orb-web mechanics are not browser metric constructs."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "Digitization error lacks a stated observation-perturbation mechanism transferable to execution."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Prey speed is not a web workload/user distribution."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Digitization error magnitude alone provides no repeated-measure estimator or dependence method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Three biomechanical models are not matched-tool reference agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No transferable fixture/corpus or execution evaluation procedure specified."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Biological mechanics is not excluded merely for domain: inspected digitization error and model testing, but neither supplies a stated transferable uncertainty/agreement/capture procedure in this snippet.",
+      "type_proxy": "journal",
+      "method_proxy": "physical-measurement",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "Mechanical performance of spider orb webs is tuned for high-speed prey",
+      "complete_Scholar_snippet_as_exported": "… differences in maximum web performance across all prey … To test these three models of spider orb web performance , … Digitization uncertainty also produced error on the order of 10…",
+      "authors_metadata_as_exported": "AT Sensenig, SP Kelly , KA Lorentz… - Journal of …, 2013 - journals.biologists.com",
+      "year_as_exported": "2013",
+      "record_url_as_exported": "https://journals.biologists.com/jeb/article-abstract/216/18/3388/11584",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1009",
+      "event_E_ID": "E-4409",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Web technology speed is named but metric operationalization absent."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture/off-on evaluation."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Platform and hardware architecture explicitly bound performance generalization."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "No repeat-run estimator supplied."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Platform comparison is not reference conformance."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Cross-platform factors could inform a crossed design; no actual randomization established."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R6"
+      ],
+      "reason": "Retain hardware/platform transfer context; platform/version and workload matching must be checked before applying any result.",
+      "type_proxy": "journal",
+      "method_proxy": "platform-workload",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "[PDF] Web Technologies Performance Analysis for Different Platforms and Hardware Architectures",
+      "complete_Scholar_snippet_as_exported": "… WP stands for “ Web Performance ” this term used to discuss the speed of web technologies … WP (or modemize performance) solve the uncertainty long searching time consume, improve …",
+      "authors_metadata_as_exported": "KHAA Faraj , RN Mohammed , TN Ahmad … - … Journal of Computer …, 2013 - researchgate.net",
+      "year_as_exported": "2013",
+      "record_url_as_exported": "https://www.researchgate.net/profile/Kamaran-Faraj/publication/280316288_Web_Technologies_Performance_Analysis_for_Different_Platforms_and_Hardware_Architectures/links/5653503b08aeafc2aabb21e7/Web-Technologies-Performance-Analysis-for-Different-Platforms-and-Hardware-Architectures.pdf",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1010",
+      "event_E_ID": "E-4410",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "W3C performance specifications are mentioned without metric definitions."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No runtime capture method stated."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Topic counts do not establish workload transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Feature-count uncertainty is not performance repetition uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No conformance procedure."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Standards-topic study may locate standards but does not establish closest implementation overlap."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1",
+        "R6"
+      ],
+      "reason": "This occurrence remains separate despite matching strings. Standards-discovery potential is unresolved, not proof of normative semantics or R6 technical-design relevance.",
+      "type_proxy": "conference",
+      "method_proxy": "standards-topics",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Who shapes Web standards? Uncovering the main topics of interest in the W3C",
+      "complete_Scholar_snippet_as_exported": "… – features with low counts carry high statistical uncertainty and tend to introduce more noise … Similarly, several specifications published by the Web Performance WG facilitate or focus …",
+      "authors_metadata_as_exported": "HS Xavier , B Rocha, D Cortiz - … of the ACM Web Conference 2026, 2026 - dl.acm.org",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/3774905.3795481",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1011",
+      "event_E_ID": "E-4411",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No explicit metric semantics."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Web performance extension is not enough to establish capture changes."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Cellular packet-loss context and sharding identify a network-condition transfer boundary."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Protocol disagreement is not repeated-measure uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "h1/h2 comparison is not reference-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Protocol intervention may supply controlled conditions if design details are established."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R2",
+        "R6"
+      ],
+      "reason": "Retain a separately tracked occurrence for transport/workload relevance; no merge, overhead inference or conformance interpretation.",
+      "type_proxy": "preprint",
+      "method_proxy": "network-workload",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Domain-sharding for faster http/2 in lossy cellular networks",
+      "complete_Scholar_snippet_as_exported": "… The disagreement about h2 performance creates uncertainty … In order to understand Web performance , we first extend our … In Section VII, we compare Web performance over h1 and h2 …",
+      "authors_metadata_as_exported": "U Goel , M Steiner , MP Wittie , S Ludin … - arXiv preprint arXiv …, 2017 - arxiv.org",
+      "year_as_exported": "2017",
+      "record_url_as_exported": "https://arxiv.org/abs/1707.05836",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1012",
+      "event_E_ID": "E-4412",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No specific browser metric definition identified."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No identified runtime capture mechanism."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Internet/Web performance data-mining application might address workloads, but chapter identity is absent."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Statistical analysis/KEEL could be methodological context; no estimator is identifiable."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No method-agreement procedure."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Broad volume may contain an original method chapter; relevant contribution cannot be located from fragmented snippet."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R3",
+        "R4",
+        "R6"
+      ],
+      "reason": "A broad volume and disconnected fragments warrant a finite chapter/identity clarification, not confident X3 or a blanket source-type exclusion.",
+      "type_proxy": "book",
+      "method_proxy": "method-volume",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "[B] Intelligent soft computation and evolving data mining: Integrating advanced technologies: integrating advanced technologies",
+      "complete_Scholar_snippet_as_exported": "… and statistical analysis that we they can do with KEEL. … theory under some social uncertainty that received historical data … of DM application to Internet and Web performance issues. The …",
+      "authors_metadata_as_exported": "LSL Wang, TP Hong - 2010 - books.google.com",
+      "year_as_exported": "2010",
+      "record_url_as_exported": "https://books.google.com/books?hl=en&lr=&id=B0eHp4F4jnQC&oi=fnd&pg=PP1&dq=%22web+performance%22+%22statistical%22+%22uncertainty%22&ots=ETg4mS4jgx&sig=PQcgE9AwzQLFgNu1UI35t_IpVqI",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1013",
+      "event_E_ID": "E-4413",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Radio energy is not browser metric semantics."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Noise-sensitive detector observability could transfer to missing-event detection only if a threshold/noise mechanism is established."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Radio traffic is not evidence of browser workload coverage."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Noise uncertainty may be systematic rather than repeated-sample variation; estimator transfer unresolved."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched reference agreement shown."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No browser fixture or profiler design."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R2",
+        "R4"
+      ],
+      "reason": "The web-performance phrase appears biographical, but detector noise and signal-correlation assumptions deserve methodological clarification; no radio model is adopted as browser evidence.",
+      "type_proxy": "journal",
+      "method_proxy": "detector-noise",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "Performance of energy detector in the presence of noise uncertainty in cognitive radio networks",
+      "complete_Scholar_snippet_as_exported": "… uncertainty . However, when the correlations of the PU signal become weak, the sensing performance of statistical … multimedia communication, web performance and network traffic. He …",
+      "authors_metadata_as_exported": "W Yin, P Ren, J Cai , Z Su - Wireless Networks, 2013 - Springer",
+      "year_as_exported": "2013",
+      "record_url_as_exported": "https://link.springer.com/article/10.1007/s11276-012-0491-7",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1014",
+      "event_E_ID": "E-4414",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No browser metric definition."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture perturbation."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "No stated lab/field population transfer test."
+        },
+        "R4": {
+          "judgment": "retain",
+          "reason": "Tail significance and sample-size reasoning are explicit precision/design leads; independence and estimand must be checked."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched-tool agreement."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Website experimentation rules are a design-method lead, not automatic browser protocol prescriptions."
+        }
+      },
+      "positive_RIDs": [
+        "R4",
+        "R6"
+      ],
+      "candidate_RIDs": [],
+      "reason": "Retain statistical-tail and online experiment-design leads. Do not import the quoted thousands rule into nested browser repetitions without population and dependence justification.",
+      "type_proxy": "conference",
+      "method_proxy": "online-experiment",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Seven rules of thumb for web site experimenters",
+      "complete_Scholar_snippet_as_exported": "… Because we are looking at statistical significance using the tails of distributions, larger sample sizes are required. Our advice in previous articles [11] is that you need “thousands” of …",
+      "authors_metadata_as_exported": "R Kohavi , A Deng , R Longbotham , Y Xu - Proceedings of the 20th ACM …, 2014 - dl.acm.org",
+      "year_as_exported": "2014",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/2623330.2623341",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1015",
+      "event_E_ID": "E-4415",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Consistency metric may clarify a non-timing construct, not browser timing semantics."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Tool observability details not in snippet."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Distributed caching affects state and content delivery, bounding live/replay equivalence."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Worst-case consistency is not repeated-run uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Consistency is not reference-tool agreement."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Evaluation-tool precedent may inform cache fixture design, subject to scope checks."
+        }
+      },
+      "positive_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R2"
+      ],
+      "reason": "Keep occurrence separate. Transfer concerns cache state and evaluation setup, not unverified consistency-to-timing equivalence.",
+      "type_proxy": "conference",
+      "method_proxy": "cache-evaluation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Saperlipopette!: a distributed Web caching systems evaluation tool",
+      "complete_Scholar_snippet_as_exported": "… Abstract Designing a distributed cache infrastructure to improve the Web performance for … To reflect this uncertainty , Saperlipopette! calculates the consistency metric both in the worst …",
+      "authors_metadata_as_exported": "G Pierre , M Makpangou - Middleware'98: IFIP International Conference on …, 1998 - Springer",
+      "year_as_exported": "1998",
+      "record_url_as_exported": "https://link.springer.com/chapter/10.1007/978-1-4471-1283-9_24",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1016",
+      "event_E_ID": "E-4416",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No browser metric operationalization."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No instrumentation intervention."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Markovian workload characterization identifies time-evolving workload assumptions relevant to coverage and scenario generalization."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Future-evolution uncertainty is not automatically sampling precision; temporal dependence may be a method lead."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "QoS prediction is not matched-reference agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Workload model may guide fixture factors if model assumptions fit browser workloads."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R4",
+        "R6"
+      ],
+      "reason": "Retain temporally structured workload analogue; cloud resource prediction is not browser validation and future prediction error is not a confidence interval on repeated means.",
+      "type_proxy": "conference",
+      "method_proxy": "workload-model",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Markovian workload characterization for QoS prediction in the cloud",
+      "complete_Scholar_snippet_as_exported": "… the uncertainty in their future evolution. An important class of … Here, we always refer to the statistical properties defined on a … resource allocation and online web performance prediction. …",
+      "authors_metadata_as_exported": "S Pacheco-Sanchez, G Casale … - 2011 IEEE 4th …, 2011 - ieeexplore.ieee.org",
+      "year_as_exported": "2011",
+      "record_url_as_exported": "https://ieeexplore.ieee.org/abstract/document/6008704/",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1017",
+      "event_E_ID": "E-4417",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "retain",
+          "reason": "Settled first-view in 3D tiles versus general page metrics is an explicit operationalization lead."
+        },
+        "R2": {
+          "judgment": "retain",
+          "reason": "AOP runtime instrumentation and time-to-first-view capture directly address observability; perturbation remains untested."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Cesium/3D tiles bound a workload family, not universal page coverage."
+        },
+        "R4": {
+          "judgment": "retain",
+          "reason": "Uncertainty for means, excluded runs and outliers explicitly concern repeated-reporting decisions."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched reference agreement stated."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Named instrumentation framework is a closest-evaluation/design lead; independent expected effects remain unchecked."
+        }
+      },
+      "positive_RIDs": [
+        "R1",
+        "R2",
+        "R4",
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R3"
+      ],
+      "reason": "Broaden producer R2-only mapping to R1/R4/R6. Check settling criterion, run exclusion and uncertainty assumptions; no dates, findings or overhead claims verified.",
+      "type_proxy": "conference",
+      "method_proxy": "runtime-instrumentation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "An AOP-Inspired Runtime Instrumentation Framework for Time-to-First-View Measurement in Cesium-Based 3D Tiles Visualization: BO3DT for Settled First-View …",
+      "complete_Scholar_snippet_as_exported": "… General Web performance metrics mainly describe page … To provide uncertainty information for the reported means, … runs and excluded from statistical reporting; statistical outliers are …",
+      "authors_metadata_as_exported": "W Zheng, Y Ni, X Du - Proceedings of the 3rd International Conference …, 2026 - dl.acm.org",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/3844212.3844221",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1018",
+      "event_E_ID": "E-4418",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No browser timing definition supplied."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No runtime observation mechanism."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Cache state and end-user latency link workload/state to delivered performance."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Rough-set uncertainty is not a repeated-run sampling method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Rough cache model may inform fixture states, but methodological originality/type unresolved."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R6"
+      ],
+      "reason": "Retain cache-state context; rough-set granularity must not be treated as a sampling interval or evidence about measurement perturbation.",
+      "type_proxy": "chapter",
+      "method_proxy": "cache-model",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Rough Web Caching",
+      "complete_Scholar_snippet_as_exported": "… In this chapter, we model the uncertainty in Web caching using the granularity of rough set (… Caching assists improvement of Web performance by reducing the cost and end-user latency …",
+      "authors_metadata_as_exported": "S Sulaiman¹, SM Shamsuddin¹… - Rough Set Theory: A …, 2008 - books.google.com",
+      "year_as_exported": "2008",
+      "record_url_as_exported": "https://books.google.com/books?hl=en&lr=&id=dR1qCQAAQBAJ&oi=fnd&pg=PA187&dq=%22web+performance%22+%22statistical%22+%22uncertainty%22&ots=dn118Mur-t&sig=Telj8yvuM49cz-1bEIfecx8y9-s",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1019",
+      "event_E_ID": "E-4419",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Technical accessibility may include performance constructs, but operationalization absent."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture mechanism."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Content/accessibility and traffic might bound site populations only if technical workload selection is actually analyzed."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Associations do not establish repeat-run uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No stated fixture or profiler design."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1",
+        "R3"
+      ],
+      "reason": "Technical accessibility is not automatically browser performance. Hold the business-traffic association for a specific construct/workload bridge rather than inherit producer R3.",
+      "type_proxy": "journal",
+      "method_proxy": "marketing-construct",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Technical and informational content accessibility as a tool to improve web traffic on destination management organization websites: evidence from an empirical …",
+      "complete_Scholar_snippet_as_exported": "… This study addresses this gap by analyzing the statistical associations between technical and in… However, given the complexity of web performance dynamics, these findings should be …",
+      "authors_metadata_as_exported": "L Rubio-Escuderos , T Domínguez Vila … - … Technology & Tourism, 2026 - Springer",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://link.springer.com/article/10.1007/s40558-026-00374-2",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1020",
+      "event_E_ID": "E-4420",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Internet-marketing evaluation is not browser metric semantics."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "Third-party traffic data uncertainty is not execution-observer perturbation."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Alexa/social traffic rankings are not an explicit synthetic-workload coverage method."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "No estimator for repeated performance observations specified."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Ranking-source uncertainty does not establish matched-metric agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No fixture or profiler evaluation procedure."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Explicit marketing evaluation and traffic rankings target a different construct. Uncertainty in those ranks alone supplies no transferable sampling, capture or agreement method.",
+      "type_proxy": "thesis-proxy",
+      "method_proxy": "marketing-analytics",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "[PDF] Web-analytics and performance evaluation of internet marketing",
+      "complete_Scholar_snippet_as_exported": "… Therefore the central research question is to build the web performance ’s evaluation … source of uncertainty is Alexa ranking and Socialbakers traffic statistics. On certain extent …",
+      "authors_metadata_as_exported": "I Kurylets - 2012 - academia.edu",
+      "year_as_exported": "2012",
+      "record_url_as_exported": "https://www.academia.edu/download/34976842/Iryna_Kurylets_MT_2011-2012.pdf",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1021",
+      "event_E_ID": "E-4421",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No metric semantics supplied."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture intervention."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Bing experiments imply a field context but synthetic representativeness is unstated."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Experiment interactions may create dependence; no repeated-run estimator given."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Controlled comparison is not reference agreement."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Explicit interactions between online experiments are a transferable interference/design issue; browser-run interaction mechanism must be specified."
+        }
+      },
+      "positive_RIDs": [
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R3",
+        "R4"
+      ],
+      "reason": "Retain design/interference precedent. Controlled experimentation is not itself R4 or R5; Bing field estimates and browser-run estimands are not interchangeable.",
+      "type_proxy": "conference",
+      "method_proxy": "online-experiment",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Online controlled experiments at large scale",
+      "complete_Scholar_snippet_as_exported": "… address, and we alert experimenters to statistical interactions between experiments. The Bing … A controlled experiment provides very close to perfect information (up to the uncertainty …",
+      "authors_metadata_as_exported": "R Kohavi , A Deng , B Frasca, T Walker , Y Xu… - Proceedings of the 19th …, 2013 - dl.acm.org",
+      "year_as_exported": "2013",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/2487575.2488217",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1022",
+      "event_E_ID": "E-4422",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Session duration versus performance metrics may expose construct non-equivalence; exact browser metric is unspecified."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No instrumentation mechanism."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "E-commerce conversion association does not establish workload coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "A test statistic is not a repeated-performance uncertainty method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Session/performance association is not matched-metric agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No browser fixture/design method stated."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1"
+      ],
+      "reason": "Possible construct contrast only; avoid positive R1 assignment until actual performance metrics are known. Conversion and session duration alone do not validate browser timing.",
+      "type_proxy": "journal",
+      "method_proxy": "marketing-analytics",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Beyond clickstream: web analytics and session duration in E-commerce conversion",
+      "complete_Scholar_snippet_as_exported": "… provide a clearer understanding that resolves this uncertainty . ASD is expected to increase as … The test statistic for the relationship between web performance metrics and AVGSDUR …",
+      "authors_metadata_as_exported": "N Cetinturk - International Journal of Retail & Distribution …, 2026 - emerald.com",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://www.emerald.com/ijrdm/article/doi/10.1108/IJRDM-01-2025-0038/1350254",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1023",
+      "event_E_ID": "E-4423",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Technical web optimization may operationalize performance but metrics are absent."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture/off-on intervention."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Industrial setting may bound workload/user context, not established synthetic transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Logistical uncertainty is not repeated-measure uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference agreement."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Automation and technical optimization intervention is a candidate closest applied evaluation; isolate technical effects from operational outcomes."
+        }
+      },
+      "positive_RIDs": [
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R3"
+      ],
+      "reason": "Uncertain advance for explicit technical web optimization and possible solution overlap; not mere marketing benefits, but no effect attribution or browser-specific design is verified.",
+      "type_proxy": "journal",
+      "method_proxy": "technical-optimization",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Assessment of the Effects of IT Infrastructure Automation and Technical Web Optimization on Operational Performance and User Experience in Mining and Steel …",
+      "complete_Scholar_snippet_as_exported": "… Web performance has measurable implications for user … that improvements in web performance can positively affect … , fluctuating demand, logistical uncertainty , and increasing …",
+      "authors_metadata_as_exported": "A Jamali, MR Badami - Management Strategies and Engineering …, 2025 - msesj.com",
+      "year_as_exported": "2025",
+      "record_url_as_exported": "https://msesj.com/index.php/mses/article/view/477",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1024",
+      "event_E_ID": "E-4424",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Usability/search behavior is distinct from browser timing."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Eye movement is a capture modality, but no execution-observer effect established."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Older adults with/without impairment provide an explicit task/population coverage boundary for agents lacking gaze/cognitive behavior."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Cognitive information uncertainty is not a repeated-run precision method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Group differences are not matched-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Task/population stratification may inform corpus inference, not a prescription for new human collection."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R2",
+        "R6"
+      ],
+      "reason": "Retain prior-human task-coverage analogue, bounded to search/eye-movement behavior; no new human study or equivalence with browser speed is implied.",
+      "type_proxy": "journal",
+      "method_proxy": "human-navigation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "An eye movement analysis of web usability: Differences between older adults with and without mild cognitive impairment",
+      "complete_Scholar_snippet_as_exported": "… in their search behavior and web performance and whether these differences can be … of uncertainty , which leads to more fixations aimed at finding information to reduce their uncertainty . …",
+      "authors_metadata_as_exported": "M Haesner, J Chandra , A Steinert… - Assistive …, 2018 - Taylor & Francis",
+      "year_as_exported": "2018",
+      "record_url_as_exported": "https://www.tandfonline.com/doi/abs/10.1080/10400435.2016.1251994",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1025",
+      "event_E_ID": "E-4425",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Two performance metrics are mentioned but not defined."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture perturbation."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Server workload prediction explicitly supplies temporal load-context assumptions to test before page-workload transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Fuzzy membership uncertainty is not repeated-measure confidence."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Prediction does not constitute reference-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Fuzzy Markov model could motivate workload fixtures only if assumptions fit."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R6"
+      ],
+      "reason": "Retain temporal workload context, not a validated browser estimator or a sampling-uncertainty method.",
+      "type_proxy": "journal",
+      "method_proxy": "workload-model",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Web server workload prediction: Fuzzy Markovian approach",
+      "complete_Scholar_snippet_as_exported": "… statistical and artificial intelligence approaches. The … MF is just sufficient to capture the uncertainty of the attributes (b-factor… Based on the fuzzy system, the two web performance metrics, …",
+      "authors_metadata_as_exported": "CW Cheong - International Journal of Computers and Applications, 2004 - Taylor & Francis",
+      "year_as_exported": "2004",
+      "record_url_as_exported": "https://www.tandfonline.com/doi/abs/10.1080/1206212X.2004.11441730",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1026",
+      "event_E_ID": "E-4426",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Geological fossils do not define browser metrics; snippet web phrases conflict with title."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No recoverable capture mechanism."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Miocene fauna do not establish web workload/user coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Geological age uncertainty gives no transferable repeated-performance estimator."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched-method agreement procedure."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No coherent browser fixture/design contribution can be attributed."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Title and venue identify paleontology while snippet contains unrelated web text: exclude this exported occurrence as no attributable R1–R6 contribution, not as verified irrelevance of an identified web source. Underlying snippet association remains unresolved.",
+      "type_proxy": "journal",
+      "method_proxy": "export-contamination",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "[HTML] Small mammals and foraminifera from the Anatolian (Central Taurus) early Miocene",
+      "complete_Scholar_snippet_as_exported": "… Web performance optimization is a critical aspect of modern … , as fundamental indicators of web performance . Additionally, we … This uncertainty over the age of these elastics had its effect …",
+      "authors_metadata_as_exported": "G Saraç - Annals of Carnegie Museum, 2001 - academia.edu",
+      "year_as_exported": "2001",
+      "record_url_as_exported": "https://www.academia.edu/download/108027915/316108.pdf",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1027",
+      "event_E_ID": "E-4427",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Navigation performance need not mean browser timing."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No execution capture perturbation."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Deaf users, textual content and practice identify user-task coverage limits that synthetic navigation may omit."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Pearson correlations do not establish repeated-measure precision."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Correlation with language scores is not reference agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Information structure/practice could inform task stratification; actual fixture design unverified."
+        }
+      },
+      "positive_RIDs": [
+        "R3"
+      ],
+      "candidate_RIDs": [
+        "R6"
+      ],
+      "reason": "Retain prior-human task/population boundary; do not treat user navigation scores as runtime timing or Pearson correlation as conformance.",
+      "type_proxy": "journal",
+      "method_proxy": "human-navigation",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Information structure and practice as facilitators of deaf users' navigation in textual websites",
+      "complete_Scholar_snippet_as_exported": "… A summary of web performance measures is reported in Table 1. We performed three Pearson productmoment correlation analyses, between CLT-Cloze Test scores and percentage of …",
+      "authors_metadata_as_exported": "I Fajardo, JJ Cañas, L Salmerón… - Behaviour & Information …, 2009 - Taylor & Francis",
+      "year_as_exported": "2009",
+      "record_url_as_exported": "https://www.tandfonline.com/doi/abs/10.1080/01449290801988290",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1028",
+      "event_E_ID": "E-4428",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Lighthouse/W3C performance evaluations are explicit but their relation to the security index is truncated."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Potential use of Lighthouse capture is unresolved, not demonstrated overhead analysis."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "No workload transfer statement."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Fuzzy uncertainty is not repeated-run precision."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No paired reference agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Composite security index could be adjacent evaluation design; technical performance contribution unestablished."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R1",
+        "R2",
+        "R6"
+      ],
+      "reason": "Reject X3 certainty because named performance-evaluation references may be substantive. Hold for index/metric-role clarification; no relevance inferred solely from Lighthouse keywords and no 2026 cutoff assumption.",
+      "type_proxy": "conference",
+      "method_proxy": "security-index",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "[HTML] A Novel Security Index for Assessing Information Systems in Industrial Organizations Using Web Technologies and Fuzzy Logic",
+      "complete_Scholar_snippet_as_exported": "… However, these approaches often struggle with the inherent uncertainty in … web performance evaluations and are recommended by Google Lighthouse and W3C Web Performance …",
+      "authors_metadata_as_exported": "S Khaddour, F Abu-Abed, V Bogatikov - Engineering Proceedings, 2026 - mdpi.com",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://www.mdpi.com/2673-4591/117/1/38",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1029",
+      "event_E_ID": "E-4429",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Reporting statistics are not browser metric definitions."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No runtime capture mechanism."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Database consolidation explicitly affects web performance/reliability; could bound server-load conditions, but measured workload is unknown."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Ad hoc statistical reporting does not establish run uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched-tool agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Consolidation comparison might be an intervention fixture, but evaluation details absent."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "reason": "System-consolidation performance concern warrants clarification rather than X3 based on application domain. Need an actual load/evaluation mechanism before positive mapping.",
+      "type_proxy": "conference",
+      "method_proxy": "system-consolidation",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "Web-based intelligence reports system",
+      "complete_Scholar_snippet_as_exported": "… statistical data analysis with reporting capabilities. A variety of static and ad hoc statistical … were consolidated in one database, WEB performance and reliability would be negatively af…",
+      "authors_metadata_as_exported": "A Dolotov, M Strickler - … Conference on Intelligence and Security Informatics, 2003 - Springer",
+      "year_as_exported": "2003",
+      "record_url_as_exported": "https://link.springer.com/chapter/10.1007/3-540-44853-5_4",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1030",
+      "event_E_ID": "E-4430",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "SEO visibility is not runtime metric semantics."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture perturbation."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Search traffic is not synthetic workload coverage evidence."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Explicit ARDL short/long-term modeling could inform temporal dependence/drift treatment only after estimand and stationarity assumptions are checked."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Model comparison is not reference agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No browser fixture or profiler evaluation."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R4"
+      ],
+      "reason": "Marketing application is not itself relevant, but explicit lagged statistical modeling is a bounded methodological candidate. Hold for original-method/assumption clarification; do not automatically exclude native statistics or adopt this application as a method.",
+      "type_proxy": "conference",
+      "method_proxy": "lagged-statistical-model",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "Integration of Autoregressive Distributed Lag (ARDL) Modeling with Google Search Console Data Analysis for SEO Performance Evaluation",
+      "complete_Scholar_snippet_as_exported": "… web performance and provide conclusions on short-term & long-term strategies that must be used to improve business web performance … graphical approach and statistical tests, where …",
+      "authors_metadata_as_exported": "FGF Pratama, HZ Fahmi … - Proceeding of …, 2024 - proceeding.unesa.ac.id",
+      "year_as_exported": "2024",
+      "record_url_as_exported": "https://proceeding.unesa.ac.id/index.php/pijcu/article/view/3710",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1031",
+      "event_E_ID": "E-4431",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Warehouse outcomes are not browser metric definitions."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No observation mechanism."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Query-generation and web-performance relation could bound a technical workload, but fragment gives no measured phenomenon."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Demand uncertainty is not repeated-run measurement uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No agreement procedure."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Web/mobile application evaluation may contain a workload fixture; not established here."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "reason": "Application domain does not ban a technical evaluation. Hold the explicit query/performance lead; demand uncertainty itself is not a transferable browser statistical method.",
+      "type_proxy": "journal-proxy",
+      "method_proxy": "warehouse-system",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "Web/Mobile system innovation: An efficient revolution in warehouse management.",
+      "complete_Scholar_snippet_as_exported": "… satisfaction in dealing with the uncertainty of demand. … capacity constraints, demand uncertainty , and lead times. … between query generation, web performance , and the selection of …",
+      "authors_metadata_as_exported": "CL ZAVALETA SAENZ, A Romero Ruiz… - …, 2024 - f1000research.com",
+      "year_as_exported": "2024",
+      "record_url_as_exported": "https://f1000research.com/articles/13-213",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1032",
+      "event_E_ID": "E-4432",
+      "stage1": "PENDING",
+      "primary_code": "PENDING",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Recovery behavior is not browser metric semantics."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Self-healing may observe state, but instrumentation target and observer effects are unstated."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "No workload/user coverage design shown."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Correlation-method comparison does not establish repeated-run uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Pearson/Kendall comparison is not conformance or agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Adaptive recovery framework might overlap intervention/evaluation work; performance component unresolved."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [
+        "R2",
+        "R6"
+      ],
+      "reason": "Reject confident exclusion until framework observation/evaluation role is clear. Mere correlation and recovery uncertainty do not earn R4/R5; retain only unresolved capture/solution-overlap leads.",
+      "type_proxy": "journal",
+      "method_proxy": "self-healing",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "SHõ WA: A Self-Healing Framework for Web-Based Applications",
+      "complete_Scholar_snippet_as_exported": "… When compared to other methods of statistical correlation (Pearson and Kendall), we found … set of recovery actions, reducing the uncertainty in system behaviors. The projects presented …",
+      "authors_metadata_as_exported": "JP Magalhaes , LM Silva - … on Autonomous and Adaptive Systems (TAAS), 2015 - dl.acm.org",
+      "year_as_exported": "2015",
+      "record_url_as_exported": "https://dl.acm.org/doi/abs/10.1145/2700325",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1033",
+      "event_E_ID": "E-4433",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "CPU load construct may contrast with timing but exact metric absent."
+        },
+        "R2": {
+          "judgment": "unresolved",
+          "reason": "Load evaluation may require instrumentation; no overhead assessment supplied."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "No user/workload transfer study stated."
+        },
+        "R4": {
+          "judgment": "retain",
+          "reason": "Explicit trim(10%) and uncertainty reduction is an estimator/tail-handling lead; estimand shift, dependence and omitted tails require checking."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Comparing two methods is not matched-reference agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Code structures/scripts can be fixture factors, but design unverified."
+        }
+      },
+      "positive_RIDs": [
+        "R4"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R2",
+        "R6"
+      ],
+      "reason": "Retain statistical load-measurement analogue; trimming is not automatically appropriate for browser tails and claimed uncertainty reduction is not verified. Exact 2026 date unresolved.",
+      "type_proxy": "conference",
+      "method_proxy": "trimmed-statistical-model",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "An Optimized Model for CPU Load Evaluation in the Execution of Code Structures and Script-Based Algorithms",
+      "complete_Scholar_snippet_as_exported": "… To support the above with statistical arguments, we will compare two methods, the first, … There is also a reduction in uncertainty when using the trim(10%) method, which reduces …",
+      "authors_metadata_as_exported": "V Atanasov , D Denev - … of the International Conference on Secure …, 2026 - journal.etrconf.eu",
+      "year_as_exported": "2026",
+      "record_url_as_exported": "https://journal.etrconf.eu/std/article/view/137",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1034",
+      "event_E_ID": "E-4434",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Stakeholder institutional ranking perceptions are not browser timing semantics."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture intervention."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Institutional stakeholders do not establish workload/agent coverage."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Generic uncertainty has no repeat-performance estimator."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "Ranking perceptions are not reference-tool agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No technical corpus or profiler design."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Institutional visibility/knowledge-sharing constructs, not technical web measurements. Human participation is not the reason for exclusion; no bounded performance-method transfer is specified.",
+      "type_proxy": "journal",
+      "method_proxy": "ranking-visibility",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "Web ranking performance perspectives of Malaysian higher education institutions' stakeholders",
+      "complete_Scholar_snippet_as_exported": "… HEIs academics on their institute web performance . To further … knowledge sharing, and web performance of HEIs) that were … that is characterised by uncertainty with various challenges, …",
+      "authors_metadata_as_exported": "AU Ubaka, B Kadir , IKA Rahman … - International Journal of …, 2021 - inderscienceonline.com",
+      "year_as_exported": "2021",
+      "record_url_as_exported": "https://www.inderscienceonline.com/doi/abs/10.1504/IJKL.2021.116904",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1035",
+      "event_E_ID": "E-4435",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "No browser metric semantics specified."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No runtime observation intervention."
+        },
+        "R3": {
+          "judgment": "unresolved",
+          "reason": "Web planning/simulation might model workload probabilities, but target is unresolved."
+        },
+        "R4": {
+          "judgment": "retain",
+          "reason": "Explicit confidence interval for p(i) and distinction between uncertain values and discrete structure is a methodological lead for separating sampling and model uncertainty."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched reference agreement."
+        },
+        "R6": {
+          "judgment": "unresolved",
+          "reason": "Simulation planning could inform probabilistic fixture assumptions, not an established browser design."
+        }
+      },
+      "positive_RIDs": [
+        "R4"
+      ],
+      "candidate_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "reason": "Reject X3: CI-versus-model uncertainty distinction is a bounded statistical transfer lead. Check what p(i) estimates, data-generating assumptions and originality; book label/ProQuest dissertation URL is not verified source type.",
+      "type_proxy": "thesis-proxy",
+      "method_proxy": "probability-simulation",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "rejected",
+      "title_as_exported": "[B] Using fuzzy probability and simulation methods in Web planning models",
+      "complete_Scholar_snippet_as_exported": "… compute a (conventional statistical ) confidence interval for p(i), which represents uncertainty in the … in some of the a ,val ues, but there is no uncertainty in the fact that we have a discrete …",
+      "authors_metadata_as_exported": "X Zheng - 2005 - search.proquest.com",
+      "year_as_exported": "2005",
+      "record_url_as_exported": "https://search.proquest.com/openview/6230f057a7bec193a271f9d9be26a38f/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1036",
+      "event_E_ID": "E-4436",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "R1_R6": {
+        "R1": {
+          "judgment": "not_established",
+          "reason": "Export-marketing web capabilities are business constructs, not browser timing."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture mechanism."
+        },
+        "R3": {
+          "judgment": "not_established",
+          "reason": "Export outcomes do not specify workload/user transfer."
+        },
+        "R4": {
+          "judgment": "not_established",
+          "reason": "Statistical questions in apparent acknowledgments give no method."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No reference agreement."
+        },
+        "R6": {
+          "judgment": "not_established",
+          "reason": "No fixture or profiler evaluation method."
+        }
+      },
+      "positive_RIDs": [],
+      "candidate_RIDs": [],
+      "reason": "Export-marketing thesis topic and apparent acknowledgment fragments identify no transferable technical/statistical contribution. Not excluded for thesis type or inaccessible full text.",
+      "type_proxy": "thesis-proxy",
+      "method_proxy": "marketing-construct",
+      "producer_stage1": "X3",
+      "producer_X3_adjudication": "retained",
+      "title_as_exported": "[PDF] WWW and its enduring effects on export marketing: do web capabilities matter?",
+      "complete_Scholar_snippet_as_exported": "… this PhD uniquely contributes to understanding the Web - performance link. I am proud of the … research methods and statistical concepts is amazing. Whenever I had a statistical question, …",
+      "authors_metadata_as_exported": "I Beckers - 2009 - cris.maastrichtuniversity.nl",
+      "year_as_exported": "2009",
+      "record_url_as_exported": "https://cris.maastrichtuniversity.nl/files/873111/guid-ed13e2f3-5d23-4113-814a-bc1263a2cbba-ASSET1.0.pdf",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    },
+    {
+      "target_E_ID": "E-1037",
+      "event_E_ID": "E-4437",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "R1_R6": {
+        "R1": {
+          "judgment": "unresolved",
+          "reason": "Functioning efficiency may be a different construct; no browser metric definition yet."
+        },
+        "R2": {
+          "judgment": "not_established",
+          "reason": "No capture intervention."
+        },
+        "R3": {
+          "judgment": "retain",
+          "reason": "Request complexity, data volume and hardware explicitly identify context factors relevant to workload transfer."
+        },
+        "R4": {
+          "judgment": "unresolved",
+          "reason": "Resource-model uncertainty is not necessarily repeated sampling; no estimator stated."
+        },
+        "R5": {
+          "judgment": "not_established",
+          "reason": "No matched-reference agreement."
+        },
+        "R6": {
+          "judgment": "retain",
+          "reason": "Request/data/hardware factors are candidate controlled-fixture factors, with causal and design assumptions unverified."
+        }
+      },
+      "positive_RIDs": [
+        "R3",
+        "R6"
+      ],
+      "candidate_RIDs": [
+        "R1",
+        "R4"
+      ],
+      "reason": "Retain explicit workload/resource factor model; do not equate its efficiency construct or uncertainty with browser timing precision.",
+      "type_proxy": "conference",
+      "method_proxy": "resource-workload",
+      "producer_stage1": "ADVANCE",
+      "producer_X3_adjudication": "not producer X3",
+      "title_as_exported": "Mathematical modeling of the estimation process of functioning efficiency level of information web-resources",
+      "complete_Scholar_snippet_as_exported": "… means that only the uncertainty factors which directly related to this resource (complexity of the executing request, volume of the resource data, technical characteristics of the hardware …",
+      "authors_metadata_as_exported": "M Dyvak, A Melnyk, A Kovbasistyi… - 2020 10th …, 2020 - ieeexplore.ieee.org",
+      "year_as_exported": "2020",
+      "record_url_as_exported": "https://ieeexplore.ieee.org/abstract/document/9208846/",
+      "metadata_limits": "Date/version/cutoff, language/authorized translation, type/originality and identity UNVERIFIED; type/method labels are export proxies; no DUP/SID adjudication.",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED",
+      "fulltext": "NOT RUN",
+      "citation": "NOT RUN",
+      "actual_primary_read": "Complete stored title, entire Scholar snippet (not abstract), author/venue/year/URL/record metadata read."
+    }
+  ],
+  "checked": 38,
+  "unreviewed": 0
+}

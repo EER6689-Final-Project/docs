@@ -1,0 +1,197 @@
+{
+  "freeze_id": "Scholar-Batch6-secondary-QA-selection",
+  "frozen_on": "2026-10-26 before secondary checks",
+  "source_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "primary_overlay_sha256": "16ed540530860cca9ba0ebcdc14e7f2612b46dab7255bdcc5a3fcb8d0a673c66",
+  "all_proposed_X3": [
+    "E-0901",
+    "E-0903",
+    "E-0904",
+    "E-0906",
+    "E-0907",
+    "E-0909",
+    "E-0911",
+    "E-0912",
+    "E-0913",
+    "E-0914",
+    "E-0915",
+    "E-0916",
+    "E-0917",
+    "E-0918",
+    "E-0919",
+    "E-0921",
+    "E-0922",
+    "E-0923",
+    "E-0924",
+    "E-0925",
+    "E-0926",
+    "E-0927",
+    "E-0928",
+    "E-0929",
+    "E-0930",
+    "E-0931",
+    "E-0932",
+    "E-0933",
+    "E-0934",
+    "E-0935",
+    "E-0936",
+    "E-0937",
+    "E-0938",
+    "E-0939",
+    "E-0940",
+    "E-0941",
+    "E-0942",
+    "E-0943",
+    "E-0944",
+    "E-0945",
+    "E-0946",
+    "E-0947",
+    "E-0948",
+    "E-0949",
+    "E-0951",
+    "E-0952",
+    "E-0953",
+    "E-0954",
+    "E-0956",
+    "E-0957",
+    "E-0958",
+    "E-0961",
+    "E-0963",
+    "E-0964",
+    "E-0965",
+    "E-0966",
+    "E-0968",
+    "E-0969",
+    "E-0970",
+    "E-0971",
+    "E-0972",
+    "E-0973",
+    "E-0974",
+    "E-0975",
+    "E-0976",
+    "E-0977",
+    "E-0978",
+    "E-0979",
+    "E-0980",
+    "E-0981",
+    "E-0982",
+    "E-0983",
+    "E-0984",
+    "E-0986",
+    "E-0987",
+    "E-0989",
+    "E-0990",
+    "E-0991",
+    "E-0992",
+    "E-0993",
+    "E-0995",
+    "E-0996",
+    "E-0997"
+  ],
+  "explicit_positive_R_type_proxy_groups": [
+    {
+      "R": "R1",
+      "proxy": "browser diagnostic / performance measurement record",
+      "selected_EID": "E-0900",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R1",
+      "proxy": "technical report on browser network-performance methods",
+      "selected_EID": "E-0902",
+      "nonselected_count": 1
+    },
+    {
+      "R": "R1",
+      "proxy": "web-performance optimization thesis/repository record",
+      "selected_EID": "E-0905",
+      "nonselected_count": 2
+    },
+    {
+      "R": "R1",
+      "proxy": "website-performance services / web metrics thesis record",
+      "selected_EID": "E-0910",
+      "nonselected_count": 3
+    },
+    {
+      "R": "R1",
+      "proxy": "frontend technologies / Lighthouse synthetic evaluation thesis",
+      "selected_EID": "E-0967",
+      "nonselected_count": 5
+    },
+    {
+      "R": "R1",
+      "proxy": "web assessment/composite-score journal study",
+      "selected_EID": "E-0988",
+      "nonselected_count": 7
+    },
+    {
+      "R": "R1",
+      "proxy": "secondary review of website-performance metrics",
+      "selected_EID": "E-0994",
+      "nonselected_count": 8
+    },
+    {
+      "R": "R1",
+      "proxy": "web-browsing performance/network monitoring conference study",
+      "selected_EID": "E-0998",
+      "nonselected_count": 9
+    },
+    {
+      "R": "R3",
+      "proxy": "industrial web-app workload generation study",
+      "selected_EID": "E-0908",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R3",
+      "proxy": "page-selection/ad-blocker benchmark study",
+      "selected_EID": "E-0999",
+      "nonselected_count": 5
+    },
+    {
+      "R": "R4",
+      "proxy": "clinical instrument comparison with explicit agreement and repeatability",
+      "selected_EID": "E-0950",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R4",
+      "proxy": "human visual-function repeated-measure studies",
+      "selected_EID": "E-0955",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R4",
+      "proxy": "statistical repeatability of acuity measures",
+      "selected_EID": "E-0962",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R5",
+      "proxy": "explicit agreement comparison analogue",
+      "selected_EID": "E-0950",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R6",
+      "proxy": "technical report on browser performance evaluation",
+      "selected_EID": "E-0902",
+      "nonselected_count": 0
+    },
+    {
+      "R": "R6",
+      "proxy": "web frontend evaluation/design thesis",
+      "selected_EID": "E-0967",
+      "nonselected_count": 3
+    },
+    {
+      "R": "R6",
+      "proxy": "webpage-selection benchmark design",
+      "selected_EID": "E-0999",
+      "nonselected_count": 5
+    }
+  ],
+  "group_rule": "Prospectively select the first target occurrence listed for each explicitly recorded R/type-proxy group. Proxies are working QA strata, not verified source types.",
+  "status": "FROZEN BEFORE secondary QA reread"
+}

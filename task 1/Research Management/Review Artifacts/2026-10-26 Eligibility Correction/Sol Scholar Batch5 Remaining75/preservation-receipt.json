@@ -1,0 +1,140 @@
+{
+  "time": "2026-10-26T12:52:39.633603+05:30",
+  "source_before": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+    "bytes": 2286727,
+    "sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad"
+  },
+  "source_after": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+    "bytes": 2286727,
+    "sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad"
+  },
+  "assigned_producer_files_before": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-overlay.csv",
+      "bytes": 162958,
+      "sha256": "0fc01959a4ef7d6f797d61b4eab49944e6411dd97866ddbab2a4f610c0610d1c"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-handoff.md",
+      "bytes": 3209,
+      "sha256": "76a8b264c599d8b2108b473a61b4ed4d2bf9246ca450c7e577955fba3ffd6e23"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-manifest.json",
+      "bytes": 1995,
+      "sha256": "9b43ac7b6aef6906e5c0b770398bf98533f9993c021f2676f00e0273e40bc6c5"
+    }
+  ],
+  "assigned_producer_files_after": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-overlay.csv",
+      "bytes": 162958,
+      "sha256": "0fc01959a4ef7d6f797d61b4eab49944e6411dd97866ddbab2a4f610c0610d1c"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-handoff.md",
+      "bytes": 3209,
+      "sha256": "76a8b264c599d8b2108b473a61b4ed4d2bf9246ca450c7e577955fba3ffd6e23"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/remaining75-manifest.json",
+      "bytes": 1995,
+      "sha256": "9b43ac7b6aef6906e5c0b770398bf98533f9993c021f2676f00e0273e40bc6c5"
+    }
+  ],
+  "source_columns_preserved": [
+    "occurrence_E_ID",
+    "source_csv_row_1based",
+    "operation",
+    "query",
+    "rank",
+    "title",
+    "display_record_label",
+    "dedup_key",
+    "duplicate_occurrence",
+    "first_occurrence",
+    "local_exact_filename_match",
+    "publication_year",
+    "publication_date",
+    "language",
+    "source_platform",
+    "abstract_or_snippet",
+    "abstract_status",
+    "stage1_decision",
+    "stage1_primary_code",
+    "stage1_reason",
+    "stage2",
+    "reviewer",
+    "review_date",
+    "SID",
+    "Q_ID",
+    "platform_record_id",
+    "record_url",
+    "doi",
+    "raw_record_metadata",
+    "canonical_crosswalk",
+    "canonical_SID",
+    "rank_basis",
+    "canonical_pending_state",
+    "canonical_pending_reason",
+    "canonical_identity_status",
+    "candidate_duplicate_target_E_ID",
+    "raw_first_occurrence_E_ID",
+    "canonical_work_ID",
+    "canonical_primary_exclusion_code",
+    "semantic_eligibility",
+    "source_type_fit",
+    "candidate_relevance",
+    "date_eligibility",
+    "fulltext_language_translation",
+    "fulltext_pass",
+    "citation_pass",
+    "claim_support",
+    "methodological_confidence",
+    "pending_reviewer",
+    "audit_type",
+    "allocation_date",
+    "request_url",
+    "request_timestamp_local",
+    "request_timestamp_utc",
+    "response_sha256_claimed",
+    "raw_body_location_scratch_only"
+  ],
+  "source_original_values_checked": 4200,
+  "producer_columns_preserved": [
+    "producer_E_ID",
+    "producer_source_E_ID",
+    "producer_stage1_decision",
+    "producer_stage1_code",
+    "producer_stage1_rationale",
+    "producer_R1_judgment",
+    "producer_R2_judgment",
+    "producer_R3_judgment",
+    "producer_R4_judgment",
+    "producer_R5_judgment",
+    "producer_R6_judgment",
+    "producer_R1_rationale",
+    "producer_R2_rationale",
+    "producer_R3_rationale",
+    "producer_R4_rationale",
+    "producer_R5_rationale",
+    "producer_R6_rationale",
+    "producer_date_check",
+    "producer_language_check",
+    "producer_source_type_check",
+    "producer_identity_check",
+    "producer_claim_support",
+    "producer_methodological_confidence",
+    "producer_fulltext_citation_pass",
+    "producer_reviewer",
+    "producer_review_date"
+  ],
+  "producer_original_values_checked": 1950,
+  "source_value_mismatches": [],
+  "producer_value_mismatches": [],
+  "new_columns_effective_prefix_only": true,
+  "other_jobs_first25_shared_files": "Not written by this job; not claimed hash-validated because not assigned frozen inputs",
+  "scope_and_id_order_validated": true
+}

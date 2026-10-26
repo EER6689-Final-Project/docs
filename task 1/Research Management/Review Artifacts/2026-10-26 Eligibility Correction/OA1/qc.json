@@ -1,0 +1,49 @@
+{
+  "created_at_local": "2026-10-26T10:51:44+05:30",
+  "protocol_freeze": "ERP-2026-10-25-v1.0",
+  "selection_manifest": "manifest.json (prospective manifest frozen 2026-10-26T10:48:49+05:30 before correction pass); prior scratch manifest was not durable and is not represented as a durable historical receipt",
+  "input_path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "input_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "selected_occurrences": 150,
+  "actual_stage1_counts": {
+    "exclude": 91,
+    "advance": 49,
+    "pending": 10
+  },
+  "original_provisional_decisions_in_selected_rows": {
+    "X3": 83,
+    "ADVANCE": 65,
+    "X2": 1,
+    "DUP": 1
+  },
+  "new_review_event_range": "E-1100..E-1249",
+  "row_join_checks": {
+    "rows": 150,
+    "unique_event_ids": 150,
+    "target_occurrence_EID_matches_original": true,
+    "original_row_order_preserved": true
+  },
+  "date_cutoff": "Metadata publication dates observed for 150/150; none metadata-dated after 2026-10-25. Original source/version dates are not independently checked; no X1 assigned.",
+  "language": "Metadata says en=135, es=1, blank=14; no full-text language or authorized translation checked. No X2 assigned; uncertain language remains pending, not an exclusion.",
+  "source_type": "Actual source types not independently verified from original texts. No X4 assigned. Exported metadata retained per row.",
+  "semantic_exclusion_QC": {
+    "planned": 92,
+    "actual_checked": 92,
+    "actual_check_time_local": "2026-10-26T10:51:11+05:30",
+    "method": "Separate manual semantic pass over every retained X3 row’s exported title and actual abstract/status, comparing stated subject and any explicit transfer with each of R1–R6; no keyword filter. Changes found during review are recorded in affected rows.",
+    "independent": false,
+    "reviewer": "Luna AI self-review; not independent human review",
+    "notes": "The current remaining X3 exclusions were separately checked; 92 exclusions were actually rechecked before the final context-only review advance. The changed E-1222 is retained only as review/context, with primary-evidence limitation."
+  },
+  "deterministic_group_QC": "group-qc.json: 22 final nonempty candidate R1-R6 × exported source-type groups; first EID selected and actually checked in separate metadata-stage pass. Self-audit, not full-text or independent QC.",
+  "full_text_or_passages_read": 0,
+  "fulltext_retrieval": "NOT REQUIRED for clear stage-1 outcomes; not performed. Ambiguous missing abstracts retained pending.",
+  "identity": "Unresolved all-canonical-inventory crosswalk; all source identity states remain provisional. No new SIDs/work counts and no DUP inheritance.",
+  "nonbrowser_methods": "Specific transfer mechanisms and limits stated in advance rationales; no analogy treated as browser validation.",
+  "candidate_links": "R question IDs assigned; optional A–E link unassigned because candidate mapping was not present in bounded source materials.",
+  "citation_and_broad_queries": "NOT RUN",
+  "claim_support_confidence": "UNASSESSED for all rows",
+  "gate_or_novelty": "No gate closure, novelty, sufficiency or scientific approval claimed",
+  "deliverable_role": "Luna exploration receipts only; Sol to review/synthesize canonical statuses later",
+  "current_x3_count_after_context_review": 91
+}

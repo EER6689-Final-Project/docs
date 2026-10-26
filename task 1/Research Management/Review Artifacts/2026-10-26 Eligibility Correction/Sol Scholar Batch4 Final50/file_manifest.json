@@ -1,0 +1,78 @@
+{
+  "created_utc": "2026-10-26T07:12:40.353369+00:00",
+  "scope": "Exact Sol Scholar Batch4 Final50 directory; excludes this self-referential manifest; no external files written",
+  "files": {
+    "author_checks.psv": {
+      "sha256": "6be0a6071d4fb7c2d45e663331d51d6a36cb12339004d5faf973e1472963d711",
+      "bytes": 24664
+    },
+    "build_primary.py": {
+      "sha256": "c05978e409d51da1ad2f0a6dc7f877d355ab4a55e936835bfc9143e9cfd94a81",
+      "bytes": 6279
+    },
+    "counts.json": {
+      "sha256": "ca57bca3e37393ad1f569d9ed9bcf1dd7071242f7dae0b0fbcb6acf2601461bc",
+      "bytes": 1040
+    },
+    "delta_overlay50.csv": {
+      "sha256": "e3e19e7c54e1e4cb97f1f307b413bf78996a0e86b39031bd322f1ba9f5956f60",
+      "bytes": 158513
+    },
+    "finalize.py": {
+      "sha256": "957076c741680d153564326c836ade9e2a8af37add423cbeeadedf36781d17d3",
+      "bytes": 6587
+    },
+    "freeze.py": {
+      "sha256": "12cec2dc40877794080ca0540d8b7316d569ed531b18ae30fc576a2118c62b86",
+      "bytes": 1337
+    },
+    "handoff.md": {
+      "sha256": "731d647a0602d6cf3d604f5e471ff251d9ec36b79599724bf816e332c4b8f8b4",
+      "bytes": 5743
+    },
+    "item_checks.tsv": {
+      "sha256": "b19ed45198bbe54429ab79aa8f044f6d9ce7a4bfc53bdfbce9b918bf84cb50f4",
+      "bytes": 11175
+    },
+    "manifest.py": {
+      "sha256": "11a0f81b61fe54ab2caba884460b49fdbe241f241af6178d9232fc71330f099e",
+      "bytes": 520
+    },
+    "primary_judgments.json": {
+      "sha256": "9755755a49a61b3cce76870fe791f5474e3a29d7f075b3df25bb1648123ab1fd",
+      "bytes": 42431
+    },
+    "primary_read_receipt.json": {
+      "sha256": "7dd5367cf5f8deff96bfc5998805519ab3cbd03084b916e3dba7afe738d3faf9",
+      "bytes": 2334
+    },
+    "producer_history_schema_QC.json": {
+      "sha256": "d9019891ada7094b5844c37f6490fe6013069be80df3b743ad3fafe7ab76aadb",
+      "bytes": 3600
+    },
+    "qa_freeze.json": {
+      "sha256": "758021dbadc6e338f02dffdc6986e2fc6597912d4ec8b82a292b8d25d5e67360",
+      "bytes": 11078
+    },
+    "qa_group_results.json": {
+      "sha256": "1351ca99c8d14de927329173be747338beec70f73688904b04f332bd5b6e01c0",
+      "bytes": 8822
+    },
+    "secondary_QA_results.json": {
+      "sha256": "0b6c5327c82266341cedb6e033346a7213a5b8e2c4d9279ec9228e6f93fdcd7f",
+      "bytes": 70550
+    },
+    "secondary_checks.psv": {
+      "sha256": "b6f6872485d72a2733bddf2218936cbc5d40cc9dd3a20389a7f2515b042cf9e1",
+      "bytes": 6654
+    },
+    "target_freeze.json": {
+      "sha256": "feb533320948786e81997b4950d9a44a57a949e22abe6c329e03932337846b77",
+      "bytes": 4218
+    },
+    "verification.json": {
+      "sha256": "eb18e88860bdc7f21c7f3e9058f6762d76000ccc40174e1e670a5a7618bb8fbe",
+      "bytes": 2221
+    }
+  }
+}

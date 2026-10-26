@@ -1,0 +1,24 @@
+{
+  "scope": "Additive correction to frozen primary output, never overwrite primary overlay/freeze",
+  "reviewer": "Sol AI separate-pass self-audit, not independent human",
+  "corrections": {
+    "E-0483": {
+      "new_review_event_EID": "E-3623",
+      "R": "R4",
+      "primary_result": "supported",
+      "corrected_result": "unclear",
+      "corrected_rationale": "The two-group design names ANCOVA but supplies no covariates, replication units, dependence/drift treatment, or interval/precision output. Adjustment alone does not establish how repeated performance measurements should represent uncertainty. Retain the methodological lead pending full text rather than infer support or all-question exclusion.",
+      "final_corrected_explicit_RIDs": "R6",
+      "final_unclear_affected_RIDs": "R4",
+      "final_outside_affected_RIDs": "R2",
+      "final_proposed_stage1_status": "ADVANCE",
+      "routing": "Retain inherited R6 design lead; R4 original-method retrieval pending. Not X3.",
+      "fulltext": "NOT RUN",
+      "citations": "NOT RUN",
+      "claim_support": "UNASSESSED",
+      "methodological_confidence": "UNASSESSED"
+    }
+  },
+  "sample_effect": "E-0483 already belongs to the prospectively frozen secondary sample. Removing its R4 membership does not change the first member of the corrected R4/conference-paper group (E-0352). No new group, mapping or exclusion is created.",
+  "broader_pattern": "Naming an analysis model without a repeated-measurement uncertainty mechanism can still overstate R4 transfer. Do not claim all OA groups or inherited mappings passed. Remaining positive conference R4 members E-0361/E-0458 require an additive prospectively frozen secondary expansion; E-0352/E-0469 were already actually reread in this secondary pass. No original beyond those bounds has been secondarily checked by assertion."
+}

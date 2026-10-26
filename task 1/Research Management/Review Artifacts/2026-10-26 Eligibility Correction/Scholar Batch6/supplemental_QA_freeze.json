@@ -1,0 +1,11 @@
+{
+  "freeze_id": "Scholar-Batch6-supplemental-positive-proxy-QA",
+  "frozen_before_reread": "2026-10-26",
+  "source_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "primary_overlay_sha256": "16ed540530860cca9ba0ebcdc14e7f2612b46dab7255bdcc5a3fcb8d0a673c66",
+  "R": "R1",
+  "type_proxy": "Accessibility-audit study where Google Lighthouse is named but browser performance metric relevance is unresolved",
+  "selected_first_EID": "E-0985",
+  "selection_reason": "Only explicit positive R1 judgment in this bounded audit/accessibility type-proxy group; pending item selected for QC.",
+  "status": "FROZEN BEFORE supplemental reread"
+}

@@ -1,0 +1,920 @@
+[
+  {
+    "occurrence_E_ID": "E-0750",
+    "six_question_judgments": {
+      "R1": "NO: web model named, no metric definition",
+      "R2": "NO: data preparation is not instrumentation",
+      "R3": "NO: no population transfer stated",
+      "R4": "NO: experimental design alone gives no repeated-run uncertainty",
+      "R5": "NO: issue discovery is not agreement",
+      "R6": "YES: WAN data preparation and experimental design directly inform controlled web evaluation"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain WAN issue-discovery design as R6 prior work; no estimator or browser-validation finding is available.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0751",
+    "six_question_judgments": {
+      "R1": "NO: speed matters is not metric semantics",
+      "R2": "NO: no observer/capture mechanism",
+      "R3": "NO: experimenter rules do not establish synthetic transfer",
+      "R4": "NO: no repeated-run uncertainty described",
+      "R5": "NO: no matched methods",
+      "R6": "YES: stated experimental assumptions can guide predeclared fixture interventions, not authorize user experiments"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Website experiment rules are bounded R6 design context; current no-human-study scope does not exclude prior experimentation literature.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0752",
+    "six_question_judgments": {
+      "R1": "NO: AWPi change is not a defined browser construct",
+      "R2": "NO: no measurement perturbation",
+      "R3": "YES: firm-level field interventions bound transfer to controlled localhost, not representative browser runs",
+      "R4": "NO: baseline change does not establish uncertainty method",
+      "R5": "NO: benchmark firms are not reference tools",
+      "R6": "YES: field intervention and baseline outcome design can inform independent treatment labels"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain firm website intervention design; management responses and baseline changes are not profiler accuracy or repeatability.",
+    "type_proxy": "repository-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0753",
+    "six_question_judgments": {
+      "R1": "NO: UI task performance not runtime metric semantics",
+      "R2": "NO: no observer mechanism",
+      "R3": "YES: human navigation placement bounds transfer of fixed scripted journeys to users",
+      "R4": "NO: mixed factors do not state a repeated-measure estimator",
+      "R5": "NO: placement comparison not agreement",
+      "R6": "YES: explicit between-subject menu factor is design context, not a new participant protocol"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain prior mixed-design UI study for journey-factor and human-transfer limits only; not browser runtime validation.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0754",
+    "six_question_judgments": {
+      "R1": "NO: user-perceived performance not operationally defined",
+      "R2": "NO: ns2 simulation is not capture overhead evidence",
+      "R3": "YES: packet simulation and proxy hierarchy limit extrapolation to browser workloads",
+      "R4": "NO: network effects alone not repeated-run uncertainty",
+      "R5": "NO: TCP comparison not reference agreement",
+      "R6": "YES: TCP/network/cache factors inform controlled network fixtures"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain ns2 network/cache design analogue with explicit simulation-to-browser boundary.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4",
+      "R6"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0755",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: root-cause title not capture mechanism",
+      "R3": "NO: no population contrast stated",
+      "R4": "YES: changepoint analysis is a candidate drift-detection mechanism for ordered repeated measurements; assumptions unverified",
+      "R5": "NO: cause detection not tool agreement",
+      "R6": "YES: degradation diagnosis is prior solution overlap"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Title supports temporal-drift and diagnostic prior-work leads; the snippet appears to quote other titles, so no own methods are inferred from it.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0756",
+    "six_question_judgments": {
+      "R1": "NO: server modeling not browser metric semantics",
+      "R2": "NO: measurement title gives no capture/observer mechanism",
+      "R3": "YES: server-only workload must not stand for page lifecycle",
+      "R4": "NO: modeling alone not repeated-run uncertainty",
+      "R5": "NO: no paired methods",
+      "R6": "YES: server measurement/modeling may inform controlled backend factors, not page validation"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Individually retain server/workload design lead but hold occurrence identity against candidate E-0608; no merge or inherited eligibility.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0757",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: monitoring names give no capture boundary",
+      "R3": "YES: synthetic and real-user monitoring explicitly concern lab/field transfer",
+      "R4": "YES: stated changepoint analysis targets temporal shifts; no IID or precision claim",
+      "R5": "NO: two monitoring modes do not establish agreement",
+      "R6": "YES: degradation detection is closest diagnostic prior work"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Retain synthetic/real-user and temporal-shift leads independently; hold identity against E-0514 without resolving DUP.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0758",
+    "six_question_judgments": {
+      "R1": "NO: accessibility/energy not browser metric definition",
+      "R2": "NO: no observer analysis",
+      "R3": "NO: empirical comparison does not show population transfer",
+      "R4": "YES: snippet explicitly says repeated web performance measurements; estimator and dependence remain unknown",
+      "R5": "NO: comparative study not tool agreement",
+      "R6": "YES: accessibility/energy design offers front-end intervention context, not carbon ownership"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain repeated-measurement design lead; 2026 exact publication date must be checked against cutoff, and no energy/performance equivalence is inferred.",
+    "type_proxy": "repository-like",
+    "producer_mapping_changes": [
+      "R3"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0759",
+    "six_question_judgments": {
+      "R1": "NO: no operational metric",
+      "R2": "NO: active measurement does not describe observer effects",
+      "R3": "NO: year-long monitoring alone not synthetic-user transfer",
+      "R4": "YES: over-year measurement data and statistical analysis are drift/dependence leads, not a verified run hierarchy",
+      "R5": "NO: no matched instruments",
+      "R6": "YES: MWING long-term monitoring design can expose time-vantage confounding"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain statistical/longitudinal web measurement source for temporal uncertainty and design review; no numerical result claimed.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0760",
+    "six_question_judgments": {
+      "R1": "NO: wireless effects not metric definitions",
+      "R2": "NO: bottleneck not observer mechanism",
+      "R3": "YES: wireless bottleneck changes evaluation conditions and bounds localhost transfer",
+      "R4": "NO: one-factor-at-a-time is not repeated-run uncertainty",
+      "R5": "NO: factor effects not reference agreement",
+      "R6": "YES: explicit OFAT design informs factor control and interaction limitations"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Retain wireless factor design as bounded prior work; identity against E-0621 remains unresolved, no DUP adjudication.",
+    "type_proxy": "chapter-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0761",
+    "six_question_judgments": {
+      "R1": "YES: formative index versus reflective measures directly raises composite-construct non-equivalence",
+      "R2": "NO: measurement instrument here is not browser instrumentation",
+      "R3": "YES: behavioral index must not be equated to synthetic runtime outcomes",
+      "R4": "NO: robust assertion supplies no uncertainty method",
+      "R5": "NO: index advantage not instrument agreement",
+      "R6": "YES: prior web index bounds a diagnostic-score contribution without supplying weights"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain formative measurement/index construct source; no universal UX validity, score weights or browser validation follows.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0762",
+    "six_question_judgments": {
+      "R1": "NO: forecast title not metric definition",
+      "R2": "NO: no capture mechanism",
+      "R3": "NO: spatial forecasting title does not establish population coverage",
+      "R4": "NO: turning bands name does not demonstrate repeated-measure uncertainty",
+      "R5": "NO: forecasting not agreement",
+      "R6": "YES: turning-bands performance forecasting is diagnostic/modeling overlap to inspect"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain forecasting prior-work lead; snippet cites another experimental-design work, not evidence of this source's own design.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0763",
+    "six_question_judgments": {
+      "R1": "NO: no defined metric",
+      "R2": "NO: data mining not observer mechanism",
+      "R3": "NO: no synthetic/field coverage stated",
+      "R4": "NO: data usability and design do not establish variance estimation",
+      "R5": "NO: prediction not tool agreement",
+      "R6": "YES: explicit data preparation and design for web evaluation inform corpus/fixture planning"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain web prediction data-design work under R6; no automatic R3/R4 mapping from prediction vocabulary.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R3",
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0764",
+    "six_question_judgments": {
+      "R1": "NO: client-perceived label not operational semantics",
+      "R2": "NO: no instrumentation",
+      "R3": "NO: client prediction alone gives no population transfer",
+      "R4": "NO: prediction method not repeated-run uncertainty",
+      "R5": "NO: no paired instruments",
+      "R6": "YES: TB web prediction is prior diagnostic/modeling approach"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain client-perceived forecasting as solution-overlap lead only; repeated snippet wording adds no estimator or browser validity.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R3",
+      "R4",
+      "R6"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0765",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: wireless client not capture mechanism",
+      "R3": "YES: in-building wireless/mobile client frame bounds transfer to other network conditions",
+      "R4": "NO: OFAT design alone not uncertainty",
+      "R5": "NO: benchmarking servers not reference agreement",
+      "R6": "YES: explicit OFAT design supports network factor-control critique"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain wireless-client benchmark as R3/R6 context; mobile computers are not established phone emulation equivalents.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0766",
+    "six_question_judgments": {
+      "R1": "NO: formats and performance outcomes are not metric semantics",
+      "R2": "NO: scraping/evaluation lacks capture or perturbation detail",
+      "R3": "YES: popular-browser/image usage frame bears on image-heavy workload coverage",
+      "R4": "NO: factorial design not repeated-run uncertainty",
+      "R5": "NO: across-browser comparison not matched measurement methods",
+      "R6": "YES: stated factorial design and Windows distinction inform independent image-format factors"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain image-format corpus/factorial evaluation; no browser metric definitions or cross-browser implementation duty inferred.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R1"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0767",
+    "six_question_judgments": {
+      "R1": "NO: no defined metric",
+      "R2": "NO: scale/native compatibility not observer analysis",
+      "R3": "NO: A/B compatibility alone not population coverage",
+      "R4": "NO: A/B label supplies no uncertainty/replication method",
+      "R5": "NO: A/B comparison not tool agreement",
+      "R6": "YES: continuous web performance A/B system is closest experimental-platform overlap"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain Beaconnect as web experimentation solution lead; native compatibility means system integration, not validated profiler capture.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0768",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: no capture mechanism",
+      "R3": "NO: competitor benchmark does not establish representative frame",
+      "R4": "YES-POSSIBLE: statistical management of web measurements may address uncertainty; exact repetition assumptions absent",
+      "R5": "NO: competitor benchmark not paired measurement agreement",
+      "R6": "YES: benchmarking methodology and performance management are direct prior approaches"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Advance statistical/benchmarking thesis lead with R4 explicitly uncertain, no claimed estimator or decision-critical method support.",
+    "type_proxy": "repository-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0769",
+    "six_question_judgments": {
+      "R1": "NO: learning outcome not browser metric",
+      "R2": "NO: no capture/observer mechanism",
+      "R3": "NO: educational learning comparison not synthetic browser transfer",
+      "R4": "NO: experimental label supplies no transferable uncertainty mechanism",
+      "R5": "NO: teaching comparison not method agreement",
+      "R6": "NO: review of case-based pedagogy states no browser-evaluation design mechanism"
+    },
+    "decision": "X3",
+    "routing_reason": "Title and entire snippet concern case-based higher-education learning; no defensible R1-R6 mechanism stated. X3 is relevance-only, not a ban on human literature or a verified type exclusion.",
+    "type_proxy": "review-context-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "X3",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0770",
+    "six_question_judgments": {
+      "R1": "NO: no runtime semantics",
+      "R2": "NO: wireless setup not instrumentation",
+      "R3": "YES: this occurrence states in-building wireless/mobile client scope",
+      "R4": "NO: this OFAT snippet gives no repeat uncertainty",
+      "R5": "NO: server benchmark not agreement",
+      "R6": "YES: this occurrence's OFAT network factor design is useful bounded context"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Independently read wireless benchmark occurrence and retain R3/R6 leads; hold candidate E-0765 identity without merging or inheriting disposition.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0771",
+    "six_question_judgments": {
+      "R1": "NO: image optimization not metric definition",
+      "R2": "NO: automatic optimization not capture overhead",
+      "R3": "YES: WordPress/image workload narrows transfer to other applications",
+      "R4": "NO: optimization impact gives no repetitions",
+      "R5": "NO: optimization comparison not agreement",
+      "R6": "YES: image intervention is an independently specified workload/fixture lead"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain WordPress image-optimization intervention as R3/R6 prior work; no repeated runs or quantified effect stated.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0772",
+    "six_question_judgments": {
+      "R1": "NO: forecast not metric definition",
+      "R2": "NO: no observer mechanism",
+      "R3": "NO: no population coverage evidence",
+      "R4": "NO: turning bands/design citation not repeated uncertainty",
+      "R5": "NO: prediction not agreement",
+      "R6": "YES: this title gives a web forecasting solution-overlap lead"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Read forecasting occurrence independently; snippet is another work's citation. Hold candidate E-0762 identity, no merge or source-method inference.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R3",
+      "R4"
+    ],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0773",
+    "six_question_judgments": {
+      "R1": "NO: no defined metric",
+      "R2": "NO: MPTCP not observer mechanism",
+      "R3": "YES: mobile multipath network condition bounds localhost transfer",
+      "R4": "NO: measurement study alone not repeat uncertainty",
+      "R5": "NO: transport improvement not tool agreement",
+      "R6": "YES: MPTCP web study is prior network-factor evaluation"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain mobile MPTCP workload/evaluation lead; no uncertainty estimator or runtime-profiler validation established.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0774",
+    "six_question_judgments": {
+      "R1": "NO: user quality not operationally defined",
+      "R2": "NO: configuration acknowledgement not capture evidence",
+      "R3": "YES: user-perceived quality must be distinguished from runtime profiling",
+      "R4": "NO: design acknowledgement not repeat uncertainty",
+      "R5": "NO: no paired tools",
+      "R6": "YES: server design integrating perceived quality is prior approach context"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain user-perceived/server design lead with bounded construct transfer; snippet is acknowledgements, not a methods passage.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0775",
+    "six_question_judgments": {
+      "R1": "NO: learning not runtime semantics",
+      "R2": "NO: no instrumentation mechanism",
+      "R3": "NO: learning comparison not browser population transfer",
+      "R4": "NO: experimental label gives no uncertainty method",
+      "R5": "NO: learning comparison not instrument agreement",
+      "R6": "NO: pedagogy review offers no explicit browser-evaluation transfer"
+    },
+    "decision": "PENDING",
+    "routing_reason": "This occurrence independently lacks R1-R6 transfer like the pedagogy topic, but identity candidate E-0769 is unresolved; retain PENDING, no inherited X3 or DUP merge.",
+    "type_proxy": "review-context-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0776",
+    "six_question_judgments": {
+      "R1": "NO: React adaptation not defined metric semantics",
+      "R2": "NO: no observer/capture mechanism",
+      "R3": "YES: React-specific adaptation bounds workload transfer",
+      "R4": "NO: experimental methodology heading not repeated uncertainty",
+      "R5": "NO: adaptation not reference agreement",
+      "R6": "YES: ML-driven React performance adaptation is closest optimization prior-work lead"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain ReactSmart architecture/optimization lead; no metric definition, uncertainty result or pre-cutoff exact date verified from 2026 metadata.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R1"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0777",
+    "six_question_judgments": {
+      "R1": "NO: CMS performance not metric definition",
+      "R2": "NO: no instrumentation",
+      "R3": "YES: organizational CMS frame limits workload generalization",
+      "R4": "NO: treatment experiment alone not uncertainty method",
+      "R5": "NO: optimization comparison not agreement",
+      "R6": "YES: stated treatment design can inform independent intervention labeling"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain CMS optimization treatment-design context; relation to performance does not establish causal validity or repeated-run statistics.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0778",
+    "six_question_judgments": {
+      "R1": "NO: no browser metric semantics",
+      "R2": "NO: cache control not capture perturbation",
+      "R3": "YES: cacheable object selection and simulation bound live workload transfer",
+      "R4": "NO: simulation design not uncertainty method",
+      "R5": "NO: cache technique comparison not agreement",
+      "R6": "YES: explicit proxy-cache simulation design informs controlled cache-state factors"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain proxy-cache design analogue; simulation/cacheability assumptions are not browser validation.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0779",
+    "six_question_judgments": {
+      "R1": "NO: no operational metric",
+      "R2": "NO: QUIC not observer analysis",
+      "R3": "YES: mobile QUIC/congestion-control scope bounds transfer",
+      "R4": "NO: design questions not repeated-run uncertainty",
+      "R5": "NO: protocol comparison not tool agreement",
+      "R6": "YES: page-performance protocol intervention is evaluation prior work"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Independently retain QUIC page-performance lead; candidate E-0482 identity unresolved, no DUP adjudication or inherited eligibility.",
+    "type_proxy": "repository-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0780",
+    "six_question_judgments": {
+      "R1": "NO: memory management not defined memory measurement",
+      "R2": "NO: implementation/memory strategy is not observability or observer overhead",
+      "R3": "YES: WebAssembly computational workloads limit transfer to general pages",
+      "R4": "NO: experimental section gives no repeat uncertainty",
+      "R5": "NO: technical performance analysis not agreement",
+      "R6": "YES-POSSIBLE: WebAssembly implementation/design is an optimization-workload lead; originality unknown"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Advance uncertain WebAssembly design/runtime context, not browser-instrumentation evidence; verify whether original analysis or retelling later.",
+    "type_proxy": "repository-like",
+    "producer_mapping_changes": [
+      "R2"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0781",
+    "six_question_judgments": {
+      "R1": "NO: user-centric metrics named but not defined",
+      "R2": "NO: automation tool assertion gives no capture boundary or perturbation",
+      "R3": "YES: VDOM/compile-time architectures bound framework workload coverage",
+      "R4": "NO: two-way factorial not uncertainty estimator",
+      "R5": "NO: reliable tool assertion not matched-reference evidence",
+      "R6": "YES: explicit two-way architecture-by-optimization design is directly relevant factor design"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain framework factorial design, not metric validation. Asserted reliability and cited tool are unverified; exact 2026 date pending.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R1"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0782",
+    "six_question_judgments": {
+      "R1": "NO: QoE not operational browser semantics",
+      "R2": "NO: transport manipulation not observation",
+      "R3": "YES: MPTCP/HTTP conditions bound perceived-performance transfer",
+      "R4": "NO: experimental protocol design not repeat uncertainty",
+      "R5": "NO: two transport approaches not reference instruments",
+      "R6": "YES: transport-layer intervention informs network-factor fixtures"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain QoE/MPTCP experimental design as network analogue; no profiler correctness or repeatability finding.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0783",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: no capture mechanism",
+      "R3": "NO: no coverage or agent comparison",
+      "R4": "NO: forecasting/design reference not repeated uncertainty",
+      "R5": "NO: no measurement agreement",
+      "R6": "YES-CONTEXT: described web forecasting/data-preparation article is an original-source discovery lead only"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain collection/editorial-like context for locating the forecasting original; exact source type unverified, not promoted as primary methods evidence.",
+    "type_proxy": "review-context-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0784",
+    "six_question_judgments": {
+      "R1": "NO: no metric semantics",
+      "R2": "NO: no capture mechanism",
+      "R3": "YES-POSSIBLE: dynamic technology scope bounds transfer to other workloads",
+      "R4": "NO: methodology heading not repeat uncertainty",
+      "R5": "NO: technology comparison not matched methods",
+      "R6": "YES: dynamic web comparative design is direct evaluation prior work"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain dynamic-technology experimental comparison as R6 prior work; no agreement mapping from the word comparison.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0785",
+    "six_question_judgments": {
+      "R1": "YES: estimated above-the-fold perception versus metric/QoE models raises construct non-equivalence",
+      "R2": "NO: perception measurement not browser instrumentation",
+      "R3": "YES: subjective ATF perception bounds synthetic visual metric/user transfer",
+      "R4": "NO: experimental methodology not repeat uncertainty",
+      "R5": "NO: perception estimates not paired reference tools",
+      "R6": "YES: ATF perception study bounds visual evaluation contribution"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain prior subjective visual-construct research; no new human study proposed and perception is not timing ground truth.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R1"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0786",
+    "six_question_judgments": {
+      "R1": "NO: architecture not defined metric",
+      "R2": "NO: no observer mechanism",
+      "R3": "YES: explicit excluded design cases limit architecture-workload transfer",
+      "R4": "NO: experiment title not repeated uncertainty",
+      "R5": "NO: architecture comparison not agreement",
+      "R6": "YES: frontend architecture comparison is prior design/solution overlap"
+    },
+    "decision": "PENDING",
+    "routing_reason": "Individually retain architecture design/exclusion leads; candidate E-0524 identity and exact 2026 cutoff pending, no merge.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "PENDING",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0787",
+    "six_question_judgments": {
+      "R1": "NO: no operational metric",
+      "R2": "NO: no instrumentation",
+      "R3": "YES-POSSIBLE: distributed-system temporal prediction has system/time transfer limits",
+      "R4": "NO: good prediction quality is not repeated-run uncertainty",
+      "R5": "NO: forecast quality not reference agreement",
+      "R6": "YES: temporal turning-bands prediction is prior modeling approach"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain forecasting prior work; title/snippet do not supply precision, variance or an accuracy validation result usable here.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0788",
+    "six_question_judgments": {
+      "R1": "NO: server configuration not browser metric",
+      "R2": "NO: configuration factors are interventions, not observation effects",
+      "R3": "YES: wide-area/server factor scope limits controlled-localhost generalization",
+      "R4": "NO: eleven-factor OFAT not repeated uncertainty",
+      "R5": "NO: configuration effects not agreement",
+      "R6": "YES: eleven-factor OFAT design informs factor isolation and interaction omissions"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain controlled server-factor design; remove instrumentation inference from server configuration vocabulary.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R2"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0789",
+    "six_question_judgments": {
+      "R1": "YES: HTTP data-transfer throughput explicitly defines bounded performance construct, distinct from page UX",
+      "R2": "NO: measured throughput lacks capture/perturbation detail",
+      "R3": "YES: spatio-temporal throughput forecasts have vantage/time transfer limits",
+      "R4": "NO: simulation/prediction alone not repeated-run uncertainty",
+      "R5": "NO: forecast not reference agreement",
+      "R6": "YES: spatio-temporal modeling is prior evaluation context"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain HTTP-throughput construct and forecasting context; cited experimental-design work is not this source's own method evidence.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [
+      "R1",
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0790",
+    "six_question_judgments": {
+      "R1": "NO: backend performance not browser metric semantics",
+      "R2": "NO: deployment intervention not observer effect",
+      "R3": "YES: backend Google deployment bounds transfer to full page/runtime",
+      "R4": "NO: experimental design not uncertainty method",
+      "R5": "NO: HTTP-version comparison not agreement",
+      "R6": "YES: backend protocol-version factors inform controlled network/server fixtures"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain backend HTTP-version design analogue; cited web paper not proof of own browser measurements.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0791",
+    "six_question_judgments": {
+      "R1": "NO: p-value not browser metric",
+      "R2": "NO: no observer mechanism",
+      "R3": "NO: large scale alone not representative browser frame",
+      "R4": "NO: generic p-value uncertainty does not specify repeated performance measurement assumptions",
+      "R5": "NO: experiments versus other approaches not method agreement",
+      "R6": "YES: controlled-experiment cost and design assumptions transfer to finite factor planning"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain online experimental design context; do not endorse near-perfect-information rhetoric or infer a repeated-run estimator.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0792",
+    "six_question_judgments": {
+      "R1": "NO: seeking task not runtime semantics",
+      "R2": "NO: overhead reduction assertion not observer analysis",
+      "R3": "YES: student navigation behavior bounds fixed-journey/user transfer",
+      "R4": "NO: dependent data/design alone not repeated uncertainty",
+      "R5": "NO: UI approaches not matched methods",
+      "R6": "YES: navigation-cue intervention can inform independently specified safe journeys"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain prior student UI experiment solely as interaction-design/transfer context; no new human collection or browser validation.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0793",
+    "six_question_judgments": {
+      "R1": "NO: no operational browser metric",
+      "R2": "NO: cache policy not capture overhead",
+      "R3": "YES-POSSIBLE: cache replacement changes workload state; frame details unknown",
+      "R4": "NO: optimization statement not repeated uncertainty",
+      "R5": "NO: cache policy comparison not agreement",
+      "R6": "YES: cache-policy optimization is relevant state-control/solution context"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Advance cache policy lead with bounded network/state transfer; snippet does not state corpus, experiment or performance result.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0794",
+    "six_question_judgments": {
+      "R1": "NO: energy not equivalent to browser metric",
+      "R2": "NO: front-end optimization not observer analysis",
+      "R3": "YES: image/script/cache/CDN cases delimit front-end workload coverage",
+      "R4": "NO: measuring impact does not establish repeat uncertainty",
+      "R5": "NO: optimization effects not reference agreement",
+      "R6": "YES: independent front-end interventions inform four-category fixture design"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain energy/design work for specific workload interventions only; no energy-carbon-profiler equivalence or experimental statistics inferred.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0795",
+    "six_question_judgments": {
+      "R1": "NO: forecast accuracy not browser metric definition",
+      "R2": "NO: no observer mechanism",
+      "R3": "YES: network characteristics and geospatial forecasts raise vantage transfer limits",
+      "R4": "NO: prediction accuracy not repeat uncertainty",
+      "R5": "NO: forecast accuracy is not matched-tool agreement",
+      "R6": "YES: network sensitivity of forecasts bounds prior diagnostic approaches"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain spatial forecast/network-context lead; snippet's experimental-design citation supplies no own uncertainty analysis.",
+    "type_proxy": "chapter-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0796",
+    "six_question_judgments": {
+      "R1": "NO: no metric semantics",
+      "R2": "NO: cache behavior not observer perturbation",
+      "R3": "YES: skewed document access and proxy caching limit workload transfer",
+      "R4": "YES-POSSIBLE: temporal locality is a bounded dependence mechanism for sequential cache-state measurements, not an uncertainty estimator",
+      "R5": "NO: cache performance not instrument agreement",
+      "R6": "YES: locality mechanism informs workload ordering/state controls"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain explicit temporal-locality/cache mechanism for dependence and workload design; no browser repeatability finding or IID assertion.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0797",
+    "six_question_judgments": {
+      "R1": "NO: no metric definition",
+      "R2": "NO: OS support not instrumentation/observer analysis",
+      "R3": "YES: flow simulation and single-server assumption bound live-browser transfer",
+      "R4": "NO: full factorial design not repeat uncertainty",
+      "R5": "NO: network benefits not measurement agreement",
+      "R6": "YES: explicit full factorial network design informs crossed factors and assumption critique"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain socket-intent simulator as bounded design analogue; preprint authorization/version and single-server assumption require later checks.",
+    "type_proxy": "preprint-like",
+    "producer_mapping_changes": [
+      "R4"
+    ],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0798",
+    "six_question_judgments": {
+      "R1": "NO: no operational metric",
+      "R2": "NO: no capture mechanism",
+      "R3": "YES-POSSIBLE: dynamic technology benchmark bounds workload generalization",
+      "R4": "NO: methodology heading not repeated uncertainty",
+      "R5": "NO: technology benchmark not paired measurement methods",
+      "R6": "YES: benchmarking dynamic technologies is direct prior evaluation lead"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Independently retain dynamic technology benchmark. Similar E-0784 metadata is an unresolved identity question, never an automatic merge.",
+    "type_proxy": "conference-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  },
+  {
+    "occurrence_E_ID": "E-0799",
+    "six_question_judgments": {
+      "R1": "NO: search-task outcome not runtime semantics",
+      "R2": "NO: no observer mechanism",
+      "R3": "YES: age/link/clutter differences bound scripted-journey transfer to users",
+      "R4": "NO: outlier mention does not specify repeated browser uncertainty model",
+      "R5": "NO: age comparison not agreement",
+      "R6": "YES: independently varied link size/count/clutter inform interaction fixture factors"
+    },
+    "decision": "ADVANCE",
+    "routing_reason": "Retain existing human factors study as bounded task/population design context; no participant collection or runtime-validity claim.",
+    "type_proxy": "article-like",
+    "producer_mapping_changes": [],
+    "producer_decision": "ADVANCE",
+    "producer_original_field_mismatches": []
+  }
+]

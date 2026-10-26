@@ -1,0 +1,20 @@
+[
+  {
+    "occurrence_E_ID": "E-0725",
+    "pass": "separate-pass self-audit of original stored export",
+    "actual_original_fields_reread": {
+      "title": "Essentials of statistical methods for assessing reliability and agreement in quantitative imaging",
+      "entire_snippet": "… closeness of agreement between measured quantity values obtained by replicate measurements on … Bland and Altman introduced their graphical method comparison system in 1986. …",
+      "raw_metadata": "A Anvari, EF Halpern, AE Samir - Academic radiology, 2018 - Elsevier",
+      "year": "2018",
+      "date": "",
+      "language": "",
+      "source_platform": "Google Scholar",
+      "label": "",
+      "duplicate_annotation": "False",
+      "first_occurrence": "ScholarFinal_R5_start20:26"
+    },
+    "result": "checked-no-discrepancy",
+    "reason": "Reread independently supports only the bounded paired-replicate quantitative-imaging agreement-method lead; it does not establish browser applicability, source quality, exact date, language, identity, or full-text methods."
+  }
+]

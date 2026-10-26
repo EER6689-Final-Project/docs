@@ -1,0 +1,397 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:41:36.605968+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0409",
+      "event": "E-3585",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A multivariate hierarchical Bayesian approach to measuring agreement in repeated measurement method comparison studies",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "BACKGROUND: Assessing agreement in method comparison studies depends on two fundamentally important components; validity (the between method agreement) and reproducibility (the within method agreement). The Bland-Altman limits of agreement technique is one of the favoured approaches in medical literature for assessing between method validity. However, few researchers have adopted this approach for the assessment of both validity and reproducibility. This may be partly due to a lack of a flexible, easily implemented and readily available statistical machinery to analyse repeated measurement method comparison data. METHODS: Adopting the Bland-Altman framework, but using Bayesian methods, we present this statistical machinery. Two multivariate hierarchical Bayesian models are advocated, one which assumes that the underlying values for subjects remain static (exchangeable replicates) and one which assumes that the underlying values can change between repeated measurements (non-exchangeable replicates). RESULTS: We illustrate the salient advantages of these models using two separate datasets that have been previously analysed and presented; (i) assuming static underlying values analysed using both multivariate hierarchical Bayesian models, and (ii) assuming each subject's underlying value is continually changing quantity and analysed using the non-exchangeable replicate multivariate hierarchical Bayesian model. CONCLUSION: These easily implemented models allow for full parameter uncertainty, simultaneous method comparison, handle unbalanced or missing data, and provide estimates and credible regions for all the parameters of interest. Computer code for the analyses in also presented, provided in the freely available and currently cost free software package WinBUGS.",
+      "metadata": {
+        "publication_year": "2009",
+        "publication_date": "2009-01-22",
+        "language": "en",
+        "doi": "https://doi.org/10.1186/1471-2288-9-6",
+        "platform_record_id": "https://openalex.org/W2076792246",
+        "record_url": "https://openalex.org/W2076792246",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1186/1471-2288-9-6\", \"publication_year\": 2009, \"publication_date\": \"2009-01-22\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Philip J. Schlüter\"], \"venue\": \"BMC Medical Research Methodology\", \"openalex_id\": \"https://openalex.org/W2076792246\", \"landing_page_url\": \"https://doi.org/10.1186/1471-2288-9-6\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "10",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e123e93fcd93a63438915d5e50d86ef0b95f2be10813d71735f5034ed319d4f1"
+    },
+    {
+      "target": "E-0410",
+      "event": "E-3586",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating Agreement Among Multiple Methods With Replicated Measurements Using Scale Mixtures of Skew‐Normal Measurement Error Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "This paper introduces a robust parametric approach for assessing the agreement among multiple measurement methods when dealing with replicated data from a continuous variable. Many existing methodologies in the literature rely heavily on the normality assumption and often employ mixed‐effects models. However, in practical scenarios, these assumptions may not hold true due to the presence of skewness and heavy‐tailed distributions. Additionally, inherent measurement errors can further complicate the use of mixed‐effects models. To overcome these issues, we propose a multivariate measurement error model that assumes scale mixtures of skew‐normal distributions for the unobserved true covariates and scale mixtures of normal distributions for the errors. This formulation flexibly accommodates both skewness and heavy‐tailed characteristics within the data, allowing for different degrees of freedom for the true covariate and error distributions. An expectation‐conditional‐maximization algorithm is developed to estimate the parameters of this novel model. Furthermore, we employ the concept of the probability of agreement to evaluate agreement among the various pairs of measurement methods. To validate the efficacy of our proposed model, we conducted extensive simulation studies involving various sample sizes (50, 100, and 200) and varying skewness parameters (1, 5, and 10). Moreover, we demonstrate the practical applicability of our methodology by applying it to real tumor data. Our findings conclusively demonstrate the effectiveness of the proposed model in the analysis of replicated method comparison data across multiple methods, particularly in situations involving measurement errors, skewness, and heavy‐tailed distributions.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1155/jpas/7140304",
+        "platform_record_id": "https://openalex.org/W7155908686",
+        "record_url": "https://openalex.org/W7155908686",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1155/jpas/7140304\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Jeevana Duwarahan\", \"Lakshika S. Nawarathna\"], \"venue\": \"Journal of Probability and Statistics\", \"openalex_id\": \"https://openalex.org/W7155908686\", \"landing_page_url\": \"https://doi.org/10.1155/jpas/7140304\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "11",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4ee4c5d9619f7b8a96694cf18e57c8365c369b1c4b2aa0d1692ec9dccce9e80e"
+    },
+    {
+      "target": "E-0411",
+      "event": "E-3587",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Comparison of measurement methods with a mixed effects procedure accounting for replicated evaluations (COM3PARE): method comparison algorithm implementation for head and neck IGRT positional verification",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "PURPOSE: Comparison of imaging measurement devices in the absence of a gold-standard comparator remains a vexing problem; especially in scenarios where multiple, non-paired, replicated measurements occur, as in image-guided radiotherapy (IGRT). As the number of commercially available IGRT presents a challenge to determine whether different IGRT methods may be used interchangeably, an unmet need conceptually parsimonious and statistically robust method to evaluate the agreement between two methods with replicated observations. Consequently, we sought to determine, using an previously reported head and neck positional verification dataset, the feasibility and utility of a Comparison of Measurement Methods with the Mixed Effects Procedure Accounting for Replicated Evaluations (COM3PARE), a unified conceptual schema and analytic algorithm based upon Roy's linear mixed effects (LME) model with Kronecker product covariance structure in a doubly multivariate set-up, for IGRT method comparison. METHODS: An anonymized dataset consisting of 100 paired coordinate (X/ measurements from a sequential series of head and neck cancer patients imaged near-simultaneously with cone beam CT (CBCT) and kilovoltage X-ray (KVX) imaging was used for model implementation. Software-suggested CBCT and KVX shifts for the lateral (X), vertical (Y) and longitudinal (Z) dimensions were evaluated for bias, inter-method (between-subject variation), intra-method (within-subject variation), and overall agreement using with a script implementing COM3PARE with the MIXED procedure of the statistical software package SAS (SAS Institute, Cary, NC, USA). RESULTS: COM3PARE showed statistically significant bias agreement and difference in inter-method between CBCT and KVX was observed in the Z-axis (both p - value<0.01). Intra-method and overall agreement differences were noted as statistically significant for both the X- and Z-axes (all p - value<0.01). Using pre-specified criteria, based on intra-method agreement, CBCT was deemed preferable for X-axis positional verification, with KVX preferred for superoinferior alignment. CONCLUSIONS: The COM3PARE methodology was validated as feasible and useful in this pilot head and neck cancer positional verification dataset. COM3PARE represents a flexible and robust standardized analytic methodology for IGRT comparison. The implemented SAS script is included to encourage other groups to implement COM3PARE in other anatomic sites or IGRT platforms.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-08-26",
+        "language": "en",
+        "doi": "https://doi.org/10.1186/s12880-015-0074-z",
+        "platform_record_id": "https://openalex.org/W2131926233",
+        "record_url": "https://openalex.org/W2131926233",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1186/s12880-015-0074-z\", \"publication_year\": 2015, \"publication_date\": \"2015-08-26\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Anuradha Roy\", \"Clifton David Fuller\", \"David I. Rosenthal\", \"Charles R. Thomas\"], \"venue\": \"BMC Medical Imaging\", \"openalex_id\": \"https://openalex.org/W2131926233\", \"landing_page_url\": \"https://doi.org/10.1186/s12880-015-0074-z\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "12",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "903aac5c54e74ad62902d9eb5ffce5982f0fc151af7b534d9e96f8ba424ed0da"
+    },
+    {
+      "target": "E-0412",
+      "event": "E-3588",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Flexible Method Comparison with the Probability of Agreement",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The comparison of methods of measurement is a common problem in clinical practice; as novel methods are developed, establishing their agreement with existing methods is crucial. The probability of agreement (PoA) has previously been proposed as an intuitive and informative means of assessing agreement between two methods of measurement. It straightforwardly quantifies the likelihood that two measurements by different methods on the same subject are clinically indistinguishable. In this paper, we overhaul and extend the PoA methodology by developing an inference framework that relaxes several restrictive assumptions made in previous implementations, ultimately increasing its utility in a wider range of applications. We illustrate this more flexible methodology in an example that compares methods of measuring total Prostatic Specific Antigen (tPSA). And we thoroughly investigate its performance via simulation. This work dramatically increases the flexibility, availability, and hence impact of the PoA approach for method comparison.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-06-12",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2606.14921",
+        "platform_record_id": "https://openalex.org/W7164889362",
+        "record_url": "https://openalex.org/W7164889362",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2606.14921\", \"publication_year\": 2026, \"publication_date\": \"2026-06-12\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Nathaniel T. Stevens\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7164889362\", \"landing_page_url\": \"https://arxiv.org/abs/2606.14921\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "13",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "95d884cb7fe55846f41d1a9cefce812438446450bca2fe8d41b183758e646f5d"
+    },
+    {
+      "target": "E-0413",
+      "event": "E-3589",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Confidence interval estimation for the Bland–Altman limits of agreement with multiple observations per individual",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The limits of agreement (LoA) method proposed by Bland and Altman has become a standard for assessing agreement between different methods measuring the same quantity. Virtually, all method comparison studies have reported only point estimates of LoA due largely to the lack of simple confidence interval procedures. In this article, we address confidence interval estimation for LoA when multiple measurements per individual are available. Separate procedures are proposed for situations when the underlying true value of the measured quantity is assumed changing and when it is perceived as stable. A fixed number of replicates per individual is not needed for the procedures to work. As shown by the worked examples, the construction of these confidence intervals requires only quantiles from the standard normal and chi-square distributions. Simulation results show the proposed procedures perform well. A SAS macro implementing the methods is available on the publisher's website.",
+      "metadata": {
+        "publication_year": "2011",
+        "publication_date": "2011-06-24",
+        "language": "en",
+        "doi": "https://doi.org/10.1177/0962280211402548",
+        "platform_record_id": "https://openalex.org/W2171446894",
+        "record_url": "https://openalex.org/W2171446894",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1177/0962280211402548\", \"publication_year\": 2011, \"publication_date\": \"2011-06-24\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Guangyong Zou\"], \"venue\": \"Statistical Methods in Medical Research\", \"openalex_id\": \"https://openalex.org/W2171446894\", \"landing_page_url\": \"https://doi.org/10.1177/0962280211402548\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "14",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "17f5c9c35268693a3e7965c31cd98bc980f9c50512f49d91787b1df7cbde8c69"
+    },
+    {
+      "target": "E-0414",
+      "event": "E-3590",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Sample Size for Assessing Agreement between Two Methods of Measurement by Bland−Altman Method",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The Bland-Altman method has been widely used for assessing agreement between two methods of measurement. However, it remains unsolved about sample size estimation. We propose a new method of sample size estimation for Bland-Altman agreement assessment. According to the Bland-Altman method, the conclusion on agreement is made based on the width of the confidence interval for LOAs (limits of agreement) in comparison to predefined clinical agreement limit. Under the theory of statistical inference, the formulae of sample size estimation are derived, which depended on the pre-determined level of α, β, the mean and the standard deviation of differences between two measurements, and the predefined limits. With this new method, the sample sizes are calculated under different parameter settings which occur frequently in method comparison studies, and Monte-Carlo simulation is used to obtain the corresponding powers. The results of Monte-Carlo simulation showed that the achieved powers could coincide with the pre-determined level of powers, thus validating the correctness of the method. The method of sample size estimation can be applied in the Bland-Altman method to assess agreement between two methods of measurement.",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-11-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1515/ijb-2015-0039",
+        "platform_record_id": "https://openalex.org/W2556912902",
+        "record_url": "https://openalex.org/W2556912902",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1515/ijb-2015-0039\", \"publication_year\": 2016, \"publication_date\": \"2016-11-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Mengjie Lu\", \"Wei-Hua Zhong\", \"Yuxiu Liu\", \"Huazhang Miao\", \"Yongchang Li\", \"Mu‐Huo Ji\"], \"venue\": \"The International Journal of Biostatistics\", \"openalex_id\": \"https://openalex.org/W2556912902\", \"landing_page_url\": \"https://doi.org/10.1515/ijb-2015-0039\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "15",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "044e1e07f0740ae1613226ed5daacf48456bc171e7d7abc0391e71f915e31a94"
+    },
+    {
+      "target": "E-0415",
+      "event": "E-3591",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A tolerance interval approach for assessment of agreement in method comparison studies with repeated measurements",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2007",
+        "publication_date": "2007-05-19",
+        "language": "en",
+        "doi": "https://doi.org/10.1016/j.jspi.2007.03.056",
+        "platform_record_id": "https://openalex.org/W1963778469",
+        "record_url": "https://openalex.org/W1963778469",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1016/j.jspi.2007.03.056\", \"publication_year\": 2007, \"publication_date\": \"2007-05-19\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Pankaj K. Choudhary\"], \"venue\": \"Journal of Statistical Planning and Inference\", \"openalex_id\": \"https://openalex.org/W1963778469\", \"landing_page_url\": \"https://doi.org/10.1016/j.jspi.2007.03.056\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "16",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9f317e12c5f825bb6e12bdc123f93900a79f858e4a1a03bae7a03e4ab172e8e1"
+    },
+    {
+      "target": "E-0417",
+      "event": "E-3592",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A Unified Approach for Nonparametric Evaluation of Agreement in Method Comparison Studies",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We present a nonparametric methodology for evaluation of agreement between multiple methods of measurement of a continuous variable. Our approach is unified in that it can deal with any scalar measure of agreement currently available in the literature, and can incorporate repeated and unreplicated measurements, and balanced as well as unbalanced designs. Our key idea is to treat an agreement measure as a functional of the joint cumulative distribution function of the measurements from multiple methods. This measure is estimated nonparametrically by plugging-in a weighted empirical counterpart of the joint distribution function. The resulting estimator is shown to be asymptotically normal under some specified assumptions. A closed-form expression is provided for the asymptotic standard error of the estimator. This asymptotic normality is used to derive a large-sample distribution-free methodology for simultaneously comparing the multiple measurement methods. The small-sample performance of this methodology is investigated via simulation. The asymptotic efficiency of the proposed nonparametric estimator relative to the normality-based maximum likelihood estimator is also examined. The methodology is illustrated by applying it to a blood pressure data set involving repeated measurements from three measurement methods.",
+      "metadata": {
+        "publication_year": "2010",
+        "publication_date": "2010-06-08",
+        "language": "en",
+        "doi": "https://doi.org/10.2202/1557-4679.1235",
+        "platform_record_id": "https://openalex.org/W2158274220",
+        "record_url": "https://openalex.org/W2158274220",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2202/1557-4679.1235\", \"publication_year\": 2010, \"publication_date\": \"2010-06-08\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Pankaj K. Choudhary\"], \"venue\": \"The International Journal of Biostatistics\", \"openalex_id\": \"https://openalex.org/W2158274220\", \"landing_page_url\": \"https://doi.org/10.2202/1557-4679.1235\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "18",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "1256dd8c1c03701e5c560aec33e73dc1f0a9a5351066ad836a8e2b3caf34fb66"
+    },
+    {
+      "target": "E-0418",
+      "event": "E-3593",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Analyzing method comparison data with skew-normal measurement error models: incorporating generalized scale mixtures and varying degrees of freedom",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Comparing two measurement methods is vital in various fields, such as medical research, epidemiology, economics, and environmental studies, to determine whether a new measurement method can be used interchangeably with an existing one. Measurement error models (MEMs) are commonly used for this purpose, where the methods have different measuring scales. However, these models often assume normality, which can be problematic when dealing with skewed and heavy-tailed data. To address this issue, we propose the replicated measurement error model (RMEM) under scale mixtures of skew-normal (SMSN) distributions with different levels of skewness and heavy tails of the true covariate and error distributions. Our primary aim is to assess the extent of similarity and agreement between two measurement methods using this model. The expectation conditional maximization (ECM) approach is applied to fit the model. A simulation study is conducted to evaluate the effectiveness and robustness of the proposed methodology and is illustrated by analyzing systolic blood pressure data. The probability of agreement is used further to assess the agreement between the two measurement methods. The findings indicate that the proposed model effectively analyses replicated method comparison data with measurement errors, even when there are outliers, skewness, and heavy-tailedness.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-06-24",
+        "language": "en",
+        "doi": "https://doi.org/10.1080/03610918.2024.2366984",
+        "platform_record_id": "https://openalex.org/W4399968999",
+        "record_url": "https://openalex.org/W4399968999",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1080/03610918.2024.2366984\", \"publication_year\": 2024, \"publication_date\": \"2024-06-24\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Jeevana Duwarahan\", \"Lakshika S. Nawarathna\"], \"venue\": \"Communications in Statistics - Simulation and Computation\", \"openalex_id\": \"https://openalex.org/W4399968999\", \"landing_page_url\": \"https://doi.org/10.1080/03610918.2024.2366984\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "19",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "47c8ce0c56071e45e3e5c9896d02b18a970c4cf08cf5d5ae4dfc1d9355b70a0f"
+    },
+    {
+      "target": "E-0419",
+      "event": "E-3594",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Measurement of bacterial replication rates in microbial communities",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-11-07",
+        "language": "en",
+        "doi": "https://doi.org/10.1038/nbt.3704",
+        "platform_record_id": "https://openalex.org/W2550570544",
+        "record_url": "https://openalex.org/W2550570544",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1038/nbt.3704\", \"publication_year\": 2016, \"publication_date\": \"2016-11-07\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Christopher T. Brown\", \"Matthew R. Olm\", \"Brian C. Thomas\", \"Jillian F. Banfield\"], \"venue\": \"Nature Biotechnology\", \"openalex_id\": \"https://openalex.org/W2550570544\", \"landing_page_url\": \"https://doi.org/10.1038/nbt.3704\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3f1f450096c5f77777b77e864f26d63562db6a2e5078e4bd972502fe433d9568"
+    },
+    {
+      "target": "E-0420",
+      "event": "E-3595",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Overall Agreement for Multiple Raters with Replicated Measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Multiple raters are often needed to be used interchangeably in practice for measurement or evaluation. Assessing agreement among these multiple raters via agreement indices are necessary before their participation. While the intuitively appealing agreement indices such as coverage probability and total deviation index, and relative area under coverage probability curve, have been extended for assessing overall agreement among multiple raters, these extensions have limitations. The existing overall agreement indices either require normality and homogeneity assumptions or did not preserve the intuitive interpretation of the indices originally defined for two raters. In this paper, we propose a new set of overall agreement indices based on maximum pairwise differences among all raters. The proposed new overall coverage probability, overall total deviation index and relative area under overall coverage probability curve retain the original intuitive interpretation from the pairwise version. Without making any distributional assumption, we also propose a new unified nonparametric estimation and inference approach for the overall indices based on generalized estimating equations that can accommodate replications made by the same rater. Under mild assumptions, the proposed variance estimator is shown to achieve efficiency bound under independent working correlation matrix. Simulation studies under different scenarios are conducted to assess the performance of the proposed estimation and inference approach with and without replications. We illustrate the methodology by using a blood pressure data with three raters who made three replications on each subjects.",
+      "metadata": {
+        "publication_year": "2020",
+        "publication_date": "2020-06-07",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2006.04220",
+        "platform_record_id": "https://openalex.org/W3033034034",
+        "record_url": "https://openalex.org/W3033034034",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2006.04220\", \"publication_year\": 2020, \"publication_date\": \"2020-06-07\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Tongrong Wang\", \"Huiman Xie Barnhart\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W3033034034\", \"landing_page_url\": \"http://arxiv.org/abs/2006.04220\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "21",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3557b933e912be9759d14ebba4f3a1755746cff0fefa471bddef87ee79396369"
+    },
+    {
+      "target": "E-0424",
+      "event": "E-3596",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Comparing and predicting between several methods of measurement",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "In studies designed to compare different methods of measurement where more than two methods are compared or replicate measurements by each method are available, standard statistical approaches such as computation of limits of agreement are not directly applicable. A model is presented for comparing several methods of measurement in the situation where replicate measurements by each method are available. Measurements are viewed as classified by method, subject and replicate. Models assuming exchangeable as well as non-exchangeable replicates are considered. A fitting algorithm is presented that allows the estimation of linear relationships between methods as well as relevant variance components. The algorithm only uses methods already implemented in most statistical software.",
+      "metadata": {
+        "publication_year": "2004",
+        "publication_date": "2004-06-18",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/biostatistics/5.3.399",
+        "platform_record_id": "https://openalex.org/W2154703097",
+        "record_url": "https://openalex.org/W2154703097",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/biostatistics/5.3.399\", \"publication_year\": 2004, \"publication_date\": \"2004-06-18\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"B. Carstensen\"], \"venue\": \"Biostatistics\", \"openalex_id\": \"https://openalex.org/W2154703097\", \"landing_page_url\": \"https://doi.org/10.1093/biostatistics/5.3.399\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "25",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "daf390183b7371ced394ab4d4e5c763038f38edbb4289a59a1acb969358a26e3"
+    },
+    {
+      "target": "E-0425",
+      "event": "E-3597",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A comparison of body composition measurement techniques",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "BACKGROUND: An understanding of the reproducibility of body composition measurements is essential for effective intervention studies. Air displacement plethysmography (ADP) and bioelectrical impedance (BIA) are two easy-to-use measures of body composition. The present study aimed to assess the reproducibility of ADP and BIA and compare them with each other, as well as with skinfold measurement. METHODS: Forty-one participants were tested on two occasions following an overnight fast. On test day 1, participants' height, weight and % body fat (BF) were measured using ADP and BIA. Measurements were replicated to assess the within-day reproducibility. On test day 2, participants were again tested using ADP and BIA and had skinfold measurements taken. Three skinfold equations for BF calculation were applied. Comparisons of within- and between-day reproducibility and between measurement techniques were completed using Pearson correlations and Bland-Altman analysis. RESULTS: Both Pearson correlation and Bland-Altman analysis showed good within- and between-day relationships and agreement for BF from ADP and BIA measurements. The two methods had a high correlation between them; however, the mean difference between the two was 3.1% (4.1%). From the skinfold equations used, the best agreement with ADP had a mean difference of 0.3% (0.8%) and, with BIA, had mean differences of 1.9% (4.2%). CONCLUSIONS: The data indicate that ADP and BIA cannot be used interchangeably, although both measurements had good within- and between-day agreement.",
+      "metadata": {
+        "publication_year": "2014",
+        "publication_date": "2014-01-06",
+        "language": "en",
+        "doi": "https://doi.org/10.1111/jhn.12197",
+        "platform_record_id": "https://openalex.org/W2067610613",
+        "record_url": "https://openalex.org/W2067610613",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1111/jhn.12197\", \"publication_year\": 2014, \"publication_date\": \"2014-01-06\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Sarah E. Hillier\", \"L. Beck\", \"A. Petropoulou\", \"Miriam Clegg\"], \"venue\": \"Journal of Human Nutrition and Dietetics\", \"openalex_id\": \"https://openalex.org/W2067610613\", \"landing_page_url\": \"https://doi.org/10.1111/jhn.12197\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "26",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d0f9b6d94b0fda80d45ae128b792ecfda6a4c7257b1a12540fc493ac5bbc9100"
+    },
+    {
+      "target": "E-0426",
+      "event": "E-3598",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Bayesian hierarchical clustering for microarray time series data with replicates and outlier measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "BACKGROUND: Post-genomic molecular biology has resulted in an explosion of data, providing measurements for large numbers of genes, proteins and metabolites. Time series experiments have become increasingly common, necessitating the development of novel analysis tools that capture the resulting data structure. Outlier measurements at one or more time points present a significant challenge, while potentially valuable replicate information is often ignored by existing techniques. RESULTS: We present a generative model-based Bayesian hierarchical clustering algorithm for microarray time series that employs Gaussian process regression to capture the structure of the data. By using a mixture model likelihood, our method permits a small proportion of the data to be modelled as outlier measurements, and adopts an empirical Bayes approach which uses replicate observations to inform a prior distribution of the noise variance. The method automatically learns the optimum number of clusters and can incorporate non-uniformly sampled time points. Using a wide variety of experimental data sets, we show that our algorithm consistently yields higher quality and more biologically meaningful clusters than current state-of-the-art methodologies. We highlight the importance of modelling outlier values by demonstrating that noisy genes can be grouped with other genes of similar biological function. We demonstrate the importance of including replicate information, which we find enables the discrimination of additional distinct expression profiles. CONCLUSIONS: By incorporating outlier measurements and replicate values, this clustering algorithm for time series microarray data provides a step towards a better treatment of the noise inherent in measurements from high-throughput genomic technologies. Timeseries BHC is available as part of the R package 'BHC' (version 1.5), which is available for download from Bioconductor (version 2.9 and above) via http://www.bioconductor.org/packages/release/bioc/html/BHC.html?pagewanted=all.",
+      "metadata": {
+        "publication_year": "2011",
+        "publication_date": "2011-10-13",
+        "language": "en",
+        "doi": "https://doi.org/10.1186/1471-2105-12-399",
+        "platform_record_id": "https://openalex.org/W2151808499",
+        "record_url": "https://openalex.org/W2151808499",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1186/1471-2105-12-399\", \"publication_year\": 2011, \"publication_date\": \"2011-10-13\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Emma J. Cooke\", \"Richard S. Savage\", \"Paul Kirk\", \"Robert Darkins\", \"David L. Wild\"], \"venue\": \"BMC Bioinformatics\", \"openalex_id\": \"https://openalex.org/W2151808499\", \"landing_page_url\": \"https://doi.org/10.1186/1471-2105-12-399\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "27",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "7b0f19f915bb2560680f16e126c29d17637d0181536cf228d8b40a54c7c092b6"
+    },
+    {
+      "target": "E-0427",
+      "event": "E-3599",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "MethComp: Analysis of Agreement in Method Comparison Studies",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Methods (standard and advanced) for analysis of agreement between measurement methods. These cover Bland-Altman plots, Deming regression, Lin's Total deviation index, and difference-on-average regression. See Carstensen B. (2010) \"Comparing Clinical Measurement Methods: A Practical Guide (Statistics in Practice)\" <doi:10.1002/9780470683019> for more information.",
+      "metadata": {
+        "publication_year": "2011",
+        "publication_date": "2011-02-18",
+        "language": "en",
+        "doi": "https://doi.org/10.32614/cran.package.methcomp",
+        "platform_record_id": "https://openalex.org/W4399534149",
+        "record_url": "https://openalex.org/W4399534149",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.32614/cran.package.methcomp\", \"publication_year\": 2011, \"publication_date\": \"2011-02-18\", \"type\": \"dataset\", \"language\": \"en\", \"authorships\": [\"Bendix Carstensen\", \"Lyle C. Gurrin\", \"Claus Thorn Ekstrøm\", \"Michal Figurski\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W4399534149\", \"landing_page_url\": \"https://doi.org/10.32614/cran.package.methcomp\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "53e1730380b580732ff2ea8b8e04e0b533334a26dbee77a18ea6027b455ea218"
+    }
+  ]
+}

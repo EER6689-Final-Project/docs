@@ -1,0 +1,15 @@
+{
+  "batch": "Scholar Batch4",
+  "status": "INCOMPLETE; do not aggregate or promote",
+  "target_count": 100,
+  "target_ids_sha256": "43da66952d775af7f98af26c24e27e15dd2b63514d1c25cee248c0d80e620deb",
+  "overlay_count": 100,
+  "overlay_sha256": "eb9c8a9f58b6b12ac080c30d6c1ffc8260033a41fa9fd332d4dffafc92146221",
+  "reviewed_judgments": 0,
+  "pending": 100,
+  "fulltext_reads": 0,
+  "source_group_QA": "NOT FROZEN/NOT RUN",
+  "exclusions": "none proposed; none QA-checked",
+  "citation_pass": "NOT RUN",
+  "scope": "E-0700\u2013E-0799 only; no shared/root/library/stage writes"
+}

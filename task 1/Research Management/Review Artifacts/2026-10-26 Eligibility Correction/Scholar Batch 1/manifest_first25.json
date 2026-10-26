@@ -1,0 +1,33 @@
+{
+  "batch": "Scholar Batch 1 first 25 overlay",
+  "freeze_manifest": "../freeze_manifest.json (unchanged; original first-100 prospective freeze)",
+  "queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "target_range": "E-0500\u2013E-0524",
+  "event_range": "E-2500\u2013E-2524",
+  "counts": {
+    "ADVANCE": 18,
+    "PENDING": 6,
+    "X3": 1
+  },
+  "reviewed": 25,
+  "unreviewed_in_frozen100": 75,
+  "reviewer": "AI self-review; no independent human reviewer",
+  "files": {
+    "overlay_first25.csv": {
+      "sha256": "95f1709682e07c6225afb36f870c936da5ec680c64bdc99fc9147c31366815a5",
+      "bytes": 37572
+    },
+    "qc_freeze_first25.json": {
+      "sha256": "20c929177afa7dc3478f4a818a6ae2611d04829fd960fdd0531cdc315c7e36a7",
+      "bytes": 1594
+    },
+    "qc_results_first25.json": {
+      "sha256": "b908f4c19d3ef4e4c6e38a7ac4971fd3a11bf855be9b20528d21f59aa8bccea8",
+      "bytes": 4560
+    },
+    "handoff_first25.md": {
+      "sha256": "6c70e0e8963ab8333d9df0a3e7bb9104a42e0fbfe1ca764ac6880c4d046e811b",
+      "bytes": 2052
+    }
+  }
+}

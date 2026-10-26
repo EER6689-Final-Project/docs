@@ -1,0 +1,14 @@
+{
+  "batch": "Scholar Batch5",
+  "scope": "E-0800–E-0899; source CSV positions 601–700",
+  "frozen_local_date": "2026-10-26",
+  "protocol": "ERP-2026-10-25-v1.0; cutoff 2026-10-25 inclusive",
+  "source": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "source_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "source_bytes": 2286727,
+  "scope_count": 100,
+  "scope_IDs": ["E-0800", "E-0899"],
+  "source_positions_1based": [601, 700],
+  "freeze_note": "Prospective batch boundary and input bytes recorded before disposition. Original queue remains unchanged.",
+  "review_status": "NOT COMPLETE: all 100 stored titles and complete Scholar snippets were read in this session, but itemwise six-question judgements, source-type/date checks, and rationale overlay were not durably completed. No decisions or counts may be inferred from this freeze."
+}

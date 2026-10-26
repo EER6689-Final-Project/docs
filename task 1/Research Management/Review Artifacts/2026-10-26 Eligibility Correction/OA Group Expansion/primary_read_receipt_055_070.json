@@ -1,0 +1,400 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:39:41.584002+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0366",
+      "event": "E-3555",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R3;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarks for Model Validation based on LiDAR Wake Measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Technology development and design decisions in wind energy are often based on results from simulations performed for individual wind turbines or entire wind plants. It is therefore critical to ensure that the models being used for research and industry applications in wind energy be thoroughly validated against measurements. A full-system validation of wind plant simulations must consider the atmospheric inflow, the response of the wind turbines, and their wakes. This task is complicated by the lack of freely available, quality-controlled, high-quality measurements. Here, such measurements are used to offer a validation exercise that can be used to assess the accuracy of models of any fidelity level. When it comes to real-world measurements, the dataset considered herein is simple in terms of terrain but exhibits pronounced diurnal cycles. Instead of a full-scale wind plant, we consider an individual research-scale, utility wind turbine instrumented for power and loads measurements. Three benchmarks are defined, with increasing levels of complexity: near neutral, slightly unstable, and very stable atmospheric stratification. Through comparisons between observations and simulations, the benchmarks provide complementary information about the model performance and its ability to reproduce mean and dynamic wake characteristics. This article describes the measurements and methodology used to define these benchmarks and provides the information required to perform simulations and conduct the model-measurement comparison. The objective is to provide a robust wake model validation exercise open to anyone, which will serve to minimize uncertainty in model validation practices related to varying methodologies across simulation tools and users.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-07-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/1742-6596/1256/1/012024",
+        "platform_record_id": "https://openalex.org/W2963725376",
+        "record_url": "https://openalex.org/W2963725376",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/1742-6596/1256/1/012024\", \"publication_year\": 2019, \"publication_date\": \"2019-07-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Paula Doubrawa\", \"Mithu Debnath\", \"Patrick Moriarty\", \"Emmanuel Branlard\", \"Tommy Herges\", \"David Maniaci\", \"Brian Naughton\"], \"venue\": \"Journal of Physics Conference Series\", \"openalex_id\": \"https://openalex.org/W2963725376\", \"landing_page_url\": \"https://doi.org/10.1088/1742-6596/1256/1/012024\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "17",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a4e303c705a4e44aa95f274fdef06cbe4b5770942864f6b5c87c7e6945b36796"
+    },
+    {
+      "target": "E-0367",
+      "event": "E-3556",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Templates of expected measurement uncertainties",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The covariance committee of CSEWG (Cross Section Evaluation Working Group) established templates of expected measurement uncertainties for neutron-induced total, (n,γ), neutron-induced charged-particle, and (n,xn) reaction cross sections as well as prompt fission neutron spectra, average prompt and total fission neutron multiplicities, and fission yields. Templates provide a list of what uncertainty sources are expected for each measurement type and observable, and suggest typical ranges of these uncertainties and correlations based on a survey of experimental data, associated literature, and feedback from experimenters. Information needed to faithfully include the experimental data in the nuclear-data evaluation process is also provided. These templates could assist (a) experimenters and EXFOR compilers in delivering more complete uncertainties and measurement information relevant for evaluations of new experimental data, and (b) evaluators in achieving a more comprehensive uncertainty quantification for evaluation purposes. This effort might ultimately lead to more realistic evaluated covariances for nuclear-data applications. In this topical issue, we cover the templates coming out of this CSEWG effort–typically, one observable per paper. This paper here prefaces this topical issue by introducing the concept and mathematical framework of templates, discussing potential use cases, and giving an example of how they can be applied (estimating missing experimental uncertainties of 235U(n,f) average prompt fission neutron multiplicities), and their impact on nuclear-data evaluations.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1051/epjn/2023014",
+        "platform_record_id": "https://openalex.org/W4385752376",
+        "record_url": "https://openalex.org/W4385752376",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1051/epjn/2023014\", \"publication_year\": 2023, \"publication_date\": \"2023-01-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Denise Neudecker\", \"Amanda M. Lewis\", \"Eric Francis Matthews\", \"J. R. Vanhoy\", \"Robert C. Haight\", \"Donald L. Smith\", \"Patrick Talou\", \"S. Croft\", \"Allan D. Carlson\", \"Bruce Pierson\", \"Anton Wallner\", \"Ali Al-Adili\", \"L. A. Bernstein\", \"R. Capote\", \"Matthew Devlin\", \"M. Drosg\", \"Dana L. Duke\", \"S. W. Finch\", \"Michal W. Herman\", \"Keegan J. Kelly\", \"Arjan J. KONING\", \"Amy Elizabeth Lovell\", \"P. Marini\", \"Kristina Montoya\", \"Gustavo P. A. Nobre\", \"Mark W. Paris\", \"Boris Pritychenko\", \"Henrik Sjöstrand\", \"L. Snyder\", \"Vladimir Sobes\", \"A. Solders\", \"Julien Taieb\"], \"venue\": \"EPJ Nuclear Sciences & Technologies\", \"openalex_id\": \"https://openalex.org/W4385752376\", \"landing_page_url\": \"https://doi.org/10.1051/epjn/2023014\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "18",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3950daa8d970fa95e1a399dde2bd91f717b002cdbd1a4cb6ab0d8da49959b93f"
+    },
+    {
+      "target": "E-0368",
+      "event": "E-3557",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Data-Driven Benchmarking of Building Energy Efficiency Utilizing Statistical Frontier Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Frontier methods quantify the energy efficiency of buildings by forming an efficient frontier (best-practice technology) and by comparing all buildings against that frontier. Because energy consumption fluctuates over time, the efficiency scores are stochastic random variables. Existing applications of frontier methods in energy efficiency either treat efficiency scores as deterministic values or estimate their uncertainty by resampling from one set of measurements. Availability of smart meter data (repeated measurements of energy consumption of buildings) enables using actual data to estimate the uncertainty in efficiency scores. Additionally, existing applications assume a linear form for an efficient frontier; i.e., they assume that the best-practice technology scales up and down proportionally with building characteristics. However, previous research shows that buildings are nonlinear systems. This paper proposes a statistical method called stochastic energy efficiency frontier (SEEF) to estimate a bias-corrected efficiency score and its confidence intervals from measured data. The paper proposes an algorithm to specify the functional form of the frontier, identify the probability distribution of the efficiency score of each building using measured data, and rank buildings based on their energy efficiency. To illustrate the power of SEEF, this paper presents the results from applying SEEF on a smart meter data set of 307 residential buildings in the United States. SEEF efficiency scores are used to rank individual buildings based on energy efficiency, to compare subpopulations of buildings, and to identify irregular behavior of buildings across different time-of-use periods. SEEF is an improvement to the energy-intensity method (comparing k·Wh/sq.ft.): whereas SEEF identifies efficient buildings across the entire spectrum of building sizes, the energy-intensity method showed bias toward smaller buildings. The results of this research are expected to assist researchers and practitioners compare and rank (i.e., benchmark) buildings more robustly and over a wider range of building types and sizes. Eventually, doing so is expected to result in improved resource allocation in energy-efficiency programs.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-05-16",
+        "language": "en",
+        "doi": "https://doi.org/10.1061/(asce)cp.1943-5487.0000327",
+        "platform_record_id": "https://openalex.org/W2092137585",
+        "record_url": "https://openalex.org/W2092137585",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1061/(asce)cp.1943-5487.0000327\", \"publication_year\": 2013, \"publication_date\": \"2013-05-16\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Amir Kavousian\", \"Ram Rajagopal\"], \"venue\": \"Journal of Computing in Civil Engineering\", \"openalex_id\": \"https://openalex.org/W2092137585\", \"landing_page_url\": \"https://doi.org/10.1061/(asce)cp.1943-5487.0000327\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "19",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "08cd999258c44a13e0008daadab93c6e3faebac48196f515ef443ed43e440282"
+    },
+    {
+      "target": "E-0369",
+      "event": "E-3558",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "FairlyUncertain: A Comprehensive Benchmark of Uncertainty in Algorithmic Fairness",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Fair predictive algorithms hinge on both equality and trust, yet inherent uncertainty in real-world data challenges our ability to make consistent, fair, and calibrated decisions. While fairly managing predictive error has been extensively explored, some recent work has begun to address the challenge of fairly accounting for irreducible prediction uncertainty. However, a clear taxonomy and well-specified objectives for integrating uncertainty into fairness remains undefined. We address this gap by introducing FairlyUncertain, an axiomatic benchmark for evaluating uncertainty estimates in fairness. Our benchmark posits that fair predictive uncertainty estimates should be consistent across learning pipelines and calibrated to observed randomness. Through extensive experiments on ten popular fairness datasets, our evaluation reveals: (1) A theoretically justified and simple method for estimating uncertainty in binary settings is more consistent and calibrated than prior work; (2) Abstaining from binary predictions, even with improved uncertainty estimates, reduces error but does not alleviate outcome imbalances between demographic groups; (3) Incorporating consistent and calibrated uncertainty estimates in regression tasks improves fairness without any explicit fairness interventions. Additionally, our benchmark package is designed to be extensible and open-source, to grow with the field. By providing a standardized framework for assessing the interplay between uncertainty and fairness, FairlyUncertain paves the way for more equitable and trustworthy machine learning practices.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-10-02",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2410.02005",
+        "platform_record_id": "https://openalex.org/W4403854152",
+        "record_url": "https://openalex.org/W4403854152",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2410.02005\", \"publication_year\": 2024, \"publication_date\": \"2024-10-02\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Lucas Rosenblatt\", \"R. Teal Witter\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4403854152\", \"landing_page_url\": \"http://arxiv.org/abs/2410.02005\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "77755cc119c960f1da7c4427e15daf072af45fa50b1b4cb61a1749f07e87e21e"
+    },
+    {
+      "target": "E-0373",
+      "event": "E-3559",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "On challenges in the uncertainty evaluation for time-dependent measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract The measurement of quantities with time-dependent values is a common task in many areas of metrology. Although well established techniques are available for the analysis of such measurements, serious scientific challenges remain to be solved to enable their routine use in metrology. In this paper we focus on the challenge of estimating a time-dependent measurand when the relationship between the value of the measurand and the indication is modeled by a convolution. Mathematically, deconvolution is an ill-posed inverse problem, requiring regularization to stabilize the inversion in the presence of noise. We present and discuss deconvolution in three practical applications: thrust-balance, ultra-fast sampling oscilloscopes and hydrophones. Each case study takes a different approach to modeling the convolution process and regularizing its inversion. Critically, all three examples lack the assignment of an uncertainty to the influence of the regularization on the estimation accuracy. This is a grand challenge for dynamic metrology, for which to date no generic solution exists. The case studies presented here cover a wide range of time scales and prior knowledge about the measurand, and they can thus serve as starting points for future developments in metrology. The aim of this work is to present the case studies and demonstrate the challenges they pose for metrology.",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-06-14",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/0026-1394/53/4/s125",
+        "platform_record_id": "https://openalex.org/W2438148097",
+        "record_url": "https://openalex.org/W2438148097",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/0026-1394/53/4/s125\", \"publication_year\": 2016, \"publication_date\": \"2016-06-14\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Sascha Eichstädt\", \"Volker Wilkens\", \"Andrew Dienstfrey\", \"P Hale\", \"Ben Hughes\", \"C Jarvis\"], \"venue\": \"Metrologia\", \"openalex_id\": \"https://openalex.org/W2438148097\", \"landing_page_url\": \"https://doi.org/10.1088/0026-1394/53/4/s125\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "24",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "0adf32fbf6b2cb6b3c8d5510f9ba14653aadd5f751a5da492757ed7562c6e191"
+    },
+    {
+      "target": "E-0374",
+      "event": "E-3560",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "There Is No Measurement Error in Biology",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Measurement error is usually construed as the deviation from a true value. But measurement in organismal biology typically is a complex, multi-step process, and living systems are dynamic and spatially heterogeneous, often hindering a unique definition of a measurand. Thus, a single true value of an organismal measurement, independent of a specific measurement process, does not exist, which also invalidates the classic realist notion of measurement error. Instead, I advocate an instrumentalist view of measurement that shifts the focus away from an unmeasurable true value toward the practical question of which biological, technical, and experimental factors influence measurement outcomes. I propose to include non-biological factors, such as different measurement environments and devices, observers, and the sequence of measurement, as technical covariates in biometric models. I present a simple least squares implementation for estimating mean effects and differences in variance while correcting for such “attributable” measurement effects. Repeated measurements are only of limited help in this regard because biological measures typically are not completely repeatable. The variance among partly repeated measures neither reflects the actual replicability of measurements, nor is there any benchmark as to how small this variance should be. Often, a large part of “unattributable” measurement effects is due to definitional uncertainty as well as the temporal and spatial heterogeneity of biological systems. I further demonstrate that averaging repeated measures has only negligible effects on the standard error of statistical estimates; increasing sample size (biological replicates) is generally more efficient than repeating measures (technical replicates).",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-04-17",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/s13752-026-00530-1",
+        "platform_record_id": "https://openalex.org/W7154712907",
+        "record_url": "https://openalex.org/W7154712907",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/s13752-026-00530-1\", \"publication_year\": 2026, \"publication_date\": \"2026-04-17\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Philipp Mitterœcker\"], \"venue\": \"Biological Theory\", \"openalex_id\": \"https://openalex.org/W7154712907\", \"landing_page_url\": \"https://doi.org/10.1007/s13752-026-00530-1\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "25",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "40bf494167c2cf25d2b9c8a306164ca4d5137a0c2ef2b7359f800e156266cc21"
+    },
+    {
+      "target": "E-0376",
+      "event": "E-3561",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmark Evaluation of HTR-PROTEUS Pebble Bed Experimental Program",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Benchmark models were developed to evaluate 11 critical core configurations of the HTR-PROTEUS pebble bed experimental program. Various additional reactor physics measurements were carried out as part of this program; currently, only a total of 37 absorber rod worth measurements have been evaluated as acceptable benchmark experiments for cores 4, 9, and 10. Dominant uncertainties in the experimental Keff for all core configurations come from uncertainties in the 235U enrichment of the fuel, impurities in the moderator pebbles, and the density and impurity content of the radial reflector. Calculations of Keff with MCNP5 and ENDF/B-VII.0 neutron nuclear data are greater than the benchmark values but are within 1% and also within the 3σ uncertainty, except for core 4, which is the only randomly packed pebble configuration. Repeated calculations of keff with MCNP6.1 and ENDF/B-VII.1 are lower than the benchmark values but are within 1% (∽3σ), except for cores 5 and 9, which calculate lower than the benchmark eigenvalues by <4σ. The primary difference between the two nuclear data libraries is the adjustment of the absorption cross section of graphite. Simulations of the absorber rod worth measurements are within 3σ of the benchmark experiment values. The complete benchmark evaluation details are available in the 2014 edition of the International Handbook of Evaluated Reactor Physics Benchmark Experiments.",
+      "metadata": {
+        "publication_year": "2014",
+        "publication_date": "2014-10-09",
+        "language": "en",
+        "doi": "https://doi.org/10.13182/nse14-13",
+        "platform_record_id": "https://openalex.org/W2049118965",
+        "record_url": "https://openalex.org/W2049118965",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.13182/nse14-13\", \"publication_year\": 2014, \"publication_date\": \"2014-10-09\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"John Darrell Bess\", \"Leland M. Montierth\", \"Oliver Köberl\", \"Luka Snoj\"], \"venue\": \"Nuclear Science and Engineering\", \"openalex_id\": \"https://openalex.org/W2049118965\", \"landing_page_url\": \"https://doi.org/10.13182/nse14-13\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "27",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4ea4b8ec2b1b94fa683051df41c94f12ef1aecbe66a85aa394c62946c81dd427"
+    },
+    {
+      "target": "E-0377",
+      "event": "E-3562",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Measurement accuracy and uncertainty in plant biomechanics",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "All scientific measurements are affected to some degree by both systematic and random errors. The quantification of these errors supports correct interpretation of data, thus supporting scientific progress. Absence of information regarding reliability and accuracy can slow scientific progress, and can lead to a reproducibility crisis. Here we consider both measurement theory and plant biomechanics literature. Drawing from measurement theory literature, we review techniques for assessing both the accuracy and uncertainty of a measurement process. In our survey of plant biomechanics literature, we found that direct assessment of measurement accuracy and uncertainty is not yet common. The advantages and disadvantages of efforts to quantify measurement accuracy and uncertainty are discussed. We conclude with recommended best practices for improving the scientific rigor in plant biomechanics through attention to the issues of measurement accuracy and uncertainty.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-06-28",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/jxb/erz279",
+        "platform_record_id": "https://openalex.org/W2962248664",
+        "record_url": "https://openalex.org/W2962248664",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/jxb/erz279\", \"publication_year\": 2019, \"publication_date\": \"2019-06-28\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Nathanael Nelson\", \"Christopher J. Stubbs\", \"Ryan Larson\", \"Douglas D. Cook\"], \"venue\": \"Journal of Experimental Botany\", \"openalex_id\": \"https://openalex.org/W2962248664\", \"landing_page_url\": \"https://doi.org/10.1093/jxb/erz279\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9abaa3bae5aa2829895707dddb526657931f04afed088bf6c98adeaac217b92b"
+    },
+    {
+      "target": "E-0378",
+      "event": "E-3563",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "When Repeated Measurements Hurt Tabular Foundation Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Tabular foundation models (TFMs) achieve state-of-the-art performance on IID benchmarks, but how do they respond to repeated measurements at the same inputs? Across six TFMs, synthetic and semi-synthetic experiments show that additional measurements can improve predictions at measured inputs while degrading them elsewhere. Harm is most frequent at low noise, and irrelevant features amplify it in several models; real repeated-measurement datasets show similar patterns. Statistically, the IID rule targeted by PFN pretraining treats each repeated input as fresh evidence about the input distribution. When the prior links this distribution to the response function, the resulting protocol mismatch can outweigh the benefit of additional measurements, even under exact inference. Computationally, interventions identify row-count dependence in TabPFN-v3's attention scaling as a contributor to harm. Resetting the count largely reverses distortion in a noiseless linear diagnostic and attenuates amplification by irrelevant features. Finally, we evaluate ways to retain the benefits of repeated measurements while limiting their harm. Averaging measurements usually outperforms supplying them separately at larger repetition counts, whereas count reset can suppress both harm and useful gains. Code, saved results and reproduction instructions are available at https://github.com/drizmiz/PFN-Repeated-Measurement-Supp",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-10-12",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2610.16801",
+        "platform_record_id": "https://openalex.org/W7221821716",
+        "record_url": "https://openalex.org/W7221821716",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2610.16801\", \"publication_year\": 2026, \"publication_date\": \"2026-10-12\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Yixiang Liu\", \"Ruizhe Deng\", \"Bibhas Chakraborty\", \"Qiong Zhang\", \"Yan Shuo Tan\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7221821716\", \"landing_page_url\": \"https://arxiv.org/abs/2610.16801\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "adfa508974e1ce606ca877528bf6f3de4a898b90668c095deda9903feccfb592"
+    },
+    {
+      "target": "E-0379",
+      "event": "E-3564",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarking atlas-level data integration in single-cell genomics",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Single-cell atlases often include samples that span locations, laboratories and conditions, leading to complex, nested batch effects in data. Thus, joint analysis of atlas datasets requires reliable data integration. To guide integration method choice, we benchmarked 68 method and preprocessing combinations on 85 batches of gene expression, chromatin accessibility and simulation data from 23 publications, altogether representing >1.2 million cells distributed in 13 atlas-level integration tasks. We evaluated methods according to scalability, usability and their ability to remove batch effects while retaining biological variation using 14 evaluation metrics. We show that highly variable gene selection improves the performance of data integration methods, whereas scaling pushes methods to prioritize batch removal over conservation of biological variation. Overall, scANVI, Scanorama, scVI and scGen perform well, particularly on complex integration tasks, while single-cell ATAC-sequencing integration performance is strongly affected by choice of feature space. Our freely available Python module and benchmarking pipeline can identify optimal data integration methods for new data, benchmark new methods and improve method development.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-12-23",
+        "language": "en",
+        "doi": "https://doi.org/10.1038/s41592-021-01336-8",
+        "platform_record_id": "https://openalex.org/W4225598893",
+        "record_url": "https://openalex.org/W4225598893",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1038/s41592-021-01336-8\", \"publication_year\": 2021, \"publication_date\": \"2021-12-23\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Malte D. Luecken\", \"Maren Büttner\", \"Kridsadakorn Chaichoompu\", \"Anna Danese\", \"Marta Interlandi\", \"M. F. Mueller\", \"Daniel C. Strobl\", \"Luke Zappia\", \"Martin Dugas\", \"Maria Colomé‐Tatché\", \"Fabian Joachim Theis\"], \"venue\": \"Nature Methods\", \"openalex_id\": \"https://openalex.org/W4225598893\", \"landing_page_url\": \"https://doi.org/10.1038/s41592-021-01336-8\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "30",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b24e83396a2cd5ed010f899aaf1b33f069395b830d5df6621c2de20ae43ff13a"
+    },
+    {
+      "target": "E-0381",
+      "event": "E-3565",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R1;R4;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Uncertainties in Monte Carlo-based absorbed dose calculations for an experimental benchmark",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "There is a need to verify the accuracy of general purpose Monte Carlo codes like EGSnrc, which are commonly employed for investigations of dosimetric problems in radiation therapy. A number of experimental benchmarks have been published to compare calculated values of absorbed dose to experimentally determined values. However, there is a lack of absolute benchmarks, i.e. benchmarks without involved normalization which may cause some quantities to be cancelled. Therefore, at the Physikalisch-Technische Bundesanstalt a benchmark experiment was performed, which aimed at the absolute verification of radiation transport calculations for dosimetry in radiation therapy. A thimble-type ionization chamber in a solid phantom was irradiated by high-energy bremsstrahlung and the mean absorbed dose in the sensitive volume was measured per incident electron of the target. The characteristics of the accelerator and experimental setup were precisely determined and the results of a corresponding Monte Carlo simulation with EGSnrc are presented within this study. For a meaningful comparison, an analysis of the uncertainty of the Monte Carlo simulation is necessary. In this study uncertainties with regard to the simulation geometry, the radiation source, transport options of the Monte Carlo code and specific interaction cross sections are investigated, applying the general methodology of the Guide to the expression of uncertainty in measurement. Besides studying the general influence of changes in transport options of the EGSnrc code, uncertainties are analyzed by estimating the sensitivity coefficients of various input quantities in a first step. Secondly, standard uncertainties are assigned to each quantity which are known from the experiment, e.g. uncertainties for geometric dimensions. Data for more fundamental quantities such as photon cross sections and the I-value of electron stopping powers are taken from literature. The significant uncertainty contributions are identified as the energy of the radiation source and the underlying photon cross sections as well as the I-value of media involved in the simulation. The combined standard uncertainty of the Monte Carlo calculation yields 0.78% as a conservative estimation. The result of the calculation is close to the experimental result and with each combined standard uncertainty <1%, the accuracy of EGSnrc is confirmed. The setup and methodology of this study can be employed to benchmark other Monte Carlo codes for the calculation of absorbed dose in radiotherapy.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-09-21",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/0031-9155/60/19/7637",
+        "platform_record_id": "https://openalex.org/W2403877730",
+        "record_url": "https://openalex.org/W2403877730",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/0031-9155/60/19/7637\", \"publication_year\": 2015, \"publication_date\": \"2015-09-21\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Frédéric Renner\", \"Jörg Wulff\", \"R-P Kapsch\", \"Klemens Zink\"], \"venue\": \"Physics in Medicine and Biology\", \"openalex_id\": \"https://openalex.org/W2403877730\", \"landing_page_url\": \"https://doi.org/10.1088/0031-9155/60/19/7637\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "32",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "555cd88d4ef8da52b02a7b47b176d74852a2d4fa0bcb56922f9a8e9a609a60cf"
+    },
+    {
+      "target": "E-0382",
+      "event": "E-3566",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R1;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarking Large Language Model Uncertainty for Prompt Optimization",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Prompt optimization algorithms for Large Language Models (LLMs) excel in multi-step reasoning but still lack effective uncertainty estimation. This paper introduces a benchmark dataset to evaluate uncertainty metrics, focusing on Answer, Correctness, Aleatoric, and Epistemic Uncertainty. Through analysis of models like GPT-3.5-Turbo and Meta-Llama-3.1-8B-Instruct, we show that current metrics align more with Answer Uncertainty, which reflects output confidence and diversity, rather than Correctness Uncertainty, highlighting the need for improved metrics that are optimization-objective-aware to better guide prompt optimization. Our code and dataset are available at https://github.com/0Frett/PO-Uncertainty-Benchmarking.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-09-16",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2409.10044",
+        "platform_record_id": "https://openalex.org/W4403702494",
+        "record_url": "https://openalex.org/W4403702494",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2409.10044\", \"publication_year\": 2024, \"publication_date\": \"2024-09-16\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Pei-Fu Guo\", \"Yun-Da Tsai\", \"Shou-De Lin\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4403702494\", \"landing_page_url\": \"http://arxiv.org/abs/2409.10044\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "33",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "943f4e1b4e3a7f025a35794d7d5305bf19d977771160ffab7751911960e517c3"
+    },
+    {
+      "target": "E-0383",
+      "event": "E-3567",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "An Uncertainty Descriptor for Quantitative Measurement of the Uncertainty of Remote Sensing Images",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Reliable image classification results are crucial for the application of remote sensing images, but the reliability of image classification has received less attention. In particular, the inherent uncertainty of remote sensing images has been disregarded. The uncertainty of a remote sensing image accumulates and propagates continuously in the classification process and ultimately affects the reliability of the classification results. Therefore, quantitative description and investigation of the inherent uncertainty of remote sensing images are crucial in achieving reliable remote sensing image classification. In this study, we analyze the sources of uncertainty of remote sensing images in detail and propose a quantitative descriptor for measuring image uncertainty comprehensively and effectively. In addition, we also design two verification schemes to verify the validity of the proposed uncertainty descriptor. Finally, the validity of the proposed uncertainty descriptor is confirmed by experimental results on three real remote sensing images. Our study on the uncertainty of remote sensing images may help the development of uncertainty control methods and reliable classification schemes of remote sensing images.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-07-01",
+        "language": "en",
+        "doi": "https://doi.org/10.3390/rs11131560",
+        "platform_record_id": "https://openalex.org/W2955949092",
+        "record_url": "https://openalex.org/W2955949092",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.3390/rs11131560\", \"publication_year\": 2019, \"publication_date\": \"2019-07-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Qi Zhang\", \"Penglin Zhang\"], \"venue\": \"Remote Sensing\", \"openalex_id\": \"https://openalex.org/W2955949092\", \"landing_page_url\": \"https://doi.org/10.3390/rs11131560\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "34",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "2b140c8c017d61148624a1e19a3bd52568405d9008ed621d467ed0e21fbc408f"
+    },
+    {
+      "target": "E-0384",
+      "event": "E-3568",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Predicting unstable software benchmarks using static source code features",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Software benchmarks are only as good as the performance measurements they yield. Unstable benchmarks show high variability among repeated measurements, which causes uncertainty about the actual performance and complicates reliable change assessment. However, if a benchmark is stable or unstable only becomes evident after it has been executed and its results are available. In this paper, we introduce a machine-learning-based approach to predict a benchmark’s stability without having to execute it. Our approach relies on 58 statically-computed source code features, extracted for benchmark code and code called by a benchmark, related to (1) meta information, e.g., lines of code (LOC), (2) programming language elements, e.g., conditionals or loops, and (3) potentially performance-impacting standard library calls, e.g., file and network input/output (I/O). To assess our approach’s effectiveness, we perform a large-scale experiment on 4,461 Go benchmarks coming from 230 open-source software (OSS) projects. First, we assess the prediction performance of our machine learning models using 11 binary classification algorithms. We find that Random Forest performs best with good prediction performance from 0.79 to 0.90, and 0.43 to 0.68, in terms of AUC and MCC, respectively. Second, we perform feature importance analyses for individual features and feature categories. We find that 7 features related to meta-information, slice usage, nested loops, and synchronization application programming interfaces (APIs) are individually important for good predictions; and that the combination of all features of the called source code is paramount for our model, while the combination of features of the benchmark itself is less important. Our results show that although benchmark stability is affected by more than just the source code, we can effectively utilize machine learning models to predict whether a benchmark will be stable or not ahead of execution. This enables spending precious testing time on reliable benchmarks, supporting developers to identify unstable benchmarks during development, allowing unstable benchmarks to be repeated more often, estimating stability in scenarios where repeated benchmark execution is infeasible or impossible, and warning developers if new benchmarks or existing benchmarks executed in new environments will be unstable.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-08-18",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/s10664-021-09996-y",
+        "platform_record_id": "https://openalex.org/W3195958055",
+        "record_url": "https://openalex.org/W3195958055",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/s10664-021-09996-y\", \"publication_year\": 2021, \"publication_date\": \"2021-08-18\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Christoph Laaber\", \"Mikael Basmaci\", \"Pasquale Salza\"], \"venue\": \"Empirical Software Engineering\", \"openalex_id\": \"https://openalex.org/W3195958055\", \"landing_page_url\": \"https://doi.org/10.1007/s10664-021-09996-y\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "35",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "8e8c521364310e6193d4b2abb7735b94c3e91f096735de71102c4e24f9c29f3e"
+    },
+    {
+      "target": "E-0385",
+      "event": "E-3569",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R2;R3;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "ScionPathML: Enabling an Empirical Measurement Dataset and Benchmarks for Path-Aware Networking",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Path-aware networking architectures, such as SCION, give endpoints explicit visibility into multiple inter-domain paths, opening new opportunities for data-driven path selection, reliability prediction, and automated diagnosis. However, the lack of standardized, machine learning-ready datasets collected from live path-aware deployments has slowed progress in this domain. We present ScionPathML, an open-source measurement and data-standardization pipeline that abstracts the complexity of SCION’s tooling to continuously collect longitudinal performance measurements (RTT, packet loss, jitter, bandwidth, and per-hop latency) in formats directly usable by ML pipelines. Using a four-week, multi-region campaign across four vantage points on the SCIONLab testbed, we release a public dataset capturing path availability, churn, lifetimes, and end-to-end performance across concurrently available paths. To demonstrate its application, we define four reproducible benchmark tasks, including short-horizon performance forecasting, path failure prediction, anomaly detection, and multi-objective path recommendation, each accompanied by baseline models and evaluation protocols. Our results show that live SCION path performance exhibits an exploitable temporal structure, enabling accurate short-term predictions and early detection of availability drops. Together, the dataset, benchmarks, and open tooling substantially lower the barrier for ML researchers and provide a reproducible foundation for accelerating innovation in path-aware networking.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-07-02",
+        "language": "en",
+        "doi": "https://doi.org/10.3390/telecom7040081",
+        "platform_record_id": "https://openalex.org/W7167066446",
+        "record_url": "https://openalex.org/W7167066446",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.3390/telecom7040081\", \"publication_year\": 2026, \"publication_date\": \"2026-07-02\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Damien Rossi\", \"Sina Keshvadi\", \"Yogesh Sharma\"], \"venue\": \"Telecom\", \"openalex_id\": \"https://openalex.org/W7167066446\", \"landing_page_url\": \"https://doi.org/10.3390/telecom7040081\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4155307bd79766eaee2296a783b767bf2a52a4127b08b70427d8d39d5517992b"
+    }
+  ]
+}

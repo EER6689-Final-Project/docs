@@ -1,0 +1,103 @@
+{
+  "scope": "DELTA ONLY; excludes self-referential manifest",
+  "files": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/build_delta.py",
+      "sha256": "f3f19923f8aa2bf5128472bcaafeb93b1febef6ea7bacc1833af595b9401da9b",
+      "bytes": 28462,
+      "count": 150,
+      "count_basis": "text lines; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/counts.json",
+      "sha256": "e175bcc81ca05d399139144e12c3fd99cc8bb6db112eb7d94ab1415e9ae3f0d3",
+      "bytes": 1006,
+      "count": 18,
+      "count_basis": "top-level keys; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/events.csv",
+      "sha256": "5aed341a49615f4258d554e2a1b64bedda30490e1269a5bd7d66810a2b34262e",
+      "bytes": 8710,
+      "count": 38,
+      "count_basis": "data rows excluding header"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/group_QC.json",
+      "sha256": "c38a623416ad9e679ef58391de1391c9f8e9dd14de5d604f3882f890dedaf40a",
+      "bytes": 21823,
+      "count": 43,
+      "count_basis": "groups array"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/handoff.md",
+      "sha256": "15098ee282cc3948eca35162736064141622e71bf43e86a228ee4fd0b8aaa4d6",
+      "bytes": 6484,
+      "count": 40,
+      "count_basis": "text lines; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/item_checks.tsv",
+      "sha256": "ef810de38fc3cc0aa12ce85afca65721f6f1c7a2ac273fb8eef3e2c03ea5b2cc",
+      "bytes": 44449,
+      "count": 38,
+      "count_basis": "data rows excluding header"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/overlay.csv",
+      "sha256": "e299c49cc3137de19cba3c5ef3414a88df554ae9c7a678dcd1362c4d11822779",
+      "bytes": 133209,
+      "count": 38,
+      "count_basis": "data rows excluding header"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/primary_checks.json",
+      "sha256": "6b463664af1352cef72e3d992bdb4d536777b0c57d8c4aa156d2ff6514792e21",
+      "bytes": 100073,
+      "count": 38,
+      "count_basis": "items array"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/secondary_checks.json",
+      "sha256": "3d0968193b7c86fc7d93a24030ead99d5bf05fde1ca55084907ff63951e80840",
+      "bytes": 15939,
+      "count": 38,
+      "count_basis": "items array"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/secondary_freeze.json",
+      "sha256": "e5ce8e882bd40d00c2f6ed08dda2b957406da728cab0c94221e89b76897226b9",
+      "bytes": 8157,
+      "count": 11,
+      "count_basis": "top-level keys; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/secondary_notes.json",
+      "sha256": "63edc617dcf71ebdb803e2b7aeae9dbbe86900d13c3772cfae756f95fc32ccc2",
+      "bytes": 6622,
+      "count": 38,
+      "count_basis": "top-level keys; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/secondary_original_reread.jsonl",
+      "sha256": "b73af8dcf82e1623217d378162857e7eeaede73f2e3e088fde7323b674821288",
+      "bytes": 28424,
+      "count": 38,
+      "count_basis": "complete original-export reread records"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/target_freeze.json",
+      "sha256": "e1b21de4678b3bc2142ce2549aeb902c7544ed03f9ce85334096c9c6b89a866c",
+      "bytes": 3878,
+      "count": 8,
+      "count_basis": "top-level keys; not source count"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Final38/verify_finalize.py",
+      "sha256": "58c82f36a5136d32f123745bbd206f3cb5f915c39bc301b45fc69b6b7f8ff8a7",
+      "bytes": 4784,
+      "count": 35,
+      "count_basis": "text lines; not source count"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-10-26T12:07:57.130569+05:30",
+  "inputs": {
+    "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv": {
+      "expected_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "actual_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/file_manifest.json": {
+      "expected_sha256": "1a155ac64e7ae88a0040581eed5d36bf69036bb28e37ee41a75864cf30f82e0e",
+      "actual_sha256": "1a155ac64e7ae88a0040581eed5d36bf69036bb28e37ee41a75864cf30f82e0e",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/freeze_manifest.json": {
+      "expected_sha256": "9f5042ec1ca0496409beaf0f06f6e627b354960b7e53c489fb0c4db5228ac197",
+      "actual_sha256": "9f5042ec1ca0496409beaf0f06f6e627b354960b7e53c489fb0c4db5228ac197",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/handoff.md": {
+      "expected_sha256": "c4d557cd9d45fefdb467b9a316c742e273bbad7b9e520d624a5808e2b7295062",
+      "actual_sha256": "c4d557cd9d45fefdb467b9a316c742e273bbad7b9e520d624a5808e2b7295062",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/overlay.csv": {
+      "expected_sha256": "14c3abf56538b1d115facb089ec09d69d0da43465ce4a4605447751b13544f34",
+      "actual_sha256": "14c3abf56538b1d115facb089ec09d69d0da43465ce4a4605447751b13544f34",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/qc_counts.json": {
+      "expected_sha256": "ffedb389b67660b7cda4b849ee8846103fe00a9c0e200af0fa144ba8fcfb37cb",
+      "actual_sha256": "ffedb389b67660b7cda4b849ee8846103fe00a9c0e200af0fa144ba8fcfb37cb",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/qc_freeze.json": {
+      "expected_sha256": "488b19d014576f5c5282a502132d5aa07132c0fd4dba040f284e9627ec3efbd5",
+      "actual_sha256": "488b19d014576f5c5282a502132d5aa07132c0fd4dba040f284e9627ec3efbd5",
+      "unchanged": true
+    },
+    "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 3/qc_results.json": {
+      "expected_sha256": "8c161b7bdabe21384242a092a761131c7caae6667c53e4f561277177ec3fbb8b",
+      "actual_sha256": "8c161b7bdabe21384242a092a761131c7caae6667c53e4f561277177ec3fbb8b",
+      "unchanged": true
+    },
+    "task 1/Research Management/Evidence Review Protocol.md": {
+      "expected_sha256": "7367432394a9c1551afc096442570e66a847a9fa06672dc15ec2e461dd43cfcb",
+      "actual_sha256": "7367432394a9c1551afc096442570e66a847a9fa06672dc15ec2e461dd43cfcb",
+      "unchanged": true
+    }
+  },
+  "raw_occurrence_fields_checked": [
+    "source_csv_row_1based",
+    "operation",
+    "query",
+    "rank",
+    "title",
+    "display_record_label",
+    "dedup_key",
+    "duplicate_occurrence",
+    "first_occurrence",
+    "local_exact_filename_match",
+    "publication_year",
+    "publication_date",
+    "language",
+    "source_platform",
+    "abstract_or_snippet",
+    "abstract_status",
+    "Q_ID",
+    "platform_record_id",
+    "record_url",
+    "doi",
+    "raw_record_metadata",
+    "candidate_duplicate_target_E_ID",
+    "raw_first_occurrence_E_ID",
+    "request_url",
+    "request_timestamp_local",
+    "request_timestamp_utc",
+    "response_sha256_claimed",
+    "raw_body_location_scratch_only"
+  ],
+  "raw_field_matching_rows": 100,
+  "primary_checks_and_freeze_preserved": true,
+  "no_merges": true,
+  "no_shared_tracker_writes": true
+}

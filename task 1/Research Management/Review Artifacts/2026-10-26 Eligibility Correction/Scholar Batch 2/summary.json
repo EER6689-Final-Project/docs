@@ -1,0 +1,18 @@
+{
+  "target_count": 75,
+  "actual_itemwise_checks": 75,
+  "advance": 50,
+  "pending": 25,
+  "exclude": 0,
+  "event_range": [
+    "E-2900",
+    "E-2974"
+  ],
+  "fulltext_pass": "NOT RUN",
+  "citation_pass": "NOT RUN",
+  "claim_support": "UNASSESSED",
+  "methodological_confidence": "UNASSESSED",
+  "secondary_QA": "NOT RUN; no frozen exclusion/group sample claims",
+  "independent_human_review": false,
+  "notes": "Snippet/title/metadata semantic routing only. Duplicate-looking records not merged; source identity, exact date, language, type and all claims remain unverified."
+}

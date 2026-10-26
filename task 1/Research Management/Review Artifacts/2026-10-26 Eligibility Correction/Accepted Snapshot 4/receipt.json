@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-10-26T12:10:02.635431+05:30",
+  "operation": "Administrative merge and explicit missing-judgment schema clarification; not new semantic/source reads",
+  "baseline": {
+    "path": "../Accepted Snapshot 3/effective_state_838.csv",
+    "sha256": "089dad4d37ae783362d376c9d20d3daff2f63eebcf8f009a020cdeb96e60e536",
+    "counts": {
+      "ADVANCE": 208,
+      "X3": 46,
+      "PENDING": 584
+    }
+  },
+  "accepted_overlay": {
+    "path": "../Sol Scholar Next75/overlay75.csv",
+    "sha256": "eed1222b3b7475adaa64ed5e934d7582088f4e4e22cc53de94ec642d742cfaf9",
+    "targets": 75,
+    "events": "E-3100\u2013E-3174",
+    "counts": {
+      "ADVANCE": 50,
+      "X3": 5,
+      "PENDING": 20
+    }
+  },
+  "counts": {
+    "X3": 51,
+    "ADVANCE": 258,
+    "PENDING": 529
+  },
+  "OA_counts": {
+    "X3": 45,
+    "ADVANCE": 189,
+    "PENDING": 66
+  },
+  "Scholar_counts": {
+    "ADVANCE": 69,
+    "PENDING": 463,
+    "X3": 6
+  },
+  "completed_original_export_semantic_QA": {
+    "OA": 300,
+    "Scholar": 100,
+    "total": 400
+  },
+  "schema_clarification": {
+    "placeholder_cells_renamed_before_overlay": 4878,
+    "meaning": "Not separately authored per-question judgments; existing mapping/rationale preserved, not made negative; new 75 authored judgments then applied",
+    "affected_original_fields": false,
+    "routing_changes_from_rename": 0
+  },
+  "mapping_caveat": "Global OA group check 30 supported/12 held; 130-member expansion pending and not merged. Positive candidate: prefix is a stage1 routing lead, not verified source support.",
+  "limits": "Canonical identity/date/language/type, citations/fulltexts, methods and claim support/confidence remain unresolved/UNASSESSED. Other active Scholar/OA expansion outputs not included."
+}

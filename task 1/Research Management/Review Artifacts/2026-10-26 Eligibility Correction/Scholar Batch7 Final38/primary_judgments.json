@@ -1,0 +1,2032 @@
+{
+  "reviewer": "Luna AI; authored technical pass, not independent human review",
+  "date": "2026-10-26",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff_inclusive": "2026-10-25",
+  "original_export_read": "All 38 stored original titles, complete Scholar snippets, metadata, URLs and original duplicate annotations actually read; snippets are not abstracts/full text. No network/full-text retrieval.",
+  "items": [
+    {
+      "E_ID": "E-1000",
+      "stored_title": "The antecedents of Web site performance",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Marketing antecedents/correlates of website performance; snippet does not identify browser timing, instrumentation, synthetic transfer, repeated-measure methods, agreement, or design analogue."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2002",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "EKRE Huizingh - European journal of Marketing, 2002 - emerald.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1001",
+      "stored_title": "Domain-sharding for faster http/2 in lossy cellular networks",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. HTTP/2 domain sharding in lossy cellular networks is a browser-adjacent transport intervention; possible evidence about network conditions and performance observation, not profiler overhead.; The named cellular-network condition bounds transport/workload transfer; no synthetic-versus-user comparison is asserted. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "positive",
+          "reason": "HTTP/2 domain sharding in lossy cellular networks is a browser-adjacent transport intervention; possible evidence about network conditions and performance observation, not profiler overhead."
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "The named cellular-network condition bounds transport/workload transfer; no synthetic-versus-user comparison is asserted."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R2",
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2017",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "U Goel , M Steiner , MP Wittie , S Ludin … - arXiv preprint arXiv …, 2017 - arxiv.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1002",
+      "stored_title": "Saperlipopette!: a distributed Web caching systems evaluation tool",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Distributed web-cache evaluation and consistency/latency are a bounded network/cache context for workload and delivered-performance transfer; not browser-runtime evidence. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Distributed web-cache evaluation and consistency/latency are a bounded network/cache context for workload and delivered-performance transfer; not browser-runtime evidence."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "1998",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "G Pierre, M Makpangou - Middleware'98: IFIP International Conference on …, 1998 - Springer",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1003",
+      "stored_title": "Web site performance measurement: promise and reality",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Title and snippet explicitly concern website-performance measurement and characterize its practice as ad hoc; a discovery lead for construct/operationalization boundaries only, with browser-metric equivalence unestablished. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "positive",
+          "reason": "Title and snippet explicitly concern website-performance measurement and characterize its practice as ad hoc; a discovery lead for construct/operationalization boundaries only, with browser-metric equivalence unestablished."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R1"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2006",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "R Welling , L White - Managing Service Quality: An International …, 2006 - emerald.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1004",
+      "stored_title": "Outcomes of destination marketing organization website navigation: The role of telepresence",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. A study of people navigating destination websites and telepresence is a bounded prior human/task-population context for user-side web observations; it is not a synthetic-agent comparison or browser-timing validation. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "A study of people navigating destination websites and telepresence is a bounded prior human/task-population context for user-side web observations; it is not a synthetic-agent comparison or browser-timing validation."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2016",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "J Choi , C Ok , S Choi - Journal of Travel & Tourism Marketing, 2016 - Taylor & Francis",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1005",
+      "stored_title": "GLOBAL VISIBILITY OF ASIAN UNIVERSITIES'OPEN ACCESS INSTITUTIONAL REPOSITORIES",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Institutional repository visibility/ranking is a web presence construct, not browser performance measurement; no explicit transfer mechanism is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2010",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "A Abrizah , A Noorhidawati , K Kiran - Malaysian Journal of Library …, 2010 - mjlis.um.edu.my",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1006",
+      "stored_title": "Who shapes Web standards? Uncovering the main topics of interest in the W3C",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. A study of topics in W3C standards work may inform discovery of standards/closest-work coverage; the snippet does not establish normative metric definitions or a solution. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "positive",
+          "reason": "A study of topics in W3C standards work may inform discovery of standards/closest-work coverage; the snippet does not establish normative metric definitions or a solution."
+        }
+      ],
+      "positive_RIDs": [
+        "R6"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "HS Xavier , B Rocha, D Cortiz - … of the ACM Web Conference 2026, 2026 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1007",
+      "stored_title": "Spatial model steering, an exploratory approach to uncertainty awareness in land use allocation",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Land-use allocation is the titled subject; Pylot appears only in an apparently incidental search snippet fragment and supplies no defensible transfer."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2013",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "M Nino-Ruiz , I Bishop , C Pettit - Environmental modelling & software, 2013 - Elsevier",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1008",
+      "stored_title": "Mechanical performance of spider orb webs is tuned for high-speed prey",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Spider-web mechanical performance is a biological construct, not web/browser performance; no transfer rationale is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2013",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "AT Sensenig, SP Kelly , KA Lorentz… - Journal of …, 2013 - journals.biologists.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1009",
+      "stored_title": "[PDF] Web Technologies Performance Analysis for Different Platforms and Hardware Architectures",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Cross-platform and hardware-architecture web-technology performance is a bounded context for platform/workload generalization; browser identity/version remains unverified. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Cross-platform and hardware-architecture web-technology performance is a bounded context for platform/workload generalization; browser identity/version remains unverified."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2013",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "KHAA Faraj , RN Mohammed , TN Ahmad … - … Journal of Computer …, 2013 - researchgate.net",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1010",
+      "stored_title": "Who shapes Web standards? Uncovering the main topics of interest in the W3C",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Same work as another occurrence is not merged here; its W3C topic-mapping subject can inform discovery coverage, not normative semantics. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "positive",
+          "reason": "Same work as another occurrence is not merged here; its W3C topic-mapping subject can inform discovery coverage, not normative semantics."
+        }
+      ],
+      "positive_RIDs": [
+        "R6"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "HS Xavier , B Rocha, D Cortiz - … of the ACM Web Conference 2026, 2026 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1011",
+      "stored_title": "Domain-sharding for faster http/2 in lossy cellular networks",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. HTTP/2 domain sharding in lossy cellular networks is a browser-adjacent transport intervention; possible evidence about network conditions and performance observation, not profiler overhead.; The named cellular-network condition bounds transport/workload transfer; no synthetic-versus-user comparison is asserted. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "positive",
+          "reason": "HTTP/2 domain sharding in lossy cellular networks is a browser-adjacent transport intervention; possible evidence about network conditions and performance observation, not profiler overhead."
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "The named cellular-network condition bounds transport/workload transfer; no synthetic-versus-user comparison is asserted."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R2",
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2017",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "U Goel , M Steiner , MP Wittie , S Ludin … - arXiv preprint arXiv …, 2017 - arxiv.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1012",
+      "stored_title": "[B] Intelligent soft computation and evolving data mining: Integrating advanced technologies: integrating advanced technologies",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Broad edited/book volume and disconnected snippet fragments do not identify a specific transferable browser-performance method or claim; generic statistical-analysis wording is insufficient."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2010",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "LSL Wang, TP Hong - 2010 - books.google.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1013",
+      "stored_title": "Performance of energy detector in the presence of noise uncertainty in cognitive radio networks",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Cognitive-radio energy detection is a distinct communications phenomenon; incidental web-performance wording in the snippet does not state a transferable mechanism."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2013",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "W Yin, P Ren, J Cai , Z Su - Wireless Networks, 2013 - Springer",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1014",
+      "stored_title": "Seven rules of thumb for web site experimenters",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Web-site experimentation rules directly concern design of online experiments and are a candidate methods lead; snippet alone does not establish browser-performance design details. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "positive",
+          "reason": "Web-site experimentation rules directly concern design of online experiments and are a candidate methods lead; snippet alone does not establish browser-performance design details."
+        }
+      ],
+      "positive_RIDs": [
+        "R6"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2014",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "R Kohavi , A Deng , R Longbotham , Y Xu - Proceedings of the 20th ACM …, 2014 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1015",
+      "stored_title": "Saperlipopette!: a distributed Web caching systems evaluation tool",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Distributed web-cache evaluation and consistency/latency are a bounded network/cache context for workload and delivered-performance transfer; not browser-runtime evidence. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Distributed web-cache evaluation and consistency/latency are a bounded network/cache context for workload and delivered-performance transfer; not browser-runtime evidence."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "1998",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "G Pierre , M Makpangou - Middleware'98: IFIP International Conference on …, 1998 - Springer",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1016",
+      "stored_title": "Markovian workload characterization for QoS prediction in the cloud",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Cloud QoS workload characterization and prediction is a bounded workload/resource-performance analogue; transfer to browser runs is unvalidated. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Cloud QoS workload characterization and prediction is a bounded workload/resource-performance analogue; transfer to browser runs is unvalidated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2011",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "S Pacheco-Sanchez, G Casale … - 2011 IEEE 4th …, 2011 - ieeexplore.ieee.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1017",
+      "stored_title": "An AOP-Inspired Runtime Instrumentation Framework for Time-to-First-View Measurement in Cesium-Based 3D Tiles Visualization: BO3DT for Settled First-View …",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Title explicitly identifies runtime instrumentation and time-to-first-view measurement; snippet mentions uncertainty/reporting, making it directly relevant to capture and measurement perturbation questions, without assuming its results. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "positive",
+          "reason": "Title explicitly identifies runtime instrumentation and time-to-first-view measurement; snippet mentions uncertainty/reporting, making it directly relevant to capture and measurement perturbation questions, without assuming its results."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R2"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "W Zheng, Y Ni, X Du - Proceedings of the 3rd International Conference …, 2026 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1018",
+      "stored_title": "Rough Web Caching",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Web caching is explicitly linked to end-user latency; rough-set uncertainty is potentially relevant to cache/workload context but is not browser metric validation. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Web caching is explicitly linked to end-user latency; rough-set uncertainty is potentially relevant to cache/workload context but is not browser metric validation."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2008",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "S Sulaiman¹, SM Shamsuddin¹… - Rough Set Theory: A …, 2008 - books.google.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1019",
+      "stored_title": "Technical and informational content accessibility as a tool to improve web traffic on destination management organization websites: evidence from an empirical …",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Empirical technical/informational accessibility and web-traffic associations may bound site/user population and content heterogeneity; not evidence about synthetic agents or browser timing. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Empirical technical/informational accessibility and web-traffic associations may bound site/user population and content heterogeneity; not evidence about synthetic agents or browser timing."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "L Rubio-Escuderos , T Domínguez Vila … - … Technology & Tourism, 2026 - Springer",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1020",
+      "stored_title": "[PDF] Web-analytics and performance evaluation of internet marketing",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Internet marketing/web analytics and third-party ranking statistics concern business/marketing outcomes; no explicit browser metric, capture or method transfer is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2012",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "I Kurylets - 2012 - academia.edu",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1021",
+      "stored_title": "Online controlled experiments at large scale",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Large-scale online controlled experiments are directly relevant to experimental-design precedent; no browser-specific design is presumed. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "positive",
+          "reason": "Large-scale online controlled experiments are directly relevant to experimental-design precedent; no browser-specific design is presumed."
+        }
+      ],
+      "positive_RIDs": [
+        "R6"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2013",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": true,
+        "raw_metadata_read": "R Kohavi , A Deng , B Frasca, T Walker , Y Xu… - Proceedings of the 19th …, 2013 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1022",
+      "stored_title": "Beyond clickstream: web analytics and session duration in E-commerce conversion",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. The snippet names session duration and web-performance metrics; useful as a possible construct-boundary contrast between behavioral/analytics measures and browser timing, not validation of either. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "positive",
+          "reason": "The snippet names session duration and web-performance metrics; useful as a possible construct-boundary contrast between behavioral/analytics measures and browser timing, not validation of either."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R1"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "N Cetinturk - International Journal of Retail & Distribution …, 2026 - emerald.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1023",
+      "stored_title": "Assessment of the Effects of IT Infrastructure Automation and Technical Web Optimization on Operational Performance and User Experience in Mining and Steel …",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. The title/snippet explicitly link technical web optimization, web performance and user experience; possible workload/site-context lead, with the industrial setting and exact performance construct unresolved. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "The title/snippet explicitly link technical web optimization, web performance and user experience; possible workload/site-context lead, with the industrial setting and exact performance construct unresolved."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2025",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "A Jamali, MR Badami - Management Strategies and Engineering …, 2025 - msesj.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1024",
+      "stored_title": "An eye movement analysis of web usability: Differences between older adults with and without mild cognitive impairment",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. An eye-movement study of older adults with/without mild cognitive impairment during web usability tasks is a bounded human/task-population analogue; not a synthetic-agent comparison. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "An eye-movement study of older adults with/without mild cognitive impairment during web usability tasks is a bounded human/task-population analogue; not a synthetic-agent comparison."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2018",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "M Haesner, J Chandra , A Steinert… - Assistive …, 2018 - Taylor & Francis",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1025",
+      "stored_title": "Web server workload prediction: Fuzzy Markovian approach",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Web-server workload prediction explicitly concerns workload and web-performance metrics; bounded server-side context, not browser execution. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Web-server workload prediction explicitly concerns workload and web-performance metrics; bounded server-side context, not browser execution."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2004",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "CW Cheong - International Journal of Computers and Applications, 2004 - Taylor & Francis",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1026",
+      "stored_title": "[HTML] Small mammals and foraminifera from the Anatolian (Central Taurus) early Miocene",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Small mammals/foraminifera and Miocene geology are the titled subject; browser-performance phrases are unrelated snippet contamination."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2001",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "G Saraç - Annals of Carnegie Museum, 2001 - academia.edu",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1027",
+      "stored_title": "Information structure and practice as facilitators of deaf users' navigation in textual websites",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. Study of deaf users navigating textual websites and reported web-performance measures may inform user/task/population boundaries; not browser instrumentation validation. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Study of deaf users navigating textual websites and reported web-performance measures may inform user/task/population boundaries; not browser instrumentation validation."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2009",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "I Fajardo, JJ Cañas, L Salmerón… - Behaviour & Information …, 2009 - Taylor & Francis",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1028",
+      "stored_title": "[HTML] A Novel Security Index for Assessing Information Systems in Industrial Organizations Using Web Technologies and Fuzzy Logic",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Industrial information-systems security indexing is the stated subject; incidental Lighthouse/W3C phrase is insufficient to establish a performance-measurement contribution."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "S Khaddour, F Abu-Abed, V Bogatikov - Engineering Proceedings, 2026 - mdpi.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1029",
+      "stored_title": "Web-based intelligence reports system",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Intelligence-reporting systems and data consolidation do not state a browser-performance target or explicit transferable method."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2003",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "A Dolotov, M Strickler - … Conference on Intelligence and Security Informatics, 2003 - Springer",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1030",
+      "stored_title": "Integration of Autoregressive Distributed Lag (ARDL) Modeling with Google Search Console Data Analysis for SEO Performance Evaluation",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: SEO/business web-performance evaluation and Search Console are not browser-runtime measures; no explicit transfer to R1–R6 is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2024",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "FGF Pratama, HZ Fahmi … - Proceeding of …, 2024 - proceeding.unesa.ac.id",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1031",
+      "stored_title": "Web/Mobile system innovation: An efficient revolution in warehouse management.",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Warehouse management/demand uncertainty is the stated subject; isolated web-performance wording does not establish a relevant target or transfer."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2024",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "CL ZAVALETA SAENZ, A Romero Ruiz… - …, 2024 - f1000research.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1032",
+      "stored_title": "SHõ WA: A Self-Healing Framework for Web-Based Applications",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Self-healing web applications concern recovery behavior; snippet mentions statistical correlation but no performance measurement, runtime capture, or transferable repeated-measure/agreement method."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2015",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "JP Magalhaes , LM Silva - … on Autonomous and Adaptive Systems (TAAS), 2015 - dl.acm.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1033",
+      "stored_title": "An Optimized Model for CPU Load Evaluation in the Execution of Code Structures and Script-Based Algorithms",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. CPU-load evaluation with statistical comparison and a stated uncertainty-reduction approach is a potentially transferable measurement-method analogue; repeated browser runs or applicability are not established. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R4",
+          "judgment": "positive",
+          "reason": "CPU-load evaluation with statistical comparison and a stated uncertainty-reduction approach is a potentially transferable measurement-method analogue; repeated browser runs or applicability are not established."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R4"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2026",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "V Atanasov , D Denev - … of the International Conference on Secure …, 2026 - journal.etrconf.eu",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1034",
+      "stored_title": "Web ranking performance perspectives of Malaysian higher education institutions' stakeholders",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Stakeholder perceptions and institutional web rankings concern organizational visibility/performance, not browser metrics; no explicit transfer is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2021",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "AU Ubaka, B Kadir , IKA Rahman … - International Journal of …, 2021 - inderscienceonline.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1035",
+      "stored_title": "[B] Using fuzzy probability and simulation methods in Web planning models",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Web planning models and fuzzy probability are too broad; snippet gives no specific browser/performance measurement mechanism or defensible transfer."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2005",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "X Zheng - 2005 - search.proquest.com",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1036",
+      "stored_title": "[PDF] WWW and its enduring effects on export marketing: do web capabilities matter?",
+      "stage1": "X3",
+      "primary_code": "X3",
+      "reason": "Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R1 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        },
+        {
+          "question": "R3",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R3 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: Export marketing and web capabilities concern business outcomes, not browser performance measurement; no explicit transfer is stated."
+        }
+      ],
+      "positive_RIDs": [],
+      "source_type_proxy": "not adjudicated; exclusion rests on semantic scope, not type",
+      "metadata_review": {
+        "scholar_year_as_exported": "2009",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "I Beckers - 2009 - cris.maastrichtuniversity.nl",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    },
+    {
+      "E_ID": "E-1037",
+      "stored_title": "Mathematical modeling of the estimation process of functioning efficiency level of information web-resources",
+      "stage1": "ADVANCE",
+      "primary_code": "advance/uncertain",
+      "reason": "Advance as a bounded discovery/context lead only. The title concerns efficiency estimation of information web resources and snippet names request complexity, data volume and hardware as uncertainty factors; possible construct/measurement-boundary evidence, not browser metric equivalence.; Request complexity, resource-data volume and hardware are explicit workload/context factors; browser/user transfer remains unverified. Full text/identity/version/type/date/language remain unverified.",
+      "R1-R6": [
+        {
+          "question": "R1",
+          "judgment": "positive",
+          "reason": "The title concerns efficiency estimation of information web resources and snippet names request complexity, data volume and hardware as uncertainty factors; possible construct/measurement-boundary evidence, not browser metric equivalence."
+        },
+        {
+          "question": "R2",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R2 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R3",
+          "judgment": "positive",
+          "reason": "Request complexity, resource-data volume and hardware are explicit workload/context factors; browser/user transfer remains unverified."
+        },
+        {
+          "question": "R4",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R4 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R5",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R5 relevance or a defensible transfer: "
+        },
+        {
+          "question": "R6",
+          "judgment": "no_positive_mapping",
+          "reason": "This occurrence's title/snippet does not establish R6 relevance or a defensible transfer: "
+        }
+      ],
+      "positive_RIDs": [
+        "R1",
+        "R3"
+      ],
+      "source_type_proxy": "unverified; based only on export venue/type strings",
+      "metadata_review": {
+        "scholar_year_as_exported": "2020",
+        "exact_date": "unverified/not supplied in Scholar export",
+        "language": "unverified/not supplied in Scholar export",
+        "version_identity": "unresolved; no merge/SID/DUP adjudication",
+        "original_duplicate_annotation_preserved": false,
+        "raw_metadata_read": "M Dyvak, A Melnyk, A Kovbasistyi… - 2020 10th …, 2020 - ieeexplore.ieee.org",
+        "full_text": "NOT RUN",
+        "claim_support": "UNASSESSED",
+        "methodological_confidence": "UNASSESSED"
+      }
+    }
+  ]
+}

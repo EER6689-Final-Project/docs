@@ -1,0 +1,10 @@
+{
+  "note": "Clarification to the prospectively frozen selection. The original freeze preserved selected occurrence IDs and proxy labels; its helper nonselected_count values were mechanically computed from an unsuitable field-prefix test and must not be used. The freeze did not enumerate all members of each proxy group, so no nonselected group-member totals are asserted. Supplemental R1 accessibility-audit proxy selection is separately frozen in supplemental_QA_freeze.json before E-0985 reread.",
+  "frozen_selection_sha256": "e84df857ee2f88e5b5d95fa22558669674c267ea9642294a3385ee55011e439f",
+  "original_freeze_group_count": 17,
+  "original_freeze_unique_group_representatives": 13,
+  "supplemental_group_count": 1,
+  "supplemental_group_representative": "E-0985",
+  "proposed_X3_count": 83,
+  "secondary_QA_freeze_selections_unchanged": true
+}

@@ -1,0 +1,212 @@
+{
+  "completed_at_local": "2026-10-26T12:37:23+05:30",
+  "sample_manifest": "remaining75-QC-sample-freeze-v2.json",
+  "checker": "Luna separate-pass self-audit; not independent human review",
+  "planned_count": 33,
+  "actually_reread_count": 33,
+  "results": [
+    {
+      "source_E_ID": "E-0825",
+      "qc_result": "checked-corrected",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; stage-1 relevance remains bounded and unchanged. QC detected missing item-specific R-question rationale cells in the overlay; those cells have been completed. No disposition or relevance judgement changed."
+    },
+    {
+      "source_E_ID": "E-0826",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0827",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0828",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0829",
+      "qc_result": "checked-corrected",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; stage-1 relevance remains bounded and unchanged. QC detected missing item-specific R-question rationale cells in the overlay; those cells have been completed. No disposition or relevance judgement changed."
+    },
+    {
+      "source_E_ID": "E-0830",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0831",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0832",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0833",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0834",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0835",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0837",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0839",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0840",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0841",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0842",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0843",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0844",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0846",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0848",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0849",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0850",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; bounded advance remains plausible for the recorded R question(s), without any full-text inference."
+    },
+    {
+      "source_E_ID": "E-0855",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0858",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; bounded advance remains plausible for the recorded R question(s), without any full-text inference."
+    },
+    {
+      "source_E_ID": "E-0861",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; bounded advance remains plausible for the recorded R question(s), without any full-text inference."
+    },
+    {
+      "source_E_ID": "E-0864",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0865",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0867",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0875",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0879",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0889",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0897",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; item-specific X3 boundary remains supported and no defensible R1–R6 transfer emerged."
+    },
+    {
+      "source_E_ID": "E-0899",
+      "qc_result": "checked-no-discrepancy",
+      "reread_material": "retained original title + complete Scholar snippet + metadata",
+      "note": "Reread original stored title/snippet/metadata; bounded advance remains plausible for the recorded R question(s), without any full-text inference."
+    }
+  ],
+  "discrepancies_detected": 1,
+  "discrepancy": "Question-specific rationale cells were blank for 6 positive-relevance records due to serialization; 29 cells were completed across those 6. Expanded overlay audit covered all 75 rows; no stage-1 judgment/disposition changed.",
+  "expanded_check": "All 75 overlay records checked for six nonblank R-question judgments and question-specific rationale fields; all pass after correction.",
+  "older_QC_receipts": "remaining75-QC-results.json and remaining75-QC-sample-freeze.json are preserved as pre-correction history; use this v2 result with the v2 sample freeze.",
+  "limitations": "Stored exports only; no network/full texts. No full-text citation pass, claim-support finding, or methodological-confidence assessment."
+}

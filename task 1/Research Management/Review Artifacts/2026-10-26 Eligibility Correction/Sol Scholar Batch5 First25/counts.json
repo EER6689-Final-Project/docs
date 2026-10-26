@@ -1,0 +1,29 @@
+{
+  "scope_occurrences": 25,
+  "actual_itemwise_primary_checks": 25,
+  "ADVANCE": 13,
+  "PENDING": 0,
+  "X3": 12,
+  "producer_X3_checked": 23,
+  "producer_X3_rejected": 11,
+  "producer_X3_rejected_ids": [
+    "E-0804",
+    "E-0806",
+    "E-0808",
+    "E-0809",
+    "E-0811",
+    "E-0812",
+    "E-0813",
+    "E-0815",
+    "E-0820",
+    "E-0821",
+    "E-0822"
+  ],
+  "Sol_X3_secondary_checked": 12,
+  "explicit_R_type_proxy_groups_checked": 14,
+  "secondary_unique_original_rereads": 25,
+  "secondary_discrepancies_against_Sol_primary": 0,
+  "independent_human_review": false,
+  "E-0825_to_E-0899": "UNREVIEWED by this task",
+  "canonical_included_works": "NOT ESTABLISHED; occurrence-only semantic screen"
+}

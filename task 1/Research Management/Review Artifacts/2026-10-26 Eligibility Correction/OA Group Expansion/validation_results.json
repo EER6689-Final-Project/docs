@@ -1,0 +1,25 @@
+{
+  "validated_at_utc": "2026-10-26T07:25:19.636203+00:00",
+  "state": "CHECKED artifact integrity; not scientific approval",
+  "primary_exact_original_field_comparisons": 130,
+  "secondary_exact_original_field_comparisons": 63,
+  "additional_pattern_exact_original_field_comparisons": 2,
+  "target_order_and_event_range": "PASS",
+  "frozen_primary_hashes": "UNCHANGED",
+  "input_hashes": "MATCH",
+  "inherited_mappings": "PRESERVED, NOT REVALIDATED",
+  "new_mappings": 0,
+  "new_exclusions": 0,
+  "source_claims": "UNASSESSED",
+  "fulltext_citations": "NOT RUN",
+  "source_scientific_eligibility": "PENDING original identity/date/language/type verification",
+  "final_mapping_counts": {
+    "unclear": 44,
+    "outside": 20,
+    "supported": 87
+  },
+  "unclear_target_count": 41,
+  "all_OA_QC_pass": false,
+  "G3": "OPEN",
+  "G4": "OPEN"
+}

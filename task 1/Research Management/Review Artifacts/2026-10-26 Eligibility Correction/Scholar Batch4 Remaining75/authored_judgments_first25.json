@@ -1,0 +1,402 @@
+[
+  {
+    "occurrence_E_ID": "E-0725",
+    "title": "Essentials of statistical methods for assessing reliability and agreement in quantitative imaging",
+    "entire_original_snippet": "… closeness of agreement between measured quantity values obtained by replicate measurements on … Bland and Altman introduced their graphical method comparison system in 1986. …",
+    "raw_metadata": "A Anvari, EF Halpern, AE Samir - Academic radiology, 2018 - Elsevier",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicates are stated, but hierarchy and uncertainty estimand are not; limited R4 lead only.",
+      "R5": "The snippet explicitly concerns replicate quantitative-imaging measurements and closeness of agreement, citing Bland–Altman method comparison; bounded R5 analogy for paired profiler/reference outputs, not browser validation.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "The snippet explicitly concerns replicate quantitative-imaging measurements and closeness of agreement, citing Bland–Altman method comparison; bounded R5 analogy for paired profiler/reference outputs, not browser validation."
+  },
+  {
+    "occurrence_E_ID": "E-0726",
+    "title": "[PDF] The International Journal of Biostatistics",
+    "entire_original_snippet": "… classical limits of agreement and extend it to the case with replicate measurements . As the … general advice in the analysis of method comparison studies with replicate measurements : …",
+    "raw_metadata": "B Carstensen, J Simpson, LC Gurrin - 2008 - bxc.dk",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate measurements are explicit; methods can inform dependence/uncertainty, but assumptions need full text.",
+      "R5": "Carstensen et al. title/authors plus snippet state limits of agreement extended to replicate measurements and advice for method-comparison studies; direct statistical R5 analogue.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Carstensen et al. title/authors plus snippet state limits of agreement extended to replicate measurements and advice for method-comparison studies; direct statistical R5 analogue."
+  },
+  {
+    "occurrence_E_ID": "E-0727",
+    "title": "Comparative evaluation of inductively coupled plasma mass spectrometry and a phosphatase method for lithium measurement: an analytical method - comparison …",
+    "entire_original_snippet": "… two replicate measurements was used as the paired sample-level observation for the method comparison … Because correlation alone does not assess agreement between two analytical …",
+    "raw_metadata": "S He, J He, D Li, S Ling, C Liu - Frontiers in Chemistry, 2026 - frontiersin.org",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Two replicate measurements are identified, but snippet does not establish a browser-run hierarchy.",
+      "R5": "Snippet says paired sample-level replicate observations in analytical-method comparison and warns correlation alone is not agreement; R5 transfer to paired profiler/reference metrics.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet says paired sample-level replicate observations in analytical-method comparison and warns correlation alone is not agreement; R5 transfer to paired profiler/reference metrics."
+  },
+  {
+    "occurrence_E_ID": "E-0728",
+    "title": "Assessment of lung volumes in children and adolescents: comparison of two plethysmographic techniques",
+    "entire_original_snippet": "… (SD) of the differences between two replicate measurements of FRC, TLC and RV were … differences between the two replicate measurements . Agreement between the two techniques …",
+    "raw_metadata": "T Halvorsen, BT Skadberg, GE Eide… - Clinical physiology …, 2005 - Wiley Online Library",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate structure is explicit; exact nesting and uncertainty are not.",
+      "R5": "Snippet explicitly compares two techniques and reports agreement and differences between replicate measurements; bounded R5 agreement-design analogue.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet explicitly compares two techniques and reports agreement and differences between replicate measurements; bounded R5 agreement-design analogue."
+  },
+  {
+    "occurrence_E_ID": "E-0729",
+    "title": "Extended biasplot command to assess bias, precision, and agreement in method comparison studies",
+    "entire_original_snippet": "… We assume that there are replicate measurements j = 1,...,ni on each … of agreement is not always easy on the agreement plot, and no CB appears around the percentage of agreement …",
+    "raw_metadata": "P Taffé, M Peng, V Stagg, T Williamson - The Stata Journal, 2023 - journals.sagepub.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate data structure is explicit; uncertainty around limits needs source inspection.",
+      "R5": "Snippet describes biasplot for method comparison with replicate measurements and agreement plots; statistical R5 lead for bias/agreement visualization.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet describes biasplot for method comparison with replicate measurements and agreement plots; statistical R5 lead for bias/agreement visualization."
+  },
+  {
+    "occurrence_E_ID": "E-0730",
+    "title": "A review of Bland–Altman difference plot analysis in the veterinary clinical pathology laboratory",
+    "entire_original_snippet": "… Replicate measurements allow for the characterization of the … assessed prior to method comparison for validation studies, … calculation and evaluation of agreement limits based on the …",
+    "raw_metadata": "AR Moore - Veterinary clinical pathology, 2024 - Wiley Online Library",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicates and agreement limits are mentioned; review status means locate original methods before decision-driving use.",
+      "R5": "Veterinary pathology review concerns Bland–Altman plots, replicate characterization and agreement limits; contextual R5 source, not primary-method replacement.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Veterinary pathology review concerns Bland–Altman plots, replicate characterization and agreement limits; contextual R5 source, not primary-method replacement."
+  },
+  {
+    "occurrence_E_ID": "E-0731",
+    "title": "[HTML] … and amplitude of the compound motor action potential are clinically interchangeable quantitative measures of neuromuscular block: a method comparison …",
+    "entire_original_snippet": "… the difference between replicate measurements using a given … the differences between the replicate measurements for each … and lower limits of agreement with their corresponding 95% …",
+    "raw_metadata": "RH Epstein, R Nemes, JR Renew, SJ Brull - BJA open, 2024 - Elsevier",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate variation is explicit, but exact repeated design is not fully described.",
+      "R5": "Snippet compares two clinically proposed interchangeable quantitative measures and discusses replicate differences/limits of agreement; bounded R5 transfer concerning paired-method agreement.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet compares two clinically proposed interchangeable quantitative measures and discusses replicate differences/limits of agreement; bounded R5 transfer concerning paired-method agreement."
+  },
+  {
+    "occurrence_E_ID": "E-0732",
+    "title": "Multisite comparison of CD4 and CD8 T-lymphocyte counting by single-versus multiple-platform methodologies: evaluation of Beckman Coulter flow-count …",
+    "entire_original_snippet": "… as measured by coefficient of variation of replicate measurements . The fully automated Beckman … method to determine the extent of agreement between the new and predicate methods …",
+    "raw_metadata": "KA Reimann, MRG O'Gorman, J Spritzler… - Clinical Diagnostic …, 2000 - journals.asm.org",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate CV is stated; distinguish within-method precision from between-method agreement.",
+      "R5": "Snippet compares single- versus multiple-platform methods across sites, using replicate-measurement CV and an agreement method; R5 lead for method and site comparison.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet compares single- versus multiple-platform methods across sites, using replicate-measurement CV and an agreement method; R5 lead for method and site comparison."
+  },
+  {
+    "occurrence_E_ID": "E-0733",
+    "title": "[HTML] Analytical Agreement Between the Vision C Automated ESR Analyzer and the Manual Westergren Reference Method: A Prospective Method Comparison …",
+    "entire_original_snippet": "… Sixth, the present study did not include replicate measurements by the manual Westergren … -of- agreement estimates recommended by CLSI EP09-ED3 for method - comparison studies; …",
+    "raw_metadata": "A Tuzcu, K Yörük, Y Kurtulmuş, M Yılmaz - Diagnostics, 2026 - mdpi.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Explicit absence of replicate reference readings is relevant to R4 design limitations, not positive repeatability evidence.",
+      "R5": "Snippet identifies an analytical instrument/reference-method comparison using agreement estimates and notes no manual-reference replicates; R5 limitation example for asymmetric replication.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet identifies an analytical instrument/reference-method comparison using agreement estimates and notes no manual-reference replicates; R5 limitation example for asymmetric replication."
+  },
+  {
+    "occurrence_E_ID": "E-0734",
+    "title": "Biasplot: a package to effective plots to assess bias and precision in method comparison studies",
+    "entire_original_snippet": "… ) limits of agreement have been used in many clinical research settings to assess agreement … agreement can be misleading. biasplot implements a new statistical methodology that Taffé …",
+    "raw_metadata": "P Taffé, M Peng, V Stagg, T Williamson - The Stata Journal, 2017 - journals.sagepub.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Snippet does not establish replicate nesting or uncertainty treatment; R4 not positively assigned.",
+      "R5": "Biasplot package paper addresses bias, precision and misleading agreement in method-comparison settings; R5 statistical-method lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Biasplot package paper addresses bias, precision and misleading agreement in method-comparison settings; R5 statistical-method lead."
+  },
+  {
+    "occurrence_E_ID": "E-0735",
+    "title": "A comparison of plaster, digital and reconstructed study model accuracy",
+    "entire_original_snippet": "… Design and setting: A method comparison study using 30 dental study … Replicate measurements were made one week later. … Measuring agreement in method comparison studies. …",
+    "raw_metadata": "AP Keating, J Knox, R Bibb… - Journal of …, 2008 - journals.sagepub.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "One-week repeat is stated; temporal separation and measurement error hierarchy are relevant R4 cautions.",
+      "R5": "Snippet gives a three-method dental model comparison and repeats measurements one week later, with an agreement-method reference; bounded R5 design analogue.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet gives a three-method dental model comparison and repeats measurements one week later, with an agreement-method reference; bounded R5 design analogue."
+  },
+  {
+    "occurrence_E_ID": "E-0736",
+    "title": "Evaluation of a coated blade spray-tandem mass spectrometry assay as a new tool for the determination of immunosuppressive drugs in whole blood: Rickert DA et al.",
+    "entire_original_snippet": "… We evaluated the stability of replicate measurements over a 10-… v16.14 were used for the statistical method comparison . … i2000 CMIA showed good agreement between both methods for …",
+    "raw_metadata": "DA Rickert, GA Gómez-Ríos, E Nazdrajić… - Analytical and …, 2020 - Springer",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicates are explicit, but the snippet does not detail repeated hierarchy or stopping.",
+      "R5": "Snippet reports stability of replicate assay measurements and method comparison/agreement between assays; R5 measurement-comparison lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet reports stability of replicate assay measurements and method comparison/agreement between assays; R5 measurement-comparison lead."
+  },
+  {
+    "occurrence_E_ID": "E-0737",
+    "title": "Evaluation of an automated assay based on monoclonal anti-human serum amyloid A (SAA) antibodies for measurement of canine, feline, and equine SAA",
+    "entire_original_snippet": "… automated SAA assay in a method comparison setting, and by … Method comparison revealed acceptable agreement of the … (CV) based on replicate measurements of SAA in serum pools …",
+    "raw_metadata": "M Christensen, S Jacobsen, T Ichiyanagi… - The Veterinary …, 2012 - Elsevier",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate pool measurements suggest precision assessment; transfer limited to design concepts.",
+      "R5": "Snippet evaluates an automated assay through method comparison, agreement and CV from replicate serum-pool measurements; R5 lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet evaluates an automated assay through method comparison, agreement and CV from replicate serum-pool measurements; R5 lead."
+  },
+  {
+    "occurrence_E_ID": "E-0738",
+    "title": "Assessing new methods of clinical measurement",
+    "entire_original_snippet": "… to all of these as method comparison problems. Studies that … limits of agreement method for method comparison studies: … when there are replicate measurements or multiple observers…",
+    "raw_metadata": "DG Altman - The British Journal of General Practice, 2009 - pmc.ncbi.nlm.nih.gov",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Multiple observers/replicates are named; commentary is not primary empirical evidence.",
+      "R5": "Altman commentary explicitly addresses assessment of clinical measurement and method-comparison problems, including limits of agreement and multiple observers/replicates; contextual R5 lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Altman commentary explicitly addresses assessment of clinical measurement and method-comparison problems, including limits of agreement and multiple observers/replicates; contextual R5 lead."
+  },
+  {
+    "occurrence_E_ID": "E-0739",
+    "title": "[HTML] Reporting standards for a Bland–Altman agreement analysis: A review of methodological reviews",
+    "entire_original_snippet": "… Agreement (BA LoA), or simply Bland–Altman plots, are used widely in method comparison … rule-of-thumb of “50 subjects with three replicate measurements on each method” [48,49] or …",
+    "raw_metadata": "O Gerke - Diagnostics, 2020 - mdpi.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate count appears in snippet, but a rule of thumb is not adopted as a browser sample-size rule.",
+      "R5": "Review of reporting standards for Bland–Altman agreement analyses, including replicate-count rules of thumb; contextual R5 lead for reporting and design scrutiny.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Review of reporting standards for Bland–Altman agreement analyses, including replicate-count rules of thumb; contextual R5 lead for reporting and design scrutiny."
+  },
+  {
+    "occurrence_E_ID": "E-0740",
+    "title": "A statistical method for assessing agreement between two methods of heteroscedastic clinical measurements using the copula method",
+    "entire_original_snippet": "… in method comparison studies, namely modeling the data set and using the fitted model to analyze method comparison … model for method comparison data with replicate measurements . …",
+    "raw_metadata": "KR Aravind, LS Nawarathna - Journal of Medical Statistics and …, 2017 - academia.edu",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate-data model is explicit; model assumptions and uncertainty require full text.",
+      "R5": "Title and snippet describe a copula method for agreement between heteroscedastic measurements and replicate method-comparison data; R5 methodological analogue.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Title and snippet describe a copula method for agreement between heteroscedastic measurements and replicate method-comparison data; R5 methodological analogue."
+  },
+  {
+    "occurrence_E_ID": "E-0741",
+    "title": "[HTML] Test cases as a measurement instrument in experimentation",
+    "entire_original_snippet": "… of agreement between [...] measured quantity values obtained by replicate measurements … procedure, same location, and replicate measurements on the same or similar objects over an …",
+    "raw_metadata": "S Vegas - arXiv (Cornell University), 2021 - academia.edu",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate measurements are explicit; test-case measurement properties may transfer to fixture-based profiler evaluation, not browser validity.",
+      "R5": "Snippet links test cases as an experimental measurement instrument to agreement across replicate measurements on objects; R6 design and R4 repeatability analogy, cautiously.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet links test cases as an experimental measurement instrument to agreement across replicate measurements on objects; R6 design and R4 repeatability analogy, cautiously."
+  },
+  {
+    "occurrence_E_ID": "E-0742",
+    "title": "[PDF] Method Comparison Studies",
+    "entire_original_snippet": "… Limits of Agreement are used extensively in medical literature for assessing agreement … Does not account for Replicate Measurements . Useful as a diagnostic method subsequent …",
+    "raw_metadata": "K O'Brien - The Lancet, 1986 - berlinrug.github.io",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Explicitly identifies omitted replicates; useful as a limitation, not a positive repeated-measure method.",
+      "R5": "Snippet contrasts limits-of-agreement use with failure to account for replicate measurements; direct R5 method-comparison limitation lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet contrasts limits-of-agreement use with failure to account for replicate measurements; direct R5 method-comparison limitation lead."
+  },
+  {
+    "occurrence_E_ID": "E-0743",
+    "title": "… international journal of biostatistics: Statistical models for assessing agreement for quantitative data with heterogeneous random raters and replicate measurements",
+    "entire_original_snippet": "… MethComp: functions for analysis of agreement in method comparison studies; 2013. R package version 1.22, R Core Team. R: a language and environment for statistical computing. …",
+    "raw_metadata": "CT Ekstrøm , B Carstensen - 2024 - digital.zlb.de",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Heterogeneous raters and replication are explicit; browser transfer requires mapping raters to tools/runs rather than assuming equivalence.",
+      "R5": "Title explicitly covers statistical models for agreement with heterogeneous random raters and replicate measurements; direct R5 methodological lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Title explicitly covers statistical models for agreement with heterogeneous random raters and replicate measurements; direct R5 methodological lead."
+  },
+  {
+    "occurrence_E_ID": "E-0744",
+    "title": "Limits of agreement method for comparison of pavement friction measurement",
+    "entire_original_snippet": "… agreement determines how much agreement is attainable. If one device has poor repeatability, agreement … second device is it will also show poor agreement . If both devices have poor …",
+    "raw_metadata": "E de León Izeppi, GW Flintsch … - Transportation …, 2012 - journals.sagepub.com",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Repeatability conditions are explicit; do not import pavement thresholds.",
+      "R5": "Pavement-friction device comparison discusses attainable agreement conditional on device repeatability; R5 lead on reference/device error and agreement limits.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Pavement-friction device comparison discusses attainable agreement conditional on device repeatability; R5 lead on reference/device error and agreement limits."
+  },
+  {
+    "occurrence_E_ID": "E-0745",
+    "title": "Clinical measurement and assessing agreement",
+    "entire_original_snippet": "… patients so there are replicate measurements from each subject. … method comparison studies. In particular, the importance of defining a priori what will constitute acceptable agreement …",
+    "raw_metadata": "MO Columb - Current Anaesthesia & Critical Care, 2008 - Elsevier",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate subjects and prespecified agreement are explicit; source type is commentary/article, not assumed primary.",
+      "R5": "Clinical measurement article highlights replicate measurements per subject and a priori acceptable agreement; R5 design/interpretation lead, contextual source.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Clinical measurement article highlights replicate measurements per subject and a priori acceptable agreement; R5 design/interpretation lead, contextual source."
+  },
+  {
+    "occurrence_E_ID": "E-0746",
+    "title": "Manual versus automatic bladder wall thickness measurements: a method comparison study",
+    "entire_original_snippet": "… Purpose To compare repeatability and agreement of conventional ultrasound bladder wall … Measurement variation between replicate measurements was smaller for conventional …",
+    "raw_metadata": "M Oelke , C Mamoulakis , DT Ubbink … - World journal of …, 2009 - Springer",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate variation is explicit; operator/device nesting and full design remain unverified.",
+      "R5": "Bladder-wall study compares manual and automatic measurements and reports replicate-measurement variation and agreement; bounded R5 analogue.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Bladder-wall study compares manual and automatic measurements and reports replicate-measurement variation and agreement; bounded R5 analogue."
+  },
+  {
+    "occurrence_E_ID": "E-0747",
+    "title": "[HTML] Statistical analysis and reporting of cardiac output method comparison studies (COMPARE) statement",
+    "entire_original_snippet": "… (eg, testing the limits of agreement against prespecified thresholds), … replicate measurements per subject into account and therefore directly relates to cardiac output method comparison …",
+    "raw_metadata": "B Saugel , A Hapfelmeier , M Flick, J Rinehart … - …, 2025 - pmc.ncbi.nlm.nih.gov",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Snippet explicitly says analyses account for replicates per subject; R4 design implication, with domain-specific transfer limits.",
+      "R5": "COMPARE reporting statement addresses cardiac-output method comparisons and LoA against prespecified thresholds; R5 reporting/design lead, not a browser tolerance.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "COMPARE reporting statement addresses cardiac-output method comparisons and LoA against prespecified thresholds; R5 reporting/design lead, not a browser tolerance."
+  },
+  {
+    "occurrence_E_ID": "E-0748",
+    "title": "Limits of agreement method for comparing TSD and FWD measurements",
+    "entire_original_snippet": "… Agreement between devices of measurement with multiple observations per individual. … for assessing agreement in device comparison studies with replicate measurements . The …",
+    "raw_metadata": "SW Katicha , GW Flintsch , B Ferne… - International Journal of …, 2014 - Taylor & Francis",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Multiple within-individual observations are explicit; account for dependence rather than treating as independent runs.",
+      "R5": "Title/snippet address limits of agreement for devices with multiple observations per individual; R5 repeated-device comparison method lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Title/snippet address limits of agreement for devices with multiple observations per individual; R5 repeated-device comparison method lead."
+  },
+  {
+    "occurrence_E_ID": "E-0749",
+    "title": "Method Comparison and Investigation of Interference Variables of a Hand‐Held Hemoglobinometer(HemoCue Hb 201 + ) in Cats",
+    "entire_original_snippet": "… Hemoglobin concentration was measured once using an ADVIA 2120 analyzer and compared to the mean of 2–3 replicate measurements from an HC- 201. Agreement and systematic …",
+    "raw_metadata": "Y Sun, XT Yiew, J Beeler‐Marfisi … - Veterinary Clinical …, 2025 - Wiley Online Library",
+    "question_judgments": {
+      "R1": "NO POSITIVE MAPPING: snippet is agreement/method comparison, not metric construct semantics.",
+      "R2": "NO POSITIVE MAPPING: no instrumentation/observer-effect issue stated in stored snippet.",
+      "R3": "NO POSITIVE MAPPING: clinical/imaging/measuring populations are not synthetic-versus-user workload transfer.",
+      "R4": "Replicate count and averaging are explicit; asymmetric measurement protocol limits direct transfer.",
+      "R5": "Snippet compares a handheld hemoglobinometer with a reference and explicitly averages 2–3 replicates on one method; R5 asymmetric-pairing/aggregation lead.",
+      "R6": "NO POSITIVE MAPPING: no explicit browser-profiler closest-solution comparison; applicability is bounded statistical/design analogy only."
+    },
+    "disposition": "ADVANCE",
+    "bounded_transfer_reason": "Snippet compares a handheld hemoglobinometer with a reference and explicitly averages 2–3 replicates on one method; R5 asymmetric-pairing/aggregation lead."
+  }
+]

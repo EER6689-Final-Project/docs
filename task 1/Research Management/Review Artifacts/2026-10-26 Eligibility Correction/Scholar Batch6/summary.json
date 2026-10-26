@@ -1,0 +1,36 @@
+{
+  "batch": "Scholar Batch 6",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff": "2026-10-25 inclusive",
+  "review_date": "2026-10-26",
+  "explicit_target_ids": "E-0900–E-0999",
+  "target_count": 100,
+  "queue_position_discrepancy": "Those IDs are source queue positions 701–800; positions 401–500 actually contain E-0600–E-0699. Explicit EID scope followed; no E-0600–E-0699 processed.",
+  "primary_dispositions": {
+    "ADVANCE": 11,
+    "PENDING": 6,
+    "X3": 83
+  },
+  "explicit_positive_R_occurrence_counts": {
+    "R1": 10,
+    "R2": 0,
+    "R3": 6,
+    "R4": 6,
+    "R5": 1,
+    "R6": 6
+  },
+  "secondary_QA": {
+    "proposed_X3": 83,
+    "original_positive_R_type_proxy_groups": 17,
+    "supplemental_proxy_groups": 1,
+    "unique_selected_occurrences": 97,
+    "reread_actual_count": 97,
+    "result": "All 97 selected records checked-no-discrepancy; same-agent separate-pass self-audit, not independent human review. Original freeze helper group counts are disclaimed in secondary_QA_freeze_errata.json."
+  },
+  "original_queue_unchanged": true,
+  "identity": "No DUP dispositions, SID/work IDs, duplicate adjudications or merges; original duplicate annotations preserved only as source fields.",
+  "date_language_type": "Exact cutoff/year-only 2026 unresolved; metadata language is not full-text language; source types/version identities unverified. No X2 metadata-language exclusions.",
+  "support_confidence": "UNASSESSED",
+  "fulltext_citations": "NOT RUN",
+  "methods": "No methods/results/passage appraisal; no retrieval or network activity."
+}

@@ -1,0 +1,28 @@
+{
+  "freeze_time_recorded": "2026-10-26",
+  "rule": "For each explicit nonempty R/source-type proxy group select lexicographically first EID; selection frozen after primary overlay and before any secondary QA original-text check.",
+  "source_type_groups_are_provisional_proxies": true,
+  "exclusions_proposed": 0,
+  "exclusion_QA": "no exclusions to sample",
+  "groups": {
+    "R4_repeated_measurement_method_analogue": "E-0700",
+    "R5_method_comparison_agreement": "E-0700",
+    "source_type_proxy_journal_methodology": "E-0700",
+    "source_type_proxy_book": "E-0701",
+    "source_type_proxy_review": "E-0709",
+    "source_type_proxy_preprint": "E-0714",
+    "source_type_proxy_empirical_domain_study": "E-0716",
+    "source_type_proxy_training_or_course_material": "E-0719",
+    "source_type_proxy_unclassified_hosted_PDF": "E-0724"
+  },
+  "unique_selected_EIDs": [
+    "E-0700",
+    "E-0701",
+    "E-0709",
+    "E-0714",
+    "E-0716",
+    "E-0719",
+    "E-0724"
+  ],
+  "status": "FROZEN_BEFORE_QA; checks not yet done"
+}

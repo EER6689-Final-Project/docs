@@ -1,0 +1,207 @@
+{
+  "frozen_at": "2026-10-26T12:34:58.251853+05:30",
+  "phase": "after primary judgments, before secondary reread",
+  "primary_overlay_sha256": "bef88b254b52e40e14bc763eea3399740c0cf5cc5d30c52e021e6b13cf5b02a5",
+  "authored_judgments_sha256": "97089581ae718a8358a0772fb4485e0bfc783c3a77a40f0bd31a39bbacb17f44",
+  "producer_X3": [
+    "E-0801",
+    "E-0802",
+    "E-0803",
+    "E-0804",
+    "E-0805",
+    "E-0806",
+    "E-0807",
+    "E-0808",
+    "E-0809",
+    "E-0810",
+    "E-0811",
+    "E-0812",
+    "E-0813",
+    "E-0814",
+    "E-0815",
+    "E-0816",
+    "E-0817",
+    "E-0818",
+    "E-0819",
+    "E-0820",
+    "E-0821",
+    "E-0822",
+    "E-0824"
+  ],
+  "Sol_proposed_X3": [
+    "E-0801",
+    "E-0802",
+    "E-0803",
+    "E-0805",
+    "E-0807",
+    "E-0810",
+    "E-0814",
+    "E-0816",
+    "E-0817",
+    "E-0818",
+    "E-0819",
+    "E-0824"
+  ],
+  "groups": {
+    "R1|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0
+    },
+    "R2|book-chapter-proxy": {
+      "members": [
+        "E-0822"
+      ],
+      "selected": "E-0822",
+      "nonselected_count": 0
+    },
+    "R2|book-proxy": {
+      "members": [
+        "E-0806"
+      ],
+      "selected": "E-0806",
+      "nonselected_count": 0
+    },
+    "R2|conference-paper": {
+      "members": [
+        "E-0820",
+        "E-0821"
+      ],
+      "selected": "E-0820",
+      "nonselected_count": 1
+    },
+    "R2|journal-proxy": {
+      "members": [
+        "E-0823"
+      ],
+      "selected": "E-0823",
+      "nonselected_count": 0
+    },
+    "R2|tool-overview-proxy": {
+      "members": [
+        "E-0808"
+      ],
+      "selected": "E-0808",
+      "nonselected_count": 0
+    },
+    "R3|empirical-journal": {
+      "members": [
+        "E-0811"
+      ],
+      "selected": "E-0811",
+      "nonselected_count": 0
+    },
+    "R3|thesis-proxy": {
+      "members": [
+        "E-0804"
+      ],
+      "selected": "E-0804",
+      "nonselected_count": 0
+    },
+    "R4|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0
+    },
+    "R5|conference-paper": {
+      "members": [
+        "E-0815"
+      ],
+      "selected": "E-0815",
+      "nonselected_count": 0
+    },
+    "R5|standards-document-proxy": {
+      "members": [
+        "E-0813"
+      ],
+      "selected": "E-0813",
+      "nonselected_count": 0
+    },
+    "R5|thesis-proxy": {
+      "members": [
+        "E-0812"
+      ],
+      "selected": "E-0812",
+      "nonselected_count": 0
+    },
+    "R6|conference-paper": {
+      "members": [
+        "E-0809",
+        "E-0815",
+        "E-0821"
+      ],
+      "selected": "E-0809",
+      "nonselected_count": 2
+    },
+    "R6|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0
+    }
+  },
+  "group_rule": "First lexicographic source E-ID for each explicitly assigned corrected R/source-type-proxy group; no automatic all-R grouping. Proxies are not verified source types.",
+  "selected_for_secondary_reread": [
+    "E-0800",
+    "E-0801",
+    "E-0802",
+    "E-0803",
+    "E-0804",
+    "E-0805",
+    "E-0806",
+    "E-0807",
+    "E-0808",
+    "E-0809",
+    "E-0810",
+    "E-0811",
+    "E-0812",
+    "E-0813",
+    "E-0814",
+    "E-0815",
+    "E-0816",
+    "E-0817",
+    "E-0818",
+    "E-0819",
+    "E-0820",
+    "E-0821",
+    "E-0822",
+    "E-0823",
+    "E-0824"
+  ],
+  "finite_error_pattern_expansion": {
+    "pattern": "Overconfident all-R rejection despite a plausible concrete capture, conformance-oracle, fixture or field-entry transfer hidden by short snippets.",
+    "affected_finite_ids": [
+      "E-0801",
+      "E-0802",
+      "E-0803",
+      "E-0804",
+      "E-0805",
+      "E-0806",
+      "E-0807",
+      "E-0808",
+      "E-0809",
+      "E-0810",
+      "E-0811",
+      "E-0812",
+      "E-0813",
+      "E-0814",
+      "E-0815",
+      "E-0816",
+      "E-0817",
+      "E-0818",
+      "E-0819",
+      "E-0820",
+      "E-0821",
+      "E-0822",
+      "E-0824"
+    ],
+    "action": "All 23 producer X3 receive six-R and bounded-transfer reread, regardless of corrected disposition."
+  },
+  "secondary_status": "PLANNED; no reread completion claimed by freeze",
+  "audit_type": "separate-pass AI self-audit; no independent human review"
+}

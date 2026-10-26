@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-oa2/frozen_EID_manifest.csv",
+      "durable_path": "OA2/frozen_EID_manifest.csv",
+      "durable_sha256": "0d8e1ac8a8ced9f0d9a3072fbd240dc2f716c3c8b790891bbb8447a40f24c692",
+      "bytes": 9035,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-oa2/handoff.md",
+      "durable_path": "OA2/handoff.md",
+      "durable_sha256": "57f614972bbb9d11c3ea204942a0f97eb61bd55aa9a51ad3c929c343c3700f59",
+      "bytes": 1194,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-oa2/overlay.csv",
+      "durable_path": "OA2/overlay.csv",
+      "durable_sha256": "c304e83b412a560fa30de22271584c4bb54742ab735c6fc27355500179c4282a",
+      "bytes": 167051,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-oa2/qc.json",
+      "durable_path": "OA2/qc.json",
+      "durable_sha256": "19382a26cf99d092a4d89cd819d4c016fda8e7fa22ff7d9d7fda25f3a1dd812e",
+      "bytes": 3938,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-oa2/qc_exclusions.json",
+      "durable_path": "OA2/qc_exclusions.json",
+      "durable_sha256": "f4b7ca4dcd81ff4c068a76b67bcaf456a96f04674599d1f017f6ff4f141f7f12",
+      "bytes": 24356,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-scholar/handoff.md",
+      "durable_path": "Scholar/handoff.md",
+      "durable_sha256": "ea7a32a47383a244cfbde1ae50007f4c14b279ee1b6d8c1a84d9e6e4c2a44b9a",
+      "bytes": 2239,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-scholar/manifest.json",
+      "durable_path": "Scholar/manifest.json",
+      "durable_sha256": "f7069108fcee6359fe6ab7e7831b5a5369fd0c70378d8ac3c42c204d59cbef20",
+      "bytes": 15780,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-scholar/overlay.csv",
+      "durable_path": "Scholar/overlay.csv",
+      "durable_sha256": "dcca171457b64157570843a4dd9ef9f346f9e6ea022fe00b994ffb75074175b5",
+      "bytes": 782042,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    },
+    {
+      "source_path": "/tmp/opencode/eei6689-screen-scholar/qc_counts.json",
+      "durable_path": "Scholar/qc_counts.json",
+      "durable_sha256": "182a3c3c77461517765dc976dce53cf23926cf484dabf9092b9cdce60272ea26",
+      "bytes": 788,
+      "source_exists_at_check": true,
+      "current_source_byte_equality": "PASS"
+    }
+  ],
+  "actual_files": 9,
+  "fabricated_files": 0,
+  "OA1": "Already durable; frozen hash checked, never overwritten",
+  "scratch_independence": "Durable producer files remain usable if external scratch is lost."
+}

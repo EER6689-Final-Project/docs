@@ -1,0 +1,336 @@
+{
+  "created_utc": "2026-10-26T05:51:41.790016+00:00",
+  "phase": "PLANNED BEFORE second-pass group/exclusion QA",
+  "original_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "item_checks_sha256": "98f8bfd7b5233d129a1b6859392ca773ab1ee55bb90f5fcfedb24431d4f035bd",
+  "scope": "105 remaining OA occurrences only; metadata type and explicit authored R tokens, first lexicographic occurrence EID; not canonical S-ID/C-ID claim QC",
+  "groups": [
+    {
+      "group": "R1|article",
+      "members": [
+        "E-0313"
+      ],
+      "selected": "E-0313",
+      "nonselected_count": 0,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R1|conference-paper",
+      "members": [
+        "E-0288",
+        "E-0343",
+        "E-0345",
+        "E-0458",
+        "E-0464",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0288",
+      "nonselected_count": 6,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R1|dissertation",
+      "members": [
+        "E-0486"
+      ],
+      "selected": "E-0486",
+      "nonselected_count": 0,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R2|article",
+      "members": [
+        "E-0256",
+        "E-0261",
+        "E-0265",
+        "E-0266",
+        "E-0313",
+        "E-0462"
+      ],
+      "selected": "E-0256",
+      "nonselected_count": 5,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R2|conference-paper",
+      "members": [
+        "E-0255",
+        "E-0260",
+        "E-0264",
+        "E-0269",
+        "E-0271",
+        "E-0272",
+        "E-0273",
+        "E-0281",
+        "E-0284",
+        "E-0288",
+        "E-0291",
+        "E-0299",
+        "E-0343"
+      ],
+      "selected": "E-0255",
+      "nonselected_count": 12,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R2|dissertation",
+      "members": [
+        "E-0268",
+        "E-0274",
+        "E-0290",
+        "E-0297",
+        "E-0333"
+      ],
+      "selected": "E-0268",
+      "nonselected_count": 4,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R2|preprint",
+      "members": [
+        "E-0285",
+        "E-0293"
+      ],
+      "selected": "E-0285",
+      "nonselected_count": 1,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R3|article",
+      "members": [
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0331",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0453",
+        "E-0462",
+        "E-0477"
+      ],
+      "selected": "E-0300",
+      "nonselected_count": 9,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R3|conference-paper",
+      "members": [
+        "E-0288",
+        "E-0301",
+        "E-0302",
+        "E-0311",
+        "E-0316",
+        "E-0343",
+        "E-0345",
+        "E-0348",
+        "E-0388",
+        "E-0451",
+        "E-0458",
+        "E-0479"
+      ],
+      "selected": "E-0288",
+      "nonselected_count": 11,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R3|dissertation",
+      "members": [
+        "E-0329",
+        "E-0333"
+      ],
+      "selected": "E-0329",
+      "nonselected_count": 1,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R4|article",
+      "members": [
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0384",
+        "E-0395",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0408",
+        "E-0409",
+        "E-0410",
+        "E-0411",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0417",
+        "E-0418",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448"
+      ],
+      "selected": "E-0373",
+      "nonselected_count": 27,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R4|conference-paper",
+      "members": [
+        "E-0361",
+        "E-0458"
+      ],
+      "selected": "E-0361",
+      "nonselected_count": 1,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R4|preprint",
+      "members": [
+        "E-0357",
+        "E-0391",
+        "E-0420"
+      ],
+      "selected": "E-0357",
+      "nonselected_count": 2,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R5|article",
+      "members": [
+        "E-0395",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0408",
+        "E-0409",
+        "E-0410",
+        "E-0411",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448",
+        "E-0449"
+      ],
+      "selected": "E-0395",
+      "nonselected_count": 28,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R5|preprint",
+      "members": [
+        "E-0420"
+      ],
+      "selected": "E-0420",
+      "nonselected_count": 0,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R6|article",
+      "members": [
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0374",
+        "E-0384",
+        "E-0396",
+        "E-0450",
+        "E-0453",
+        "E-0455",
+        "E-0462",
+        "E-0463",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0300",
+      "nonselected_count": 15,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R6|conference-paper",
+      "members": [
+        "E-0296",
+        "E-0301",
+        "E-0302",
+        "E-0303",
+        "E-0311",
+        "E-0316",
+        "E-0348",
+        "E-0361",
+        "E-0388",
+        "E-0451",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0296",
+      "nonselected_count": 15,
+      "state": "PLANNED"
+    },
+    {
+      "group": "R6|dissertation",
+      "members": [
+        "E-0329",
+        "E-0333",
+        "E-0486"
+      ],
+      "selected": "E-0329",
+      "nonselected_count": 2,
+      "state": "PLANNED"
+    }
+  ],
+  "proposed_exclusions": [
+    {
+      "target_EID": "E-0452",
+      "proposed_status": "X3",
+      "RIDs": "",
+      "rationale": "No abstract is supplied. The specific title and civil-engineering venue concern prestressed UHPC-reinforced-concrete box beams lacking structural web reinforcement. The web is a beam component, not a browser/network; no timing construct (R1), capture/perturbation mechanism (R2), user/workload transfer (R3), repeated-measure uncertainty method (R4), measurement-agreement method (R5) or transferable corpus/profiler evaluation design (R6) is indicated. Experimental study alone supplies no defensible transfer. Proposed X3 awaits separately frozen second-pass adjudication."
+    }
+  ],
+  "unmapped_pending": [
+    "E-0262",
+    "E-0276",
+    "E-0309",
+    "E-0359",
+    "E-0380",
+    "E-0389",
+    "E-0392",
+    "E-0398",
+    "E-0433"
+  ],
+  "proposed_counts": {
+    "ADVANCE": 95,
+    "PENDING": 9,
+    "X3": 1
+  },
+  "original_text_checks_completed": 105,
+  "original_text_checks_unreviewed": []
+}

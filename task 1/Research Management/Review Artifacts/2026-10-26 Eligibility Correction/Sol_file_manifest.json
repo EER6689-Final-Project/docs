@@ -1,0 +1,204 @@
+{
+  "created_utc": "2026-10-26T05:42:43.559823+00:00",
+  "scope": "Every actual file in authorized correction subtree except this self-referential manifest; no hashes invented for absent scratch files",
+  "manifest_self_hash": "Report externally; not self-hashed",
+  "file_count": 28,
+  "files": [
+    {
+      "path": "OA1/group-qc.json",
+      "sha256": "ceccf92e521f62447004557081b4654b316edf278113d1f4cb33ba7a870b3c2f",
+      "bytes": 12273,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "OA1/handoff.md",
+      "sha256": "e3842ee11ed3d1d6d2f5bb2608a0501c85602d97327dfbcb28e4c023fcef1859",
+      "bytes": 4132,
+      "data_rows": 38,
+      "row_count_basis": "physical text lines, NOT research records"
+    },
+    {
+      "path": "OA1/manifest.json",
+      "sha256": "2a0f9cfeea58c282c6bd7a5d7b3039880e2f73dbc206a5fb9e3aee0d19bee6d2",
+      "bytes": 37033,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "OA1/overlay.csv",
+      "sha256": "7d3b3560ce33a54c1fc7e0932750ca1e4548552b83aeedbf9a2093bf5fb73892",
+      "bytes": 779575,
+      "data_rows": 150,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "OA1/qc.json",
+      "sha256": "1a764e9e6517e1631b38e5d49a3d0f9eb820a3cccb2017f045e9dacf2bbec931",
+      "bytes": 3400,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "OA2/frozen_EID_manifest.csv",
+      "sha256": "0d8e1ac8a8ced9f0d9a3072fbd240dc2f716c3c8b790891bbb8447a40f24c692",
+      "bytes": 9035,
+      "data_rows": 150,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "OA2/handoff.md",
+      "sha256": "57f614972bbb9d11c3ea204942a0f97eb61bd55aa9a51ad3c929c343c3700f59",
+      "bytes": 1194,
+      "data_rows": 9,
+      "row_count_basis": "physical text lines, NOT research records"
+    },
+    {
+      "path": "OA2/overlay.csv",
+      "sha256": "c304e83b412a560fa30de22271584c4bb54742ab735c6fc27355500179c4282a",
+      "bytes": 167051,
+      "data_rows": 150,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "OA2/qc.json",
+      "sha256": "19382a26cf99d092a4d89cd819d4c016fda8e7fa22ff7d9d7fda25f3a1dd812e",
+      "bytes": 3938,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "OA2/qc_exclusions.json",
+      "sha256": "f4b7ca4dcd81ff4c068a76b67bcaf456a96f04674599d1f017f6ff4f141f7f12",
+      "bytes": 24356,
+      "data_rows": 82,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "README.md",
+      "sha256": "73eb78d695965b83466227d822887b1c66b24da9d6ccecf0a161647f7c43b9a8",
+      "bytes": 12488,
+      "data_rows": 66,
+      "row_count_basis": "physical text lines, NOT research records"
+    },
+    {
+      "path": "Scholar/handoff.md",
+      "sha256": "ea7a32a47383a244cfbde1ae50007f4c14b279ee1b6d8c1a84d9e6e4c2a44b9a",
+      "bytes": 2239,
+      "data_rows": 18,
+      "row_count_basis": "physical text lines, NOT research records"
+    },
+    {
+      "path": "Scholar/manifest.json",
+      "sha256": "f7069108fcee6359fe6ab7e7831b5a5369fd0c70378d8ac3c42c204d59cbef20",
+      "bytes": 15780,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Scholar/overlay.csv",
+      "sha256": "dcca171457b64157570843a4dd9ef9f346f9e6ea022fe00b994ffb75074175b5",
+      "bytes": 782042,
+      "data_rows": 538,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Scholar/qc_counts.json",
+      "sha256": "182a3c3c77461517765dc976dce53cf23926cf484dabf9092b9cdce60272ea26",
+      "bytes": 788,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_OA_corrective_events.csv",
+      "sha256": "16d70e1d234c54047b891d1afbfdff85a3048aabd7be81c41f3dfda58c40be68",
+      "bytes": 492498,
+      "data_rows": 300,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Sol_OA_unvalidated_semantic_QA.csv",
+      "sha256": "ef438511cdd89d4e4b7736c810e79de09e66cfd325f24e710437cb0d3c9499a9",
+      "bytes": 173165,
+      "data_rows": 105,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Sol_QA_counts.json",
+      "sha256": "557c864ca8a3eb3e47eea3afbfbb260bbb960939c6b37676c03308cd2bafba4c",
+      "bytes": 3753,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_X3_adjudications.csv",
+      "sha256": "d1c48d3be56356d32a7c98acbc0e5ed9f1c72c3d1bee17c153260b74adb16ca7",
+      "bytes": 283893,
+      "data_rows": 173,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Sol_effective_state_838.csv",
+      "sha256": "2c393d72ebbe971a0b571f46f877b2d921d747bed1e50dcaeb37594da9095d1f",
+      "bytes": 2771798,
+      "data_rows": 838,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Sol_expansion_freeze.json",
+      "sha256": "6c8a4f123fdc130aa3b30595fe32a44ff371aabdf3489d4dc752c8e9e7ef9a20",
+      "bytes": 1157,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_final_group_snapshot_PLANNED.json",
+      "sha256": "b2b383a99d90dca678f2d530625188d9632a4710a68f53a32e591e595f68a232",
+      "bytes": 16908,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_frozen_QA_manifest.json",
+      "sha256": "a9c628b6f9ff72a0100fa7315fa528518f057386f7d5a1cae6b154bc2f23209f",
+      "bytes": 47093,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_frozen_group_QA_results.json",
+      "sha256": "8a6a5165bbea4ad9b6fcb0bbab3a5c04cba8100f19c1a5ee99f7449c58e5578c",
+      "bytes": 37226,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "Sol_item_checks.tsv",
+      "sha256": "2f2660f60693657f5d0bb2ea8030d02285d957b6c36c70f0338131ff537373b4",
+      "bytes": 64947,
+      "data_rows": 195,
+      "row_count_basis": "CSV data records excluding header"
+    },
+    {
+      "path": "Sol_preservation_receipt.json",
+      "sha256": "1d48bc03f3b0cd77623a21151cb6d9ad58375eb0aa9217b395d3e8667e2472d4",
+      "bytes": 3173,
+      "data_rows": 1,
+      "row_count_basis": "top-level JSON objects; nested cohort counts recorded in content"
+    },
+    {
+      "path": "build_sol_artifacts.py",
+      "sha256": "63f95a4a659034dd14fb4afef64f42f217555f04ef425233fcd5ec6f68af579f",
+      "bytes": 16397,
+      "data_rows": 246,
+      "row_count_basis": "physical text lines, NOT research records"
+    },
+    {
+      "path": "freeze_sol.py",
+      "sha256": "f14f0e6565d6b54cff2c3d4e03fb4d756028245f45902b553d3c9c7be178feeb",
+      "bytes": 3077,
+      "data_rows": 51,
+      "row_count_basis": "physical text lines, NOT research records"
+    }
+  ]
+}

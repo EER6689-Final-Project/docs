@@ -1,0 +1,1055 @@
+{
+  "secondary_freeze_sha256": "f8cbc447a8b838c22202ab73fa32c4aa67f6258f86d38a891dd7ebfa070ebace",
+  "checks": [
+    {
+      "occurrence_E_ID": "E-0600",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread user-behavior-tailored tool plus representative traffic. R3 workload construction and R6 tool/evaluation design remain candidates, not verified realism.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / tool-study",
+        "R6 / tool-study"
+      ],
+      "original_title": "Walty: a user behavior tailored tool for evaluating web application performance",
+      "original_snippet": "… on the generation of a representative traffic. To address this task, … The goal of improving web performance can be achieved if web … developed, is that synthetic workload produced by web …",
+      "original_raw_metadata": "G Ruffo , R Schifanella , M Sereno … - Third IEEE International …, 2004 - ieeexplore.ieee.org",
+      "original_record_sha256": "e0fdd7e80669629c1e47c68fe28bb11e8009c23e441c995e8346b086890d0263",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0600",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0601",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread synthetic-page versus complete-site wording. This is workload coverage, not agreement with a reference tool; no R4 just from experiments.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / empirical-study"
+      ],
+      "original_title": "Does quic make the web faster?",
+      "original_snippet": "… In the first set of experiments, we serve synthetic pages (only … eg more than 90% of synthetic pages loaded faster with QUIC … complete web sites are specifically representative of network …",
+      "original_raw_metadata": "P Biswal , O Gnawali - 2016 IEEE Global Communications …, 2016 - ieeexplore.ieee.org",
+      "original_record_sha256": "033218712ddd7e3fe48b871abc7a530af1901ae4a0ae88268d8c4b619301b14e",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0601",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0602",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread book label and synthetic testing in monitoring chapters. Keep R3 context; sales representative supplies no user-sampling evidence, and book label is not a verified X4 basis.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / book-context"
+      ],
+      "original_title": "[B] Complete Web Monitoring: Watching your visitors, performance, communities, and competitors",
+      "original_snippet": "… 8 through 10—we cover web performance monitoring. This is … elements of web performance , we look at synthetic testing … offline when a sales representative contacts a customer or a …",
+      "original_raw_metadata": "A Croll, S Power - 2009 - books.google.com",
+      "original_record_sha256": "c73f0370d992707c1840414bdad9d981d282f066fb5887f0c55f85a8baf3a018",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0602",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0603",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread isolated-technique representativeness and synthetic comparison. R3/R6 are appropriate, R5 is not protocol speed comparison. Matching title/URL does not authorize identity reconciliation.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R6 / empirical-study"
+      ],
+      "original_title": "Web performance characteristics of http/2 and comparison to http/1.1",
+      "original_snippet": "… techniques in isolation, they are not always representative for real websites. We will now … of enabling easy and meaningful comparison with our synthetic experiments in Sect. 4.2. As …",
+      "original_raw_metadata": "R Marx, M Wijnants , P Quax , A Faes … - … Conference on Web …, 2017 - Springer",
+      "original_record_sha256": "a0ffc63a9cc25dd62bbfab8f282240075c0bcd63d874fc15015eaa6449fd6db3",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0603",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0606",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread synthetic UI fixtures and complexity ladder with explicit representativeness limit. Direct R3/R6 candidate, not an accepted architecture, coverage or novelty conclusion.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / preprint",
+        "R6 / preprint"
+      ],
+      "original_title": "Decomposing Browser Pipeline Architectures for DOM-Sourced Particle Effects: Worker Offload, WebGL, and WebAssembly",
+      "original_snippet": "… synthetic and harness-authored (Section 4.2). They exercise a controlled capture-complexity ladder, but they are not a representative … This study uses synthetic UI fixtures only (no …",
+      "original_raw_metadata": "H Asadi - arXiv preprint arXiv:2608.23609, 2026 - arxiv.org",
+      "original_record_sha256": "3530a0b158fd6d17189e4f07f70bfe15a5823c9702344975b211f30999f1d683",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0606",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0607",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread Predictus simulation in multilayer website setting. R3 uncertain advancement is justified to inspect modeled workload assumptions; no actual replication/uncertainty method is supplied.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / thesis-proxy"
+      ],
+      "original_title": "Website Performance Evaluation and Estimation in an E-business Environment",
+      "original_snippet": "This thesis introduces a new Predictus-model for performance evaluation and estimation in a multi-layer website environment. The model is based on soft computing ideas, ie simulation …",
+      "original_raw_metadata": "J Soininen - 2012 - researchportal.tuni.fi",
+      "original_record_sha256": "8627561fa8470f842e33e4cbef5ae590ab5e1f86077c6f2e9cf1a9fadeed937d",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0607",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0608",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1: no metric-scope definition. R2: custom instrumentation is an explicit capture candidate, overhead not yet shown. R3: commercial-server workload sampling is explicit. R4: a time interval alone supplies no uncertainty estimator. R5: no paired tools. R6: measurement/modeling setup is a candidate evaluation analogue. Reject X3 with server/browser limits retained.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R2 / empirical-study"
+      ],
+      "original_title": "Web server performance measurement and modeling techniques",
+      "original_snippet": "… Specifically, we created custom instrumentation and collected representative workload data from several large-scale, commerical Internet and Internet Web servers over a time interval …",
+      "original_raw_metadata": "J Dilley, R Friedrich, T Jin, J Rolia - Performance evaluation, 1998 - Elsevier",
+      "original_record_sha256": "e8705a6dc1861b6fa1bb4523859e8a9f5e7ba3c472176de51c9c2e3ad3245f44",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0608",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0610",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread end-to-end representativeness and synthetic laboratory wording. R3/R6 remain candidates; ProQuest dissertation URL and book label do not settle edition, originality or type.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R6 / thesis-proxy"
+      ],
+      "original_title": "[B] Modeling, Measurement and Performance of World Wide Web Transactions",
+      "original_snippet": "… We addressed the issue of a representative end-to-end system … We examined Web performance with both low and high … laboratory studies using synthetic workloads remain …",
+      "original_raw_metadata": "PR Barford - 2001 - search.proquest.com",
+      "original_record_sha256": "23cc13e16f4ac780f251991ae1cd207d9f7125c12e28c03ca8908614b561a5e3",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0610",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0611",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread FID/INP scope contrast; retain R1 while reliability and CWV-status assertions remain unverified/version-sensitive. No full-text metric validation occurred.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R1 / thesis-proxy"
+      ],
+      "original_title": "[PDF] Improving web performance by optimizing cascading style sheets (CSS): literature review and empirical findings",
+      "original_snippet": "… In contrast to FID, it measures all interactions on the page, which makes it more reliable and real world representative metric. Despite that INP is not a CWV metric, it is useful to …",
+      "original_raw_metadata": "S Kuparinen - Helsinki University Library, 2023 - helda.helsinki.fi",
+      "original_record_sha256": "313743968e6cbc536cb4aab5a83efb2b9049308732aad43d25ead90a5df12656",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0611",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0617",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 silk mechanical construct, not browser metric. R2 no capture mechanism. R3 synthetic silk is not workload simulation. R4 no repeated-estimator procedure. R5 no paired reference methods. R6 no stated transferable fixture/allocation design. Retain X3 for missing exact transfer, not because animal literature is prohibited.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [
+        "OUTSIDE-ALL-SIX / journal-proxy"
+      ],
+      "original_title": "[HTML] High-performance spider webs: integrating biomechanics, ecology and behaviour",
+      "original_snippet": "… , surpassing most natural and synthetic materials in both … (h) Representative stress–strain curves for dragline silk and … with web architecture determine web performance , is poorly …",
+      "original_raw_metadata": "AMT Harmer, TA Blackledge… - Journal of the …, 2011 - royalsocietypublishing.org",
+      "original_record_sha256": "45037bfa10d156e402e19bf8ee9e7fae4547c8ed21d977dae34de7263b764aaa",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0617",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0619",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread CBMG workload discussion with citation [28]. Keep R3 contextual/original-tracing route; it is not verified original empirical evidence or a browser workload validation result.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / context-proxy"
+      ],
+      "original_title": "[PDF] An Exploratory Analysis of Techniques for Web Usage Mining",
+      "original_snippet": "… Web performance application field, an interesting research direction is represented by the generation of representative synthetic … In [28], synthetic workload is created from CBMGs. More …",
+      "original_raw_metadata": "SS Bedi, H Yadav, P Yadav - researchgate.net",
+      "original_record_sha256": "972eaba77d978171d16d29c2ce9c5e648f9d1cfcb3b96197f194e5d28560e584",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0619",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0621",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread reproducible synthetic Web workloads under 802.11b. R3 warranted, but easy generation/reproduction alone does not specify R4 uncertainty or prove transport to current browsers.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / chapter-proxy"
+      ],
+      "original_title": "Wireless Web Performance Issues",
+      "original_snippet": "… This chapter focuses solely on IEEE 802.11b as a representative example of the DEEE 802.11 … We use synthetic Web workloads that are easy to generate, analyze, and reproduce. Our …",
+      "original_raw_metadata": "C Williamson - Web Content Delivery, 2005 - Springer",
+      "original_record_sha256": "de39e2863c11598a54fc43428e8389d90286421a7d5c98baae4bf14591229a1b",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0621",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0624",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 humidity-dependent spider mechanics, not browser constructs. R2 no capture perturbation method. R3 geographic ecological caution supplies no workload sampling procedure. R4 no repeated-estimator model. R5 no matched methods. R6 no transferable design mechanism stated. Retain X3 without categorical exclusion of animal analogues.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [],
+      "original_title": "Modelling temperature and humidity effects on web performance : implications for predicting orb-web spider ( Argiope spp.) foraging under Australian climate change …",
+      "original_snippet": "… We concede that our results should not be considered as representative for any spider web or EP construct from any given geographic region. That would require the collection of more …",
+      "original_raw_metadata": "SJ Blamires , WI Sellers - Conservation Physiology, 2019 - academic.oup.com",
+      "original_record_sha256": "dfdca3748d5c29d35854110bf989bd5dcee27f15cc19805473150d471fe69fc3",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0624",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0630",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric definitions. R2 no capture/observer method. R3 synthetic versus authentic input limitations are a tentative fidelity analogue. R4 no repeat uncertainty. R5 no matched measurement methods. R6 reproducible generation and test plans are explicit design candidates. Reject X3 but do not assert library-report data models are browser workloads.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Data to Insight: Practice and Evaluation of Runqian Reports in Library Analytics",
+      "original_snippet": "… However, synthetic data has limitations and cannot fully replace authentic historical data, … reproducible synthetic data generation methods and test plans to evaluate five representative …",
+      "original_raw_metadata": "W Su, Y Chen - … Conference on Dependable Systems and Their …, 2025 - ieeexplore.ieee.org",
+      "original_record_sha256": "bf0d0c46a4097762e51c39d0e504445a17ac6240533e355a7ae997458ebc05a6",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0630",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0636",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 silk curves, not browser constructs. R2 no observer mechanism. R3 natural/synthetic materials, not user workload fidelity. R4 no repeat variance method. R5 no matched measurement reference. R6 no exact browser design transfer. Semantic X3 is independent of unresolved E-0617 duplicate candidate, not an accepted DUP disposition.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": true,
+      "selected_groups": [],
+      "original_title": "[HTML] High-performance spider webs: integrating biomechanics, ecology and behaviour",
+      "original_snippet": "… , surpassing most natural and synthetic materials in both … (h) Representative stress–strain curves for dragline silk and … with web architecture determine web performance , is poorly …",
+      "original_raw_metadata": "AMT Harmer , TA Blackledge … - Journal of the …, 2011 - royalsocietypublishing.org",
+      "original_record_sha256": "0255485580cc8030d56fa81651a89e1100d702dece41b854335e3e5e4708a8c4",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0636",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0640",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric semantics. R2 no capture mechanism. R3 object lifetimes/cache state can condition workload transfer. R4 plotted means do not establish repeat uncertainty. R5 no agreement between tools. R6 varied lifetime/shift conditions are design-factor candidates. Reject X3 without transferring prefetching benefits or numerical factors.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[PDF] Web prefetching: Costs, benefits and performance",
+      "original_snippet": "… Here as a representative sample, we just show the plot with shift factor = -4, where mean objects lifetime is about 1000 seconds (several minutes). The remaining plots with different shift …",
+      "original_raw_metadata": "Y Jiang, MY Wu , W Shu - … of the 7th international workshop on …, 2002 - researchgate.net",
+      "original_record_sha256": "1eed7e4fa70b20b5a347e0ced7d9c2e320383ec7c9ede79a9acd89d349bbfe8d",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0640",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0646",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 specifications are mentioned, not their metric definitions. R2 no browser observation. R3 synthetic organizations are not page/user workloads. R4 shuffling organizational correlations is not performance-repeat uncertainty. R5 correlations are not agreement. R6 governance interests provide no fixture/corpus/profiler design bridge. Retain X3, not a metadata type/date exclusion.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [
+        "OUTSIDE-ALL-SIX / empirical-study"
+      ],
+      "original_title": "Who shapes Web standards? Uncovering the main topics of interest in the W3C",
+      "original_snippet": "… Similarly, several specifications published by the Web Performance WG … a synthetic dataset with no correlations between organizations by independently shuffling the representative …",
+      "original_raw_metadata": "HS Xavier , B Rocha, D Cortiz - … of the ACM Web Conference 2026, 2026 - dl.acm.org",
+      "original_record_sha256": "0275ca19f707c8a544ccbb256e43f276263f33a2b95e176a989f7ec8e72deb5f",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0646",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0649",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no metric definitions. R2 individual script execution does not itself show capture overhead. R3 synthetic partial-system load and representativeness are explicit. R4 no estimator. R5 no measurement-method pairing. R6 isolated Web scripts versus coupled Web/telephony conditions give design factors. Reject X3 with coupled-system limits.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R3 / case-study",
+        "R6 / case-study"
+      ],
+      "original_title": "Performance Testing-A Case Study of a Combined Web/Telephony System",
+      "original_snippet": "… a part of a system, with a synthetic workload, ie taking a real system and … The best that can often be hoped for is representative … The Web performance scripts all ran individually without a …",
+      "original_raw_metadata": "JCC Shaw, CG Baisden, WM Pryke - BTEXACT …, 2003 - books.google.com",
+      "original_record_sha256": "9326cf9fd1703b602714c70ad544b72f6b952df3f0cd811ddbe84e866492c8eb",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0649",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0650",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser constructs. R2 no observation perturbation. R3 no synthetic/field fidelity procedure in excerpt. R4 resampling repeated building measurements is explicit. R5 no matched tools. R6 repeated-unit benchmark/resampling design is a candidate. Reject X3, checking hierarchy/model assumptions before any runtime application.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / empirical-study"
+      ],
+      "original_title": "Data-driven benchmarking of building energy efficiency utilizing statistical frontier models",
+      "original_snippet": "… values or estimate their uncertainty by resampling from one set of … ( repeated measurements of energy consumption of buildings) enables using actual data to estimate the uncertainty in …",
+      "original_raw_metadata": "A Kavousian , R Rajagopal - Journal of computing in civil …, 2014 - ascelibrary.org",
+      "original_record_sha256": "dcbd2a76c282434a4cab798732a3e726396917e1f292879c5980e63900bbfc50",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0650",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0651",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread distinct experiment-timing and network-roundtrip repetition counts. R4 is timing-replication candidate, not merely qubit performance; neither count is adopted or verified from full text.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / preprint"
+      ],
+      "original_title": "Millisecond-Scale Calibration and Benchmarking of Superconducting Qubits",
+      "original_snippet": "… uncertainty from repeated measurements (3000 repeats for experiment timings; 1000 repeats for network roundtrip measurements). All on-FPGA primitives complete below the LAN …",
+      "original_raw_metadata": "MA Marciniak , RT Birke, JB Severin , F Berritta … - arXiv preprint arXiv …, 2026 - arxiv.org",
+      "original_record_sha256": "0dc7b94b98b0d9b499a884d794b6a9fe866e1d3be6995199d461cc15c1d802f6",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0651",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0657",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread accuracy versus repeated-measure consistency distinction. R4 conceptual route is bounded; this does not verify a new original estimator or thermochemical-to-runtime model equivalence.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / method-context"
+      ],
+      "original_title": "Uncertainty quantification in thermochemistry, benchmarking electronic structure computations, and Active Thermochemical Tables",
+      "original_snippet": "… The role of uncertainty is to convey a quantitative indication of accuracy. Colloquially, … reflects the degree of consistency between repeated measurements and provides an account of …",
+      "original_raw_metadata": "B Ruscic - International Journal of Quantum Chemistry, 2014 - Wiley Online Library",
+      "original_record_sha256": "e453e1f27b2dd6684df5b98d2e8d28caa17134fbf42912c3f2c2eac52971ff7c",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0657",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0659",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric definition. R2 no capture. R3 no population-fidelity study. R4 scoring rule/heteroscedastic repeated-data uncertainty is explicit in title. R5 no paired browser reference methods. R6 no specific allocation/corpus method supplied. Reject X3; snippet negation describes an unverified estimate/problem, not proof the proposed method succeeded.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / method-preprint"
+      ],
+      "original_title": "Evaluating Aleatoric Uncertainty from Repeated Measurements : A Proper Scoring Rule for Heteroscedastic Probabilistic Surrogates",
+      "original_snippet": "… • demonstrate AV-NLL’s practical utility as a benchmarking criterion on an industrial-scale … the total uncertainty , and the aleatoric estimate is not verified against repeated measurements . …",
+      "original_raw_metadata": "F Dunkes, C Breitsamter - Available at SSRN 7548499 - papers.ssrn.com",
+      "original_record_sha256": "ed1bd32666203b88f9d57762d164c7b807650ecbc3319a71644e02d2be094d33",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0659",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0661",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread two named velocimetry methods and errors constant/varying at common true value. R4 bias/variation and R5 matched-method comparison remain candidates, with pairing/reference error and tolerances to inspect.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R5 / empirical-study"
+      ],
+      "original_title": "Benchmarking particle image velocimetry with laser doppler velocimetry for rotor wake measurements",
+      "original_snippet": "… measurement error that remains constant in repeated measurements of the same true value… vary with repeated measurements of the same true value. The uncertainty associated with …",
+      "original_raw_metadata": "M Ramasamy, JG Leishman - AIAA journal, 2007 - arc.aiaa.org",
+      "original_record_sha256": "107a03423ceff5517b39de1a826953b628fee338a2c4043a99d0059ce0022234",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0661",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0664",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metrics. R2 no capture perturbation. R3 no workload-fidelity procedure. R4 per-product repeated observations over time raise explicit dependence/uncertainty. R5 no paired tools. R6 robustness-integrated model selection is a candidate design analogue. Reject X3 without importing deterioration dynamics.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R6 / method-preprint"
+      ],
+      "original_title": "Mechanism-aware model selection for food-quality deteriorationunder repeated measures: a Robustness-Integrated Evidence andChoice (RIEC) benchmark on olive …",
+      "original_snippet": "… increasingly contain repeated measurements for each product … increasingly provide repeated measurements over time for … samples, both uncertainty quantification and complexity …",
+      "original_raw_metadata": "J Li, X Li, J Ji - Available at SSRN 6410678 - papers.ssrn.com",
+      "original_record_sha256": "2c4b8b86533bbff70a01fb8e33855dc7d7842cf91d6661d17b1036b2cae7a730",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0664",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0665",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 turbine prediction target, not browser constructs. R2 no capture/observer mechanism. R3 no workload/user coverage. R4 prediction UQ has no supplied repeat estimator or calibration bridge. R5 no matched measurement agreement. R6 no concrete general evaluation-control mechanism beyond turbine ML benchmarking. Retain X3 on current snippet, not because all predictive methods are ineligible.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [
+        "OUTSIDE-ALL-SIX / preprint"
+      ],
+      "original_title": "Benchmarking Machine Learning Uncertainty Quantification Methodologies for Predicting Turbine Gas Temperature Degradation",
+      "original_snippet": "… gas temperature predictions and robust uncertainty quantification to ensure reliability and … -- as a means of capturing the uncertainty in neural network predictions of turbine gas …",
+      "original_raw_metadata": "J Barry-Straume, C Son , A Sandu , G Burke… - arXiv preprint arXiv …, 2026 - arxiv.org",
+      "original_record_sha256": "da99cc6b17428bc55df050dfd7c662ea1e82ad86554d9074669696f88f5ec083",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0665",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0667",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread validation-study uncertainty and repeatability pitfalls. Retain R4; ten repeats is not a recommended sample size, and comparison with validation data does not alone establish R5 agreement.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / method-study"
+      ],
+      "original_title": "Repeatability: some aspects concerning the evaluation of the measurement uncertainty",
+      "original_snippet": "… uncertainty compared with one calculated using the data from the validation study. There is an additional pitfall for this type of benchmarking … study of ten repeated measurements . The …",
+      "original_raw_metadata": "M Rösslein , S Rezzonico, R Hedinger… - Accreditation and quality …, 2007 - Springer",
+      "original_record_sha256": "da8b5ff5946cac0b48e67edb36078e7eaaad19715a8654055d60b4c35fafedc2",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0667",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0668",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread repeated event-duration uncertainty in a benchmarking chapter. R4 context route stands; chapter originality, source type and uncertainty assumptions remain unverified.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / chapter-proxy"
+      ],
+      "original_title": "Statistical Measurements",
+      "original_snippet": "… This introduces uncertainty into our measurements raising the question of how good the … Repeated measurements of the same event duration will lead to values X ± ∆. This effect is …",
+      "original_raw_metadata": "S Kounev , KD Lange , J Kistowski - … Benchmarking : For Scientists and …, 2020 - Springer",
+      "original_record_sha256": "361a93e647f484f3e0da0d66f183287035d3a316f8b8f4c622a78d2a5c99874b",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0668",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0669",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread sensitivity to assumptions, benchmarking datasets and simulations. R6 is justified; comparison of analytical methods is not automatically R5 measurement agreement, and general uncertainty wording does not supply repeated-performance R4.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R6 / method-study"
+      ],
+      "original_title": "On the role of benchmarking data sets and simulations in method comparison studies",
+      "original_snippet": "… Given the uncertainty , it is good practice to vary the assumptions in the sense of sensitivity … benchmarking and simulations in this framework, we get the following: For benchmarking , the …",
+      "original_raw_metadata": "S Friedrich , T Friede - Biometrical Journal, 2024 - Wiley Online Library",
+      "original_record_sha256": "49f2b90c7c90c540c040391f7335396c46a5d60456cad7405f2b2ec18d876f91",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0669",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0670",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread predictable change versus random repetition effects and expanded uncertainty. Retain R4 drift/uncertainty candidate; do not infer correct coverage or use the unknown multiplier.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / thesis-proxy"
+      ],
+      "original_title": "Quantitative Benchmarking of Inline Computational Imaging",
+      "original_snippet": "… varies in a predictable manner over the course of repeated measurements ) and in a random … Finally, the expanded uncertainty is obtained by multiplying the combined uncertainty with a …",
+      "original_raw_metadata": "T Kocher - 2026 - repositum.tuwien.at",
+      "original_record_sha256": "4f0f03c0a928f809265b96735312d939ad595322569fa152afc49bf75ba9f1e8",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0670",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0671",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread BenchSEE targeted uncertainty analysis separating repeated random variation and Type B. R4/R6 tool/evaluation design remain candidates; no matched browser reference tool or energy-to-time equivalence established.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / tool-study"
+      ],
+      "original_title": "Uncertainty , Consistency, and Applicability Analysis of Server Energy Efficiency Measurement via BenchSEE",
+      "original_snippet": "… efficiency benchmarking tool named BenchSEE. Second, we propose a targeted uncertainty … analysis, originating from random variations in repeated measurements . Type B refers to the …",
+      "original_raw_metadata": "W Wang, W Zheng - 2025 5th International Conference on High …, 2025 - ieeexplore.ieee.org",
+      "original_record_sha256": "2ba882143e02ebea7b3fff08c7fa0b10e0287a30e2cb0c8b244949c582a4c916",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0671",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0672",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 answer accuracy is not browser construct scope. R2 no capture. R3 no workload population procedure. R4 temporal stability plus repeated observations motivates an uncertain drift/repeat design check. R5 consensus-guideline scoring is not matched measurement agreement. R6 no concrete allocation design supplied. Reject X3 provisionally, not endorse clinical scoring transfer.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Performance of large language models in endodontics: accuracy, consistency, and benchmarking with consensus guidelines",
+      "original_snippet": "… Furthermore, the importance of repeated measurements and temporal stability is highlighted; … reduces the uncertainty created by partially correct answers seen in open-ended formats. …",
+      "original_raw_metadata": "S Sismanoglu , V Isik , MB Kayahan - BMC Oral Health, 2026 - Springer",
+      "original_record_sha256": "e635a6380859d7e1129679d1aff6bbba0bb90a6c1b0894113966d5d6d1e85790",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0672",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0673",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 physical frequency, not browser construct. R2 no supplied capture perturbation mechanism. R3 no workload transfer. R4 repeated transitions revealing sensitivity justify inspecting conditional measurement variability; exact cause is cut off. R5 no matched reference-tool agreement. R6 no general allocation/control design supplied. Reject X3 at uncertain screen; do not fabricate sensitivity conditions or adopt improved-uncertainty numbers.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Benchmarking Theory with an Improved Measurement of the Ionization and Dissociation Energies of",
+      "original_snippet": "… 0 of ortho-H2 that has, for the first time, reached a level of uncertainty that is 3 times smaller … Repeated measurements of these transitions revealed a high sensitivity of their frequencies …",
+      "original_raw_metadata": "N Hölsch , M Beyer , EJ Salumbides , KSE Eikema … - Physical review …, 2019 - APS",
+      "original_record_sha256": "ec67c0a43070eb4514f1ada8048c4fe20a6e468cfa0ac96ca140cdcc8d726362",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0673",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0674",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric semantics. R2 no capture mechanism. R3 no population fidelity. R4 explicit instruction for many repeats with uncertainty motivates method-context inspection. R5 agreement of theory/experiment is not browser reference-tool conformance. R6 no concrete fixture/allocation scheme supplied. Reject X3 provisionally without importing hydrogen physics.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Benchmarking strong-field ionization with atomic hydrogen",
+      "original_snippet": "… agree to within the uncertainty of the measurement, we know … hydrogen and their relevance to benchmarking of strong-field … We should take many repeated measurements of d, with …",
+      "original_raw_metadata": "D Kielpinski , RT Sang , IV Litvinyuk - Journal of Physics B: Atomic …, 2014 - iopscience.iop.org",
+      "original_record_sha256": "45052e5bd764e512791c5e78151adaa5f9b277d4727ec3383ae873b615f300c8",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0674",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0675",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 surrogate friction prediction is not browser metric semantics. R2 no capture. R3 no page/user fidelity. R4 input-uncertainty propagation is a specific metrology distinction to inspect versus empirical run variability. R5 no matched tool agreement. R6 open reference-function benchmarking is a tentative controlled-benchmark analogue from title, not verified methods. Reject X3 with surrogate assumptions bounded.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Physics-constrained machine-learning surrogates for the colebrook friction factor: monotonic gradient boosting, uncertainty quantification, and open benchmarking",
+      "original_snippet": "… Systematic propagation of input parameter uncertainty … of uncertainty bounds, and transparent open benchmarking … uncertainty quantification, and transparent benchmarking into a …",
+      "original_raw_metadata": "TD Muftuoglu - Scientific Reports, 2026 - nature.com",
+      "original_record_sha256": "5b0894c320ba4d361a6cf31c6f5d7bb9cb01152437b56cb6881d9d3f72440d9e",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0675",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0676",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 wedge mechanics, not browser metrics. R2 no observer mechanism. R3 no page/user transfer. R4 comparing repeated estimates under uncertainty is a tentative cross-setup precision analogue. R5 no specified matched-method agreement. R6 analogue benchmark design needs checking, no actual allocation asserted. Reject X3 at uncertain screen, not transfer geological conclusions.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Benchmarking analogue models of brittle thrust wedges",
+      "original_snippet": "… The obtained values for repeated measurements correspond closely to ours. Their mean … However, even when taking into account this uncertainty , the quartz sand wedge of experiment …",
+      "original_raw_metadata": "G Schreurs , SJH Buiter , J Boutelier, C Burberry … - Journal of Structural …, 2016 - Elsevier",
+      "original_record_sha256": "c708d6d40b56d0690c60a9f92adbe2183a10e42845b1134b9fb1a7ad8aa54261",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0676",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0677",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 decay-rate construct is not browser metric scope. R2 no profiling capture method. R3 no workload coverage. R4 background uncertainty and late-tail/window bias are concrete sensitivity issues. R5 mention of two ISO methods is insufficient for agreement. R6 time-window admissibility is an explicit design factor. Reject X3 without reusing decay-specific windows.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[HTML] Air Exchange Rate Estimation from CO 2 Decay: Background-Bias Benchmarking , Time-Window Stability Mapping and Implications for Ventilation Heat-Loss …",
+      "original_snippet": "… The benchmark showed that admissible windows shrink as background uncertainty increases, while late, tail-dominated intervals are particularly prone to bias. The two ISO methods …",
+      "original_raw_metadata": "K Nering , K Nowak-Dzieszko, K Nering, J Müller… - Sustainability, 2026 - mdpi.com",
+      "original_record_sha256": "5cea1df200c691640ad852b5274e0dba792c5a2b1ac88278143319e0f1bca3d6",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0677",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0678",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread repeated grinding measurements separating process variability and measurement repeatability. Retain R4 data-structure candidate; dataset availability/originality and sample independence remain unverified.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / dataset-proxy"
+      ],
+      "original_title": "[HTML] Industrial manufacturing dataset for cylindrical plunge grinding of martensitic gray cast iron piston rings",
+      "original_snippet": "… comparative studies, benchmarking activities, and … repeated measurements further enable investigations of process variability and measurement repeatability, contributing to uncertainty …",
+      "original_raw_metadata": "M de Castro Cesário , MV de Souza, MC Pereira … - Data in Brief, 2026 - Elsevier",
+      "original_record_sha256": "d29ec1ebae45b162ab9a766580391e477dff45691b7cbc695eb1e892ab2a603f",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0678",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0679",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 geotechnical site is not website semantics. R2 no capture. R3 no synthetic-user coverage. R4 no repeat estimator. R5 comparison of methods is not agreement. R6 standard benchmarks/uniform procedure supply a tentative general benchmark-design bridge. Reject X3 pending concrete procedure inspection, not geotechnical effect transfer.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Comparison of data-driven site characterization methods through benchmarking : Methodological and application aspects",
+      "original_snippet": "… (2022c) proposed standard benchmarks and a uniform benchmarking procedure. Benchmarking serves to identify the respective strengths and weaknesses of a given methodology in …",
+      "original_raw_metadata": "T Shuku , KK Phoon - ASCE-ASME Journal of Risk and Uncertainty …, 2023 - ascelibrary.org",
+      "original_record_sha256": "4fb49344116f5b6e15c94039a52df11cd52ec7bf1566f17a057ca51fb229d245",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0679",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0680",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 dose is not browser metric. R2 no instrumentation perturbation. R3 no page/user coverage. R4 repeats within and across centres/linacs supply hierarchy. R5 standardized QA label alone does not establish matched-method agreement. R6 common virtual phantom and multi-centre design are fixture analogues. Reject X3; human/clinical prior work is not categorically barred.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[HTML] A multi-institutional EPID-based 3D dose reconstruction model in a virtual phantom for standardized patient QA, benchmarking and auditing for stereotactic …",
+      "original_snippet": "… of three repeated measurements including measurements at two separate centres/linacs. … of four repeated measurements including measurements at two separate centres/linacs. …",
+      "original_raw_metadata": "B Zwan , E Searle, C Stanton, CL Teng, SB Lim… - Physics and Imaging in …, 2026 - Elsevier",
+      "original_record_sha256": "61cd786230a27a282864f992a4d6b5193bbf591a3aa869055c0d6098f25992c6",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0680",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0681",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 detection threshold is not browser metric definition. R2 no capture. R3 no workload-fidelity study. R4 repeated exceedance counts versus expected distribution suggest calibration/false-alarm uncertainty. R5 no matched tools. R6 simulated-data benchmark with distributional expected effects is explicit. Reject X3 without adopting radiation distributions.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Simulation of Radiological Background Data for Benchmarking Statistical Algorithms to Enhance Current Radiological Detection Capabilities",
+      "original_snippet": "… The related y* values are calculated for each distribution and repeated measurements at or above y* are counted and compared to those expected for the given distribution. Four …",
+      "original_raw_metadata": "MA LaBrake - 2017 - search.proquest.com",
+      "original_record_sha256": "0149c8c96fb3e925a5c91d6d49baea0873d133bc3db60a1c2db71365eb833b6d",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0681",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0682",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 river geometry/discharge, not browser metrics. R2 no observer-effect bridge. R3 dry-season condition is not a workload coverage method. R4 repeated areas estimate hydraulic minimum, with width uncertainty omitted, not supplied general repeat uncertainty. R5 algorithm comparison is not agreement. R6 no concrete transferable allocation/control method in excerpt. Retain X3, not a categorical hydrology exclusion.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [],
+      "original_title": "Benchmarking wide swath altimetry‐based river discharge estimation algorithms for the Ganges river system",
+      "original_snippet": "… No uncertainty was considered for width observations in this study. … Repeated measurements of river cross-sectional area during a river’s dry season are needed to estimate minimum …",
+      "original_raw_metadata": "MG Bonnema , S Sikder , F Hossain … - Water Resources …, 2016 - Wiley Online Library",
+      "original_record_sha256": "5a6c12c965626a7b65f3e37b5d9740dc8c426070e51a1756fd92aa60f4c91c59",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0682",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0683",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 sequencing outcome, not browser semantics. R2 no capture effect. R3 no page/user coverage. R4 repeated samples are a tentative dependence/replicate-structure analogue. R5 no paired references. R6 factorial combinations are explicit controlled design. Reject X3 without equating biological/technical replicates to independent runtime runs.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Benchmarking a 16S rRNA sequencing protocol for microbiome analysis in low-moisture grain environments",
+      "original_snippet": "… remain absent, leaving uncertainty about which analytical approaches … This study used a factorial benchmarking approach to … sample, yielding repeated measurements . All combinations …",
+      "original_raw_metadata": "SD Prakash , SB Bheemaiah , J Sytsma , K Tenzin… - Food Research …, 2026 - Elsevier",
+      "original_record_sha256": "3f17c33c1871ad4fd46c05e0ea13a83d3231fbb71f5aeef2a812e6ba4de160ef",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0683",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0684",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 soil stock, not browser semantics. R2 no capture perturbation. R3 national monitoring/site frame motivates sampling-frame inspection. R4 cores bulked within site explicitly expose aggregation and hierarchical SD. R5 no matched tools. R6 monitoring/site sampling design is a candidate. Reject X3 without importing land-population assumptions or nine-core count.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[HTML] Design and results from a national soil carbon stock benchmarking and monitoring system for agricultural land in New Zealand",
+      "original_snippet": "… The standard deviation of repeated measurements of nine bulked SOC stock cores at a site … can be difficult to understand due to uncertainty around the relative influence of Organic …",
+      "original_raw_metadata": "PL Mudge , GL Glover-Clark, SJE McNeill , Z Dewhurst… - Geoderma, 2025 - Elsevier",
+      "original_record_sha256": "95cda22386f1f034832f7d2bbe60e3741a9b5451106db5230b47cd56741341a8",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0684",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0685",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser construct definitions. R2 no capture method. R3 no workload coverage mechanism. R4 covariate/repeated-unit model handling is explicit. R5 no paired reference agreement. R6 benchmarked FDR control is a candidate multi-metric testing design. Reject X3; no claim that omics model/calibration fits runtime distributions.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Multivariable association discovery in population-scale meta-omics studies",
+      "original_snippet": "… or without covariates and repeated measurements . To construct … To this end, our large-scale benchmarking enables a … , as failure to control the FDR causes uncertainty in both scientific …",
+      "original_raw_metadata": "H Mallick , A Rahnavard , LJ McIver , S Ma … - PLoS computational …, 2021 - journals.plos.org",
+      "original_record_sha256": "d967ce3df21165bd3ca091b4623c54969186742e2c4d7bd3efdbecb5c7ada456",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0685",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0686",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 quantum objective, not browser metric. R2 amplified-state readout supplies no exact observer-effect transfer. R3 simulation extrapolation does not define user/workload coverage. R4 four state observations supply no transferable repeat estimator/dependence procedure. R5 no paired measurement agreement. R6 no general control/corpus method beyond heuristic-specific result. Retain X3, unlike records explicitly detailing timing or uncertainty methods.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [],
+      "original_title": "Benchmarking Quantum Heuristics: Non-Variational QWOA for Weighted Maxcut",
+      "original_snippet": "… While extrapolation beyond the simulated range introduces uncertainty , the interference … Each result shown is based on four repeated measurements of the amplified quantum state (…",
+      "original_raw_metadata": "T Bennett, A Smith, E Matwiejew , J Wang - arXiv preprint arXiv …, 2025 - arxiv.org",
+      "original_record_sha256": "6eb6de33703c86ce774fc79b6130378bcb33bca2759015d21b0781bcbe1d85e0",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0686",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0687",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread proposed replacement of repeat-based Type A uncertainty by one-measurement propagation. R4 and tentative R5 estimator-method validation are justified by common uncertainty target, not the comparison word alone; common estimand/pairing/error/tolerances remain to inspect.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R5 / method-study"
+      ],
+      "original_title": "Type A standard uncertainty evaluation in one measurement through uncertainty propagation from voxel values' distribution for computed tomography metrology",
+      "original_snippet": "… In order to confirm whether and to what extent the uncertainty calculated by our method can replace the type A uncertainty evaluated by repeated measurements , these two uncertainties …",
+      "original_raw_metadata": "D Ou, Y Xiao, D Lan, Y Wang - Measurement Science and …, 2024 - iopscience.iop.org",
+      "original_record_sha256": "928714b79f03a968c1c1f6edd8002fa743b7badef36514cbf1407ce6d9e2aa13",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0687",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0688",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 lesion outcome is not browser semantic construct. R2 no capture. R3 no user/page fidelity. R4 repeated-measures ANOVA/post-hoc testing is an explicit dependence-analysis analogue, suitability unknown. R5 no measurement agreement. R6 shared benchmark inferential comparison design warrants inspection. Reject X3 without adopting tests for skewed/nested timings.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "ISLES 2016 and 2017- benchmarking ischemic stroke lesion outcome prediction based on multispectral MRI",
+      "original_snippet": "… , one-way analysis of variances for repeated measurements , and post-hoc Dunn test for … uncertainty for clinical decision making. Regarding lesion outcome prediction, uncertainty could …",
+      "original_raw_metadata": "S Winzeck , A Hakim , R McKinley , JA Pinto … - Frontiers in …, 2018 - frontiersin.org",
+      "original_record_sha256": "269e9d13d8ccdd0a07a8ebec265088bfde500e7cc8fd9f11d31eab0e56ac4a5e",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0688",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0689",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric semantics. R2 no observer mechanism. R3 no synthetic/field transfer. R4 repeated software measurements motivate noise/dependence checking. R5 optimizer comparison is not matched tool agreement. R6 variable budgets and configuration factors are explicit design candidates. Reject X3 without importing optimizer rankings.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "When to Use Which? Benchmarking Optimisers for Configurable Systems under Varying Budgets",
+      "original_snippet": "… Note that the dataset we considered was constructed based on repeated measurements for … but is generally more effective than optimisers which consider uncertainty , eg, SMAC. …",
+      "original_raw_metadata": "C Jiang , Y Ye , T Chen , M Li - arXiv preprint arXiv:2607.16476, 2026 - arxiv.org",
+      "original_record_sha256": "9102d605882f2f84bb74203defa712b1e28c918b7ac6e7f9b74fb5b936a2ae0f",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0689",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0690",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread optimization benchmarking best-practice and repeated-measures ANOVA reference. R4/R6 method-context route remains, not proof of correct tests for browser run hierarchy or an R5 mapping.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R6 / method-context"
+      ],
+      "original_title": "Benchmarking in optimization: Best practice and open issues",
+      "original_snippet": "… Surely, this paper cannot cover every single aspect related to benchmarking . Although this paper … are involved, the parametric version is the repeated measurements ANOVA [Lindman…",
+      "original_raw_metadata": "T Bartz-Beielstein , C Doerr , D Berg , J Bossek … - arXiv preprint arXiv …, 2020 - arxiv.org",
+      "original_record_sha256": "8405b95a743c15a274578a4b09aa4da4b9912e6023c6efbffbdfcf5bde4b8bec",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0690",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0691",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 no browser metric definition. R2 setup bias alone is not explicit observation-induced overhead. R3 representative title alone supplies no workload-fidelity procedure. R4 repeats/reproducibility versus setup bias is an explicit metrology distinction. R5 no matched methods. R6 no concrete allocation/corpus design supplied. Reject X3 for bounded context only; primary originality pending.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "Battery research needs more reliable, representative and reproducible synchrotron characterizations",
+      "original_snippet": "… evaluated by repeated measurements and reproducibility … to the instrument or setup bias/ uncertainty , for instance). Several … or benchmarking using repeated measurements or …",
+      "original_raw_metadata": "J Drnec , S Lyonnard - nature nanotechnology, 2025 - nature.com",
+      "original_record_sha256": "a9992c44527b29b333b432a4a90e1c4954c6deb8df727e73a85739b56ab44b34",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0691",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0692",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 cavity state is not browser metric. R2 repeated readout is not a supplied profiling-overhead method. R3 no workload coverage. R4 two-run consistency relative to per-run uncertainty motivates hierarchy/uncertainty inspection. R5 two runs of the protocol are not matched reference methods. R6 no general allocation design supplied. Reject X3 provisionally without treating readouts as independent runtime replicates.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[PDF] Benchmarking dark matter search using a parity-check protocol with machine-learning optimized pulses",
+      "original_snippet": "… This enables repeated measurements of the cavity state, thereby reducing the impact of … The two runs agree on nc to within statistical uncertainty at the per-run sample size. The …",
+      "original_raw_metadata": "YH Chang, I Moskalenko , M Kuzmanović… - Physical Review D, 2026 - APS",
+      "original_record_sha256": "eea7f0de58ca436b14633c3b41cc2153550dc08bdb8d9da930f9ee1355e06181",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0692",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0696",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 regional composite indicators are not browser constructs. R2 no capture. R3 no workload transfer. R4 truncated repeat-versus-yearly distinction warrants uncertain temporal-aggregation inspection only. R5 indicator comparison is not agreement. R6 no specific transferable fixture/allocation method supplied. Reject X3 conservatively; this is a low-information candidate, not verified methodological relevance.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": false,
+      "selected_groups": [],
+      "original_title": "[HTML] Benchmarking Vietnam's regions: A standardized indicator-based comparison of ecological sustainability",
+      "original_snippet": "… A well-structured benchmarking approach to ecological … standardized, indicator-based benchmarking framework for Vietnam’… difference between repeated measurements and the yearly …",
+      "original_raw_metadata": "TTN Phan , L Hufnagel - Environmental and Sustainability Indicators, 2025 - Elsevier",
+      "original_record_sha256": "9cb5766a8ab5bf0ec71ff17586af039316d55a61fb7b5a666404751c02dfb6f8",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0696",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0697",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "R1 AUC/signal-strength ranking is not browser semantics. R2 no capture. R3 weighted particle training supplies no stated general workload-fidelity method. R4 no repeated-runtime uncertainty design. R5 ranking correlation is not agreement. R6 no explicit control/allocation/corpus bridge beyond classifier comparison. Retain X3 without claiming ML methods are categorically ineligible.",
+      "producer_exclusion_critical": true,
+      "sol_exclusion_critical": true,
+      "selected_groups": [],
+      "original_title": "Benchmarking Machine Learning Architectures for ttH Multilepton Signal Sensitivity",
+      "original_snippet": "… of signal-strength uncertainty , we report the commonly used ROC AUC metric and show that under realistically weighted training, it correlates well with the uncertainty -based ranking of …",
+      "original_raw_metadata": "L Viceník, A Sopczak , O Shekhovtsov - arXiv preprint arXiv:2607.18022, 2026 - arxiv.org",
+      "original_record_sha256": "b6a5d01540ffee6d4d8689dd88857cff59a8ed83e9726f816e5983f76aa05467",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0697",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    },
+    {
+      "occurrence_E_ID": "E-0698",
+      "status": "checked-no-further-discrepancy",
+      "secondary_observation": "Reread conceptual framework, phantoms, repeated measurements and explicit uncertainty modeling. R4/R6 conceptual candidate is warranted; future evaluation proposal is not an empirical uncertainty validation result or verified original primary evidence.",
+      "producer_exclusion_critical": false,
+      "sol_exclusion_critical": false,
+      "selected_groups": [
+        "R4 / conceptual-proxy",
+        "R6 / conceptual-proxy"
+      ],
+      "original_title": "Toward Metrology-Grade Multimodal AI in Medical Imaging: A Conceptual Framework for Uncertainty -Aware and Traceable Measurement Pipelines",
+      "original_snippet": "… datasets, repeated measurements , phantom studies, and explicit uncertainty modeling. … To facilitate future benchmarking , we propose high-level evaluation metrics aligned with the six-…",
+      "original_raw_metadata": "EM Kambale, CK Kubakisa, VW Kambale… - Procedia Computer …, 2026 - Elsevier",
+      "original_record_sha256": "de3f8ca680f5c8f3fa9fa6eab3277c66ac7ee107f8de04b12b0ed2c547c97167",
+      "original_anchor": "REVIEWQUEUE.csv / occurrence_E_ID=E-0698",
+      "checker": "Sol AI separate-pass self-audit; NOT independent human scientific review",
+      "review_date": "2026-10-26"
+    }
+  ],
+  "groups": {
+    "OUTSIDE-ALL-SIX / empirical-study": {
+      "selected": "E-0646",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0646"
+    },
+    "OUTSIDE-ALL-SIX / journal-proxy": {
+      "selected": "E-0617",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0617"
+    },
+    "OUTSIDE-ALL-SIX / preprint": {
+      "selected": "E-0665",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0665"
+    },
+    "R1 / thesis-proxy": {
+      "selected": "E-0611",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0611"
+    },
+    "R2 / empirical-study": {
+      "selected": "E-0608",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0608"
+    },
+    "R3 / book-context": {
+      "selected": "E-0602",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0602"
+    },
+    "R3 / case-study": {
+      "selected": "E-0649",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0649"
+    },
+    "R3 / chapter-proxy": {
+      "selected": "E-0621",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0621"
+    },
+    "R3 / context-proxy": {
+      "selected": "E-0619",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0619"
+    },
+    "R3 / empirical-study": {
+      "selected": "E-0601",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0601"
+    },
+    "R3 / preprint": {
+      "selected": "E-0606",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0606"
+    },
+    "R3 / thesis-proxy": {
+      "selected": "E-0607",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0607"
+    },
+    "R3 / tool-study": {
+      "selected": "E-0600",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0600"
+    },
+    "R4 / chapter-proxy": {
+      "selected": "E-0668",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0668"
+    },
+    "R4 / conceptual-proxy": {
+      "selected": "E-0698",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0698"
+    },
+    "R4 / dataset-proxy": {
+      "selected": "E-0678",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0678"
+    },
+    "R4 / empirical-study": {
+      "selected": "E-0650",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0650"
+    },
+    "R4 / method-context": {
+      "selected": "E-0657",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0657"
+    },
+    "R4 / method-preprint": {
+      "selected": "E-0659",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0659"
+    },
+    "R4 / method-study": {
+      "selected": "E-0667",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0667"
+    },
+    "R4 / preprint": {
+      "selected": "E-0651",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0651"
+    },
+    "R4 / thesis-proxy": {
+      "selected": "E-0670",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0670"
+    },
+    "R4 / tool-study": {
+      "selected": "E-0671",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0671"
+    },
+    "R5 / empirical-study": {
+      "selected": "E-0661",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0661"
+    },
+    "R5 / method-study": {
+      "selected": "E-0687",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0687"
+    },
+    "R6 / case-study": {
+      "selected": "E-0649",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0649"
+    },
+    "R6 / conceptual-proxy": {
+      "selected": "E-0698",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0698"
+    },
+    "R6 / empirical-study": {
+      "selected": "E-0603",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0603"
+    },
+    "R6 / method-context": {
+      "selected": "E-0690",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0690"
+    },
+    "R6 / method-preprint": {
+      "selected": "E-0664",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0664"
+    },
+    "R6 / method-study": {
+      "selected": "E-0669",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0669"
+    },
+    "R6 / preprint": {
+      "selected": "E-0606",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0606"
+    },
+    "R6 / thesis-proxy": {
+      "selected": "E-0610",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0610"
+    },
+    "R6 / tool-study": {
+      "selected": "E-0600",
+      "status": "checked-no-further-discrepancy",
+      "check_EID": "E-0600"
+    }
+  },
+  "new_substantive_discrepancies": 0,
+  "prospective_expansions": [],
+  "expansion_reason": "No new substantive discrepancy in the frozen secondary pass; all producer exclusions were already critical and reread",
+  "limitation": "AI separate-pass self-audit, not independent scientific review; only metadata/snippet semantic routing checked"
+}

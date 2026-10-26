@@ -1,0 +1,71 @@
+{
+  "scope": "Own additive subtree only; self excluded to avoid circular hash",
+  "files": {
+    "actual_checks.csv": {
+      "sha256": "7eea28de2bed4b97d9cc557c759edeea06fab27e34bbf7b843ed07da1277c07b",
+      "bytes": 29921,
+      "data_rows_excluding_header": 25,
+      "count_basis": "CSV records, excluding header"
+    },
+    "author_checks.json": {
+      "sha256": "334b109ac7395f46f31a3a126cbb2a01b30e2c92e8794bdee6f370ec4f1902c7",
+      "bytes": 22129,
+      "top_level_entries": 25,
+      "count_basis": "JSON top-level entries, not source/work count"
+    },
+    "build.py": {
+      "sha256": "0a553bb45921c0d3720568eb89a97659218f67d11eaf1c2233fb5d11fd7f4995",
+      "bytes": 5240,
+      "lines": 66,
+      "count_basis": "text lines, not source/work count"
+    },
+    "counts.json": {
+      "sha256": "d9148856b58bfd969ce52920316b5a29b2fd6eb86b976b4d2375f2cebdd7ac06",
+      "bytes": 1408,
+      "top_level_entries": 21,
+      "count_basis": "JSON top-level entries, not source/work count"
+    },
+    "finish.py": {
+      "sha256": "d80ab0e66c4fb09a470075f99796ad2cd1ed0a38d8e2b39b29d80a9a0aab41e9",
+      "bytes": 7333,
+      "lines": 93,
+      "count_basis": "text lines, not source/work count"
+    },
+    "freeze.py": {
+      "sha256": "423bf5e345d902967077127edc1c4887ced6dadeb9e4eebf38345fe2b78b324e",
+      "bytes": 1515,
+      "lines": 32,
+      "count_basis": "text lines, not source/work count"
+    },
+    "handoff.md": {
+      "sha256": "18d74165f17d6eed72f6b86170467a84cd43a1e7777cf054324a864aa8bcee0b",
+      "bytes": 6420,
+      "lines": 34,
+      "count_basis": "text lines, not source/work count"
+    },
+    "overlay25.csv": {
+      "sha256": "f6997c61dcb44a4873f1049bec16edbc2e05363f6446244241bf90c5853cbeac",
+      "bytes": 87481,
+      "data_rows_excluding_header": 25,
+      "count_basis": "CSV records, excluding header"
+    },
+    "qc_freeze.json": {
+      "sha256": "8c2df27462f914752ae7dc747c8e0a176e78b5a2cf8bb0d87a7a56819eacfc51",
+      "bytes": 8720,
+      "top_level_entries": 14,
+      "count_basis": "JSON top-level entries, not source/work count"
+    },
+    "qc_results.json": {
+      "sha256": "1d0536f4ff7c9fc36b40404bdf1c86d5e3a27c4e714dd2b4623eb67f77cefe25",
+      "bytes": 23471,
+      "top_level_entries": 12,
+      "count_basis": "JSON top-level entries, not source/work count"
+    },
+    "target_freeze.json": {
+      "sha256": "e5f3980ec2018133b4fc01a92fc71b9181bb70a1e3679629dcd641f4542f51a7",
+      "bytes": 2005,
+      "top_level_entries": 11,
+      "count_basis": "JSON top-level entries, not source/work count"
+    }
+  }
+}

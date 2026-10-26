@@ -1,0 +1,41 @@
+{
+  "scope": "delta only; no shared/global aggregate update",
+  "target_count": 25,
+  "primary_original_export_reads": 25,
+  "producer_six_question_judgments_validated": 25,
+  "effective_dispositions": {
+    "ADVANCE": 23,
+    "PENDING": 2
+  },
+  "X3": 0,
+  "DUP_merges": 0,
+  "SIDs_allocated": 0,
+  "events": "E-3800–E-3824 ordered E-0725–E-0749",
+  "producer_disposition_changes": {
+    "ADVANCE → PENDING": [
+      "E-0741",
+      "E-0742"
+    ]
+  },
+  "positive_R_membership_counts": {
+    "R5": 23,
+    "R4": 15
+  },
+  "positive_R_type_proxy_groups": 10,
+  "pending_type_proxy_groups": 2,
+  "proposed_exclusions": 0,
+  "secondary_planned": 10,
+  "secondary_actually_checked": 10,
+  "secondary_no_discrepancy": 10,
+  "secondary_corrected": 0,
+  "secondary_unresolved": 0,
+  "primary_reviewed_not_secondary_checked": 15,
+  "secondary_expansion_triggered": false,
+  "E0750_E0799_authored_or_read_by_this_task": 0,
+  "E0750_E0799_unreviewed_by_this_task": 50,
+  "metadata_date_language_type_identity": "PENDING for all 25",
+  "source_confidence_support": "UNASSESSED for all 25",
+  "fulltext_citations": "NOT RUN",
+  "G3": "OPEN",
+  "G4": "OPEN"
+}

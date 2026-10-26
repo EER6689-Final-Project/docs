@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-10-26T12:37:03.786968+05:30",
+  "delta": "new owned-folder files only; source and corrected producer unchanged",
+  "files": {
+    "Sol-FIRST25-overlay.csv": {
+      "bytes": 160181,
+      "sha256": "bef88b254b52e40e14bc763eea3399740c0cf5cc5d30c52e021e6b13cf5b02a5"
+    },
+    "build_primary.py": {
+      "bytes": 4570,
+      "sha256": "62b68f534060c587a576c853a3af6ecdf6e9ace0e37d5f60733f5b66e4b4b865"
+    },
+    "counts.json": {
+      "bytes": 707,
+      "sha256": "87931551a62bf24cb07bb2ec091371c356d89d759fffa867c9a788cf3c0c7b17"
+    },
+    "finalize.py": {
+      "bytes": 8146,
+      "sha256": "d18cf27e4265538e1849c7866f0b496b1ecd850e7a9ec38442836a945fc5e39c"
+    },
+    "freeze.py": {
+      "bytes": 1285,
+      "sha256": "aa9eac269f9f57f4b850bc922010a3a1228a41732db9d302e922a6281f9e2c4e"
+    },
+    "handoff.md": {
+      "bytes": 3330,
+      "sha256": "b96646e5fb0809aa0a299d0e96cc32a50b32f65a8b4306b6d2b45f289870291b"
+    },
+    "judgments.json": {
+      "bytes": 19304,
+      "sha256": "97089581ae718a8358a0772fb4485e0bfc783c3a77a40f0bd31a39bbacb17f44"
+    },
+    "preservation-receipt.json": {
+      "bytes": 2230,
+      "sha256": "21eb3aa4eabdd098bddf146a22b4f7e7a63a78db4750620d38cf72827bddfeda"
+    },
+    "primary-input-freeze.json": {
+      "bytes": 2766,
+      "sha256": "4e5107dfed85687ed2d139b2750bcf0549b5b933a313e710e79635c74e29cbfa"
+    },
+    "secondary-QA-results.json": {
+      "bytes": 31043,
+      "sha256": "5bd37726195b1ca0153fc6e4e8d751eca2a48aa6258ec0ed327afaf7092986ea"
+    },
+    "secondary-findings.json": {
+      "bytes": 4853,
+      "sha256": "fb27ef03e1a4767c4949bbb3d6022f544cf78909e2562956aaaafb4c28ad7d34"
+    },
+    "secondary-sample-freeze.json": {
+      "bytes": 4306,
+      "sha256": "e701020a5c51570ef7dc6731f10c019dfa9bfe86bd348f37b36e628eac1d518e"
+    }
+  }
+}

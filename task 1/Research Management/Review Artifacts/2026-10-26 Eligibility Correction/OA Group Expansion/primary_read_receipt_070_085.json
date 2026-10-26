@@ -1,0 +1,397 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:40:51.872759+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0387",
+      "event": "E-3570",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Benchmarking of the Fock-space coupled-cluster method and uncertainty estimation: Magnetic hyperfine interaction in the excited state of BaF",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We present an investigation of the performance of the relativistic multireference Fock-space coupled-cluster (FSCC) method for predicting molecular hyperfine structure (HFS) constants, including a thorough computational study to estimate the associated uncertainties. In particular, we considered the $^{19}\\mathrm{F}$ HFS constant in the ground and excited states of BaF. The ab initio values were compared to the recent experimental results, and good overall agreement within the theoretical uncertainties was found. This work demonstrates the predictive power of the FSCC method and the reliability of the established uncertainty estimates, which can be crucial in cases where the calculated property cannot be directly compared to experiment.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-05-31",
+        "language": "en",
+        "doi": "https://doi.org/10.1103/physreva.105.052811",
+        "platform_record_id": "https://openalex.org/W4226208156",
+        "record_url": "https://openalex.org/W4226208156",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1103/physreva.105.052811\", \"publication_year\": 2022, \"publication_date\": \"2022-05-31\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Malika Denis\", \"Pi A. B. Haase\", \"Maarten C. Mooij\", \"Yuly Chamorro\", \"Parul Aggarwal\", \"Hendrick L. Bethlem\", \"A. Boeschoten\", \"Anastasia Borschevsky\", \"Kevin Esajas\", \"Yongliang Hao\", \"Steven Hoekstra\", \"Joost W. F. van Hofslot\", \"Virginia R. Marshall\", \"T. B. Meijknecht\", \"Rob G. E. Timmermans\", \"Anno Touwen\", \"Wim Ubachs\", \"Lorenz Willmann\", \"Yanning Yin\"], \"venue\": \"Physical Review A\", \"openalex_id\": \"https://openalex.org/W4226208156\", \"landing_page_url\": \"https://doi.org/10.1103/physreva.105.052811\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "38",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b203324334be0cc968f90503537cd5b9d2ff5c73ddaf3ddba53804e2a21bf79b"
+    },
+    {
+      "target": "E-0390",
+      "event": "E-3571",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R1;R4;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "International collaboration framework for the calculation of performance loss rates: Data quality, benchmarks, and trends (towards a uniform methodology)",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract The IEA PVPS Task 13 group, experts who focus on photovoltaic performance, operation, and reliability from several leading R&D centers, universities, and industrial companies, is developing a framework for the calculation of performance loss rates of a large number of commercial and research photovoltaic (PV) power plants and their related weather data coming across various climatic zones. The general steps to calculate the performance loss rate are (i) input data cleaning and grading; (ii) data filtering; (iii) performance metric selection, corrections, and aggregation; and finally, (iv) application of a statistical modeling method to determine the performance loss rate value. In this study, several high‐quality power and irradiance datasets have been shared, and the participants of the study were asked to calculate the performance loss rate of each individual system using their preferred methodologies. The data are used for benchmarking activities and to define capabilities and uncertainties of all the various methods. The combination of data filtering, metrics (performance ratio or power based), and statistical modeling methods are benchmarked in terms of (i) their deviation from the average value and (ii) their uncertainty, standard error, and confidence intervals. It was observed that careful data filtering is an essential foundation for reliable performance loss rate calculations. Furthermore, the selection of the calculation steps filter/metric/statistical method is highly dependent on one another, and the steps should not be assessed individually.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-03-25",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/pip.3397",
+        "platform_record_id": "https://openalex.org/W3148721332",
+        "record_url": "https://openalex.org/W3148721332",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/pip.3397\", \"publication_year\": 2021, \"publication_date\": \"2021-03-25\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Sascha Lindig\", \"David Moser\", \"Alan J. Curran\", \"Kunal Rath\", \"Arash Khalilnejad\", \"Roger H. French\", \"Magnus Herz\", \"Björn Müller\", \"George Makrides\", \"George Elia Georghiou\", \"Andreas Livera\", \"Mauricio Richter\", \"Julián Ascencio‐Vásquez\", \"M. Van Iseghem\", \"Mohammed Meftah\", \"Dirk C. Jordan\", \"Chris A. Deline\", \"Wilfried G.J.H.M. van Sark\", \"Joshua S. Stein\", \"Marios Theristis\", \"Bennet Meyers\", \"Franz Baumgartner\", \"Wei Luo\"], \"venue\": \"Progress in Photovoltaics Research and Applications\", \"openalex_id\": \"https://openalex.org/W3148721332\", \"landing_page_url\": \"https://doi.org/10.1002/pip.3397\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "41",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "265c794aea28ac3cd0dda845bbe0f7cafe01f603194b2ed31862a4b87693f9b4"
+    },
+    {
+      "target": "E-0391",
+      "event": "E-3572",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Information-Loss Location Estimation and Curvature-Scale Analysis of Physical Measurements: A Gaussian, Cauchy, and Logistic Neutron-Lifetime Benchmark",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We develop and implement a two-step location-scale analysis for repeated physical measurements when the underlying distribution is not known. For a chosen substitute distribution, stationarity of population Kullback-Leibler information loss at fixed scale motivates the location score, which we apply to the observed measurements through empirical cross-entropy. Steiner's curvature rule then defines a companion scale separately. We place Gaussian, Cauchy, and logistic substitutes in one common construction and implement them reproducibly on a physics benchmark. For the logistic substitute, we pair the established bounded location score with a scale defined by the curvature rule rather than by a fitted tuning constant or a scale-likelihood equation. For Gaussian measurements with different quoted uncertainties, an experiment-level curvature convention and a stated variance mapping give an exact algebraic connection to a standard residual-based variance estimate for a weighted fit. Applied to a published 21-measurement neutron-lifetime compilation, the inverse-variance weighted, most frequent value, and logistic locations are 878.689, 881.164, and 882.835 s, respectively. These values are benchmark results of the compared constructions and are not proposed as a new recommended neutron lifetime.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-09-13",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2609.14793",
+        "platform_record_id": "https://openalex.org/W7213244191",
+        "record_url": "https://openalex.org/W7213244191",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2609.14793\", \"publication_year\": 2026, \"publication_date\": \"2026-09-13\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"V. V. Golovko\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7213244191\", \"landing_page_url\": \"https://arxiv.org/abs/2609.14793\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "42",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "8c3607b29a842357a0887d1399f8291ba6d0e815a7d301453edb5537318992da"
+    },
+    {
+      "target": "E-0393",
+      "event": "E-3573",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "On reverse engineering of gene interaction networks using time course data with repeated measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "MOTIVATION: Gene expression measurements are the most common data source for reverse engineering gene interaction networks. When dealing with destructive sampling in time course experiments, it is common to average any available measurements for each time point and to treat this as the actual time series data for fitting the network, neglecting the variability contained in the repeated measurements. Proceeding in such a way can affect the retrieved network topology. RESULTS: We propose a fully Bayesian method for reverse engineering a gene interaction network, based on time course data with repeated measurements. The observations are treated as surrogate measurements of the underlying gene expression. As these measurements often contain outliers, we use a non-Gaussian specification for dealing with measurement error. The network interactions are assumed linear and an autoregressive model is specified, augmented with indicator variables that allow inference on the topology of the network. We analyse two in silico and one in vivo experiments, the latter dealing with the circadian clock in Arabidopsis thaliana. A systematic attenuation of the estimated regulation strengths and a concomitant overestimation of their precision is demonstrated when measurement error is disregarded. Thus, a clear improvement in the inferred topology for the synthetic datasets is demonstrated when this is included. Also, the influence of outliers in the retrieved network is demonstrated when using the in vivo data. AVAILABILITY: Matlab code and data used in the article are available from http://go.warwick.ac.uk/majuarez/home/materials.",
+      "metadata": {
+        "publication_year": "2010",
+        "publication_date": "2010-07-16",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/bioinformatics/btq421",
+        "platform_record_id": "https://openalex.org/W2105891259",
+        "record_url": "https://openalex.org/W2105891259",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/bioinformatics/btq421\", \"publication_year\": 2010, \"publication_date\": \"2010-07-16\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Edward R. Morrissey\", \"Miguel A. Juárez\", \"Katherine Denby\", \"Nigel John Burroughs\"], \"venue\": \"Bioinformatics\", \"openalex_id\": \"https://openalex.org/W2105891259\", \"landing_page_url\": \"https://doi.org/10.1093/bioinformatics/btq421\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "44",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "149918a421cba29fa4653079ed4ea06486cf54ef4dd9ef639f89494bf5f21503"
+    },
+    {
+      "target": "E-0394",
+      "event": "E-3574",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Detecting tropical forest biomass dynamics from repeated airborne lidar measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract. Reducing uncertainty of terrestrial carbon cycle depends strongly on the accurate estimation of changes of global forest carbon stock. However, this is a challenging problem from either ground surveys or remote sensing techniques in tropical forests. Here, we examine the feasibility of estimating changes of tropical forest biomass from two airborne Lidar measurements acquired about 10 yr apart over Barro Colorado Island (BCI), Panama from high and medium resolution airborne sensors. The estimation is calibrated with the forest inventory data over 50 ha that was surveyed every 5 yr during the study period. We estimated the aboveground forest biomass and its uncertainty for each time period at different spatial scales (0.04, 0.25, 1.0 ha) and developed a linear regression model between four Lidar height metrics and the aboveground biomass. The uncertainty associated with estimating biomass changes from both ground and Lidar data was quantified by propagating measurement and prediction errors across spatial scales. Errors associated with both the mean biomass stock and mean biomass change declined with increasing spatial scales. Biomass changes derived from Lidar and ground estimates were largely (36 out 50 plots) in the same direction at the spatial scale of 1 ha. Lidar estimation of biomass was accurate at the 1 ha scale (R2 = 0.7 and RMSEmean = 28.6 Mg ha−1). However, to predict biomass changes, errors became comparable to ground estimates only at about 10-ha or more. Our results indicate that the 50-ha BCI plot lost a~significant amount of biomass (−0.8 ± 2.2 Mg ha−1 yr−1) over the past decade (2000–2010). Over the entire island and during the same period, mean AGB change is −0.4 ± 3.7 Mg ha−1 yr−1. Old growth forests lost biomass (−0.7 ± 3.5 Mg ha−1 yr−1), whereas the secondary forests gained biomass (+0.4 ± 3.4 Mg ha−1 yr−1). Our analysis demonstrates that repeated Lidar surveys, even with two different sensors, is able to estimate biomass changes in old-growth tropical forests at landscape scales (>10 ha).",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-08-14",
+        "language": "en",
+        "doi": "https://doi.org/10.5194/bg-10-5421-2013",
+        "platform_record_id": "https://openalex.org/W2032770950",
+        "record_url": "https://openalex.org/W2032770950",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.5194/bg-10-5421-2013\", \"publication_year\": 2013, \"publication_date\": \"2013-08-14\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Victoria Meyer\", \"Sassan S Saatchi\", \"Jérôme Chave\", \"James William Dalling\", \"Stephanie Bohlman\", \"Geoffrey A. Fricker\", \"Chelsea Robinson\", \"Maxim Neumann\", \"Stephen P. Hubbell\"], \"venue\": \"Biogeosciences\", \"openalex_id\": \"https://openalex.org/W2032770950\", \"landing_page_url\": \"https://doi.org/10.5194/bg-10-5421-2013\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "45",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "0e2d41e2d432911c0a3ac96b5f9adf420d19ef08784f31cddc522e4aa45aeb71"
+    },
+    {
+      "target": "E-0395",
+      "event": "E-3575",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Traceable measurements and calibration: a primer on uncertainty analysis",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Describing the quality of measurements is necessary to understand the level of confidence in any observation. Accuracy, precision, trueness, repeatability, reproducibility, and uncertainty are all used to describe quality of measurement, but the terms are inconsistently defined and measured and thus easily misunderstood. One purpose of quality parameters is for the comparison of observations, but when dissimilar methods for estimating quality terms are utilized, a comparison is misrepresented. A standardized approach to estimating uncertainty provides a basis for meeting measurement requirements and providing a level of confidence for observations. Here, we show the approach used by the National Ecological Observatory Network to estimate uncertainty of the calibration processes and measurements illustrated with an example of uncertainty assessment on a temperature sensor. Detailing the approach for uncertainty assessment provides the transparency necessary for network science and allows for the approach to be adopted in the scientific community. Reporting uncertainty with all measurements needs to become consistent and commonplace across disciplines.",
+      "metadata": {
+        "publication_year": "2017",
+        "publication_date": "2017-02-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/ecs2.1683",
+        "platform_record_id": "https://openalex.org/W2587346516",
+        "record_url": "https://openalex.org/W2587346516",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/ecs2.1683\", \"publication_year\": 2017, \"publication_date\": \"2017-02-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Janae Csavina\", \"Joshua A. Roberti\", \"Jeffrey R. Taylor\", \"Henry W. Loescher\"], \"venue\": \"Ecosphere\", \"openalex_id\": \"https://openalex.org/W2587346516\", \"landing_page_url\": \"https://doi.org/10.1002/ecs2.1683\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "46",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b491a2be8664c8ada2fe6a224856c6f2f6b3a014274ac0df7f42d07a84c1cfe6"
+    },
+    {
+      "target": "E-0399",
+      "event": "E-3576",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "A benchmarking method to measure dietary absorption efficiency of chemicals by fish",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Understanding the dietary absorption efficiency of chemicals in the gastrointestinal tract of fish is important from both a scientific and a regulatory point of view. However, reported fish absorption efficiencies for well-studied chemicals are highly variable. In the present study, the authors developed and exploited an internal chemical benchmarking method that has the potential to reduce uncertainty and variability and, thus, to improve the precision of measurements of fish absorption efficiency. The authors applied the benchmarking method to measure the gross absorption efficiency for 15 chemicals with a wide range of physicochemical properties and structures. They selected 2,2',5,6'-tetrachlorobiphenyl (PCB53) and decabromodiphenyl ethane as absorbable and nonabsorbable benchmarks, respectively. Quantities of chemicals determined in fish were benchmarked to the fraction of PCB53 recovered in fish, and quantities of chemicals determined in feces were benchmarked to the fraction of decabromodiphenyl ethane recovered in feces. The performance of the benchmarking procedure was evaluated based on the recovery of the test chemicals and precision of absorption efficiency from repeated tests. Benchmarking did not improve the precision of the measurements; after benchmarking, however, the median recovery for 15 chemicals was 106%, and variability of recoveries was reduced compared with before benchmarking, suggesting that benchmarking could account for incomplete extraction of chemical in fish and incomplete collection of feces from different tests.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-08-21",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/etc.2361",
+        "platform_record_id": "https://openalex.org/W1830991328",
+        "record_url": "https://openalex.org/W1830991328",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/etc.2361\", \"publication_year\": 2013, \"publication_date\": \"2013-08-21\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Ruiyang Xiao\", \"Margaretha Adolfsson‐Erici\", \"Gun Åkerman\", \"Michael S. McLachlan\", \"Matthew MacLeod\"], \"venue\": \"Environmental Toxicology and Chemistry\", \"openalex_id\": \"https://openalex.org/W1830991328\", \"landing_page_url\": \"https://doi.org/10.1002/etc.2361\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "50",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d336cb88aca8b0db80d8f5318eebd70980fb95e51b41051b26620004eeccaa51"
+    },
+    {
+      "target": "E-0400",
+      "event": "E-3577",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Statistical Models for Assessing Agreement in Method Comparison Studies with Replicate Measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Method comparison studies are usually analyzed by computing limits of agreement. It is recommended that replicate measurements be taken by each method, but the resulting data are more cumbersome to analyze. We discuss the statistical model underlying the classical limits of agreement and extend it to the case with replicate measurements. As the required code to fit the models is non-trivial, we provide example computer code to fit the models, and show how to use the output to derive measures of repeatability and limits of agreement.",
+      "metadata": {
+        "publication_year": "2008",
+        "publication_date": "2008-07-30",
+        "language": "en",
+        "doi": "https://doi.org/10.2202/1557-4679.1107",
+        "platform_record_id": "https://openalex.org/W2154099645",
+        "record_url": "https://openalex.org/W2154099645",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2202/1557-4679.1107\", \"publication_year\": 2008, \"publication_date\": \"2008-07-30\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Bendix Carstensen\", \"Julie Anne Simpson\", \"Lyle C. Gurrin\"], \"venue\": \"The International Journal of Biostatistics\", \"openalex_id\": \"https://openalex.org/W2154099645\", \"landing_page_url\": \"https://doi.org/10.2202/1557-4679.1107\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "1",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "53e3851b5e6a67adfdc1f27c8c6ea0a61c37d2398d5df61d74a77615a29d42b1"
+    },
+    {
+      "target": "E-0401",
+      "event": "E-3578",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Measuring agreement in method comparison studies with heteroscedastic measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We propose a methodology for evaluation of agreement between two methods of measuring a continuous variable whose variability changes with magnitude. This problem routinely arises in method comparison studies that are common in health-related disciplines. Assuming replicated measurements, we first model the data using a heteroscedastic mixed-effects model, wherein a suitably defined true measurement serves as the variance covariate. Fitting this model poses some computational difficulties as the likelihood function is not available in a closed form. We deal with this issue by suggesting four estimation methods to obtain approximate maximum likelihood estimates. Two of these methods are based on numerical approximation of the likelihood, and the other two are based on approximation of the model. Next, we extend the existing agreement evaluation methodology designed for homoscedastic data to work under the proposed heteroscedastic model. This methodology can be used with any scalar measure of agreement. Simulations show that the suggested inference procedures generally work well for moderately large samples. They are illustrated by analyzing a data set of cholesterol measurements.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-09-04",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/sim.5955",
+        "platform_record_id": "https://openalex.org/W2092593611",
+        "record_url": "https://openalex.org/W2092593611",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/sim.5955\", \"publication_year\": 2013, \"publication_date\": \"2013-09-04\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Lakshika S. Nawarathna\", \"Pankaj K. Choudhary\"], \"venue\": \"Statistics in Medicine\", \"openalex_id\": \"https://openalex.org/W2092593611\", \"landing_page_url\": \"https://doi.org/10.1002/sim.5955\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "2",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b93b9fcd06f93e0d388dfa9ddd0a0572179d33dc147f098c4913eb88407aaedd"
+    },
+    {
+      "target": "E-0402",
+      "event": "E-3579",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Measuring agreement in method comparison studies",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Agreement between two methods of clinical measurement can be quantified using the differences between observations made using the two methods on the same subjects. The 95% limits of agreement, estimated by mean difference +/- 1.96 standard deviation of the differences, provide an interval within which 95% of differences between measurements by the two methods are expected to lie. We describe how graphical methods can be used to investigate the assumptions of the method and we also give confidence intervals. We extend the basic approach to data where there is a relationship between difference and magnitude, both with a simple logarithmic transformation approach and a new, more general, regression approach. We discuss the importance of the repeatability of each method separately and compare an estimate of this to the limits of agreement. We extend the limits of agreement approach to data with repeated measurements, proposing new estimates for equal numbers of replicates by each method on each subject, for unequal numbers of replicates, and for replicated data collected in pairs, where the underlying value of the quantity being measured is changing. Finally, we describe a nonparametric approach to comparing methods.",
+      "metadata": {
+        "publication_year": "1999",
+        "publication_date": "1999-04-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1177/096228029900800204",
+        "platform_record_id": "https://openalex.org/W2159759971",
+        "record_url": "https://openalex.org/W2159759971",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1177/096228029900800204\", \"publication_year\": 1999, \"publication_date\": \"1999-04-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"J Martin Bland\", \"Douglas G. Altman\"], \"venue\": \"Statistical Methods in Medical Research\", \"openalex_id\": \"https://openalex.org/W2159759971\", \"landing_page_url\": \"https://doi.org/10.1177/096228029900800204\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "3",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "415b4596242f9a32c18d023fc43c222eddd52f1a46f20b5c94b6b7709488a7d9"
+    },
+    {
+      "target": "E-0403",
+      "event": "E-3580",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Agreement Between Methods of Measurement with Multiple Observations Per Individual",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Limits of agreement provide a straightforward and intuitive approach to agreement between different methods for measuring the same quantity. When pairs of observations using the two methods are independent, i.e., on different subjects, the calculations are very simple and straightforward. Some authors collect repeated data, either as repeated pairs of measurements on the same subject, whose true value of the measured quantity may be changing, or more than one measurement by one or both methods of an unchanging underlying quantity. In this paper we describe methods for analysing such clustered observations, both when the underlying quantity is assumed to be changing and when it is not.",
+      "metadata": {
+        "publication_year": "2007",
+        "publication_date": "2007-07-02",
+        "language": "en",
+        "doi": "https://doi.org/10.1080/10543400701329422",
+        "platform_record_id": "https://openalex.org/W2110071287",
+        "record_url": "https://openalex.org/W2110071287",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1080/10543400701329422\", \"publication_year\": 2007, \"publication_date\": \"2007-07-02\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Martin Bland\", \"Douglas G. Altman\"], \"venue\": \"Journal of Biopharmaceutical Statistics\", \"openalex_id\": \"https://openalex.org/W2110071287\", \"landing_page_url\": \"https://doi.org/10.1080/10543400701329422\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "4",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "31164ec91fda2caacaf0c8dfbfadcd4c918cf47c0c8d18e2a34ace991fbd4c57"
+    },
+    {
+      "target": "E-0404",
+      "event": "E-3581",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A heteroscedastic measurement error model for method comparison data with replicate measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Measurement error models offer a flexible framework for modeling data collected in studies comparing methods of quantitative measurement. These models generally make two simplifying assumptions: (i) the measurements are homoscedastic, and (ii) the unobservable true values of the methods are linearly related. One or both of these assumptions may be violated in practice. In particular, error variabilities of the methods may depend on the magnitude of measurement, or the true values may be nonlinearly related. Data with these features call for a heteroscedastic measurement error model that allows nonlinear relationships in the true values. We present such a model for the case when the measurements are replicated, discuss its fitting, and explain how to evaluate similarity of measurement methods and agreement between them, which are two common goals of data analysis, under this model. Model fitting involves dealing with lack of a closed form for the likelihood function. We consider estimation methods that approximate either the likelihood or the model to yield approximate maximum likelihood estimates. The fitting methods are evaluated in a simulation study. The proposed methodology is used to analyze a cholesterol dataset.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-01-23",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/sim.6424",
+        "platform_record_id": "https://openalex.org/W2153219474",
+        "record_url": "https://openalex.org/W2153219474",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/sim.6424\", \"publication_year\": 2015, \"publication_date\": \"2015-01-23\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Lakshika S. Nawarathna\", \"Pankaj K. Choudhary\"], \"venue\": \"Statistics in Medicine\", \"openalex_id\": \"https://openalex.org/W2153219474\", \"landing_page_url\": \"https://doi.org/10.1002/sim.6424\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "5",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e56f61209cf0b9ce1e041d1098f7da3c147654b51f41bd7304fba221cd6fca1d"
+    },
+    {
+      "target": "E-0405",
+      "event": "E-3582",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A general approach to evaluating agreement between two observers or methods of measurement from quantitative data with replicated measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We present a general approach to the definition and estimation of coefficients for evaluating agreement between two fixed methods of measurements or human observers. The measured variable is assumed to be continuous with a finite second moment. No other distributional assumptions are made. We introduce the term ;disagreement function' for the function of the observations that is used to quantify the extent of disagreement between the two measurements made on the same subject. The proposed inter-methods agreement coefficients compare the disagreement between measurements made by different methods on the same subject to the corresponding disagreement between replicated measurements made by the same method. Therefore, the new coefficients require data with replications readings. We propose inter-methods agreement coefficients for two practical situations involving two methods that have a measurement error: 1) comparison of a new method to a gold standard (or a reference method), and 2) comparison of two methods where neither method is considered a gold standard. We consider three disagreement functions based on the differences between two measurements: 1) the mean squared difference, 2) the mean absolute difference and 3) the mean relative difference. We then derive non-parametric estimates for the various agreement coefficients. Our approach is illustrated using data from a study comparing systolic blood pressure measurements by a human observer and an automatic monitor. The performance of the new estimates is assessed via stochastic simulations.",
+      "metadata": {
+        "publication_year": "2007",
+        "publication_date": "2007-08-14",
+        "language": "en",
+        "doi": "https://doi.org/10.1177/0962280206075527",
+        "platform_record_id": "https://openalex.org/W2170657488",
+        "record_url": "https://openalex.org/W2170657488",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1177/0962280206075527\", \"publication_year\": 2007, \"publication_date\": \"2007-08-14\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Michael Haber\", \"Huiman Xie Barnhart\"], \"venue\": \"Statistical Methods in Medical Research\", \"openalex_id\": \"https://openalex.org/W2170657488\", \"landing_page_url\": \"https://doi.org/10.1177/0962280206075527\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "6",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "1b76021e08b3fb789a6c34adf0738f228af1d5149cdf9af6b334ea1306911adf"
+    },
+    {
+      "target": "E-0406",
+      "event": "E-3583",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Statistical models for assessing agreement for quantitative data with heterogeneous random raters and replicate measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Agreement between methods for quantitative measurements are typically assessed by computing limits of agreement between pairs of methods and/or by illustration through Bland–Altman plots. We consider the situation where the observed measurement methods are considered a random sample from a population of possible methods, and discuss how the underlying linear mixed effects model can be extended to this situation. This is relevant when, for example, the methods represent raters/judges that are used to score specific individuals or items. In the case of random methods, we are not interested in estimates pertaining to the specific methods, but are instead interested in quantifying the variation between the methods actually involved making measurements, and accommodating this as an extra source of variation when generalizing to the clinical performance of a method. In the model we allow raters to have individual precision/skill and permit linked replicates ( i.e. , when the numbering, labeling or ordering of the replicates within items is important). Applications involving estimation of the limits of agreement for two datasets are shown: A dataset of spatial perception among a group of students as well as a dataset on consumer preference of French chocolate. The models are implemented in the MethComp package for R [Carstensen B, Gurrin L, Ekstrøm CT, Figurski M. MethComp: functions for analysis of agreement in method comparison studies; 2013. R package version 1.22, R Core Team. R: a language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing; 2012].",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-02-21",
+        "language": "en",
+        "doi": "https://doi.org/10.1515/ijb-2023-0037",
+        "platform_record_id": "https://openalex.org/W4392003479",
+        "record_url": "https://openalex.org/W4392003479",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1515/ijb-2023-0037\", \"publication_year\": 2024, \"publication_date\": \"2024-02-21\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Claus Thorn Ekstrøm\", \"Bendix Carstensen\"], \"venue\": \"The International Journal of Biostatistics\", \"openalex_id\": \"https://openalex.org/W4392003479\", \"landing_page_url\": \"https://doi.org/10.1515/ijb-2023-0037\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "7",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "73bfe21b59b9b27a5039d5a44da71689733f0b7cd162bd9be5fa36baa567ebb4"
+    },
+    {
+      "target": "E-0408",
+      "event": "E-3584",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "The Agreement and Repeatability of Tear Meniscus Height Measurement Methods",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "PURPOSE: This study investigated the agreement and repeatability of five techniques of measuring tear meniscus height (TMH). METHODS: Pairs of TMH measurements were obtained from one eye of 25 normal subjects with five techniques: optical coherence tomography in cross-section (OCT) and optical pachymetry in cross-section (PACH), without fluorescein; and 5 minutes after the instillation of fluorescein, optical pachymetry en-face (SL-F) and in cross-section (SL-X), and video capture en-face (VC). These 10 measurements were taken on different days within a period of 21 days. Additionally, immediately successive replicates were taken at the first visit when VC was used, allowing for the separation of technique repeatability from true day-to-day variation in TMH. RESULTS: Ninety-five percent confidence intervals for the mean TMH and 95% repeatability coefficients for repeated testing on separate occasions were: 0.25 to 0.29 mm, 0.14 mm--OCT, 0.30 to 0.36 mm, 0.13 mm--PACH, 0.27 to 0.34 mm, 0.092 mm--SL-F, 0.35 to 0.41 mm, 0.19 mm--SL-X, and 0.30 to 0.38 mm, 0.088 mm--VC. Reported repeatability coefficients are averages because, despite a relatively narrow experimental range, the measurements of low TMH were generally more repeatable than those of large TMH. Ninety-five percent limits of agreement were wide for all pairwise comparisons and included zero, indicating that the methods used in this study are interchangeable when taking single recordings, at least on subjects without dry eye. CONCLUSIONS: The average TMH of the five techniques was similar, although OCT and SL-X tended to record lower and higher values, respectively. However, their agreement for single recordings was poor, an inevitable consequence of the low intertest repeatability found for all methods. A much improved repeatability for immediate replicates indicated that this, in turn, was principally caused by a large day-to-day variation in TMH rather than measurement error.",
+      "metadata": {
+        "publication_year": "2005",
+        "publication_date": "2005-12-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1097/01.opx.0000192352.78935.e0",
+        "platform_record_id": "https://openalex.org/W2078589058",
+        "record_url": "https://openalex.org/W2078589058",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1097/01.opx.0000192352.78935.e0\", \"publication_year\": 2005, \"publication_date\": \"2005-12-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Michael Edward Johnson\", \"Paul James Murphy\"], \"venue\": \"Optometry and Vision Science\", \"openalex_id\": \"https://openalex.org/W2078589058\", \"landing_page_url\": \"https://doi.org/10.1097/01.opx.0000192352.78935.e0\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "bf0f10974587c35c586cc894125c3fb294a56a3479f408e424032cfb90425952"
+    }
+  ]
+}

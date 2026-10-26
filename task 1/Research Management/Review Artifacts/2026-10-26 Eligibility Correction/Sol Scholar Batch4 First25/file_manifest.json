@@ -1,0 +1,117 @@
+{
+  "self_excluded": true,
+  "files": [
+    {
+      "path": "build_primary.py",
+      "sha256": "b675973b14717bd62b93c227e0e7c3f001e1664356796e905133b8ddec45841d",
+      "bytes": 4442,
+      "count": 63,
+      "count_basis": "text lines; not occurrences"
+    },
+    {
+      "path": "counts.json",
+      "sha256": "1b756cecfab11954ebaf6be331798f75762b84c53535763c1bcd94863fd55968",
+      "bytes": 1448,
+      "count": 31,
+      "count_basis": "top-level object keys; not occurrences"
+    },
+    {
+      "path": "delta_overlay25.csv",
+      "sha256": "9f6743df3c21a402f2c8fc6d4c8724adf7f3910b1a90ea35059267a6189bda88",
+      "bytes": 99236,
+      "count": 25,
+      "count_basis": "data records excluding header"
+    },
+    {
+      "path": "finalize.py",
+      "sha256": "095921875ecdd33ad15d75f2479a0b2335aadc18fd3a4c40eb8f318fb0b76387",
+      "bytes": 4768,
+      "count": 76,
+      "count_basis": "text lines; not occurrences"
+    },
+    {
+      "path": "freeze.py",
+      "sha256": "d8c8056fd0c46edefc815e3e060a0ebc865a2a71939b0ddb4995fd4333f14da9",
+      "bytes": 1575,
+      "count": 34,
+      "count_basis": "text lines; not occurrences"
+    },
+    {
+      "path": "freeze_expansion.py",
+      "sha256": "ae1af047c3393063625ea2ea881904fa65f2c5a5477da164863d1f524fdbb450",
+      "bytes": 1362,
+      "count": 22,
+      "count_basis": "text lines; not occurrences"
+    },
+    {
+      "path": "handoff.md",
+      "sha256": "eddffff4f31117a8a9f2b39da786c2d124e944e117a49041b3319ccc25e4ae4b",
+      "bytes": 6723,
+      "count": 40,
+      "count_basis": "text lines; not occurrences"
+    },
+    {
+      "path": "item_checks.tsv",
+      "sha256": "237a49f8c8c8d919bf2459299cff89dee69be75441e5cb4ca475dbb302fbb4c8",
+      "bytes": 32800,
+      "count": 25,
+      "count_basis": "data records excluding header"
+    },
+    {
+      "path": "judgments.json",
+      "sha256": "5b5ad47f4a6d1ddfdf9d70aac1cd467ec92c1ffa7fa1fa63c10cf45deb512681",
+      "bytes": 12669,
+      "count": 25,
+      "count_basis": "top-level array entries"
+    },
+    {
+      "path": "qa_expansion_freeze.json",
+      "sha256": "84aa48142332e69433965646f9d1cd787b4d61017713b49356ea23943e9c0e6f",
+      "bytes": 1357,
+      "count": 10,
+      "count_basis": "top-level object keys; not occurrences"
+    },
+    {
+      "path": "qa_freeze.json",
+      "sha256": "7a6c61648b0d0f5cbc741ed621eafe2146dcdfc974cb87dcb81a490bc880333b",
+      "bytes": 4405,
+      "count": 11,
+      "count_basis": "top-level object keys; not occurrences"
+    },
+    {
+      "path": "qa_group_results.json",
+      "sha256": "d0b2cdb31a726562a2ed6d3a29fcc14fc0ec2e9845c779ae93435e352976618b",
+      "bytes": 5867,
+      "count": 18,
+      "count_basis": "top-level array entries"
+    },
+    {
+      "path": "qa_judgments.json",
+      "sha256": "e6145b88d6d98dfcd4b99733c925e741b21d50308fc0c66d1693ee05b3dda89b",
+      "bytes": 6431,
+      "count": 16,
+      "count_basis": "top-level array entries"
+    },
+    {
+      "path": "qa_results.csv",
+      "sha256": "7fde524a78f4299c2cf34f58667bc9ceb154c9a557521da6337835c69799ba7a",
+      "bytes": 5444,
+      "count": 16,
+      "count_basis": "data records excluding header"
+    },
+    {
+      "path": "target_freeze.json",
+      "sha256": "0c4718abce89740310ef3e1bc7197c8f51a9035ea527d49f056385ade6d77738",
+      "bytes": 1991,
+      "count": 15,
+      "count_basis": "top-level object keys; not occurrences"
+    },
+    {
+      "path": "verification.json",
+      "sha256": "f48233292dfad6eec4cc3aea8ddceb0f5af71dc2e97f4495aac98bc0862e6a17",
+      "bytes": 502,
+      "count": 10,
+      "count_basis": "top-level object keys; not occurrences"
+    }
+  ]
+}

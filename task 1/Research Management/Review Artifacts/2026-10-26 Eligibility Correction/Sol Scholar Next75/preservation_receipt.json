@@ -1,0 +1,33 @@
+{
+  "inputs": {
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv": {
+      "frozen_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "current_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+      "unchanged": true
+    },
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 2/overlay.csv": {
+      "frozen_sha256": "07ffe6c53f45704428287e6687c2dbd66b2cdbed3d719821be837dc8a7d77b0d",
+      "current_sha256": "07ffe6c53f45704428287e6687c2dbd66b2cdbed3d719821be837dc8a7d77b0d",
+      "unchanged": true
+    },
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 2/target_freeze.json": {
+      "frozen_sha256": "5c492e236510993a1ff452b92a7b93c0464bb3a17977b95c64f47f03097c57a6",
+      "current_sha256": "5c492e236510993a1ff452b92a7b93c0464bb3a17977b95c64f47f03097c57a6",
+      "unchanged": true
+    },
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 2/summary.json": {
+      "frozen_sha256": "fb5d73944ca341472fd68e6af4f28072e67922fd449666a15e744a2ce4e9e62b",
+      "current_sha256": "fb5d73944ca341472fd68e6af4f28072e67922fd449666a15e744a2ce4e9e62b",
+      "unchanged": true
+    },
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch 2/handoff.md": {
+      "frozen_sha256": "45db6d95481ab6dd43faddd74c9bdbd8da9f5263e6ff3889c056dcc6e15689cb",
+      "current_sha256": "45db6d95481ab6dd43faddd74c9bdbd8da9f5263e6ff3889c056dcc6e15689cb",
+      "unchanged": true
+    }
+  },
+  "original_export_fields_preserved_all_75": true,
+  "writes_scoped_to": "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Next75",
+  "shared_active_outputs": "Not read or merged; no aggregate updates",
+  "producer_secondary_QA": "Remains NOT RUN; this is a new Sol separate pass only"
+}

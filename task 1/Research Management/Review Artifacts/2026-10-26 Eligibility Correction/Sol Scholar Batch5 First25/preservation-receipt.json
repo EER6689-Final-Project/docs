@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26T12:37:03.786968+05:30",
+  "source_sha256_unchanged": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "producer_files_unchanged": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/FIRST25-freeze.json",
+      "bytes": 880,
+      "sha256": "1d8d149e731ff9361f860f360476b7b4f1b99b1e8b148a714728798d443c6d4d"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/FIRST25-overlay.csv",
+      "bytes": 67128,
+      "sha256": "449f7b2e5f2c3f7be9aa4af81aafc2623ce398f04e08e8646408a611a62f7b70"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/manifest.json",
+      "bytes": 1162,
+      "sha256": "35cd4b870a92418f21e84c8d981ebff566791375dd2bab91017fd2bc978fae1c"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/secondary-QC-results.json",
+      "bytes": 12621,
+      "sha256": "52bda351a8b23436bad7989b4db74e52cf8a899a5abe3fbed5645fe6b25520ae"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/secondary-QC-sample-freeze.json",
+      "bytes": 1102,
+      "sha256": "0dca96eb67d7ce3cb823379beb4ccb2e3664d2a247ebdd69eb80105b25f82efc"
+    }
+  ],
+  "source_rows_all_original_columns_preserved": 25,
+  "producer_rows_all_original_columns_preserved": 25,
+  "source_original_column_count": 56,
+  "producer_original_column_count": 26,
+  "events_ordered": "E-4000–E-4024 maps E-0800–E-0824",
+  "shared_or_canonical_writes": false,
+  "new_SIDs": 0,
+  "DUP_merges": 0,
+  "fulltext_pass": "NOT RUN",
+  "citation_pass": "NOT RUN",
+  "support": "UNASSESSED",
+  "confidence": "UNASSESSED",
+  "date_language_type_identity": "UNVERIFIED/PENDING; metadata proxies only",
+  "development_notes": "Two build attempts stopped before output creation: corrected repository-root indexing, then recognized producer overlay contains only new producer columns. Final overlay joins originals unchanged, producer fields unchanged, and new Sol/effective fields."
+}

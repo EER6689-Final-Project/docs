@@ -1,0 +1,18 @@
+{
+  "state": "PLANNED before additional second-pass source reads; after E-0483/R4 secondary discrepancy",
+  "input_snapshot": "Accepted Snapshot 3/effective_state_838.csv",
+  "input_snapshot_sha256": "089dad4d37ae783362d376c9d20d3daff2f63eebcf8f009a020cdeb96e60e536",
+  "original_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "scope": "All remaining final-positive R4/conference-paper members not already actually reread in the 63-target secondary pass",
+  "complete_final_positive_group": ["E-0352", "E-0361", "E-0458", "E-0469"],
+  "already_checked_links": {
+    "E-0352": "authored_secondary_022_035.json",
+    "E-0469": "authored_secondary_048_063.json"
+  },
+  "exact_targets": ["E-0361", "E-0458"],
+  "target_count": 2,
+  "affected_mapping": "R4",
+  "selection_rule": "Remainder of exact corrected R4/conference-paper positive group after E-0483 removal. Recheck explicit repeated-measurement hierarchy/uncertainty mechanism versus merely named statistical analysis.",
+  "reviewer": "Sol separate-pass AI technical self-audit; not independent human",
+  "broader_boundary": "No all-300 OA QC pass or reaffirmation of inherited mappings; other groups retain their actual checked/held boundaries. No new all-R exclusion, mapping or S-ID."
+}

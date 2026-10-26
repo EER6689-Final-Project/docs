@@ -1,0 +1,140 @@
+{
+  "artifact_directory": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery",
+  "created_date": "2026-10-26",
+  "hash_algorithm": "SHA-256",
+  "manifest_self_hash": "excluded to avoid circularity; compute externally for handoff",
+  "source_inputs": [
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/handoff.md",
+      "bytes": 14266,
+      "sha256": "8b56623758b5b41b8722160f052d131d6fef1f4c95c9a4324950cb3cd368c5e3",
+      "scratch_manifest_match": true,
+      "preserved_as": "handoff.provisional.md"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/operation_receipts.json",
+      "bytes": 71829,
+      "sha256": "380ca99f09cbebab48ca4bc90d19cde8c481119c24f20202c9582961e1233a37",
+      "scratch_manifest_match": true,
+      "preserved_as": "operation_receipts.json"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/stage1_screening.csv",
+      "bytes": 1422597,
+      "sha256": "0bc79ac335c6cb6acc6b7240a417a08bab250113d48faaa4cc50f04fb5bd3e35",
+      "scratch_manifest_match": true,
+      "preserved_as": "stage1_screening.provisional.csv"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/stage1_summary.json",
+      "bytes": 1173,
+      "sha256": "02bf36326c19cfba35ce532fd7e83fe263ec9a66e0d11f07ea5d3bca7d5e5049",
+      "scratch_manifest_match": true,
+      "preserved_as": "stage1_summary.provisional.json"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/artifact_manifest.json",
+      "bytes": 32956,
+      "sha256": "86a9aa7823d61bf3207bf1c489222622e721597b916b476c51b994786b9b94de",
+      "scratch_manifest_match": null,
+      "preserved_as": "scratch_artifact_manifest.json"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/final_screen.py",
+      "bytes": 4723,
+      "sha256": "2924fd339b46260c6bea4e662da054a275fc106e905bcde63de2c50da871c09e",
+      "scratch_manifest_match": true,
+      "preserved_as": "triage_script_audit.md fenced source"
+    },
+    {
+      "source_file": "/tmp/opencode/eei6689-discovery/enrich_screen.py",
+      "bytes": 2322,
+      "sha256": "e6fb14670fb369646b926b7491882d5033f1ae2a74a5c2a73950e5d4eb087049",
+      "scratch_manifest_match": true,
+      "preserved_as": "triage_script_audit.md fenced source"
+    }
+  ],
+  "sanitization": {
+    "scan": "API-key/token/authorization/password assignment and common key/private-key patterns across all provided inputs and scripts",
+    "findings": 0,
+    "changes": [],
+    "limitation": "pattern scan, not a guarantee against every possible secret format",
+    "raw_provisional_csv": "exact byte copy; SHA-256 identical to source"
+  },
+  "preservation": {
+    "raw_HTTP_bodies_archived_here": false,
+    "raw_body_location_scratch_only": "/tmp/opencode/eei6689-discovery/*.raw",
+    "original_scratch_manifest": "historical inventory; does not imply all listed files are in this deliverable"
+  },
+  "QC": {
+    "row_count": 838,
+    "unique_occurrence_IDs": 838,
+    "source_order_and_all_raw_fields_preserved": true,
+    "all_occurrence_receipt_joins": true,
+    "all_first_occurrence_pointers_resolve": true,
+    "provisional_counts_match_source_summary": true,
+    "alias_annotations": 2,
+    "heuristic_DUP_candidates_unreviewed": 76,
+    "canonical_pending": 838,
+    "semantic_source_checks": "NOT PERFORMED; remain pending",
+    "source_script_execution": "not rerun",
+    "independent_review": false
+  },
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 14821,
+      "sha256": "ebbbdbe3db689b2ec43053c478035141600540259518a990416e1328bd9181ed"
+    },
+    {
+      "file": "REVIEWQUEUE.csv",
+      "bytes": 2286727,
+      "sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad"
+    },
+    {
+      "file": "alias_candidates.csv",
+      "bytes": 35169,
+      "sha256": "f7910245c4e882cbdf819f1163e5022fbf1dda51020e4d90fe20cd19f0fef15a"
+    },
+    {
+      "file": "handoff.provisional.md",
+      "bytes": 14266,
+      "sha256": "8b56623758b5b41b8722160f052d131d6fef1f4c95c9a4324950cb3cd368c5e3"
+    },
+    {
+      "file": "operation_receipts.json",
+      "bytes": 71829,
+      "sha256": "380ca99f09cbebab48ca4bc90d19cde8c481119c24f20202c9582961e1233a37"
+    },
+    {
+      "file": "query_audit.csv",
+      "bytes": 86024,
+      "sha256": "6e8c5293207da890c428cea088bfdacc37394b5182c082aeb3cb041e81e76bac"
+    },
+    {
+      "file": "scratch_artifact_manifest.json",
+      "bytes": 32956,
+      "sha256": "86a9aa7823d61bf3207bf1c489222622e721597b916b476c51b994786b9b94de"
+    },
+    {
+      "file": "stage1_screening.provisional.csv",
+      "bytes": 1422597,
+      "sha256": "0bc79ac335c6cb6acc6b7240a417a08bab250113d48faaa4cc50f04fb5bd3e35"
+    },
+    {
+      "file": "stage1_summary.provisional.json",
+      "bytes": 1173,
+      "sha256": "02bf36326c19cfba35ce532fd7e83fe263ec9a66e0d11f07ea5d3bca7d5e5049"
+    },
+    {
+      "file": "summary.json",
+      "bytes": 5325,
+      "sha256": "01e24cb679a7d389f9673d9455767224c0670f60877a7173c4007189d191d2dc"
+    },
+    {
+      "file": "triage_script_audit.md",
+      "bytes": 7744,
+      "sha256": "859692f49104b89c5eade5bf516158074d8aaf60db614a49854cca32f785052c"
+    }
+  ]
+}

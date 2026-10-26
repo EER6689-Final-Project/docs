@@ -1,0 +1,36 @@
+{
+  "scope": "DELTA ONLY E-1000–E-1037; no accepted snapshot mutation",
+  "primary_checked": 38,
+  "primary_unreviewed": 0,
+  "R_judgments": 228,
+  "effective_stage1": {
+    "X3": 7,
+    "ADVANCE": 17,
+    "PENDING": 14
+  },
+  "producer_stage1": {
+    "X3": 16,
+    "ADVANCE": 22
+  },
+  "producer_X3_checked": 16,
+  "producer_X3_retained": 7,
+  "producer_X3_rejected": 9,
+  "producer_X3_rejected_destinations": {
+    "PENDING": 8,
+    "ADVANCE": 1
+  },
+  "transitions": {
+    "X3 -> X3": 7,
+    "ADVANCE -> ADVANCE": 16,
+    "ADVANCE -> PENDING": 6,
+    "X3 -> PENDING": 8,
+    "X3 -> ADVANCE": 1
+  },
+  "changed_dispositions": 15,
+  "secondary_minimum_selected": 28,
+  "secondary_expanded_checked": 38,
+  "secondary_unreviewed": 0,
+  "explicit_proxy_groups_checked": 43,
+  "secondary_primary_revisions": 0,
+  "mechanical_verification": "PASS: original-column values, input/producer hashes, ordered targets/events, original reread equality, six R judgments, coverage and unassessed/not-run invariants"
+}

@@ -1,0 +1,36 @@
+{
+  "primary_checked": 130,
+  "primary_unreviewed": 0,
+  "affected_mapping_count": 151,
+  "affected_mapping_results": {
+    "unclear": 43,
+    "outside": 20,
+    "supported": 88
+  },
+  "positive_mapping_set_changed_targets": 55,
+  "new_mappings": 0,
+  "new_X3_proposals": 0,
+  "new_exclusions": 0,
+  "secondary_planned": 63,
+  "secondary_checked_at_freeze": 0,
+  "old_status_counts": {
+    "ADVANCE": 110,
+    "PENDING": 20
+  },
+  "proposed_status_counts": {
+    "ADVANCE": 106,
+    "PENDING": 24
+  },
+  "original_global_results": {
+    "groups": 42,
+    "supported": 30,
+    "held": 12,
+    "preserved": true
+  },
+  "full_text": "NOT RUN",
+  "citations": "NOT RUN",
+  "claim_support": "UNASSESSED",
+  "methodological_confidence": "UNASSESSED",
+  "G3": "OPEN",
+  "G4": "OPEN"
+}

@@ -1,0 +1,517 @@
+{
+  "completed_at": "2026-10-26T12:37:03.786968+05:30",
+  "audit_type": "Sol separate-pass AI self-audit; not independent human review",
+  "sample_freeze_sha256": "e701020a5c51570ef7dc6731f10c019dfa9bfe86bd348f37b36e628eac1d518e",
+  "originals_reread": "All 25 selected complete stored Scholar snippets/titles/metadata reread from immutable REVIEWQUEUE after secondary sample freeze; not full texts.",
+  "checked_count": 25,
+  "groups_checked": {
+    "R1|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0800"
+    },
+    "R2|book-chapter-proxy": {
+      "members": [
+        "E-0822"
+      ],
+      "selected": "E-0822",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0822"
+    },
+    "R2|book-proxy": {
+      "members": [
+        "E-0806"
+      ],
+      "selected": "E-0806",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0806"
+    },
+    "R2|conference-paper": {
+      "members": [
+        "E-0820",
+        "E-0821"
+      ],
+      "selected": "E-0820",
+      "nonselected_count": 1,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0820"
+    },
+    "R2|journal-proxy": {
+      "members": [
+        "E-0823"
+      ],
+      "selected": "E-0823",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0823"
+    },
+    "R2|tool-overview-proxy": {
+      "members": [
+        "E-0808"
+      ],
+      "selected": "E-0808",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0808"
+    },
+    "R3|empirical-journal": {
+      "members": [
+        "E-0811"
+      ],
+      "selected": "E-0811",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0811"
+    },
+    "R3|thesis-proxy": {
+      "members": [
+        "E-0804"
+      ],
+      "selected": "E-0804",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0804"
+    },
+    "R4|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0800"
+    },
+    "R5|conference-paper": {
+      "members": [
+        "E-0815"
+      ],
+      "selected": "E-0815",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0815"
+    },
+    "R5|standards-document-proxy": {
+      "members": [
+        "E-0813"
+      ],
+      "selected": "E-0813",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0813"
+    },
+    "R5|thesis-proxy": {
+      "members": [
+        "E-0812"
+      ],
+      "selected": "E-0812",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0812"
+    },
+    "R6|conference-paper": {
+      "members": [
+        "E-0809",
+        "E-0815",
+        "E-0821"
+      ],
+      "selected": "E-0809",
+      "nonselected_count": 2,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0809"
+    },
+    "R6|empirical-journal": {
+      "members": [
+        "E-0800"
+      ],
+      "selected": "E-0800",
+      "nonselected_count": 0,
+      "status": "checked-no-discrepancy",
+      "check_source_E_ID": "E-0800"
+    }
+  },
+  "secondary_discrepancies_against_Sol_primary": 0,
+  "expansion": "Finite pattern expansion already frozen across all 23 producer X3; all actually reread. No further discrepancy requiring expansion found.",
+  "results": [
+    {
+      "source_E_ID": "E-0800",
+      "Sol_event_E_ID": "E-4000",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0800",
+      "original_title": "Concurrent multiresponse non-linear screening: Robust profiling of webpage performance",
+      "complete_original_stored_snippet": "… regarding the data normality conformance , the effect sparsity … data from a commercial browser monitoring service on a large … ‘two-in-one’ (combo) profiler . Ordinary profilers test at two …",
+      "original_metadata": "GJ Besseris - European Journal of Operational Research, 2015 - Elsevier",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain direct webpage-performance lead. Normality/effect sparsity motivates a possible R4 assumption check, not a claim that repeated-run uncertainty was studied.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0801",
+      "Sol_event_E_ID": "E-4001",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0801",
+      "original_title": "Personalized accessibility based Re-ranking of Search Engine Results (PARSER)",
+      "complete_original_stored_snippet": "… is proposed as a browser plug-in. … profiler while performing the evaluation. The accessibility guidelines like WCAG doesn’t quantity the score, they simply categorizes the conformance of …",
+      "original_metadata": "KS Kuppusamy , V Balaji … - 2016 10th International …, 2016 - ieeexplore.ieee.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3 after all six questions and plugin/score transfer reconsideration: personalization/WCAG is the stated target; the unspecified evaluation profiler supplies no observation mechanism.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0802",
+      "Sol_event_E_ID": "E-4002",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0802",
+      "original_title": "API deprecation: a retrospective analysis and detection method for code examples on the web",
+      "complete_original_stored_snippet": "… STUDIO) to a web browser and starts a GOOGLE search with … The algorithm we use in the extractor/ profiler is shown in … deprecation messages, urging conformance from API producers. …",
+      "original_metadata": "J Zhou, RJ Walker - Proceedings of the 2016 24th ACM SIGSOFT …, 2016 - dl.acm.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: code-example deprecation detection and extractor naming do not establish runtime instrumentation or a sampling assumption reusable for page-performance workloads.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0803",
+      "Sol_event_E_ID": "E-4003",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0803",
+      "original_title": "[B] CLOS, Eiffel, and Sather: A comparison",
+      "complete_original_stored_snippet": "… conformance , ie, the parent's argument types must be subtypes of those of the child, while Eiffel requires the opposite covariant conformance , … include a class browser and profiler (or …",
+      "original_metadata": "HW Schmidt , SM Omohundro - 1991 - steveomohundro.com",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: actual conformance passage is type variance; comparison is not R5 agreement and a tool list alone is not R2 instrumentation methodology.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0804",
+      "Sol_event_E_ID": "E-4004",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0804",
+      "original_title": "[PDF] Nothing to see here!",
+      "complete_original_stored_snippet": "… They showed that the results of a browser in JavaScript Engine Conformance tests can be used to determine which browser and browser version is connecting to the server. JavaScript …",
+      "original_metadata": "J Pinoy, F van den Broek , H Jonker - 2021 - research.ou.nl",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R3 advance: browser/version distinguishability is an explicit behavioral mechanism worth checking for agent-equivalence limits; do not infer performance or automation detection.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0805",
+      "Sol_event_E_ID": "E-4005",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0805",
+      "original_title": "Combating architectural degeneration: a survey",
+      "complete_original_stored_snippet": "… decision to release their web browser to the community as … using information gathered by a profiler . The user can then … can be evaluated for conformance to the planned architecture. …",
+      "original_metadata": "L Hochstein , M Lindvall - Information and Software Technology, 2005 - Elsevier",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: architectural compliance remains the target; profiler use is nonspecific and no capture/perturbation assumption is articulated. Survey proxy alone does not decide eligibility.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0806",
+      "Sol_event_E_ID": "E-4006",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0806",
+      "original_title": "Pro internet explorer 8& 9 development",
+      "complete_original_stored_snippet": "… who wish to build web sites, browser extensions, and desktop applications using … browser extension development cycle. Developers need to renew their understanding of this browser , …",
+      "original_metadata": "M Crowley - 2010 - Springer",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2 advance, not confirmed relevance: broad browser/extension development coverage leaves possible API capture guidance unresolved. Source originality and legacy transfer must be checked.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0807",
+      "Sol_event_E_ID": "E-4007",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0807",
+      "original_title": "Refusals That Reveal: Server-Enforced Teen Contact Policies and Their Age-Inference Side Channels in a Production Social Platform",
+      "complete_original_stored_snippet": "… The attack and conformance suites are released for reuse. … A6, age profiler : an account holder who probes accounts to … attempts from that browser for 30 days. The date of birth is never …",
+      "original_metadata": "TI Tauro - Available at SSRN 7562959, 2026 - papers.ssrn.com",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: account age/refusal policy rather than performance is observed. Reusable attack suites alone do not establish a performance-conformance mechanism. No date exclusion inferred from 2026.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0808",
+      "Sol_event_E_ID": "E-4008",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0808",
+      "original_title": "Websphere studio overview",
+      "complete_original_stored_snippet": "… determined and displayed in the browser : we can then select … The implementation is validated for conformance with the WS… The J2EE Request Profiler agent is used to visualize the …",
+      "original_metadata": "F Budinsky, G DeCandio, R Earle, T Francis… - IBM Systems …, 2004 - ieeexplore.ieee.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2 advance: actual request-profiler agent is a stronger runtime-observation lead than a generic tool list; server/browser attribution and overhead remain unverified.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0809",
+      "Sol_event_E_ID": "E-4009",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0809",
+      "original_title": "Model-driven testing for web applications using abstract state machines",
+      "complete_original_stored_snippet": "… a way of checking the conformance of the actual Web Application … check the conformance between the application and the model. … a link to index.php or the option of closing the browser . …",
+      "original_metadata": "F Bolis, A Gargantini , M Guarnieri , E Magri … - … Conference on Web …, 2012 - Springer",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R6 advance: model-derived web application behavior offers an independent expectation/path-coverage analogy, not automatic timing validity, R4 uncertainty or R5 numerical agreement.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0810",
+      "Sol_event_E_ID": "E-4010",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0810",
+      "original_title": "PION: Human mobility-based service provisioning framework for smartphone users",
+      "complete_original_stored_snippet": "… Engine to determine the conformance of service for the current … TABLE I describes five types of datum in User Profiler . … to provide services: a web browser for web based a list view …",
+      "original_metadata": "C Yoon , Y Chon , H Cha - … Conference on Sensor, Mesh and Ad …, 2012 - ieeexplore.ieee.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: user-context service suitability is not performance transfer. Explicitly did not exclude on human-study restrictions; these restrict new data collection, not prior literature.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0811",
+      "Sol_event_E_ID": "E-4011",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0811",
+      "original_title": "Analyzing repositories of OER using web analytics and accessibility tools",
+      "complete_original_stored_snippet": "… based on the latest ACT (Accessibility Conformance Testing) rules and makes suggestions … entered in a browser ’s search bar, saved bookmarks or links from outside a browser (such as …",
+      "original_metadata": "M Perifanou , AA Economides - Universal access in the information society, 2023 - Springer",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R3 advance: field entry routes plus web analytics may bound scripted navigation coverage; actual sample/selection method still needs text.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0812",
+      "Sol_event_E_ID": "E-4012",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0812",
+      "original_title": "[PDF] of the thesis: An HTML5 Conformance Checker",
+      "complete_original_stored_snippet": "… He released the first version of his browser in 1990 [Raggett]. The system used HTML, but the language was not formally specified at first. Tim Berners-Lee designed HTML using ideas …",
+      "original_metadata": "H Sivonen - 2007 - hsivonen.fi",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R5 advance: checker construction may offer an oracle-design method; history-only snippet cannot prove it irrelevant or verify the transfer.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0813",
+      "Sol_event_E_ID": "E-4013",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0813",
+      "original_title": "[PDF] Language standardization needs grammarware",
+      "complete_original_stored_snippet": "… leads to inconsistencies, non conformance and eventually language dialect development). … a browser , a type checker, a structural editor, a loader, a debugger, a preprocessor, a profiler , …",
+      "original_metadata": "S Klusener , V Zaytsev - JTC1/SC22 Document N, 2005 - open-std.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R5 advance: grammarware and dialect inconsistency warrant checking executable-specification/oracle assumptions; document hosting is not proof of official or original source status.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0814",
+      "Sol_event_E_ID": "E-4014",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0814",
+      "original_title": "[PDF] Towards Conformance in ODRL 3.0.",
+      "complete_original_stored_snippet": "… ; an HTML developer and a web browser developer must expect the same appearance for the … Conformance is therefore a fundamental aspect of standardization in every branch of …",
+      "original_metadata": "V Rodríguez-Doncel , N Roman - ESWC-JP, 2025 - cosasbuenas.es",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3 after testing policy-conformance transfer: the stored passage asserts importance/shared appearance, not a checking, oracle-construction or matched-output mechanism. No domain-wide ban used.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0815",
+      "Sol_event_E_ID": "E-4015",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0815",
+      "original_title": "ProtoSYCL: A Sample Implementation of a SYCL Compiler for Conformance Test Suite Development",
+      "complete_original_stored_snippet": "The SYCL Conformance Test Suite (CTS) is critical for ensuring an implementation conforms to the specification. However, verifying its correctness and completeness is limited by the …",
+      "original_metadata": "M Aziz, Y Labiche - Proceedings of the International Workshop on …, 2026 - dl.acm.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R5/R6 advance: explicit correctness/completeness of the reference suite is a concrete oracle-fallibility/controlled-implementation analogy. Exact 2026 cutoff unresolved.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0816",
+      "Sol_event_E_ID": "E-4016",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0816",
+      "original_title": "Peer-to-peer Monte Carlo simulation of photon migration in topical applications of biomedical optics",
+      "complete_original_stored_snippet": "… Introduced in 2007, CUDA has undergone significant changes in conformance to a number of … Clients interact with the O3MC web interface via a preferred web browser . The server …",
+      "original_metadata": "A Doronin , I Meglinski - Journal of Biomedical Optics, 2012 - spiedigitallibrary.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: Monte Carlo physical photon migration is not itself performance repetition uncertainty. Browser is an interface and CUDA history supplies no observation-method transfer.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0817",
+      "Sol_event_E_ID": "E-4017",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0817",
+      "original_title": "[PDF] Personal DECstation Series Technical Overview",
+      "complete_original_stored_snippet": "… For more information on ULTRIX functionality and conformance to industry standards, see … Builder, a Call Graph Browser , a Profiler , a Cross Referencer, a C++ class browser , a code …",
+      "original_metadata": "WBP Marketing - 1991 - web-docs.gsi.de",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: native profiler transfer considered but only tool capabilities are listed. No runtime capture mechanism, sampling design or uncertainty procedure; marketing byline not treated as X4 proof.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0818",
+      "Sol_event_E_ID": "E-4018",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0818",
+      "original_title": "[PDF] DECstation 5000 Model 240 Workstation Technical Overview",
+      "complete_original_stored_snippet": "… For more information on ULTRIX functionality and conformance to industry standards, see … Builder, a Call Graph Browser , a Profiler , a Cross Referencer, a C++ class browser , a code …",
+      "original_metadata": "WBP Marketing - 1991 - tfconsult.com",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3 for its own stored title/snippet: workstation feature listing lacks a transferable measurement method. Similarity with E-0817 creates no authorized duplicate merge.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0819",
+      "Sol_event_E_ID": "E-4019",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0819",
+      "original_title": "Using peer-to-peer network for on-line Monte Carlo computation of fluence rate distribution",
+      "complete_original_stored_snippet": "… Introduced in 2007 CUDA has undergone significant changes in conformance to a number … Clients interact with the O3MC web interface via a preferred web browser . The server accepts …",
+      "original_metadata": "A Doronin , I Meglinski - … in Biophysics and Medicine XIV; and …, 2013 - spiedigitallibrary.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: physical fluence computation has no stated connection to timing hierarchy, precision or stopping. Browser frontend alone is not performance scope; no merge with E-0816.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    },
+    {
+      "source_E_ID": "E-0820",
+      "Sol_event_E_ID": "E-4020",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0820",
+      "original_title": "Faster explicit-trace monitoring-oriented programming for runtime verification of software tests",
+      "complete_original_stored_snippet": "… will be downloadable from your browser . You may continue … program executions for conformance with formal specifications (… Fig 8 shows profiler data from our ablation study on how …",
+      "original_metadata": "K Guan , M d'Amorim , O Legunsen - Proceedings of the ACM on …, 2025 - dl.acm.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2 advance: explicit trace monitoring and speed/ablation lead could expose instrumentation costs. Ablation is not R4 by definition and algorithm speed is not automatically perturbation.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0821",
+      "Sol_event_E_ID": "E-4021",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0821",
+      "original_title": "A comparative evaluation of dynamic visualisation tools",
+      "complete_original_stored_snippet": "… the system under the control of a debugger or profiler . … The models produced by jRMTool illustrate the conformance of the … The method histogram and invocation browser can be used in …",
+      "original_metadata": "MJ Pacione, M Roper , M Wood - 10th Working Conference …, 2003 - strathprints.strath.ac.uk",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2/R6 advance: debugger/profiler control and visualization coverage merit methods inspection. Comparative title alone supplies neither R5 agreement nor R4 uncertainty.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0822",
+      "Sol_event_E_ID": "E-4022",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0822",
+      "original_title": "Test-Driven MySQL Development",
+      "complete_original_stored_snippet": "… traditional methods, direct your browser to the Agile Alliance … against a system is called a profiler . Therefore, profiling is … generally not concerned with conformance to specifications but …",
+      "original_metadata": "C Bell - Expert MySQL, 2012 - Springer",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2 advance: system profiling discussion could contain a capture mechanism; truncated tutorial passage is insufficient for exclusion. Non-originality is not verified.",
+      "producer_X3_rejected": true,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0823",
+      "Sol_event_E_ID": "E-4023",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0823",
+      "original_title": "[PDF] Using Lisp Implementation Internals",
+      "complete_original_stored_snippet": "… profiler . While it is a testament to the stability and flexibility of the language that a portable profiler … for implementation extensions that break conformance with the ANSI CL standard; …",
+      "original_metadata": "U but Fun - Journal of Universal Computer Science, 2010 - pdfs.semanticscholar.org",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain uncertain R2 advance: portable versus implementation-specific profiler may constrain capture. Anomalous stored author string remains unchanged and identity pending.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "ADVANCE"
+    },
+    {
+      "source_E_ID": "E-0824",
+      "Sol_event_E_ID": "E-4024",
+      "status": "checked-no-discrepancy",
+      "checked_at": "2026-10-26T12:37:03.786968+05:30",
+      "original_anchor": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv#E-0824",
+      "original_title": "[PDF] Development of a graphical user interface for InterMineR and Cytoscape to",
+      "complete_original_stored_snippet": "… Other aspects such as improvements in the data browser tool, … InterMine currently has funding to increase it’s conformance … profiler for intranetwork comparison of topological features as …",
+      "original_metadata": "CS Laorden, CS Laorden, CS Laorden - 2021 - diposit.ub.edu",
+      "R1_R6_reconsidered": true,
+      "bounded_transfer_reconsidered": true,
+      "rationale": "Retain X3: topology profiler and biological data browser target graph/bioinformatics analysis, not execution capture. Title truncation and author duplication remain visible, not silently repaired.",
+      "producer_X3_rejected": false,
+      "effective_stage1_decision": "X3"
+    }
+  ]
+}

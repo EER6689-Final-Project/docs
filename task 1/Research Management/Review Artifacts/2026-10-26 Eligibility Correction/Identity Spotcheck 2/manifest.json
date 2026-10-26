@@ -1,0 +1,17 @@
+{
+  "scope": "Retained identity field observations and actual Q343 metadata response; no paper passage verification; self hash excluded",
+  "files": {
+    "Q-343-VisibleV8-metadata.json": {
+      "sha256": "d5c7e7fbb939d3b1f51f6f194374656ecc4d93c945132eab11512fb0c6cadb0b",
+      "bytes": 2454
+    },
+    "Q-343-receipt.json": {
+      "sha256": "432f4300916339b7655fadb0012ead20ac86433d1bfd268ccc5b9cec2c8de2c6",
+      "bytes": 572
+    },
+    "README.md": {
+      "sha256": "3fd0ac530868147ed91fe002a738b54d6ef4724faa970ece53146c3774f7826f",
+      "bytes": 5378
+    }
+  }
+}

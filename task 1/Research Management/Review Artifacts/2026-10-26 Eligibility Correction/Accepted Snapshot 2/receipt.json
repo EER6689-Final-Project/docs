@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-10-26T11:25:22.018254+05:30",
+  "type": "administrative integration of accepted disjoint metadata QA; not new semantic reads",
+  "baseline": {
+    "path": "../Sol_effective_state_838.csv",
+    "sha256": "2c393d72ebbe971a0b571f46f877b2d921d747bed1e50dcaeb37594da9095d1f",
+    "counts": {
+      "ADVANCE": 94,
+      "X3": 44,
+      "PENDING": 700
+    }
+  },
+  "accepted_overlay": {
+    "path": "../Sol Scholar First25/overlay25.csv",
+    "sha256": "f6997c61dcb44a4873f1049bec16edbc2e05363f6446244241bf90c5853cbeac",
+    "targets": 25,
+    "counts": {
+      "ADVANCE": 19,
+      "X3": 1,
+      "PENDING": 5
+    }
+  },
+  "counts": {
+    "X3": 45,
+    "ADVANCE": 113,
+    "PENDING": 680
+  },
+  "rows": 838,
+  "source_support_confidence": "UNASSESSED",
+  "limits": "838 occurrences, not works; stage1 routing not full-text inclusion; unverified identity/date/language/type and later citation/full-text requirements remain. Parallel OA/Scholar producer or QA outputs not included."
+}

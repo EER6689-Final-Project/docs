@@ -1,0 +1,34 @@
+{
+  "created_utc": "2026-10-26T06:36:44.940200+00:00",
+  "phase": "before additional secondary original-export rereads",
+  "reason": "Finite risk expansion for producer extrapolation from reference-list/fragmentary snippets and unsupported repetition/correlation inferences; corrected in primary, now checked in a separate pass. No final primary disposition discrepancy found in the nine frozen group selections.",
+  "target_ids": [
+    "E-0704",
+    "E-0705",
+    "E-0711",
+    "E-0713",
+    "E-0717",
+    "E-0718",
+    "E-0724"
+  ],
+  "pattern_membership": {
+    "reference-list snippet same-title companion to sampled E-0720": [
+      "E-0704"
+    ],
+    "weak/absent repeat structure or truncated method interpretation": [
+      "E-0705",
+      "E-0711",
+      "E-0713",
+      "E-0717",
+      "E-0718"
+    ],
+    "truncated correlation statement previously read as warning": [
+      "E-0724"
+    ]
+  },
+  "original_queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "producer_sha256": "1d47ab4a385e67fcfa85bc2ca7e942f4583a4f3570352220dfb06ca28e8a824b",
+  "primary_overlay_sha256": "9f6743df3c21a402f2c8fc6d4c8724adf7f3910b1a90ea35059267a6189bda88",
+  "qa_freeze_sha256": "7a6c61648b0d0f5cbc741ed621eafe2146dcdfc974cb87dcb81a490bc880333b",
+  "boundary": "Only E-0700\u2013E-0724; no other batch targets or full texts"
+}

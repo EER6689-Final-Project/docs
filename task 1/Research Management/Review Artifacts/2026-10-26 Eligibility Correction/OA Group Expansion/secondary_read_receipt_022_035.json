@@ -1,0 +1,349 @@
+{
+  "phase": "secondary",
+  "emitted_at_utc": "2026-10-26T07:17:08.155392+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0351",
+      "event": "E-3542",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Uncertainty quantification, once a singular task, has evolved into a spectrum of tasks, including abstained prediction, out-of-distribution detection, and aleatoric uncertainty quantification. The latest goal is disentanglement: the construction of multiple estimators that are each tailored to one and only one source of uncertainty. This paper presents the first benchmark of uncertainty disentanglement. We reimplement and evaluate a comprehensive range of uncertainty estimators, from Bayesian over evidential to deterministic ones, across a diverse range of uncertainty tasks on ImageNet. We find that, despite recent theoretical endeavors, no existing approach provides pairs of disentangled uncertainty estimators in practice. We further find that specialized uncertainty tasks are harder than predictive uncertainty tasks, where we observe saturating performance. Our results provide both practical advice for which uncertainty estimators to use for which specific task, and reveal opportunities for future research toward task-centric and disentangled uncertainties. All our reimplementations and Weights & Biases logs are available at https://github.com/bmucsanyi/untangle.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.52202/079017-1614",
+        "platform_record_id": "https://openalex.org/W4415797714",
+        "record_url": "https://openalex.org/W4415797714",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.52202/079017-1614\", \"publication_year\": 2024, \"publication_date\": \"2024-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Bálint Mucsányi\", \"Michael Kirchhof\", \"Seung‐June Oh\"], \"venue\": \"neural information processing systems\", \"openalex_id\": \"https://openalex.org/W4415797714\", \"landing_page_url\": \"https://doi.org/10.52202/079017-1614\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "2",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4cb5f2b39b0e88489d39497d0e7a8e3b11ab21d953312bdf268983d62d24c6db"
+    },
+    {
+      "target": "E-0352",
+      "event": "E-3543",
+      "affected": [
+        "R4",
+        "R5"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Uncertainty Analysis Study on Seakeeping Tests of Benchmark Model",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Experimental uncertainty and measurement, particularly in engineering, have been increasingly emphasized over the last 20 years. Uncertainty analysis of ship model testing in seakeeping experiments based on International Organization for Standardization, Guide for Uncertainty of Measurements (ISO-GUM), report with recommendations published by ITTC (2008). In this paper, the uncertainties for free-running tests were performed for a model scale 1:62 as a benchmark model test at the Indonesian Hydrodynamic Laboratory (IHL). The benchmark model is representative of a full scale of 186 meters. The model has full appendages as well as a rudder and propellers to allow for free-running tests, natural roll period, free roll decay, and swing tests. Factors of basic uncertainty (type A and type B) are estimated using model tests. The standard deviation of the mean value of a repeated measurement is uncertainty type A. However, Type B uncertainty is estimated from manufacturing specifications. The uncertainty components resulting from both types are quantified by standard deviations. The uncertainty value of Type B is approximated by a corresponding variance. This study helps to understand the underlying uncertainty associated with this research, which resulted in a total geometry uncertainty value (Lpp, B, T, H, KG ¯ , and kyy) of 0.17598% and the total uncertainty value of the instrument calibration results (wave height sensor and qualysis motion tracking) is 0.01161%. The results of this study are expected to minimize the impact of sources of uncertainty and allow the potential for underlying uncertainty to be corrected for the next seaworthiness test.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-09-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/1755-1315/1081/1/012021",
+        "platform_record_id": "https://openalex.org/W4296820701",
+        "record_url": "https://openalex.org/W4296820701",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/1755-1315/1081/1/012021\", \"publication_year\": 2022, \"publication_date\": \"2022-09-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Nandiko Rizal\", \"Dian Purnama Sari\", \"Beny Cahyono\", \"Dedy Dwi Prastyo\", \"Baharuddin Ali\", \"Erdina Arianti\"], \"venue\": \"IOP Conference Series Earth and Environmental Science\", \"openalex_id\": \"https://openalex.org/W4296820701\", \"landing_page_url\": \"https://doi.org/10.1088/1755-1315/1081/1/012021\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "3",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a0d0cab9b7cd05d743cabc7a8db904984b4587a48b1e688cee28bd0f996fa2c7"
+    },
+    {
+      "target": "E-0353",
+      "event": "E-3544",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "A framework for benchmarking uncertainty in deep regression",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract We propose a framework for the assessment of uncertainty quantification in deep regression. The framework is based on regression problems where the regression function is a linear combination of nonlinear functions. Basically, any level of complexity can be realized through the choice of the nonlinear functions and the dimensionality of their domain. Results of an uncertainty quantification for deep regression are compared against those obtained by a statistical reference method. The reference method utilizes knowledge about the underlying nonlinear functions and is based on Bayesian linear regression using a prior reference. The flexibility, together with the availability of a reference solution, makes the framework suitable for defining benchmark sets for uncertainty quantification. Reliability of uncertainty quantification is assessed in terms of coverage probabilities, and accuracy through the size of calculated uncertainties. We illustrate the proposed framework by applying it to current approaches for uncertainty quantification in deep regression. In addition, results for three real-world regression tasks are presented.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-08-09",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/s10489-022-03908-3",
+        "platform_record_id": "https://openalex.org/W3199479085",
+        "record_url": "https://openalex.org/W3199479085",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/s10489-022-03908-3\", \"publication_year\": 2022, \"publication_date\": \"2022-08-09\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Franko Schmähling\", \"Jörg Martin\", \"Clemens Elster\"], \"venue\": \"Applied Intelligence\", \"openalex_id\": \"https://openalex.org/W3199479085\", \"landing_page_url\": \"https://doi.org/10.1007/s10489-022-03908-3\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "4",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "953fed9b7ced51dd4731d0909b7451888deb89ede8e8284ba7577c599a893347"
+    },
+    {
+      "target": "E-0354",
+      "event": "E-3545",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "MUBen: Benchmarking the Uncertainty of Molecular Representation Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Large molecular representation models pre-trained on massive unlabeled data have shown great success in predicting molecular properties. However, these models may tend to overfit the fine-tuning data, resulting in over-confident predictions on test data that fall outside of the training distribution. To address this issue, uncertainty quantification (UQ) methods can be used to improve the models' calibration of predictions. Although many UQ approaches exist, not all of them lead to improved performance. While some studies have included UQ to improve molecular pre-trained models, the process of selecting suitable backbone and UQ methods for reliable molecular uncertainty estimation remains underexplored. To address this gap, we present MUBen, which evaluates different UQ methods for state-of-the-art backbone molecular representation models to investigate their capabilities. By fine-tuning various backbones using different molecular descriptors as inputs with UQ methods from different categories, we assess the influence of architectural decisions and training strategies. Our study offers insights for selecting UQ for backbone models, which can facilitate research on uncertainty-critical applications in fields such as materials science and drug discovery.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-06-14",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2306.10060",
+        "platform_record_id": "https://openalex.org/W4381587374",
+        "record_url": "https://openalex.org/W4381587374",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2306.10060\", \"publication_year\": 2023, \"publication_date\": \"2023-06-14\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Yinghao Li\", \"Lingkai Kong\", \"Yuanqi Du\", \"Yue Yu\", \"Yuchen Zhuang\", \"Wenhao Mu\", \"Chao Zhang\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4381587374\", \"landing_page_url\": \"http://arxiv.org/abs/2306.10060\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "5",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "2fd108e495a418e41c6a98690faf46d134cca35564db116ff7adf2d3923924fc"
+    },
+    {
+      "target": "E-0356",
+      "event": "E-3547",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "The Community Land Model Version 5: Description of New Features, Benchmarking, and Impact of Forcing Uncertainty",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract The Community Land Model (CLM) is the land component of the Community Earth System Model (CESM) and is used in several global and regional modeling systems. In this paper, we introduce model developments included in CLM version 5 (CLM5), which is the default land component for CESM2. We assess an ensemble of simulations, including prescribed and prognostic vegetation state, multiple forcing data sets, and CLM4, CLM4.5, and CLM5, against a range of metrics including from the International Land Model Benchmarking (ILAMBv2) package. CLM5 includes new and updated processes and parameterizations: (1) dynamic land units, (2) updated parameterizations and structure for hydrology and snow (spatially explicit soil depth, dry surface layer, revised groundwater scheme, revised canopy interception and canopy snow processes, updated fresh snow density, simple firn model, and Model for Scale Adaptive River Transport), (3) plant hydraulics and hydraulic redistribution, (4) revised nitrogen cycling (flexible leaf stoichiometry, leaf N optimization for photosynthesis, and carbon costs for plant nitrogen uptake), (5) global crop model with six crop types and time‐evolving irrigated areas and fertilization rates, (6) updated urban building energy, (7) carbon isotopes, and (8) updated stomatal physiology. New optional features include demographically structured dynamic vegetation model (Functionally Assembled Terrestrial Ecosystem Simulator), ozone damage to plants, and fire trace gas emissions coupling to the atmosphere. Conclusive establishment of improvement or degradation of individual variables or metrics is challenged by forcing uncertainty, parametric uncertainty, and model structural complexity, but the multivariate metrics presented here suggest a general broad improvement from CLM4 to CLM5.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-10-19",
+        "language": "en",
+        "doi": "https://doi.org/10.1029/2018ms001583",
+        "platform_record_id": "https://openalex.org/W2981104727",
+        "record_url": "https://openalex.org/W2981104727",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1029/2018ms001583\", \"publication_year\": 2019, \"publication_date\": \"2019-10-19\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"David M. Lawrence\", \"Rosie A. Fisher\", \"Charles D. Koven\", \"Keith W. Oleson\", \"Sean Claude Swenson\", \"Gordon B. Bonan\", \"Nathan Collier\", \"Bardan Ghimire\", \"Leo van Kampenhout\", \"Daniel Kennedy\", \"Erik Kluzek\", \"Peter Lawrence\", \"Fang Li\", \"Hong‐Yi Li\", \"Danica Lombardozzi\", \"W. J. Riley\", \"William J. Sacks\", \"Mingjie Shi\", \"Mariana Vertenstein\", \"William R. Wieder\", \"Chonggang Xu\", \"Ashehad Ashween Ali\", \"Andrew M. Badger\", \"Gautam Bisht\", \"M. R. van den Broeke\", \"Michael A. Brunke\", \"Sean P. Burns\", \"Jonathan Buzan\", \"Martyn Clark\", \"Anthony P Craig\", \"Kyla M. Dahlin\", \"Beth A. Drewniak\", \"Joshua B. Fisher\", \"Mark G. Flanner\", \"Andrew M. Fox\", \"Pierre Gentine\", \"Forrest M. Hoffman\", \"Gretchen Keppel‐Aleks\", \"Ryan Knox\", \"Sanjiv Kumar\", \"Jan T. M. Lenaerts\", \"Lai-Yung Ruby Leung\", \"William H. Lipscomb\", \"Yaqiong Lü\", \"Ashutosh Pandey\", \"Jon D. Pelletier\", \"J. Perket\", \"James T. Randerson\", \"Daniel M. Ricciuto\", \"Benjamin Mark Sanderson\", \"Andrew G. Slater\", \"Zachary M. Subin\", \"Jinyun Tang\", \"R. Quinn Thomas\", \"Maria Val Martin\", \"Xubin Zeng\"], \"venue\": \"Journal of Advances in Modeling Earth Systems\", \"openalex_id\": \"https://openalex.org/W2981104727\", \"landing_page_url\": \"https://doi.org/10.1029/2018ms001583\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "7",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d5e190fc4cd1d39e52b9e6f90b65406036cf654dd49d88d67e126ebb9a7a4799"
+    },
+    {
+      "target": "E-0357",
+      "event": "E-3548",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating Aleatoric Uncertainty from Repeated Measurements: A Proper Scoring Rule for Heteroscedastic Probabilistic Surrogates",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.7548499",
+        "platform_record_id": "https://openalex.org/W7215091758",
+        "record_url": "https://openalex.org/W7215091758",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.7548499\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Ferdinand Dunkes\", \"Christian Breitsamter\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7215091758\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.7548499\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "8",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "01159d74e80a2bbb1974d74354aacf8188881612594c52b1db5fcf76022ffe09"
+    },
+    {
+      "target": "E-0362",
+      "event": "E-3552",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Uncertainty of ADV and volumetric PTV measurements of irregular wave kinematics",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.7511777",
+        "platform_record_id": "https://openalex.org/W7214110914",
+        "record_url": "https://openalex.org/W7214110914",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.7511777\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Oliver Millar\", \"Alexandros Charogiannis\", \"Ioannis Karmpadakis\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7214110914\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.7511777\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "13",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3d3dc5cb50ca8e89204c5e95ddec20b9b6dcde65b4f3eee35ada6d2be2201ebb"
+    },
+    {
+      "target": "E-0363",
+      "event": "E-3553",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Advanced supply chain data modeling for performance measurement efficiency benchmarking and uncertainty-aware planning",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Advanced supply chain data modeling has become essential for improving performance measurement, efficiency benchmarking, and uncertainty-aware planning in increasingly complex and volatile operational environments. At a broad level, modern supply chains generate large volumes of heterogeneous data spanning production, inventory, transportation, and market demand. Leveraging this data through advanced modeling techniques enables organizations to move beyond descriptive reporting toward systematic evaluation of operational performance and comparative efficiency across processes, facilities, and networks. Focusing more narrowly, performance measurement and efficiency benchmarking require robust analytical frameworks capable of capturing both operational outputs and underlying resource constraints. Data-driven models such as stochastic frontier analysis, data envelopment analysis, and machine learning–based performance metrics allow organizations to benchmark efficiency under varying operating conditions while accounting for scale effects and structural differences. However, traditional benchmarking approaches often overlook uncertainty inherent in supply and demand, process variability, and external disruptions. This abstract emphasizes uncertainty-aware planning as an integral extension of advanced supply chain data modeling. By incorporating probabilistic forecasting, scenario analysis, and stochastic optimization, organizations can evaluate efficiency trade-offs under uncertainty and design adaptive operational plans. Integrating performance measurement with uncertainty-aware planning supports informed decision-making, enhances resilience, and enables continuous performance improvement across supply chain systems facing dynamic and unpredictable conditions.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-07-01",
+        "language": "",
+        "doi": "https://doi.org/10.33545/26648792.2023.v5.i2c.641",
+        "platform_record_id": "https://openalex.org/W7140230007",
+        "record_url": "https://openalex.org/W7140230007",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.33545/26648792.2023.v5.i2c.641\", \"publication_year\": 2023, \"publication_date\": \"2023-07-01\", \"type\": \"article\", \"language\": null, \"authorships\": [\"Bosede Ogunbamise\", \"Joanne Kusiima\", \"Suliyat Tijani\"], \"venue\": \"International Journal of Research in Management\", \"openalex_id\": \"https://openalex.org/W7140230007\", \"landing_page_url\": \"https://doi.org/10.33545/26648792.2023.v5.i2c.641\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "14",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a9babc268bfefc7cabb8415e700d9c668bb64dfc260756aa8816243a7aa92126"
+    },
+    {
+      "target": "E-0364",
+      "event": "E-3554",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Benchmarking Uncertainty and Improving Risk Ranking in Multi-task Bioactivity Prediction",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Multi-task bioactivity prediction transfers information across assays, but experimental prioritization also requires uncertainty estimates that identify unreliable predictions. We benchmarked prediction accuracy and uncertainty calibration for five multi-task predictors on 100 ChEMBL27 test assays and 100 CHEMBL37 assays under the random split and the clustering split. Calibration used native, Deep Ensemble and MC Dropout uncertainty; risk ranking was compared for two Gaussian process (GP) backbones. Adaptive deep kernel fitting (ADKF) achieved the best mean calibration results, while deep kernel transfer (DKT) ranked errors more effectively than ADKF with native uncertainty. We also introduce Influence Calibrated Support Reconstruction (ICSR), a risk score for kernel-based predictors. ICSR combines measured support reconstruction errors with query-specific influence and stabilizes their weighted average toward the full-support mean to adjust Gaussian process uncertainty while preserving predicted activities. With DKT and ADKF, ICSR improved all three mean risk-ranking metrics over native uncertainty and an adapted neighborhood comparator in every panel and split. ICSR achieved a mean half-query MAE reduction ( R 50 ) of 14.2–19.6%, where R 50 measures the percentage decrease in mean absolute error (MAE) after retaining the lowest-risk half of the queries. A retrospectively selected SARS-CoV-2 main protease case further illustrated its use for selecting more reliable predictions. The benchmark supports joint assessment of calibration and error ranking, while ICSR improves selective use of kernel-based bioactivity predictions.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-09-22",
+        "language": "",
+        "doi": "https://doi.org/10.64898/2026.09.15.751772",
+        "platform_record_id": "https://openalex.org/W7214032747",
+        "record_url": "https://openalex.org/W7214032747",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.64898/2026.09.15.751772\", \"publication_year\": 2026, \"publication_date\": \"2026-09-22\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Zijian Wang\", \"Li Tian\", \"Chi‐Ming Che\"], \"venue\": \"bioRxiv (Cold Spring Harbor Laboratory)\", \"openalex_id\": \"https://openalex.org/W7214032747\", \"landing_page_url\": \"https://doi.org/10.64898/2026.09.15.751772\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "15",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "aa158089b1426f56da68f51d088fc3f1f9f34b34043257058b1c95473942ff2a"
+    },
+    {
+      "target": "E-0366",
+      "event": "E-3555",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R3;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarks for Model Validation based on LiDAR Wake Measurements",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Technology development and design decisions in wind energy are often based on results from simulations performed for individual wind turbines or entire wind plants. It is therefore critical to ensure that the models being used for research and industry applications in wind energy be thoroughly validated against measurements. A full-system validation of wind plant simulations must consider the atmospheric inflow, the response of the wind turbines, and their wakes. This task is complicated by the lack of freely available, quality-controlled, high-quality measurements. Here, such measurements are used to offer a validation exercise that can be used to assess the accuracy of models of any fidelity level. When it comes to real-world measurements, the dataset considered herein is simple in terms of terrain but exhibits pronounced diurnal cycles. Instead of a full-scale wind plant, we consider an individual research-scale, utility wind turbine instrumented for power and loads measurements. Three benchmarks are defined, with increasing levels of complexity: near neutral, slightly unstable, and very stable atmospheric stratification. Through comparisons between observations and simulations, the benchmarks provide complementary information about the model performance and its ability to reproduce mean and dynamic wake characteristics. This article describes the measurements and methodology used to define these benchmarks and provides the information required to perform simulations and conduct the model-measurement comparison. The objective is to provide a robust wake model validation exercise open to anyone, which will serve to minimize uncertainty in model validation practices related to varying methodologies across simulation tools and users.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-07-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/1742-6596/1256/1/012024",
+        "platform_record_id": "https://openalex.org/W2963725376",
+        "record_url": "https://openalex.org/W2963725376",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/1742-6596/1256/1/012024\", \"publication_year\": 2019, \"publication_date\": \"2019-07-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Paula Doubrawa\", \"Mithu Debnath\", \"Patrick Moriarty\", \"Emmanuel Branlard\", \"Tommy Herges\", \"David Maniaci\", \"Brian Naughton\"], \"venue\": \"Journal of Physics Conference Series\", \"openalex_id\": \"https://openalex.org/W2963725376\", \"landing_page_url\": \"https://doi.org/10.1088/1742-6596/1256/1/012024\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "17",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a4e303c705a4e44aa95f274fdef06cbe4b5770942864f6b5c87c7e6945b36796"
+    },
+    {
+      "target": "E-0369",
+      "event": "E-3558",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "FairlyUncertain: A Comprehensive Benchmark of Uncertainty in Algorithmic Fairness",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Fair predictive algorithms hinge on both equality and trust, yet inherent uncertainty in real-world data challenges our ability to make consistent, fair, and calibrated decisions. While fairly managing predictive error has been extensively explored, some recent work has begun to address the challenge of fairly accounting for irreducible prediction uncertainty. However, a clear taxonomy and well-specified objectives for integrating uncertainty into fairness remains undefined. We address this gap by introducing FairlyUncertain, an axiomatic benchmark for evaluating uncertainty estimates in fairness. Our benchmark posits that fair predictive uncertainty estimates should be consistent across learning pipelines and calibrated to observed randomness. Through extensive experiments on ten popular fairness datasets, our evaluation reveals: (1) A theoretically justified and simple method for estimating uncertainty in binary settings is more consistent and calibrated than prior work; (2) Abstaining from binary predictions, even with improved uncertainty estimates, reduces error but does not alleviate outcome imbalances between demographic groups; (3) Incorporating consistent and calibrated uncertainty estimates in regression tasks improves fairness without any explicit fairness interventions. Additionally, our benchmark package is designed to be extensible and open-source, to grow with the field. By providing a standardized framework for assessing the interplay between uncertainty and fairness, FairlyUncertain paves the way for more equitable and trustworthy machine learning practices.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-10-02",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2410.02005",
+        "platform_record_id": "https://openalex.org/W4403854152",
+        "record_url": "https://openalex.org/W4403854152",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2410.02005\", \"publication_year\": 2024, \"publication_date\": \"2024-10-02\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Lucas Rosenblatt\", \"R. Teal Witter\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4403854152\", \"landing_page_url\": \"http://arxiv.org/abs/2410.02005\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "77755cc119c960f1da7c4427e15daf072af45fa50b1b4cb61a1749f07e87e21e"
+    },
+    {
+      "target": "E-0376",
+      "event": "E-3561",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmark Evaluation of HTR-PROTEUS Pebble Bed Experimental Program",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Benchmark models were developed to evaluate 11 critical core configurations of the HTR-PROTEUS pebble bed experimental program. Various additional reactor physics measurements were carried out as part of this program; currently, only a total of 37 absorber rod worth measurements have been evaluated as acceptable benchmark experiments for cores 4, 9, and 10. Dominant uncertainties in the experimental Keff for all core configurations come from uncertainties in the 235U enrichment of the fuel, impurities in the moderator pebbles, and the density and impurity content of the radial reflector. Calculations of Keff with MCNP5 and ENDF/B-VII.0 neutron nuclear data are greater than the benchmark values but are within 1% and also within the 3σ uncertainty, except for core 4, which is the only randomly packed pebble configuration. Repeated calculations of keff with MCNP6.1 and ENDF/B-VII.1 are lower than the benchmark values but are within 1% (∽3σ), except for cores 5 and 9, which calculate lower than the benchmark eigenvalues by <4σ. The primary difference between the two nuclear data libraries is the adjustment of the absorption cross section of graphite. Simulations of the absorber rod worth measurements are within 3σ of the benchmark experiment values. The complete benchmark evaluation details are available in the 2014 edition of the International Handbook of Evaluated Reactor Physics Benchmark Experiments.",
+      "metadata": {
+        "publication_year": "2014",
+        "publication_date": "2014-10-09",
+        "language": "en",
+        "doi": "https://doi.org/10.13182/nse14-13",
+        "platform_record_id": "https://openalex.org/W2049118965",
+        "record_url": "https://openalex.org/W2049118965",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.13182/nse14-13\", \"publication_year\": 2014, \"publication_date\": \"2014-10-09\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"John Darrell Bess\", \"Leland M. Montierth\", \"Oliver Köberl\", \"Luka Snoj\"], \"venue\": \"Nuclear Science and Engineering\", \"openalex_id\": \"https://openalex.org/W2049118965\", \"landing_page_url\": \"https://doi.org/10.13182/nse14-13\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "27",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4ea4b8ec2b1b94fa683051df41c94f12ef1aecbe66a85aa394c62946c81dd427"
+    },
+    {
+      "target": "E-0377",
+      "event": "E-3562",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Measurement accuracy and uncertainty in plant biomechanics",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "All scientific measurements are affected to some degree by both systematic and random errors. The quantification of these errors supports correct interpretation of data, thus supporting scientific progress. Absence of information regarding reliability and accuracy can slow scientific progress, and can lead to a reproducibility crisis. Here we consider both measurement theory and plant biomechanics literature. Drawing from measurement theory literature, we review techniques for assessing both the accuracy and uncertainty of a measurement process. In our survey of plant biomechanics literature, we found that direct assessment of measurement accuracy and uncertainty is not yet common. The advantages and disadvantages of efforts to quantify measurement accuracy and uncertainty are discussed. We conclude with recommended best practices for improving the scientific rigor in plant biomechanics through attention to the issues of measurement accuracy and uncertainty.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-06-28",
+        "language": "en",
+        "doi": "https://doi.org/10.1093/jxb/erz279",
+        "platform_record_id": "https://openalex.org/W2962248664",
+        "record_url": "https://openalex.org/W2962248664",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1093/jxb/erz279\", \"publication_year\": 2019, \"publication_date\": \"2019-06-28\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Nathanael Nelson\", \"Christopher J. Stubbs\", \"Ryan Larson\", \"Douglas D. Cook\"], \"venue\": \"Journal of Experimental Botany\", \"openalex_id\": \"https://openalex.org/W2962248664\", \"landing_page_url\": \"https://doi.org/10.1093/jxb/erz279\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9abaa3bae5aa2829895707dddb526657931f04afed088bf6c98adeaac217b92b"
+    }
+  ]
+}

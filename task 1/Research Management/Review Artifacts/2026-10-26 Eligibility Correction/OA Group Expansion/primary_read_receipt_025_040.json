@@ -1,0 +1,399 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:37:50.885411+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0288",
+      "event": "E-3525",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R3",
+      "previous_status": "ADVANCE",
+      "title": "Designing a Better Browser for Tor with BLAST",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Tor is an anonymity network that allows clients to browse web pages privately, but loading web pages with Tor is slow.To analyze how the browser loads web pages, we examine their resource trees using our new browser logging and simulation tool, BLAST.We find that the time it takes to load a web page with Tor is almost entirely determined by the number of round trips incurred, not its bandwidth, and Tor Browser incurs unnecessary round trips.Resources sit in the browser queue excessively waiting for the TCP and TLS handshakes, each of which takes a separate round trip.We show that increasing resource loading capacity with larger pipelines and even HTTP/2 do not decrease load time because they do not save round trips.We set out to minimize round trips with a number of protocol and browser improvements, including TCP Fast Open, optimistic data and 0-RTT TLS.We also recommend the use of databases to assist the client with redirection, identifying HTTP/2 servers, and prefetching.All of these features are designed to cut down on the number of round trips incurred in loading web pages.To evaluate these proposed improvements, we create a simulation tool and validate that it is highly accurate in predicting mean page load times.We use the simulator to analyze these features and it predicts that they will decrease the mean page load time by 61% over HTTP/2.Our large improvement to user experience comes at trivial cost to the Tor network.",
+      "metadata": {
+        "publication_year": "2020",
+        "publication_date": "2020-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.14722/ndss.2020.24199",
+        "platform_record_id": "https://openalex.org/W3006955189",
+        "record_url": "https://openalex.org/W3006955189",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.14722/ndss.2020.24199\", \"publication_year\": 2020, \"publication_date\": \"2020-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Tao Wang\"], \"venue\": \"Network and Distributed System Security Symposium\", \"openalex_id\": \"https://openalex.org/W3006955189\", \"landing_page_url\": \"https://doi.org/10.14722/ndss.2020.24199\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "39",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "e495870e425b7b86f5ed94e21012fe226037bf04e8029861517f956a99e259e8"
+    },
+    {
+      "target": "E-0291",
+      "event": "E-3526",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "BoaSpect: An Expressive Instrumentation Platform for JavaScript",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Instrumentation platforms facilitate the development and deployment of dynamic analyses. The state-of-the-art instrumentation platforms for JavaScript rely on different weaving approaches for instrumentation, offering different levels of analysis expressiveness. The main issue is that they are unable to observe and reason about abstract operations, i.e. operations that are not exposed as language constructs but are used within the runtime. However, abstract operations are pivotal to understanding JavaScript’s program behaviour. This paper demonstrates the importance of exposing the ToPrimitive abstract operation, which lies at the core of JavaScript’s type coercion. We introduce BoaSpect, an interpreter-based instrumentation platform for JavaScript, which provides increased expressiveness by exposing the ToPrimitive trap through the instrumentation interface. We demonstrate its potential by implementing a novel analysis in BoaSpect to identify a potential security exploit, and a taint analysis which can track information flows precisely in the presence of implicit type coercions.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-03-11",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3660829.3660839",
+        "platform_record_id": "https://openalex.org/W4400440042",
+        "record_url": "https://openalex.org/W4400440042",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3660829.3660839\", \"publication_year\": 2024, \"publication_date\": \"2024-03-11\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Aäron Munsters\", \"Angel Luis Scull Pupo\", \"Elisa Gonzalez Boix\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W4400440042\", \"landing_page_url\": \"https://doi.org/10.1145/3660829.3660839\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "42",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "43e93dff91857189e8bba4628a5bc90a8b5297eab5a197dce950d4a3c1954bd6"
+    },
+    {
+      "target": "E-0292",
+      "event": "E-3527",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R5;R6",
+      "previous_status": "PENDING",
+      "title": "Classroom Digital Twins with Instrumentation-Free Gaze Tracking",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Classroom sensing is an important and active area of research with great potential to improve instruction. Complementing professional observers – the current best practice – automated pedagogical professional development systems can attend every class and capture fine-grained details of all occupants. One particularly valuable facet to capture is class gaze behavior. For students, certain gaze patterns have been shown to correlate with interest in the material, while for instructors, student-centered gaze patterns have been shown to increase approachability and immediacy. Unfortunately, prior classroom gaze-sensing systems have limited accuracy and often require specialized external or worn sensors. In this work, we developed a new computer-vision-driven system that powers a 3D “digital twin” of the classroom and enables whole-class, 6DOF head gaze vector estimation without instrumenting any of the occupants. We describe our open source implementation, and results from both controlled studies and real-world classroom deployments.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-05-06",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/3411764.3445711",
+        "platform_record_id": "https://openalex.org/W3159980834",
+        "record_url": "https://openalex.org/W3159980834",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/3411764.3445711\", \"publication_year\": 2021, \"publication_date\": \"2021-05-06\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Karan Ahuja\", \"Deval Shah\", \"Sujeath Pareddy\", \"Françeska Xhakaj\", \"Amy Ogan\", \"Yuvraj Agarwal\", \"Chris Harrison\"], \"venue\": \"CHI Conference on Human Factors in Computing Systems\", \"openalex_id\": \"https://openalex.org/W3159980834\", \"landing_page_url\": \"https://doi.org/10.1145/3411764.3445711\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "43",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "66b76930c96bfed5c15677b5cad8a09bb791daf1fc442c5e342d925211db089d"
+    },
+    {
+      "target": "E-0293",
+      "event": "E-3528",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "uringscope: Portable, Low-Overhead Observability for io_uring",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "io_uring moves I/O submission and completion into shared-memory rings. This makes it fast, and it also makes it invisible. strace sees only the ring setup, and the kernel tracepoints that expose the request flow are not stable ABI, so the few tools built on them work only on narrow kernel ranges. We present uringscope, a single-binary, language-agnostic observability tool for io_uring built on CO-RE (Compile Once, Run Everywhere) eBPF. uringscope makes four contributions. The first is a precise model of the request lifecycle and a method to reconstruct per-request flows from kernel events. The second is a technique for attaching portably to an unstable tracepoint surface, using BTF-probed program variants, CO-RE field flavors, and position-independent reads. The third is an evaluation of the tradeoff between overhead and fidelity: on device-bound NVMe workloads uringscope's aggregate mode costs 0.7 to 9.9% of throughput, which is cheaper than every full-fidelity alternative we measured. The fourth is a lightweight correctness mode that reuses the same reconstruction to detect submission-boundary hazards, together with a built-in doctor that turns the measurements into named pathologies with evidence, for operators who are debugging a tail-latency incident rather than browsing histograms.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-06-13",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2606.15137",
+        "platform_record_id": "https://openalex.org/W7164909127",
+        "record_url": "https://openalex.org/W7164909127",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2606.15137\", \"publication_year\": 2026, \"publication_date\": \"2026-06-13\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Rajarshi Chowdhury\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7164909127\", \"landing_page_url\": \"https://arxiv.org/abs/2606.15137\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "44",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "0d377684a9df74fe40a7dd2aca8e73c3eb9c353be866303b96056c749f1e018e"
+    },
+    {
+      "target": "E-0294",
+      "event": "E-3529",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "PENDING",
+      "title": "Browser-Based Enforcement of Interface Contracts in Web Applications with BeepBeep",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2009",
+        "publication_date": "2009-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/978-3-642-02658-4_50",
+        "platform_record_id": "https://openalex.org/W1536000481",
+        "record_url": "https://openalex.org/W1536000481",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/978-3-642-02658-4_50\", \"publication_year\": 2009, \"publication_date\": \"2009-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Sylvain Hallé\", \"Roger Villemaire\"], \"venue\": \"Lecture notes in computer science\", \"openalex_id\": \"https://openalex.org/W1536000481\", \"landing_page_url\": \"https://doi.org/10.1007/978-3-642-02658-4_50\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "45",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b97a9f5162b1de63da33c13cff3a52667f316f8a12482f333d80a2accfd230ce"
+    },
+    {
+      "target": "E-0295",
+      "event": "E-3530",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2;R6",
+      "previous_status": "ADVANCE",
+      "title": "CorbFuzz: Checking Browser Security Policies with Fuzzing",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Browsers use security policies to block malicious behaviors. Cross-Origin Read Blocking (CORB) is a browser security policy for preventing side-channel attacks such as Spectre. We propose a web browser security policy fuzzer called CorbFuzz for checking CORB and similar policies. In implementing a security policy, the browser only has access to HTTP requests and responses, and takes policy actions based solely on those interactions. In checking the browser security policies, CorbFuzz uses a policy oracle that tracks the web application behavior and infers the desired policy action based on the web application state. By comparing the policy oracle with the browser behavior, CorbFuzz detects weaknesses in browser security policies. CorbFuzz checks the web browser policy by fuzzing a set of web applications where the state-related queries are symbolically evaluated for increased coverage and automation. CorbFuzz collects type information from database queries and branch conditions in order to prevent the generation of inconsistent data values during fuzzing. We evaluated CorbFuzz on CORB implementations of Chromium and Webkit, and Opaque Response Blocking (ORB) policy implementation of Firefox using web applications collected from GitHub. We found three classes of weaknesses in Chromium’s implementation of CORB.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-11-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/ase51524.2021.9678636",
+        "platform_record_id": "https://openalex.org/W4205529937",
+        "record_url": "https://openalex.org/W4205529937",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/ase51524.2021.9678636\", \"publication_year\": 2021, \"publication_date\": \"2021-11-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Chaofan Shou\", \"İsmet Burak Kadron\", \"Qi Su\", \"Tevfik Bultan\"], \"venue\": \"IEEE/ACM International Conference on Automated Software Engineering (ASE)\", \"openalex_id\": \"https://openalex.org/W4205529937\", \"landing_page_url\": \"https://doi.org/10.1109/ase51524.2021.9678636\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "46",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "530391ec7d25a899cbf591390af799c83a34fe7729010a8d22675cc159ed60a2"
+    },
+    {
+      "target": "E-0299",
+      "event": "E-3531",
+      "affected": [
+        "R2"
+      ],
+      "previous_RIDs": "R2",
+      "previous_status": "ADVANCE",
+      "title": "ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Cyber-attacks are becoming more persistent and complex.Most state-of-the-art attack forensics techniques either require annotating and instrumenting software applications or rely on high quality execution profiling to serve as the basis for anomaly detection.We propose a novel attack forensics technique ALchemist.It is based on the observations that builtin application logs provide critical high-level semantics and audit logs provide low-level fine-grained information; and the two share a lot of common elements.ALchemist is hence a log fusion technique that couples application logs and audit logs to derive critical attack information invisible in either log.It is based on a relational reasoning engine Datalog and features the capabilities of inferring new relations such as the task structure of execution (e.g., tabs in firefox), especially in the presence of complex asynchronous execution models, and high-level dependencies between log events.Our evaluation on 15 popular applications including firefox, Chromium, and OpenOffice, and 14 APT attacks from the literature demonstrates that although ALchemist does not require instrumentation, it is highly effective in partitioning execution to autonomous tasks (in order to avoid bogus dependencies) and deriving precise attack provenance graphs, with very small overhead.It also outperforms NoDoze and OmegaLog, two stateof-the-art techniques that do not require instrumentation.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.14722/ndss.2021.24445",
+        "platform_record_id": "https://openalex.org/W3138838255",
+        "record_url": "https://openalex.org/W3138838255",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.14722/ndss.2021.24445\", \"publication_year\": 2021, \"publication_date\": \"2021-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Le Yu\", \"Shiqing Ma\", \"Zhuo Zhang\", \"Guanhong Tao\", \"Xiangyu Zhang\", \"Dongyan Xu\", \"Vincent E. Urias\", \"Lin Han\", \"Gabriela Felicia Ciocarlie\", \"Vinod Yegneswaran\", \"Ashish Gehani\"], \"venue\": \"Network and Distributed System Security Symposium\", \"openalex_id\": \"https://openalex.org/W3138838255\", \"landing_page_url\": \"https://doi.org/10.14722/ndss.2021.24445\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R2",
+        "query": "browser instrumentation overhead",
+        "rank": "50",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9fd338fe7c9215ac8a77e5161ca07cc19c8b210300e8d1bd48bac3f137655532"
+    },
+    {
+      "target": "E-0308",
+      "event": "E-3532",
+      "affected": [
+        "R5"
+      ],
+      "previous_RIDs": "R3;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Assessing the Reliability of Large Language Models in Generating Synthetic and Representative Datasets for International Study Program Recommendations",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The rise of generative AI, particularly Large Language Models (LLMs), has revolutionized the tech industry, research, and society, sparking excitement about their potential to automate tedious tasks while also raising concerns over their reliability, ethical implications, and misuse. This study investigates the reliability of popular open and free LLMs, such as ChatGPT, Gemini, and DeepSeek, in generating accurate, well-supported datasets in the field of education. Our research is rooted in a project where a web application was developed to help students find suitable international study programs. The project required extensive data collection, including tuition fees, university rankings, healthcare costs, general cost of living, etc. The sheer difficulty of finding and accumulating that data, which was oftentimes poorly documented, prompted us to examine LLMs' performance in replicating these datasets. We evaluated their outputs by calculating the coefficient of determination between synthetic and fact-checked real data. Results demonstrate that LLMs can generate representative data, though occasional deviations raise questions about their limitations and the complexity of prompt engineering. This research sheds light on the practicality of LLMs in automating data-intensive tasks while highlighting their potential and limitations, offering valuable insights into the broader capabilities of generative AI.",
+      "metadata": {
+        "publication_year": "2025",
+        "publication_date": "2025-04-21",
+        "language": "en",
+        "doi": "https://doi.org/10.1109/smagrimet66590.2025.11030048",
+        "platform_record_id": "https://openalex.org/W4411359576",
+        "record_url": "https://openalex.org/W4411359576",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1109/smagrimet66590.2025.11030048\", \"publication_year\": 2025, \"publication_date\": \"2025-04-21\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Rita Zonjić\", \"Luka Alfirević\", \"Karlo Bašić\", \"Ivan Džanija\", \"Mihaela Vranić\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W4411359576\", \"landing_page_url\": \"https://doi.org/10.1109/smagrimet66590.2025.11030048\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4b147a6ca7999450bba447e92ad0ee91ec5f7bb4bb76b76acc9b2df59e398e54"
+    },
+    {
+      "target": "E-0310",
+      "event": "E-3533",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Performance measurements of Web services",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Web services are rapidly evolving application-integration technologies that allow applications in heterogeneous environments to communicate with each other. In this thesis we perform a measurements-based study of an e-commerce application that uses web services to execute business operations. We use the TPC-W specification to generate a session-based workload. The component level response times and the hardware resource usage on the different machines are measured. The component level response times are extracted from the application server logs. From the results it is seen that as the workload increases the response times of the web services components increase. From the hardware resource usage it is clear that web service components require more processing time due to the processing of XML data required in each web service call. The method used in this thesis allows us to study the impact that different components can have on the overall performance of an application.",
+      "metadata": {
+        "publication_year": "2006",
+        "publication_date": "2006-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.33915/etd.4222",
+        "platform_record_id": "https://openalex.org/W3136517018",
+        "record_url": "https://openalex.org/W3136517018",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.33915/etd.4222\", \"publication_year\": 2006, \"publication_date\": \"2006-01-01\", \"type\": \"dissertation\", \"language\": \"en\", \"authorships\": [\"Sarita Damaraju\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W3136517018\", \"landing_page_url\": \"https://doi.org/10.33915/etd.4222\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "11",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "c50a90284118cafad7631dea28e7bcd78be60be82b68f8c76c5fb6712325ca76"
+    },
+    {
+      "target": "E-0323",
+      "event": "E-3534",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Evolution of Detection Performance throughout the Online Lifespan of Synthetic Images",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Synthetic images disseminated online significantly differ from those used during the training and evaluation of the state-of-the-art detectors. In this work, we analyze the performance of synthetic image detectors as deceptive synthetic images evolve throughout their online lifespan. Our study reveals that, despite advancements in the field, current state-of-the-art detectors struggle to distinguish between synthetic and real images in the wild. Moreover, we show that the time elapsed since the initial online appearance of a synthetic image negatively affects the performance of most detectors. Ultimately, by employing a retrieval-assisted detection approach, we demonstrate the feasibility to maintain initial detection performance throughout the whole online lifespan of an image and enhance the average detection efficacy across several state-of-the-art detectors by 6.7% and 7.8% for balanced accuracy and AUC metrics, respectively.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-08-21",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2408.11541",
+        "platform_record_id": "https://openalex.org/W4403523317",
+        "record_url": "https://openalex.org/W4403523317",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2408.11541\", \"publication_year\": 2024, \"publication_date\": \"2024-08-21\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Dimitrios Karageorgiou\", \"Quentin Bammey\", \"Valentin Porcellini\", \"Bertrand Goupil\", \"Denis Teyssou\", \"Symeon Papadopoulos\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4403523317\", \"landing_page_url\": \"http://arxiv.org/abs/2408.11541\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "24",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "f0493808f90ef08852ea2718461fc980a8ab804dc8db0b27ec9cb700a013b68e"
+    },
+    {
+      "target": "E-0325",
+      "event": "E-3535",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R3;R5;R6",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating the performance of splicing predictors on thousands of synthetic gene variants",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Computational predictors of RNA splicing are increasingly used to interpret genetic variants and to design synthetic genes, yet they are almost always benchmarked on endogenous human sequences closely related to their training data. Whether their performance reflects genuine recognition of splicing signals, or instead exploits statistical features of natural genomes such as conservation and exon–intron composition, remains unclear. Here we benchmark eleven splicing predictors on thousands of synthetic GFP variants that are heavily recoded and dissimilar from any training data, using long-read sequencing to measure splicing directly at each position. Despite this distribution shift, modern deep-learning predictors retained strong performance, and the resulting ranking was largely stable across position-level and construct-level benchmarks. SpliceTransformer ranked highest, followed by AlphaGenome and SpliceAI. Tools that ignore long-range sequence context performed substantially worse, largely because they assign high scores to many non-spliced positions. This ranking broadly agrees with benchmarks on endogenous variants, indicating that the leading models capture transferable, sequence-intrinsic determinants of splicing. We further provide a unified calibration that maps each predictor’s scores onto the measured fraction of spliced reads, allowing scores to be interpreted as splicing outcomes and compared directly between tools. Our results show that current deep-learning models generalise beyond natural genomes and provide a practical framework for splicing-aware sequence design.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-08-27",
+        "language": "",
+        "doi": "https://doi.org/10.64898/2026.08.24.746734",
+        "platform_record_id": "https://openalex.org/W7204480411",
+        "record_url": "https://openalex.org/W7204480411",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.64898/2026.08.24.746734\", \"publication_year\": 2026, \"publication_date\": \"2026-08-27\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Fernando Bellido Molías\", \"Grzegorz R. Kudla\"], \"venue\": \"bioRxiv (Cold Spring Harbor Laboratory)\", \"openalex_id\": \"https://openalex.org/W7204480411\", \"landing_page_url\": \"https://doi.org/10.64898/2026.08.24.746734\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "26",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "184a32f3f75d0fa7cc2c4a883ddf98bc51befa0c973dcae7e6279d85de5c8a1e"
+    },
+    {
+      "target": "E-0328",
+      "event": "E-3536",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Web agents promise to automate complex digital workflows, but their training remains limited by synthetic environments that look plausible while hiding broken links, inconsistent states, or infeasible tasks. We address the gap between scalable environment generation and trustworthy agent learning by constructing synthetic web environments that are executable, auditable, and grounded in backend state. Our framework represents each generated website as a structured scaffold of pages, navigation links, database records, state-change markers, and task constraints, then verifies and repairs structural, semantic, consistency, and feasibility defects before policy training. During interaction, ordinary UI transitions are executed deterministically, while persistent backend updates are invoked only through validated state-change markers, enabling dense rewards compiled from verified task-progress predicates. Across 500 synthetic environments spanning six domains, our method reduces task-blocking defects and improves feasible-task rate from 48.6% to 94.8%, while producing stronger PPO policies and improving transfer to WebArena, WebShop, and MiniWoB++ without LLM calls at evaluation time. These results show that verified synthetic environments can serve as a scalable and reliable training substrate for compact web agents, shifting synthetic webagent learning from surface-level plausibility toward executable, state-grounded supervision.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-08-22",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2608.21898",
+        "platform_record_id": "https://openalex.org/W7204166068",
+        "record_url": "https://openalex.org/W7204166068",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2608.21898\", \"publication_year\": 2026, \"publication_date\": \"2026-08-22\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Chenghao Zhang\", \"Yuxi Cheng\", \"Saisai Hu\", \"Canran Xiao\", \"Yikai Mao\", \"Dan Roth\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7204166068\", \"landing_page_url\": \"https://arxiv.org/abs/2608.21898\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9f0303c1fb277aee4a4bc912ba2e74f27541a0a74c99719fee18377ac92415e1"
+    },
+    {
+      "target": "E-0330",
+      "event": "E-3537",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "SynGraphy: Succinct Summarisation of Large Networks via Small Synthetic Representative Graphs",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We describe SynGraphy, a method for visually summarising the structure of large network datasets that works by drawing smaller graphs generated to have similar structural properties to the input graphs. Visualising complex networks is crucial to understand and make sense of networked data and the relationships it represents. Due to the large size of many networks, visualisation is extremely difficult; the simple method of drawing large networks like those of Facebook or Twitter leads to graphics that convey little or no information. While modern graph layout algorithms can scale computationally to large networks, their output tends to a common \"hairball\" look, which makes it difficult to even distinguish different graphs from each other. Graph sampling and graph coarsening techniques partially address these limitations but they are only able to preserve a subset of the properties of the original graphs. In this paper we take the problem of visualising large graphs from a novel perspective: we leave the original graph's nodes and edges behind, and instead summarise its properties such as the clustering coefficient and bipartivity by generating a completely new graph whose structural properties match that of the original graph. To verify the utility of this approach as compared to other graph visualisation algorithms, we perform an experimental evaluation in which we repeatedly asked experimental subjects (professionals in graph mining and related areas) to determine which of two given graphs has a given structural property and then assess which visualisation algorithm helped in identifying the correct answer. Our summarisation approach SynGraphy compares favourably to other techniques on a variety of networks.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-02-15",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2302.07755",
+        "platform_record_id": "https://openalex.org/W4321175801",
+        "record_url": "https://openalex.org/W4321175801",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2302.07755\", \"publication_year\": 2023, \"publication_date\": \"2023-02-15\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Jérôme Kunegis\", \"Kumar, Pawan\", \"Jun Sun\", \"Samoilenko, Anna\", \"Giuseppe Pirrò\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4321175801\", \"landing_page_url\": \"http://arxiv.org/abs/2302.07755\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "31",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b3b4ea9021b9ca76fe622760aabd53ad69a8e17ae6649404658ebcdaf01fc5bc"
+    },
+    {
+      "target": "E-0335",
+      "event": "E-3538",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R6",
+      "previous_status": "PENDING",
+      "title": "Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The rapid progress of generative artificial intelligence has led to a significant increase in manipulated multimedia content, including synthetic faces, forged videos, AI-generated images, fake audio, and locally edited images. Existing detection approaches are typically designed for a single manipulation type, limiting their applicability in real-world scenarios involving heterogeneous media sources. In this work, we present the Media Intelligence Platform (MIP), a unified web-based framework for multimodal media forensics integrating specialized modules for fake video detection, face morphing detection, AI-generated image detection, audio deepfake detection, localized image manipulation detection, and text analysis. Its modular architecture enables flexible integration of heterogeneous models and supports future extensions for emerging manipulation techniques. Experimental results on representative benchmark datasets demonstrate reliable detection performance across multiple media modalities while providing a practical and user-friendly interface for forensic investigations. The platform highlights the potential of unified multimodal systems for comprehensive deepfake detection in real-world environments, and is accompanied by a public demonstrator released with this workshop submission to support reproducibility and community evaluation.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-10-20",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2610.27974",
+        "platform_record_id": "https://openalex.org/W7223099805",
+        "record_url": "https://openalex.org/W7223099805",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2610.27974\", \"publication_year\": 2026, \"publication_date\": \"2026-10-20\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"David Fischinger\", \"Marcel Hasenbalg\", \"S. Poletti\", \"Davide Antonutti\", \"Mina Schütz\", \"Lam Dang Pham\", \"Justin Ilyes\", \"Péter Rjabcsenkó\", \"Simon Freitter\", \"Martin Boyer\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7223099805\", \"landing_page_url\": \"https://arxiv.org/abs/2610.27974\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "dcb24820669bf520a89db33f4f54311d511f8bdff16de38ddd3f6921d80ef115"
+    },
+    {
+      "target": "E-0342",
+      "event": "E-3539",
+      "affected": [
+        "R2",
+        "R6"
+      ],
+      "previous_RIDs": "R2;R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Language agents increasingly act as web-enabled systems that search, browse, and synthesize information from diverse sources. However, these sources can include unreliable or adversarial content, and the robustness of agents to adversarial ranking - where misleading information appears prominently in search results - remains poorly understood. Existing benchmarks evaluate functional navigation or static factuality but cannot causally isolate this vulnerability, and current mitigation strategies for retrieval-augmented generation remain largely untested under such conditions. We introduce Synthetic Web Benchmark, a procedurally generated environment comprising thousands of hyperlinked articles with ground-truth labels for credibility and factuality, process-level interaction traces, and contamination filtering to eliminate training-data leakage. By injecting a single high-plausibility misinformation article into a controllable search rank, we measure the causal effect of adversarial exposure in six frontier models. The results reveal catastrophic failures: accuracy collapses despite unlimited access to truthful sources, with minimal search escalation and severe miscalibration. These findings expose fundamental limitations in how current frontier models handle conflicting information, with immediate implications for deployment in high-stakes domains. Our benchmark enables systematic analysis of these failure modes and provides a controlled testbed for evaluating mitigation strategies under adversarial ranking - a gap in current research. This work establishes a reproducible baseline for developing search-robust and epistemically humble agents capable of resisting manipulation in high-stakes domains.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-02-28",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2603.00801",
+        "platform_record_id": "https://openalex.org/W7133330813",
+        "record_url": "https://openalex.org/W7133330813",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2603.00801\", \"publication_year\": 2026, \"publication_date\": \"2026-02-28\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Shrey Shah\", \"Levent Özgür\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7133330813\", \"landing_page_url\": \"https://arxiv.org/abs/2603.00801\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "43",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "79439986b2b065553cab83f6b04080fc0a4750122042fe60d179565468e4c483"
+    }
+  ]
+}

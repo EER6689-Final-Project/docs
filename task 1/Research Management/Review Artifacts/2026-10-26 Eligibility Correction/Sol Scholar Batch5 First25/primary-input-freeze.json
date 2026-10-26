@@ -1,0 +1,94 @@
+{
+  "frozen_at": "2026-10-26T12:30:45.187148+05:30",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff": "2026-10-25",
+  "source": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+    "bytes": 2286727,
+    "sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad"
+  },
+  "producer_files": [
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/FIRST25-freeze.json",
+      "bytes": 880,
+      "sha256": "1d8d149e731ff9361f860f360476b7b4f1b99b1e8b148a714728798d443c6d4d"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/FIRST25-overlay.csv",
+      "bytes": 67128,
+      "sha256": "449f7b2e5f2c3f7be9aa4af81aafc2623ce398f04e08e8646408a611a62f7b70"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/manifest.json",
+      "bytes": 1162,
+      "sha256": "35cd4b870a92418f21e84c8d981ebff566791375dd2bab91017fd2bc978fae1c"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/secondary-QC-results.json",
+      "bytes": 12621,
+      "sha256": "52bda351a8b23436bad7989b4db74e52cf8a899a5abe3fbed5645fe6b25520ae"
+    },
+    {
+      "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Scholar Batch5/secondary-QC-sample-freeze.json",
+      "bytes": 1102,
+      "sha256": "0dca96eb67d7ce3cb823379beb4ccb2e3664d2a247ebdd69eb80105b25f82efc"
+    }
+  ],
+  "id_column": "occurrence_E_ID",
+  "scope": [
+    "E-0800",
+    "E-0801",
+    "E-0802",
+    "E-0803",
+    "E-0804",
+    "E-0805",
+    "E-0806",
+    "E-0807",
+    "E-0808",
+    "E-0809",
+    "E-0810",
+    "E-0811",
+    "E-0812",
+    "E-0813",
+    "E-0814",
+    "E-0815",
+    "E-0816",
+    "E-0817",
+    "E-0818",
+    "E-0819",
+    "E-0820",
+    "E-0821",
+    "E-0822",
+    "E-0823",
+    "E-0824"
+  ],
+  "source_rows_sha256": "91978c68afb27fe1c0a22bf6ded3fdeebc5764b637ee686d948f774a20c7d071",
+  "event_mapping": {
+    "E-0800": "E-4000",
+    "E-0801": "E-4001",
+    "E-0802": "E-4002",
+    "E-0803": "E-4003",
+    "E-0804": "E-4004",
+    "E-0805": "E-4005",
+    "E-0806": "E-4006",
+    "E-0807": "E-4007",
+    "E-0808": "E-4008",
+    "E-0809": "E-4009",
+    "E-0810": "E-4010",
+    "E-0811": "E-4011",
+    "E-0812": "E-4012",
+    "E-0813": "E-4013",
+    "E-0814": "E-4014",
+    "E-0815": "E-4015",
+    "E-0816": "E-4016",
+    "E-0817": "E-4017",
+    "E-0818": "E-4018",
+    "E-0819": "E-4019",
+    "E-0820": "E-4020",
+    "E-0821": "E-4021",
+    "E-0822": "E-4022",
+    "E-0823": "E-4023",
+    "E-0824": "E-4024"
+  },
+  "original_text_read_started": false
+}

@@ -1,0 +1,551 @@
+{
+  "group_basis": "Corrected explicit positive and unresolved R groups plus whole method/type proxy groups; not canonical S-ID/C-ID claim QC",
+  "groups": [
+    {
+      "group": "type-proxy:journal",
+      "members": [
+        "E-1000",
+        "E-1003",
+        "E-1004",
+        "E-1005",
+        "E-1007",
+        "E-1008",
+        "E-1009",
+        "E-1013",
+        "E-1019",
+        "E-1022",
+        "E-1023",
+        "E-1024",
+        "E-1025",
+        "E-1026",
+        "E-1027",
+        "E-1032",
+        "E-1034"
+      ],
+      "selected_first_EID": "E-1000",
+      "actually_reread": true,
+      "secondary_note": "Retain X3: significant antecedent correlations still concern marketing outcomes; no repeated-measure estimator or agreement mechanism is recoverable.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:marketing-construct",
+      "members": [
+        "E-1000",
+        "E-1003",
+        "E-1019",
+        "E-1036"
+      ],
+      "selected_first_EID": "E-1000",
+      "actually_reread": true,
+      "secondary_note": "Retain X3: significant antecedent correlations still concern marketing outcomes; no repeated-measure estimator or agreement mechanism is recoverable.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-positive:R3",
+      "members": [
+        "E-1001",
+        "E-1002",
+        "E-1009",
+        "E-1011",
+        "E-1015",
+        "E-1016",
+        "E-1018",
+        "E-1024",
+        "E-1025",
+        "E-1027",
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1001",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-unresolved:R2",
+      "members": [
+        "E-1001",
+        "E-1002",
+        "E-1007",
+        "E-1011",
+        "E-1013",
+        "E-1015",
+        "E-1024",
+        "E-1028",
+        "E-1032",
+        "E-1033"
+      ],
+      "selected_first_EID": "E-1001",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-unresolved:R6",
+      "members": [
+        "E-1001",
+        "E-1003",
+        "E-1006",
+        "E-1007",
+        "E-1009",
+        "E-1010",
+        "E-1011",
+        "E-1012",
+        "E-1016",
+        "E-1018",
+        "E-1024",
+        "E-1025",
+        "E-1027",
+        "E-1028",
+        "E-1029",
+        "E-1031",
+        "E-1032",
+        "E-1033",
+        "E-1035"
+      ],
+      "selected_first_EID": "E-1001",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:preprint",
+      "members": [
+        "E-1001",
+        "E-1011"
+      ],
+      "selected_first_EID": "E-1001",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:network-workload",
+      "members": [
+        "E-1001",
+        "E-1011"
+      ],
+      "selected_first_EID": "E-1001",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: lossy cellular/sharding is a concrete delivery condition; comparison is protocol performance, not reference agreement or instrumentation perturbation.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-positive:R6",
+      "members": [
+        "E-1002",
+        "E-1014",
+        "E-1015",
+        "E-1017",
+        "E-1021",
+        "E-1023",
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1002",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: distributed-cache evaluation and worst-case consistency support state/fixture leads, not confidence intervals on repeated timing.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-unresolved:R1",
+      "members": [
+        "E-1002",
+        "E-1003",
+        "E-1006",
+        "E-1009",
+        "E-1010",
+        "E-1015",
+        "E-1019",
+        "E-1022",
+        "E-1023",
+        "E-1025",
+        "E-1028",
+        "E-1033",
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1002",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: distributed-cache evaluation and worst-case consistency support state/fixture leads, not confidence intervals on repeated timing.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:conference",
+      "members": [
+        "E-1002",
+        "E-1006",
+        "E-1010",
+        "E-1014",
+        "E-1015",
+        "E-1016",
+        "E-1017",
+        "E-1021",
+        "E-1028",
+        "E-1029",
+        "E-1030",
+        "E-1033",
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1002",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: distributed-cache evaluation and worst-case consistency support state/fixture leads, not confidence intervals on repeated timing.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:cache-evaluation",
+      "members": [
+        "E-1002",
+        "E-1015"
+      ],
+      "selected_first_EID": "E-1002",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: distributed-cache evaluation and worst-case consistency support state/fixture leads, not confidence intervals on repeated timing.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-unresolved:R3",
+      "members": [
+        "E-1004",
+        "E-1012",
+        "E-1017",
+        "E-1019",
+        "E-1021",
+        "E-1023",
+        "E-1029",
+        "E-1031",
+        "E-1035"
+      ],
+      "selected_first_EID": "E-1004",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: telepresence/navigation is a prior-human subject, but exact workload/task transfer remains absent; not excluded for human collection.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:human-navigation",
+      "members": [
+        "E-1004",
+        "E-1024",
+        "E-1027"
+      ],
+      "selected_first_EID": "E-1004",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: telepresence/navigation is a prior-human subject, but exact workload/task transfer remains absent; not excluded for human collection.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:ranking-visibility",
+      "members": [
+        "E-1005",
+        "E-1034"
+      ],
+      "selected_first_EID": "E-1005",
+      "actually_reread": true,
+      "secondary_note": "Retain X3: institutional repository ranking/visibility has no explicit technical workload or statistical measurement method.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:standards-topics",
+      "members": [
+        "E-1006",
+        "E-1010"
+      ],
+      "selected_first_EID": "E-1006",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: W3C performance specifications are mentioned but topic-frequency uncertainty is not browser-repeat uncertainty or normative metric semantics.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:tool-mention",
+      "members": [
+        "E-1007"
+      ],
+      "selected_first_EID": "E-1007",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: Pylot system-wide testing remains an unresolved tool-use lead, not a reason to infer browser evidence or discard on land-use keywords.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:physical-measurement",
+      "members": [
+        "E-1008"
+      ],
+      "selected_first_EID": "E-1008",
+      "actually_reread": true,
+      "secondary_note": "Retain X3 after methodological challenge: digitization error and three mechanical models disclose no transferable capture intervention, repeated-run estimator or agreement method; physical domain alone is not the reason.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:platform-workload",
+      "members": [
+        "E-1009"
+      ],
+      "selected_first_EID": "E-1009",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: explicitly different hardware/platforms bound speed generalization, with metric and browser identity unresolved.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-unresolved:R4",
+      "members": [
+        "E-1012",
+        "E-1013",
+        "E-1016",
+        "E-1021",
+        "E-1030",
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1012",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: volume-level data-mining fragments leave an identifiable original method/chapter unresolved; book proxy is not an exclusion criterion.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:book",
+      "members": [
+        "E-1012"
+      ],
+      "selected_first_EID": "E-1012",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: volume-level data-mining fragments leave an identifiable original method/chapter unresolved; book proxy is not an exclusion criterion.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:method-volume",
+      "members": [
+        "E-1012"
+      ],
+      "selected_first_EID": "E-1012",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: volume-level data-mining fragments leave an identifiable original method/chapter unresolved; book proxy is not an exclusion criterion.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:detector-noise",
+      "members": [
+        "E-1013"
+      ],
+      "selected_first_EID": "E-1013",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: radio detector noise/correlation could constrain observability assumptions; web-performance wording is biographical, so no direct browser relevance is assigned.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-positive:R4",
+      "members": [
+        "E-1014",
+        "E-1017",
+        "E-1033",
+        "E-1035"
+      ],
+      "selected_first_EID": "E-1014",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: tail significance and sample-size passage provide explicit statistical design lead beyond the word experiment; thousands is not an adopted browser run count.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:online-experiment",
+      "members": [
+        "E-1014",
+        "E-1021"
+      ],
+      "selected_first_EID": "E-1014",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: tail significance and sample-size passage provide explicit statistical design lead beyond the word experiment; thousands is not an adopted browser run count.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:workload-model",
+      "members": [
+        "E-1016",
+        "E-1025"
+      ],
+      "selected_first_EID": "E-1016",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: evolving Markov workload assumptions can bound resource/workload generalization; future uncertainty is not automatically repeated-mean uncertainty.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-positive:R1",
+      "members": [
+        "E-1017"
+      ],
+      "selected_first_EID": "E-1017",
+      "actually_reread": true,
+      "secondary_note": "Retain broadened advance: settled first view, AOP runtime capture, means/run exclusions and framework identity explicitly support R1/R2/R4/R6 leads; no full-text or publication-date verification.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "R-positive:R2",
+      "members": [
+        "E-1017"
+      ],
+      "selected_first_EID": "E-1017",
+      "actually_reread": true,
+      "secondary_note": "Retain broadened advance: settled first view, AOP runtime capture, means/run exclusions and framework identity explicitly support R1/R2/R4/R6 leads; no full-text or publication-date verification.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:runtime-instrumentation",
+      "members": [
+        "E-1017"
+      ],
+      "selected_first_EID": "E-1017",
+      "actually_reread": true,
+      "secondary_note": "Retain broadened advance: settled first view, AOP runtime capture, means/run exclusions and framework identity explicitly support R1/R2/R4/R6 leads; no full-text or publication-date verification.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:chapter",
+      "members": [
+        "E-1018"
+      ],
+      "selected_first_EID": "E-1018",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: cache state/end-user latency supports context transfer; rough-set granularity is not sampling error.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:cache-model",
+      "members": [
+        "E-1018"
+      ],
+      "selected_first_EID": "E-1018",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: cache state/end-user latency supports context transfer; rough-set granularity is not sampling error.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:thesis-proxy",
+      "members": [
+        "E-1020",
+        "E-1035",
+        "E-1036"
+      ],
+      "selected_first_EID": "E-1020",
+      "actually_reread": true,
+      "secondary_note": "Retain X3: uncertainty in marketing traffic rankings is not a specified repeated-performance or agreement procedure; no Alexa-specific sampling method disclosed.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:marketing-analytics",
+      "members": [
+        "E-1020",
+        "E-1022"
+      ],
+      "selected_first_EID": "E-1020",
+      "actually_reread": true,
+      "secondary_note": "Retain X3: uncertainty in marketing traffic rankings is not a specified repeated-performance or agreement procedure; no Alexa-specific sampling method disclosed.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:technical-optimization",
+      "members": [
+        "E-1023"
+      ],
+      "selected_first_EID": "E-1023",
+      "actually_reread": true,
+      "secondary_note": "Retain uncertain advance: explicit technical optimization/automation may be applied closest work; logistical uncertainty and general benefits add no R4 evidence.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:export-contamination",
+      "members": [
+        "E-1026"
+      ],
+      "selected_first_EID": "E-1026",
+      "actually_reread": true,
+      "secondary_note": "Retain occurrence-level X3 with contamination warning: paleontology title/venue and disconnected web fragments yield no attributable technical contribution; no underlying web-source identity adjudicated.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:security-index",
+      "members": [
+        "E-1028"
+      ],
+      "selected_first_EID": "E-1028",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: security-index title does not erase explicit Lighthouse/W3C evaluation lead, but truncated reference does not establish substantive capture/metric contribution.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:system-consolidation",
+      "members": [
+        "E-1029"
+      ],
+      "selected_first_EID": "E-1029",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: database consolidation negatively affecting web performance is a possible workload intervention; reporting statistics alone are not R4.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:lagged-statistical-model",
+      "members": [
+        "E-1030"
+      ],
+      "selected_first_EID": "E-1030",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: explicit lagged model and short/long-term response are a temporal-method candidate, but originality/estimand assumptions for browser measurements remain unshown.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "type-proxy:journal-proxy",
+      "members": [
+        "E-1031"
+      ],
+      "selected_first_EID": "E-1031",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: query generation/web-performance fragment may concern actual system workload; demand uncertainty is not measurement uncertainty.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:warehouse-system",
+      "members": [
+        "E-1031"
+      ],
+      "selected_first_EID": "E-1031",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: query generation/web-performance fragment may concern actual system workload; demand uncertainty is not measurement uncertainty.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:self-healing",
+      "members": [
+        "E-1032"
+      ],
+      "selected_first_EID": "E-1032",
+      "actually_reread": true,
+      "secondary_note": "Retain pending: self-healing observation/solution-overlap role unresolved; Pearson/Kendall method comparison cannot supply R5 agreement or R4 precision.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:trimmed-statistical-model",
+      "members": [
+        "E-1033"
+      ],
+      "selected_first_EID": "E-1033",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: trim(10%) and uncertainty passage identify explicit estimator/tail-handling lead, requiring checks on estimand shift and dependence; no R5 from two methods.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:probability-simulation",
+      "members": [
+        "E-1035"
+      ],
+      "selected_first_EID": "E-1035",
+      "actually_reread": true,
+      "secondary_note": "Retain advance after exclusion challenge: CI for p(i) versus uncertainty in values/structure is a specific inferential distinction; assumptions and source originality remain unverified.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    },
+    {
+      "group": "method-proxy:resource-workload",
+      "members": [
+        "E-1037"
+      ],
+      "selected_first_EID": "E-1037",
+      "actually_reread": true,
+      "secondary_note": "Retain advance: request complexity, resource volume and hardware are explicit workload/fixture factors; efficiency/uncertainty constructs are not browser timing or sampling precision.",
+      "status": "checked against original export; primary retained with uncertainty limits"
+    }
+  ],
+  "R5_positive_group": "none; absence is not verified absence in full texts",
+  "unverified": "Source types, dates, language, identities, originality, claims and full texts remain unverified."
+}

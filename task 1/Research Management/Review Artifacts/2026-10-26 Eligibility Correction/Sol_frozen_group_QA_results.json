@@ -1,0 +1,725 @@
+{
+  "frozen_manifest_sha256": "a9c628b6f9ff72a0100fa7315fa528518f057386f7d5a1cae6b154bc2f23209f",
+  "frozen_groups": 35,
+  "distinct_selected_sources": 22,
+  "actual_original_export_checks": 22,
+  "group_results": [
+    {
+      "RID": "R1",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0261",
+        "E-0313",
+        "E-0331",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 8,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Directly compares network-derived HTTP response time with in-browser resource-load time across emulated, datacenter and Internet paths and encryption conditions. Construct/pairing, reference boundary and environment-dependent error clearly fit R1/R2/R3/R5/R6. All reported error magnitudes remain unassessed and network timing is not full navigation/UX.",
+      "retained_selected_RIDs": "R1;R2;R3;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "ASP.NET chapter distinguishes HTTP/IIS/application pipeline bottlenecks from code and client receipt. Useful contextual measurement-boundary lead for component-versus-end-to-end latency, not an original browser study or proof of any pipeline behavior/version. Machine-added keywords are not evidence.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0204",
+        "E-0288",
+        "E-0303",
+        "E-0343",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0204",
+      "nonselected_count": 9,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Enhancing Web Performance title directly signals web-performance context, sufficient for conservative stage-1 advancement despite no abstract. Actual scope/source type and any metric or design content remain unresolved; no claim that chapter supplies original methods or R1 definitions.",
+      "retained_selected_RIDs": "R1;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 1,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Browser UMAP compares JavaScript/WASM in a controlled framework and distinguishes execution speed, memory and responsiveness. Construct non-equivalence and controlled workload phases are explicit direct leads; speedup/embedding results and the year-only source date remain unverified.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0256",
+        "E-0261",
+        "E-0262",
+        "E-0265",
+        "E-0266",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 10,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Directly compares network-derived HTTP response time with in-browser resource-load time across emulated, datacenter and Internet paths and encryption conditions. Construct/pairing, reference boundary and environment-dependent error clearly fit R1/R2/R3/R5/R6. All reported error magnitudes remain unassessed and network timing is not full navigation/UX.",
+      "retained_selected_RIDs": "R1;R2;R3;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "ASP.NET chapter distinguishes HTTP/IIS/application pipeline bottlenecks from code and client receipt. Useful contextual measurement-boundary lead for component-versus-end-to-end latency, not an original browser study or proof of any pipeline behavior/version. Machine-added keywords are not evidence.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0254",
+        "E-0255",
+        "E-0260",
+        "E-0264",
+        "E-0269",
+        "E-0271",
+        "E-0272",
+        "E-0273",
+        "E-0281",
+        "E-0284",
+        "E-0291",
+        "E-0299",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0254",
+      "nonselected_count": 17,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Hardware instrumentation measures mobile energy with privacy filtering off/on and actual browsing-session motivation. Observer/capture boundary, intervention-state control and workload coverage are bounded analogues; energy saving is not runtime agreement and mobile hardware results are not viewport-emulation validity.",
+      "retained_selected_RIDs": "R2;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0251",
+        "E-0268",
+        "E-0274",
+        "E-0290",
+        "E-0297",
+        "E-0486"
+      ],
+      "selected": "E-0251",
+      "nonselected_count": 5,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Native Instrumenter captures control flow, variables and stack values using per-thread buffers to avoid synchronization writes. Capture scope/buffering and synchronization as observer cost are exact R2 analogues; low-overhead wording is not a verified browser overhead estimate or complete overhead evaluation.",
+      "retained_selected_RIDs": "R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0267",
+        "E-0285",
+        "E-0293"
+      ],
+      "selected": "E-0267",
+      "nonselected_count": 2,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Title explicitly describes statistical evaluation in controlled browser environments; conservative advance despite absent abstract. Exact repetition hierarchy, uncertainty method, cryptographic artifact/version and full-text eligibility remain pending; no source-method conclusion inferred.",
+      "retained_selected_RIDs": "R4;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "article",
+      "members": [
+        "E-0203",
+        "E-0262",
+        "E-0276",
+        "E-0300",
+        "E-0313",
+        "E-0314",
+        "E-0322",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0203",
+      "nonselected_count": 14,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Cache-replacement algorithm models navigation-link locality and compares SACS with other policies. Workload sequence/state/locality is an explicit bounded web-workload transfer/design issue; not R1 browser metric semantics, and cache policy results are not browser-profiler validation.",
+      "retained_selected_RIDs": "R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "ASP.NET chapter distinguishes HTTP/IIS/application pipeline bottlenecks from code and client receipt. Useful contextual measurement-boundary lead for component-versus-end-to-end latency, not an original browser study or proof of any pipeline behavior/version. Machine-added keywords are not evidence.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0254",
+        "E-0278",
+        "E-0288",
+        "E-0296",
+        "E-0301",
+        "E-0302",
+        "E-0309",
+        "E-0311",
+        "E-0316",
+        "E-0343",
+        "E-0345",
+        "E-0348",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0254",
+      "nonselected_count": 17,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Hardware instrumentation measures mobile energy with privacy filtering off/on and actual browsing-session motivation. Observer/capture boundary, intervention-state control and workload coverage are bounded analogues; energy saving is not runtime agreement and mobile hardware results are not viewport-emulation validity.",
+      "retained_selected_RIDs": "R2;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0310",
+        "E-0329",
+        "E-0333",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 4,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Browser UMAP compares JavaScript/WASM in a controlled framework and distinguishes execution speed, memory and responsiveness. Construct non-equivalence and controlled workload phases are explicit direct leads; speedup/embedding results and the year-only source date remain unverified.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0241",
+        "E-0328"
+      ],
+      "selected": "E-0241",
+      "nonselected_count": 1,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "SemDN contrasts page-first and passage-first agent retrieval, stateful reuse, missing/stale evidence and cache units. Agent-versus-human content/workload equivalence and capture granularity are explicit bounded R2/R3 analogues; answer quality/content volume are not browser runtime outcomes or proof of representative synthetic users.",
+      "retained_selected_RIDs": "R2;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "report",
+      "members": [
+        "E-0349"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Linux/Apache cluster compares content-aware/random/round-robin policies, static/dynamic mixture and SMP/uniprocessor scaling under load. Workload mix, saturation and hardware allocation are explicit evaluation analogues. No throughput gains transferred or cluster method adopted.",
+      "retained_selected_RIDs": "R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "article",
+      "members": [
+        "E-0367",
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0395",
+        "E-0396",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0409",
+        "E-0410",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448",
+        "E-0455",
+        "E-0463"
+      ],
+      "selected": "E-0367",
+      "nonselected_count": 32,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Uncertainty templates enumerate sources/correlations and missing information by measurement type. Explicit bounded analogy is a completeness checklist for correlated error budgets, not nuclear uncertainty ranges or proof of browser applicability. Introductory synthesis needs originals for decision-driving rules.",
+      "retained_selected_RIDs": "R4;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Export is a contents list, not a scientific abstract; explicitly lists linked/exchangeable replicates, random effects, nonconstant bias/variance, correlation versus agreement and study design. Conservative methodological/context advance from explicit headings; no equations, procedures or findings read, and originals needed for critical claims.",
+      "retained_selected_RIDs": "R4;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0220",
+        "E-0311"
+      ],
+      "selected": "E-0220",
+      "nonselected_count": 1,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Point-based MITL models timestamp perturbations and validity margins for sequences of timed facts. Timing jitter versus temporal-assertion truth is a bounded analogue for trace/event-fixture conformance; formal assumptions and suitability for browser timestamps require full text, not browser validation by theorem.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "MethComp description names agreement plots/regressions and links a book; likely software despite export metadata dataset. Context/tool-documentation lead for reproducing agreement procedures, not independent empirical evidence or verified implementation/version correctness. Source-type grouping remains provisional.",
+      "retained_selected_RIDs": "R4;R5",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0310",
+        "E-0333",
+        "E-0432"
+      ],
+      "selected": "E-0310",
+      "nonselected_count": 2,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "TPC-W session-based workload uses component logs and hardware counters to attribute web-service response times. Component-versus-client timing, capture scope and session/load composition are explicit bounded leads; not browser-rendering validation or verified XML overhead attribution.",
+      "retained_selected_RIDs": "R1;R2;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "other",
+      "members": [
+        "E-0397"
+      ],
+      "selected": "E-0397",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Proposed ANN methodology analytically propagates input measurement uncertainty through nonlinear network structure using LPU. Propagation of input error into a derived diagnostic score is a bounded methods question, conditional on functional assumptions; predictive uncertainty and repeated-run variability remain distinct. Source type/originality unresolved.",
+      "retained_selected_RIDs": "R4",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0240",
+        "E-0391",
+        "E-0412",
+        "E-0420"
+      ],
+      "selected": "E-0240",
+      "nonselected_count": 3,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Ontology-guided empirical performance evaluation uses HLF/TPC-C pilot; mapping measurement concepts to experiment steps is a bounded systems-performance/design analogy. Ontology semantics is not browser metric semantics and no empirical effectiveness is confirmed.",
+      "retained_selected_RIDs": "R1;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0409",
+        "E-0410",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 25,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Directly compares network-derived HTTP response time with in-browser resource-load time across emulated, datacenter and Internet paths and encryption conditions. Construct/pairing, reference boundary and environment-dependent error clearly fit R1/R2/R3/R5/R6. All reported error magnitudes remain unassessed and network timing is not full navigation/UX.",
+      "retained_selected_RIDs": "R1;R2;R3;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Export is a contents list, not a scientific abstract; explicitly lists linked/exchangeable replicates, random effects, nonconstant bias/variance, correlation versus agreement and study design. Conservative methodological/context advance from explicit headings; no equations, procedures or findings read, and originals needed for critical claims.",
+      "retained_selected_RIDs": "R4;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0278",
+        "E-0288",
+        "E-0343"
+      ],
+      "selected": "E-0278",
+      "nonselected_count": 2,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Chromium hooks preserve queried DOM state while hiding ads; study reports top-1K coverage, breakage and load-time comparison. Observable DOM versus rendered-content equivalence, intervention perturbation and workload sampling directly fit bounded R1/R2/R3/R6. No bypass implementation/action is authorized and speed claims are unverified.",
+      "retained_selected_RIDs": "R1;R2;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "MethComp description names agreement plots/regressions and links a book; likely software despite export metadata dataset. Context/tool-documentation lead for reproducing agreement procedures, not independent empirical evidence or verified implementation/version correctness. Source-type grouping remains provisional.",
+      "retained_selected_RIDs": "R4;R5",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0432"
+      ],
+      "selected": "E-0432",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Thesis explicitly proposes unbalanced augmented subject/replicate designs, baseline-data incorporation and probability-of-agreement inference across operators/automation. Independent unit allocation, hierarchy and precision are exact methodological analogues; do not copy AIAG subject counts, superiority claims or model assumptions without original appraisal.",
+      "retained_selected_RIDs": "R4;R5;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0412",
+        "E-0420"
+      ],
+      "selected": "E-0412",
+      "nonselected_count": 1,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Original flexible probability-of-agreement inference relaxes assumptions and evaluates through simulations and a matched tPSA example. Agreement probability requires an application-specific indistinguishability criterion; no browser tolerance or simulation validity inferred from abstract.",
+      "retained_selected_RIDs": "R4;R5",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "article",
+      "members": [
+        "E-0218",
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0331",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0367",
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0395",
+        "E-0396",
+        "E-0450",
+        "E-0453",
+        "E-0455",
+        "E-0462",
+        "E-0463",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0218",
+      "nonselected_count": 20,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "HPCG text explicitly contrasts LINPACK proxies with sparse production patterns, apparent versus actual flop counts and known-solution verification. Metric construct, benchmark representativeness and independent fixture checks are exact bounded analogues. Export becomes heavily garbled later; no numerical claim, benchmark rule or original-source correctness confirmed.",
+      "retained_selected_RIDs": "R1;R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "ASP.NET chapter distinguishes HTTP/IIS/application pipeline bottlenecks from code and client receipt. Useful contextual measurement-boundary lead for component-versus-end-to-end latency, not an original browser study or proof of any pipeline behavior/version. Machine-added keywords are not evidence.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0204",
+        "E-0288",
+        "E-0301",
+        "E-0302",
+        "E-0303",
+        "E-0309",
+        "E-0311",
+        "E-0316",
+        "E-0348",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0204",
+      "nonselected_count": 14,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Enhancing Web Performance title directly signals web-performance context, sufficient for conservative stage-1 advancement despite no abstract. Actual scope/source type and any metric or design content remain unresolved; no claim that chapter supplies original methods or R1 definitions.",
+      "retained_selected_RIDs": "R1;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0329",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 2,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Browser UMAP compares JavaScript/WASM in a controlled framework and distinguishes execution speed, memory and responsiveness. Construct non-equivalence and controlled workload phases are explicit direct leads; speedup/embedding results and the year-only source date remain unverified.",
+      "retained_selected_RIDs": "R1;R2;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "other",
+      "members": [
+        "E-0397"
+      ],
+      "selected": "E-0397",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-corrected; producer selected-source RID not substantiated/removed from confirmed stage1 mapping",
+      "evidence_rationale": "Proposed ANN methodology analytically propagates input measurement uncertainty through nonlinear network structure using LPU. Propagation of input error into a derived diagnostic score is a bounded methods question, conditional on functional assumptions; predictive uncertainty and repeated-run variability remain distinct. Source type/originality unresolved.",
+      "retained_selected_RIDs": "R4",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0328",
+        "E-0391"
+      ],
+      "selected": "E-0328",
+      "nonselected_count": 1,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Synthetic web environments verify structural links, state, consistency and task feasibility before policy evaluation on external benchmarks. Independent fixture validity and synthetic-to-other-environment transfer are explicit design leads; agent success is not real-user performance and source/version dates require verification.",
+      "retained_selected_RIDs": "R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "report",
+      "members": [
+        "E-0349"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 0,
+      "source_check": "CHECKED original exported text; AI metadata technical QA",
+      "group_result": "checked-no-mapping-discrepancy",
+      "evidence_rationale": "Linux/Apache cluster compares content-aware/random/round-robin policies, static/dynamic mixture and SMP/uniprocessor scaling under load. Workload mix, saturation and hardware allocation are explicit evaluation analogues. No throughput gains transferred or cluster method adopted.",
+      "retained_selected_RIDs": "R3;R6",
+      "correction_expansion": "Sol_expansion_freeze.json: all 300 OA targets; NOT all semantically rechecked",
+      "limitation": "provisional occurrence/source-type screen only; no SIDs/CIDs, no claim QC, no independent human reviewer"
+    }
+  ],
+  "final_regroup_QC": "NOT DONE; changed mappings/newly retained rows mean these 35 producer-snapshot checks are not final group coverage or ERP section 9 claim QC."
+}

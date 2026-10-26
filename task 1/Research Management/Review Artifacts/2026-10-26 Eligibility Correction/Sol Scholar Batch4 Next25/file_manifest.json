@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-10-26T07:03:38.545857+00:00",
+  "scope": "this subtree only; immutable inputs separately frozen in target_freeze.json",
+  "algorithm": "SHA-256",
+  "self_excluded": "file_manifest.json",
+  "files": {
+    "build_primary.py": "b7b1b1e5a810044d19b20bc4fc2b5c90612273f3b3949b419040fd6a5abf0a3f",
+    "counts.json": "411b7eaa92900aacb779ad229fbb99986379c444c96d98c2aaa688a299a98e16",
+    "delta_overlay25.csv": "d90d1c52bbc3b5b743a5411e187a5b1ed6a00d10af158941704500af8c3fbbd9",
+    "finalize.py": "db1a992c1c040c7f19d8cac9f4a1c3e649b89003dbb12cd1b04781a25f38d0a2",
+    "freeze.py": "5446f44663eccd40ebbd52a30d404d1e0407e5e41e2cdd3d772dfd740271d396",
+    "handoff.md": "a6a69c0b0dc478474154b713fadcea1713f427ff527cfc909f35b897ad739356",
+    "item_checks.tsv": "d2d5b9482963d5d87db3875fca774e4196b52a06330e9300bb7d5be255fb6c93",
+    "judgments.json": "e90c45f2037c9bdc6044e726db0a5b215ca4a4152cd621f93e770677106d55d4",
+    "manifest.py": "345731ec5ba661e408114ad00b5852b4c2984a676f296e02f9a4c199641022ec",
+    "qa_freeze.json": "7d0a0f921cf5d15256b68e16648ac8390d6b84e675caadce6310c80f14ab165e",
+    "qa_group_results.json": "d03fd67fba3556557647f04d36941c06483de63bf7e9c1efad7d087a74485209",
+    "qa_results.json": "214f24d1d1f4674f3db65e29720a0efb13a220d2075c7a9cfcd7c2a1a381106d",
+    "target_freeze.json": "9842bfaceb95fd0bf50ac54aa63828dbaef14385cf521508f1532ac15be5861b",
+    "verification.json": "f1e8fd54efc9ccc41d69c8cb2e6f1f766e7526c598fac5fb0baafe52c8635d72"
+  }
+}

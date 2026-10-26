@@ -1,0 +1,150 @@
+{
+  "PENDING / identity_ambiguous": {
+    "members": [
+      "E-0742"
+    ],
+    "selected": "E-0742",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0742",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "PENDING / software_measurement_unclear": {
+    "members": [
+      "E-0741"
+    ],
+    "selected": "E-0741",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0741",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R4 / context_review": {
+    "members": [
+      "E-0745"
+    ],
+    "selected": "E-0745",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0745",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R4 / empirical_application": {
+    "members": [
+      "E-0728",
+      "E-0732",
+      "E-0733",
+      "E-0735",
+      "E-0736",
+      "E-0737",
+      "E-0746",
+      "E-0749"
+    ],
+    "selected": "E-0728",
+    "nonselected_count": 7,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0728",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R4 / methodological_lead": {
+    "members": [
+      "E-0740",
+      "E-0743",
+      "E-0744",
+      "E-0748"
+    ],
+    "selected": "E-0740",
+    "nonselected_count": 3,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0740",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R4 / reporting_statement": {
+    "members": [
+      "E-0747"
+    ],
+    "selected": "E-0747",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0747",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R4 / software_method": {
+    "members": [
+      "E-0729"
+    ],
+    "selected": "E-0729",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0729",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R5 / context_review": {
+    "members": [
+      "E-0725",
+      "E-0730",
+      "E-0738",
+      "E-0739",
+      "E-0745"
+    ],
+    "selected": "E-0725",
+    "nonselected_count": 4,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0725",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R5 / empirical_application": {
+    "members": [
+      "E-0727",
+      "E-0728",
+      "E-0731",
+      "E-0732",
+      "E-0733",
+      "E-0735",
+      "E-0736",
+      "E-0737",
+      "E-0746",
+      "E-0749"
+    ],
+    "selected": "E-0727",
+    "nonselected_count": 9,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0727",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R5 / methodological_lead": {
+    "members": [
+      "E-0726",
+      "E-0740",
+      "E-0743",
+      "E-0744",
+      "E-0748"
+    ],
+    "selected": "E-0726",
+    "nonselected_count": 4,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0726",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R5 / reporting_statement": {
+    "members": [
+      "E-0747"
+    ],
+    "selected": "E-0747",
+    "nonselected_count": 0,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0747",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  },
+  "R5 / software_method": {
+    "members": [
+      "E-0729",
+      "E-0734"
+    ],
+    "selected": "E-0729",
+    "nonselected_count": 1,
+    "status": "checked-no-discrepancy",
+    "qa_record": "E-0729",
+    "coverage": "selected occurrence only; other group members are primary-reviewed, not secondary-reread"
+  }
+}

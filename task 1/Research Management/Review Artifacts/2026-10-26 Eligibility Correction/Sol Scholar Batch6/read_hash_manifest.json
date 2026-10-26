@@ -1,0 +1,1002 @@
+[
+  {
+    "EID": "E-0900",
+    "primary_original_fields_sha256": "b3940c4a6c740f689dc1bf5bb926d26e8848908ed4075f37d6f33c1f35ea57f4",
+    "complete_snippet_sha256": "c8c8a19f9fd30e9d602417f1aa245b1fdfa8df6bd7a2e1d27da16d67ff0dcc36",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0900",
+    "actual_secondary": "secondary_authored.tsv#E-0900",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0901",
+    "primary_original_fields_sha256": "a3d12195456c9e719e9f90b99b2c1de476ace3020a5c9cb6e889f0fef1756f44",
+    "complete_snippet_sha256": "04a9521f74f2556c5439fbe9319d6dd4b3b9f5204f1f03a1d2a8b1982cb86ad5",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0901",
+    "actual_secondary": "secondary_authored.tsv#E-0901",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0902",
+    "primary_original_fields_sha256": "f8191d48a55bf4043f449f1590dc051fe8219c195e4ae828b1750e7221146b08",
+    "complete_snippet_sha256": "3c824ee41972a2272d4056839ad19c06c3fa0d9f4dc3f1b563cd9bedd62d48fd",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0902",
+    "actual_secondary": "secondary_authored.tsv#E-0902",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0903",
+    "primary_original_fields_sha256": "784062b1eb740093bf5788248ad0423c7bb29326334071c72cca0a206fcd1d6a",
+    "complete_snippet_sha256": "b8630ac6dfa1a4518512529b3e5cba2dfd25b2d5063c0e17e7e246a2f1ded44c",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0903",
+    "actual_secondary": "secondary_authored.tsv#E-0903",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0904",
+    "primary_original_fields_sha256": "c7e2ba51c02974511c3d1454028eb6aff2c42735e9927be3725657a7415124b3",
+    "complete_snippet_sha256": "22a27d5f65d9a54885d69a6816a72b9e4fd494c1433a5aa8a147c6d0a64358be",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0904",
+    "actual_secondary": "secondary_authored.tsv#E-0904",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0905",
+    "primary_original_fields_sha256": "ece2f760bfd29b2da0085ce9e85dff9eb92fd87f6d3abb93b6ae9d80528c36c1",
+    "complete_snippet_sha256": "7777def9efcb053bef134448098458ac0a4c6cd21f24d99f0c2fe91476f90063",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0905",
+    "actual_secondary": "secondary_authored.tsv#E-0905",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0906",
+    "primary_original_fields_sha256": "2d5d5866ba1f3bc40b24af84728497da69682eb0368188518610cb0f1b58b7ed",
+    "complete_snippet_sha256": "08ba1876b25170ae5c546b1056de4c017b9f9e8a0b6d0ff51eceafdb89c17925",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0906",
+    "actual_secondary": "secondary_authored.tsv#E-0906",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0907",
+    "primary_original_fields_sha256": "9fffc56eecc4e5c9a82bbbfa238c86f491c34662262b743f3ec6003efddeb7ff",
+    "complete_snippet_sha256": "6eecf19886dc6f2ec248a4622709e3b08340e35e03936e9bfd1e77cec2caa4c1",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0907",
+    "actual_secondary": "secondary_authored.tsv#E-0907",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0908",
+    "primary_original_fields_sha256": "bd1872e6d19ab1fd34d98176aa7e84e73506a5ff77058eb0a537bf1d5edbf677",
+    "complete_snippet_sha256": "c437edbacda9bb143b760ba06d18355d3833d31259d81449493d52bc7305ca8d",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0908",
+    "actual_secondary": "secondary_authored.tsv#E-0908",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0909",
+    "primary_original_fields_sha256": "031e2cd6b58023edac9e0efc2becdca97e06caef0911c82bc053e6eae19c4b4b",
+    "complete_snippet_sha256": "547210ca06fe5bd6f4b7db4f545baa949e5b6a07e7a6823e7c1567a7fd653765",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0909",
+    "actual_secondary": "secondary_authored.tsv#E-0909",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0910",
+    "primary_original_fields_sha256": "0a94554ea702bb92cf8152f424e782c5eaeefcc70d60bd41a63ce21a94cbe22d",
+    "complete_snippet_sha256": "3eec4a6104bb7db1349f3a72137c3aaff943969446d86291838d9b9f2cc6c48c",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0910",
+    "actual_secondary": "secondary_authored.tsv#E-0910",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0911",
+    "primary_original_fields_sha256": "84e80ab87f317ac623dbc6339a643cde23c12ded9645a6c729a356f427083f27",
+    "complete_snippet_sha256": "e443afb1e06065bc4ad49c636636bd079ed8e7bcf5f477382b1e6958917040c5",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0911",
+    "actual_secondary": "secondary_authored.tsv#E-0911",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0912",
+    "primary_original_fields_sha256": "106e66d38c2f010a88e3e4e3fe21cbeac92d96e6a4184213f3ec65a4a211f22f",
+    "complete_snippet_sha256": "d9a8f3c2013bdba1c37ddec650e9e97a0ef5906966f372025b2f2d4a72db01a0",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0912",
+    "actual_secondary": "secondary_authored.tsv#E-0912",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0913",
+    "primary_original_fields_sha256": "cebc2faa0183ee462120a6e47191149691ade8e4b42885116dc2b22a96bd64cd",
+    "complete_snippet_sha256": "99f8a2a633a7fbc0841a8f0755b6a782584bab6e78d0a513fb5c1b1574da8aca",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0913",
+    "actual_secondary": "secondary_authored.tsv#E-0913",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0914",
+    "primary_original_fields_sha256": "ccd87529cb9c8215791ff8e5fea8b2780a9274a1c840fcf45dffa1a42df1ec7a",
+    "complete_snippet_sha256": "62d2e483538bc35f8d3d1e0404102f1244c47d54287e615d214c344cb027e17d",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0914",
+    "actual_secondary": "secondary_authored.tsv#E-0914",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0915",
+    "primary_original_fields_sha256": "ffa3ee4d16a34b192f5297d741f9f7640b7cc62a76bec542898ee391fd034262",
+    "complete_snippet_sha256": "b39c4bf797fa285096782c0579a29f8af22d00f945b915f057a007dc332554b1",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0915",
+    "actual_secondary": "secondary_authored.tsv#E-0915",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0916",
+    "primary_original_fields_sha256": "1f55af38794b9a1325e64409985a1f9af31cb9a13dfbd74b3c4ec888a0190134",
+    "complete_snippet_sha256": "b3a43cca6fb8e4fe473ed68628610beaff4549d8471647f74632d21854a68cf9",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0916",
+    "actual_secondary": "secondary_authored.tsv#E-0916",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0917",
+    "primary_original_fields_sha256": "299d964539ebb4809bcfd6e73af0b92955979113468a8869f1535d6569ce4f36",
+    "complete_snippet_sha256": "b40f888bdaccdac43cd7bcc5c2b76b0a28c53a63a997a25affbe090e5c40fcdb",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0917",
+    "actual_secondary": "secondary_authored.tsv#E-0917",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0918",
+    "primary_original_fields_sha256": "db532e98c09d13a2c7496102aa6904487e4043c689cbeb44730b22bb234fcb7a",
+    "complete_snippet_sha256": "b7c38800cf26140e26328ea010331cf44484598a91976699ad4cf7d7b6a2f077",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0918",
+    "actual_secondary": "secondary_authored.tsv#E-0918",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0919",
+    "primary_original_fields_sha256": "6a0606de92a96959ed7413f0c2d600c0f74e068c6ae1f5bd5d512e8df8aa2d32",
+    "complete_snippet_sha256": "98c6970812f5bef3a807f2d483a9a38fe10ad8c50ef82f78bc16603f4a870347",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0919",
+    "actual_secondary": "secondary_authored.tsv#E-0919",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0920",
+    "primary_original_fields_sha256": "b821b69f26173c489c6dcfdd5fbe65733525cae8f08a50c132a073d9547e083b",
+    "complete_snippet_sha256": "3eec4a6104bb7db1349f3a72137c3aaff943969446d86291838d9b9f2cc6c48c",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0920",
+    "actual_secondary": "secondary_authored.tsv#E-0920",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0921",
+    "primary_original_fields_sha256": "2e18cc68c815c54b9b02d1e47e7452fc76606dbc818496e19bd4f01f058e3242",
+    "complete_snippet_sha256": "c820ef2fa8832273bef12756195d6bc4d9581f51676939e99ce0a77273ee3285",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0921",
+    "actual_secondary": "secondary_authored.tsv#E-0921",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0922",
+    "primary_original_fields_sha256": "c186e3c71ef31b9dc3bcd2f10d07fc07fce8733e1a3e310b12499629706faa7a",
+    "complete_snippet_sha256": "62d2e483538bc35f8d3d1e0404102f1244c47d54287e615d214c344cb027e17d",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0922",
+    "actual_secondary": "secondary_authored.tsv#E-0922",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0923",
+    "primary_original_fields_sha256": "1b6c0e1eb502fa71c4dc52ea78f625de954a8a489fd730f64cff1c32dc645906",
+    "complete_snippet_sha256": "d9a8f3c2013bdba1c37ddec650e9e97a0ef5906966f372025b2f2d4a72db01a0",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0923",
+    "actual_secondary": "secondary_authored.tsv#E-0923",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0924",
+    "primary_original_fields_sha256": "c6198e17f44d73ee54ad88779c9645595523ecdffe6f169bd3508949967578e1",
+    "complete_snippet_sha256": "e443afb1e06065bc4ad49c636636bd079ed8e7bcf5f477382b1e6958917040c5",
+    "secondary_packet": "secondary_packet_1.md",
+    "secondary_packet_sha256": "874272c9945dc321b0aafe5b78b7b52e00d2b3adeca9704134d99322f8f01b4c",
+    "actual_primary": "authored_checks.tsv#E-0924",
+    "actual_secondary": "secondary_authored.tsv#E-0924",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0925",
+    "primary_original_fields_sha256": "2428899a5ae36c3926cd3c3f90d8ee39aa9b5b737c984ba7b16b502e8b3b6645",
+    "complete_snippet_sha256": "ad08d8a7ae8ed1c5204f225bd8156fbbebd27fb57b6011a36304d8e3e3f7a2cf",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0925",
+    "actual_secondary": "secondary_authored.tsv#E-0925",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0926",
+    "primary_original_fields_sha256": "ec465fde622d78c664d9d99ba52f088066616f123aef15f74b5d28cb03f92299",
+    "complete_snippet_sha256": "d8e452e1052939979fcfc347016faf6b170c7ab24d7e7e3642a19766037293cd",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0926",
+    "actual_secondary": "secondary_authored.tsv#E-0926",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0927",
+    "primary_original_fields_sha256": "290e623716120c9779bb5f82c6117bf8f832c79c8c4a43af62ab903e52e39132",
+    "complete_snippet_sha256": "010b0d802acfcabe561e4d81119f2097eebbcfcdf687961894db7e4ec21f0c3f",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0927",
+    "actual_secondary": "secondary_authored.tsv#E-0927",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0928",
+    "primary_original_fields_sha256": "cb174ee67e126f8d2337f42bc9c273f63551a9b4dc1d48149633140d8d752ecf",
+    "complete_snippet_sha256": "96ae32e0dd2ee13d4ec0f7ac3798587355e2d3838ef236e719c39f68655b24b9",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0928",
+    "actual_secondary": "secondary_authored.tsv#E-0928",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0929",
+    "primary_original_fields_sha256": "d150b859e585a9830d21e775682e8002f5ed56d61117deaae26be2ce5a2d0496",
+    "complete_snippet_sha256": "51477bb2231b1cfbf1775983fe77c1c5adab2e307176ee81fc96d87ff21e3b26",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0929",
+    "actual_secondary": "secondary_authored.tsv#E-0929",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0930",
+    "primary_original_fields_sha256": "daa05a3cd3ce73abd3d2aae84e4fc410d5a0088af5565a2cae6ae8730f00e30b",
+    "complete_snippet_sha256": "807cae54f57098d9c68cd5eb08b64bd870b46cb35034662cdd25f44933ebebae",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0930",
+    "actual_secondary": "secondary_authored.tsv#E-0930",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0931",
+    "primary_original_fields_sha256": "b020f43c07e00b2e945d12e3843b193d1f5ee7ac8225dcf072b09b9620fede73",
+    "complete_snippet_sha256": "99f8a2a633a7fbc0841a8f0755b6a782584bab6e78d0a513fb5c1b1574da8aca",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0931",
+    "actual_secondary": "secondary_authored.tsv#E-0931",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0932",
+    "primary_original_fields_sha256": "4bf4ee4565e884ca4868f74bc423707ccc9b87212efd579dd54161d72e3e354e",
+    "complete_snippet_sha256": "b3a43cca6fb8e4fe473ed68628610beaff4549d8471647f74632d21854a68cf9",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0932",
+    "actual_secondary": "secondary_authored.tsv#E-0932",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0933",
+    "primary_original_fields_sha256": "38499d56bd1c0f794e455de88500c9d086e0a164aff07ed832d97b2aebc70ec6",
+    "complete_snippet_sha256": "b40f888bdaccdac43cd7bcc5c2b76b0a28c53a63a997a25affbe090e5c40fcdb",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0933",
+    "actual_secondary": "secondary_authored.tsv#E-0933",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0934",
+    "primary_original_fields_sha256": "30e8ea318c25bac415db489ce3bae36d20b0d6e1008124058cfcc05377cd9a25",
+    "complete_snippet_sha256": "99f8a2a633a7fbc0841a8f0755b6a782584bab6e78d0a513fb5c1b1574da8aca",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0934",
+    "actual_secondary": "secondary_authored.tsv#E-0934",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0935",
+    "primary_original_fields_sha256": "3b80d96982d6fa53bd1ab48e60e55a500adb58b152d045ef5d7f4378f196dd98",
+    "complete_snippet_sha256": "b3a43cca6fb8e4fe473ed68628610beaff4549d8471647f74632d21854a68cf9",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0935",
+    "actual_secondary": "secondary_authored.tsv#E-0935",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0936",
+    "primary_original_fields_sha256": "a797966fb0e0ad0b290ae506e7b2afa87edad188c13355eeb9da5f7fd1f5e211",
+    "complete_snippet_sha256": "7b2cf2783fcda324d0e5c910783f5e8bfbb723607f1aa9a29721c7b9c9bf8df6",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0936",
+    "actual_secondary": "secondary_authored.tsv#E-0936",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0937",
+    "primary_original_fields_sha256": "8bebee1c581881576f46d7c3c1736f76e618d3c4f50c9aeb3c49ebaaaed56afe",
+    "complete_snippet_sha256": "b40f888bdaccdac43cd7bcc5c2b76b0a28c53a63a997a25affbe090e5c40fcdb",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0937",
+    "actual_secondary": "secondary_authored.tsv#E-0937",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0938",
+    "primary_original_fields_sha256": "36493233b2c2d667697837858342501889fd3b01a2c259f99c7cb88da592cf92",
+    "complete_snippet_sha256": "c5064fd0ed59c20a71cc108f5abb626980ff7d7d3709b0f6c1a6a53cf8eb4350",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0938",
+    "actual_secondary": "secondary_authored.tsv#E-0938",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0939",
+    "primary_original_fields_sha256": "4879438bed8ccf69f46cab16b93bd3e0fce9c2337c66c4d29baad58a0a3224fd",
+    "complete_snippet_sha256": "fb669fc674f8a3223a8bd13ae162124e4c9e231c99f42eabd81b0fccbf2a263c",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0939",
+    "actual_secondary": "secondary_authored.tsv#E-0939",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0940",
+    "primary_original_fields_sha256": "e4d4503442e638955ccd9d82619c2a72b494389d7eeb2927cec1fb19585cb4ce",
+    "complete_snippet_sha256": "41d30afbe7b27fb2822aaeb2b8150b7fe39d74aaa8c6539b9bc64c52c0bf121b",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0940",
+    "actual_secondary": "secondary_authored.tsv#E-0940",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0941",
+    "primary_original_fields_sha256": "7fcbee08449006e2296da4366310a76ef88c4f0c33eb99b56437da4dda17c6a4",
+    "complete_snippet_sha256": "420823a38bcad83778c2af0ed03c34138769367fcef4d20859412f9bb18088aa",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0941",
+    "actual_secondary": "secondary_authored.tsv#E-0941",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0942",
+    "primary_original_fields_sha256": "83fd7ba66b1e66fa0369fd9078423b00a57927b0b411bda4f0a7d06cc3a43d14",
+    "complete_snippet_sha256": "c2e4c46bfa03d1fc73c97717dca26614656445e4a8c40e34b611979fb160bc3b",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0942",
+    "actual_secondary": "secondary_authored.tsv#E-0942",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0943",
+    "primary_original_fields_sha256": "07039baf8b90def09708d23c6233bd64f2b0d58133ecdd97260b3ddf48743df3",
+    "complete_snippet_sha256": "55ea05b0bb10c319658c504319b3b55bfebb1ef3c2441a6760863e90145d0a17",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0943",
+    "actual_secondary": "secondary_authored.tsv#E-0943",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0944",
+    "primary_original_fields_sha256": "4f645c0780772e26aa3ba81d877e97ac39c24eb561c25bcfb1e26eeff7ad52ff",
+    "complete_snippet_sha256": "53eb6eee3a11002e59d5dd4477f3833de8e241c3d231d7930549a584c2ecd886",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0944",
+    "actual_secondary": "secondary_authored.tsv#E-0944",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0945",
+    "primary_original_fields_sha256": "b54c8d8a85c46672d2e15119b34870c7062663531b46fbec9d25e67735e94148",
+    "complete_snippet_sha256": "4b15f5a105275f7207b063b93ad98b966b76b25cc694aa840d3589272823f57c",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0945",
+    "actual_secondary": "secondary_authored.tsv#E-0945",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0946",
+    "primary_original_fields_sha256": "528b0fff949ea9b222cceb6c6973fab4cc6e450f35e5d00bc22e7e7d727f2ee1",
+    "complete_snippet_sha256": "983f4e46c3339da6e93dc5b8f6d950d2467eb52d96733bf11155b53db7b661df",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0946",
+    "actual_secondary": "secondary_authored.tsv#E-0946",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0947",
+    "primary_original_fields_sha256": "216735b75863f5079370121f9fbd2ea664b304114e16f4868e26398261faf3fc",
+    "complete_snippet_sha256": "f4c881aee61936bbd37244698686ddef36e4b9be44a59b3d5e2a0ee0810fd30c",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0947",
+    "actual_secondary": "secondary_authored.tsv#E-0947",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0948",
+    "primary_original_fields_sha256": "d168a8fb50410ef651d2069927671e22f183d86408d2e022f2380a2fe0fb24a4",
+    "complete_snippet_sha256": "17f33217e326f1b382b33c8f596843e0eddaa004aa09c6f7672eb8d64e7f58dc",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0948",
+    "actual_secondary": "secondary_authored.tsv#E-0948",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0949",
+    "primary_original_fields_sha256": "8c43f8f635a5c58415850377576a2845e883eb2eb99349ffca1df85cc0e18e61",
+    "complete_snippet_sha256": "f163b91a775372b6c98ae65b9d1dfbf1cfaef4b6aac803b08b644ecfcaebb941",
+    "secondary_packet": "secondary_packet_2.md",
+    "secondary_packet_sha256": "3986b75658174da3ebfb4ed8dc8140f7b39d9f595016402550f20151427bdd93",
+    "actual_primary": "authored_checks.tsv#E-0949",
+    "actual_secondary": "secondary_authored.tsv#E-0949",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0950",
+    "primary_original_fields_sha256": "aaa29f0a91ee1979e626ab800414648f947900bcb7dee890bb71537f7799b09b",
+    "complete_snippet_sha256": "e3fa4200fb0d077afc69583dd35880e5ba386503f9909dcdf07cbdd6d6115411",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0950",
+    "actual_secondary": "secondary_authored.tsv#E-0950",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0951",
+    "primary_original_fields_sha256": "f1c7422cc2dd805df018af6d04e75b82999878ae6abde95d27411d087736dee2",
+    "complete_snippet_sha256": "5b4746aa482621ffc31c84e45a15c663006d6d77c84afed59de188eccc0ce185",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0951",
+    "actual_secondary": "secondary_authored.tsv#E-0951",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0952",
+    "primary_original_fields_sha256": "cbc6f0f767bbb609699b2c35bb60c477bb212d4a36d7bd6598a3ba839f057002",
+    "complete_snippet_sha256": "cfada8063722870a7fa21ed0bb7135dee7f08a51322d414a694b46b971d94b26",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0952",
+    "actual_secondary": "secondary_authored.tsv#E-0952",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0953",
+    "primary_original_fields_sha256": "03852694a4e81b9630b64a77842c2502e6120ad3a06d70ecbab8bf476d94eb93",
+    "complete_snippet_sha256": "30d1a6fba8639f4114656a01d14dbf1332e4d157b67e978b9b030c197891fc1b",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0953",
+    "actual_secondary": "secondary_authored.tsv#E-0953",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0954",
+    "primary_original_fields_sha256": "38857d1ffede020e299cff555e274cb81afac80aafbb2ba0cee39dbdf5ec2622",
+    "complete_snippet_sha256": "e85c5a196fe1b528aad0d0d8af43d087f0ba50d94d34456ff187064ec35c2d43",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0954",
+    "actual_secondary": "secondary_authored.tsv#E-0954",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0955",
+    "primary_original_fields_sha256": "cc9d95aa1a642053887a216133ab539d844f304dde62558b005ebaf273581c91",
+    "complete_snippet_sha256": "5834eaf46ceb2150f4ba37c4d3d92e4980fd792e1755e1a2e698ce0dd7703205",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0955",
+    "actual_secondary": "secondary_authored.tsv#E-0955",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0956",
+    "primary_original_fields_sha256": "807ffa1032715c39fa2df4f002667d251204cfe8764b992b0f5245e00d435775",
+    "complete_snippet_sha256": "953f8245230fea1411ab82073b94ef226f6b957babd2746e9955e37138e513af",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0956",
+    "actual_secondary": "secondary_authored.tsv#E-0956",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0957",
+    "primary_original_fields_sha256": "4d21287c71f18d73fab20fcd7c67e480a9e1b4002ba311b444e46eabe9bff6b6",
+    "complete_snippet_sha256": "d3a35bdeecef74da2254217d318b4101b9b6d6e9ed9fc18e6afa89e45ffd494e",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0957",
+    "actual_secondary": "secondary_authored.tsv#E-0957",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0958",
+    "primary_original_fields_sha256": "35f45cb47a8a5998ae4752163df0107e86afa350bdc287a9a2cd2a01e65f4894",
+    "complete_snippet_sha256": "a0b2826299b5eb41fd9c970e3407686fa04c2d13a67eedfbf88609569db00999",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0958",
+    "actual_secondary": "secondary_authored.tsv#E-0958",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0959",
+    "primary_original_fields_sha256": "1efa8d445963c6cea9935f8110e9788fea9f17c0b1ab694c6703b79c136ccc59",
+    "complete_snippet_sha256": "8c51234944c4600ab7b72196da5591e830ff6b01d12eb8e447def9cbd7cb914b",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0959",
+    "actual_secondary": "secondary_authored.tsv#E-0959",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0960",
+    "primary_original_fields_sha256": "07830d80fa8c5a77f55eea568878696054b90a6259c5f8c4d019d951e9a665a0",
+    "complete_snippet_sha256": "4ba59818b85ea13a8c664ad03761cb90e731a81cbb4e1cd7122cc4a9181d11d6",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0960",
+    "actual_secondary": "secondary_authored.tsv#E-0960",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0961",
+    "primary_original_fields_sha256": "7321663dffa98c38c126cce3a2e01374577bbfd4a0ded0829344b3d75f368a08",
+    "complete_snippet_sha256": "3c0892ef9ac7e70313359d3415e1ce358bb13898e5d1ba8be10d0faed1441d04",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0961",
+    "actual_secondary": "secondary_authored.tsv#E-0961",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0962",
+    "primary_original_fields_sha256": "91cc1b2a06b456be9d80d2c5a8369301480b7694ccafd81916a2cf9768b915ef",
+    "complete_snippet_sha256": "ea56d79a9ebfaae5e07343d1242308ac9a2e4243460329b2cfff7f5fe6101a64",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0962",
+    "actual_secondary": "secondary_authored.tsv#E-0962",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0963",
+    "primary_original_fields_sha256": "27bf696e26d10ae0b92b93257450240926dba1d24f8739e6d2a5340eae25500f",
+    "complete_snippet_sha256": "218126de2071ff0360ca99b2eb8792b49527f28b4c6a1adda877f517a1792962",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0963",
+    "actual_secondary": "secondary_authored.tsv#E-0963",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0964",
+    "primary_original_fields_sha256": "328fa2c40255d0ef176e566d565852b23f182124046d410470fc669af51cccf8",
+    "complete_snippet_sha256": "3f81488ec34e187fb6dc57631822fb2cd3de562360d4824d2389aaf7d6bacf3b",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0964",
+    "actual_secondary": "secondary_authored.tsv#E-0964",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0965",
+    "primary_original_fields_sha256": "821a24e89a2871bebf0f29b5fc71e4496c393928a0953043b321f064cff8270c",
+    "complete_snippet_sha256": "677cc75731d5809043d6c163ad88fcf25731b61cd9f956bfe21cd23801ce4907",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0965",
+    "actual_secondary": "secondary_authored.tsv#E-0965",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0966",
+    "primary_original_fields_sha256": "e93662bf88d529c06684f1b3d900bbcd3e2d3e55c7bec63a13e8bd53f0db0a07",
+    "complete_snippet_sha256": "d7295bf4ab64b7c36ceb7625a404a1370167647f816a66ec3f81d404f622c3ee",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0966",
+    "actual_secondary": "secondary_authored.tsv#E-0966",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0967",
+    "primary_original_fields_sha256": "095a76b417b411908af7f6fe6ec6210a65d239847882b9178ab0912ac493a096",
+    "complete_snippet_sha256": "ab2b32335d09fff6acf2b364a554ceff83cf172786ff4b5f8995e2dcfb69c801",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0967",
+    "actual_secondary": "secondary_authored.tsv#E-0967",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0968",
+    "primary_original_fields_sha256": "c59cd1b19406e29f4beea48a547f0ced3a6e688a06c470089221739711d8e3ae",
+    "complete_snippet_sha256": "dba87c6f8daf55a4d07076f8b9025dd73f539402215310524d5ff28aa26ba771",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0968",
+    "actual_secondary": "secondary_authored.tsv#E-0968",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0969",
+    "primary_original_fields_sha256": "9654109a6c95fa92305799ff54fb11c1e39a49adcc6dc72d1910ff83f03979bc",
+    "complete_snippet_sha256": "276d8505ef39781d61bb0c6dd8b5b4fdc7a230aacc6d3369da82961a3ab84a86",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0969",
+    "actual_secondary": "secondary_authored.tsv#E-0969",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0970",
+    "primary_original_fields_sha256": "b84cd245564cd61650ce7c5eff2f942774f88e1f85c81f856274ee14129e1079",
+    "complete_snippet_sha256": "cdb2c7d37f58b5261cc6f2a604d97b04941f72be0a0f98d17b43861ed45f2ce2",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0970",
+    "actual_secondary": "secondary_authored.tsv#E-0970",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0971",
+    "primary_original_fields_sha256": "2e2656642e01b2800c63c9ca6ce7cdfb9cae4abc78083aebf306b16fd101518d",
+    "complete_snippet_sha256": "7e15556fe894952970337c9b3edb2910e7136aecb42b83d482810aafabf79c08",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0971",
+    "actual_secondary": "secondary_authored.tsv#E-0971",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0972",
+    "primary_original_fields_sha256": "a8219aba48ca862ff57ccf456258b28bf168c03a1a623a15d7a99c34ef4d7dbc",
+    "complete_snippet_sha256": "030687863298f54998b71e2f58d24eb2fbda3af1656e418f5c3ab4d9aee0c274",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0972",
+    "actual_secondary": "secondary_authored.tsv#E-0972",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0973",
+    "primary_original_fields_sha256": "0746ef33710fab5eb106cee6564836e123b54e81695e8ed2239ef247a5be8635",
+    "complete_snippet_sha256": "11d203fc917b001a52ca6b802029db2589dc3bb0ff298395eb6388deb6beac57",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0973",
+    "actual_secondary": "secondary_authored.tsv#E-0973",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0974",
+    "primary_original_fields_sha256": "0529c8d97c7b25778b03562ed5d0a1ea1767e0c57be96220f698153e3518ee82",
+    "complete_snippet_sha256": "7bfb8f8f96b46b08e68fd42bc1790bb0388cca35c8d1fcf885bc72cb03fc3f68",
+    "secondary_packet": "secondary_packet_3.md",
+    "secondary_packet_sha256": "9099ed38cb39d89bb0ee181b806d11fd3a2998914676eaec5bccf4cd882b8fdc",
+    "actual_primary": "authored_checks.tsv#E-0974",
+    "actual_secondary": "secondary_authored.tsv#E-0974",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0975",
+    "primary_original_fields_sha256": "78ee063b131fa707636c9528b12529819142f8af1a6365df3a8e3491949914be",
+    "complete_snippet_sha256": "e72ef14221e20d193d8a52392464e9f8336fdcd247dc76de2301bc6aea57f843",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0975",
+    "actual_secondary": "secondary_authored.tsv#E-0975",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0976",
+    "primary_original_fields_sha256": "fc3513e36b166e5272d5bad25b7993efdbc5d34e9ca52d1a9d0b0c72d5f20831",
+    "complete_snippet_sha256": "bf31cbb6eb7d8ee7e7e2358a3fb028d5d7030241927e8ee827d86440485e1cad",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0976",
+    "actual_secondary": "secondary_authored.tsv#E-0976",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0977",
+    "primary_original_fields_sha256": "057954e2c90258dcb75bc7cc1d9e4d9481da0516ecc3db83ed9a248106fb1374",
+    "complete_snippet_sha256": "f100b74f47702aa3a009b7798665978255506a4e2aa3e61ff7303db3d5bfe673",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0977",
+    "actual_secondary": "secondary_authored.tsv#E-0977",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0978",
+    "primary_original_fields_sha256": "6ced9b550863727512d66ae43bcc6af4add5ba99c648ccc09464af88c4905333",
+    "complete_snippet_sha256": "837bbbb7cff7c7969e6a298294f9ef3a9e21090467e3046cda91896f308f75c7",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0978",
+    "actual_secondary": "secondary_authored.tsv#E-0978",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0979",
+    "primary_original_fields_sha256": "7ded23a063f2bdbb646b373c56fab2ed11df7f4d320a2197b5b863330ab395a0",
+    "complete_snippet_sha256": "0353e9b9466420cd4cd44d479390f4aa217806306ac78e51ec61edf23f7c97d1",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0979",
+    "actual_secondary": "secondary_authored.tsv#E-0979",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0980",
+    "primary_original_fields_sha256": "0fcfe2d5b51f3e33238f32b9eefe2a6431ac4a03a98b133cead192f886f07c3c",
+    "complete_snippet_sha256": "0454bd0346680626959cde26b769e8d91e741a3a4287e71a2413f118f29e4788",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0980",
+    "actual_secondary": "secondary_authored.tsv#E-0980",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0981",
+    "primary_original_fields_sha256": "1c469bef50507f4ad9b5b13577cc2bc67ba782a4934c410dac3c82de3a1d6ded",
+    "complete_snippet_sha256": "cc177b3272fa33945f92d2cfcedbe1ad9bf30c4e0fd12cfed2528b7261c8ac7b",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0981",
+    "actual_secondary": "secondary_authored.tsv#E-0981",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0982",
+    "primary_original_fields_sha256": "d053ef8905d24e5c8e0cfc5d65df69ef20d71a995fc9a634dbdd473d56f400b9",
+    "complete_snippet_sha256": "1508da0a0fb98c9545436186c35d09f8559292d8937747b191df4d84bd8a4bb0",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0982",
+    "actual_secondary": "secondary_authored.tsv#E-0982",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0983",
+    "primary_original_fields_sha256": "50298b782fed1f4874dc06474f7ad7e8cdeaae495965701e3726da63d9625503",
+    "complete_snippet_sha256": "ee0e7f78b485828a27406e9df4649456d3b7d5d49a14efd86683fb98556940ef",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0983",
+    "actual_secondary": "secondary_authored.tsv#E-0983",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0984",
+    "primary_original_fields_sha256": "959f492fc6b4d4ff2dcd58887dcd0dc82fd802f050f86d40e051f8686ee017e5",
+    "complete_snippet_sha256": "3e04dcae1af6f12025918667f4739a671036a0b693d26fe05e3998bc16e60978",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0984",
+    "actual_secondary": "secondary_authored.tsv#E-0984",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0985",
+    "primary_original_fields_sha256": "7e28e6b59b9004ecdf23f7fd22302a57fb4c9ecd5ecd394851e33e0eda265c44",
+    "complete_snippet_sha256": "d42f88e8f7a83876208b70c62938d0f59fc47330e1ad24c106f11962e1fbbded",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0985",
+    "actual_secondary": "secondary_authored.tsv#E-0985",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0986",
+    "primary_original_fields_sha256": "8ad2d1d18b0407d1c1f41e4c74ee47bc12fd0427fca21698f4160b32ec2f42e0",
+    "complete_snippet_sha256": "5a6d3112cdca3c0028c248db8faded70d368f4bd2bcf718f9365e02bc4086b9b",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0986",
+    "actual_secondary": "secondary_authored.tsv#E-0986",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0987",
+    "primary_original_fields_sha256": "7d633c02a420eb20e3d26ec43f51b87dc4c9a98299d4bfc10e6cc176dbee3b3a",
+    "complete_snippet_sha256": "8624b229515d2f3042b1b834843d5f7a3f354ffdbd38bcf75c1550a59c8d002e",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0987",
+    "actual_secondary": "secondary_authored.tsv#E-0987",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0988",
+    "primary_original_fields_sha256": "5e3d3f71fa177d12ee3a4e20aed5779131c5b43ba061c7533637bd4a7bb029f8",
+    "complete_snippet_sha256": "c639aaf2a53e0323aac2e21d9dc1998a050a6c1f4a37c7631dabf66138efcb5f",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0988",
+    "actual_secondary": "secondary_authored.tsv#E-0988",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0989",
+    "primary_original_fields_sha256": "30dbbe91379984437ca8ff1701568c392082cd70d0b903384ded186402862c51",
+    "complete_snippet_sha256": "e99ff45abea773a263343abb9b326f627a3d753fff8d94cdc91597306887ec82",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0989",
+    "actual_secondary": "secondary_authored.tsv#E-0989",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0990",
+    "primary_original_fields_sha256": "7c289ed711634d2139569a3a20e81000a177ebeb6b669315ddfd14fbdb41d800",
+    "complete_snippet_sha256": "e63ff9ebe4ed6f1a0ef2f36da7b053f1d7e3cf876e3a4a838c281463a8e3c5ef",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0990",
+    "actual_secondary": "secondary_authored.tsv#E-0990",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0991",
+    "primary_original_fields_sha256": "d2cd354aab30a0f39a79c51c690d076fc5e7aca7cb6fcb780848e14d9ea82693",
+    "complete_snippet_sha256": "14281b90df8300004469d04b4504721bf8a5281779df39e41a48f1f28caddd06",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0991",
+    "actual_secondary": "secondary_authored.tsv#E-0991",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0992",
+    "primary_original_fields_sha256": "07b80fb2800a2df24b95a0847392f4b1f1ea751bf95449fe5399467e2fcef2c9",
+    "complete_snippet_sha256": "fac936c491b0620274d4be35e11ec034c33458f169ea4b84a138c12b783c01db",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0992",
+    "actual_secondary": "secondary_authored.tsv#E-0992",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0993",
+    "primary_original_fields_sha256": "204169cd444fe0b06d4cc0ca600b12107c72fc7a56b611695e17675084dac956",
+    "complete_snippet_sha256": "4bf57b5640da3f5106d7e3657745af21a62520e4fab184017d385041d6385a33",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0993",
+    "actual_secondary": "secondary_authored.tsv#E-0993",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0994",
+    "primary_original_fields_sha256": "c7f76ff6ba852a72e8c30c60cd5d2a9577c86874d0743822a470a20610f49016",
+    "complete_snippet_sha256": "e4f3c80a457bf5ff5de735512e1e58858ed44b7661ea8f2fae1e8afe527ff22d",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0994",
+    "actual_secondary": "secondary_authored.tsv#E-0994",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0995",
+    "primary_original_fields_sha256": "a4cf3f8a2e99df09b93522ae6a4820827b5da341ca7895942daf8cb2d82f1ab5",
+    "complete_snippet_sha256": "6377bbed62079ee2a8d45266afbbd20dd428a703ed1f772a732ea26bd25cd7f0",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0995",
+    "actual_secondary": "secondary_authored.tsv#E-0995",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0996",
+    "primary_original_fields_sha256": "3115a463b270ed2266f0a1cf88ff90075bee626f954c1c54a206174b55a6582a",
+    "complete_snippet_sha256": "cccacb55c8a4c499e75f1a39be2f7ce9ef96e66d9f113cb1106be5a45b58bf1f",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0996",
+    "actual_secondary": "secondary_authored.tsv#E-0996",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0997",
+    "primary_original_fields_sha256": "2bb00299c8c46678d7d67d35fe6bc5a15b03012009a800882467fb6059019650",
+    "complete_snippet_sha256": "fb793578cc54300afd1a130f21311bfe3aaf60dd1031f4f31d25eb0dee31733c",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0997",
+    "actual_secondary": "secondary_authored.tsv#E-0997",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0998",
+    "primary_original_fields_sha256": "1ebbcad3749d1f9a7967f24517894bef2f1b84a016f8a069796ab500db02bb38",
+    "complete_snippet_sha256": "aa6a8028a10ebb236cbf4ea8300c149b8630374e4a286040efd717b91c405d9b",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0998",
+    "actual_secondary": "secondary_authored.tsv#E-0998",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  },
+  {
+    "EID": "E-0999",
+    "primary_original_fields_sha256": "ecf48168821f1a418ac72541b781edb8697552430f4348cef0a1e25c8425b076",
+    "complete_snippet_sha256": "ee3f0d97d271e0475c70f046cb387e494030773791f2eaa72793392d12b1911b",
+    "secondary_packet": "secondary_packet_4.md",
+    "secondary_packet_sha256": "18b27fe1b174f50b7c1baac65dcb5d1e6c52db0fb862fa53bb176d272a1269db",
+    "actual_primary": "authored_checks.tsv#E-0999",
+    "actual_secondary": "secondary_authored.tsv#E-0999",
+    "scope": "actually read complete stored title/Scholar snippet/metadata, NOT abstract/full text; no network"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "EID": "E-0900",
+    "title": "Performance and Security Evaluation of Selected Indonesian Mosque Websites",
+    "snippet_characters": 188,
+    "original_fields_sha256": "b3940c4a6c740f689dc1bf5bb926d26e8848908ed4075f37d6f33c1f35ea57f4",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0900"
+  },
+  {
+    "EID": "E-0901",
+    "title": "Predictive Analytics And Data-Driven Algorithms For Improving Efficiency In Full-Stack Web Systems",
+    "snippet_characters": 189,
+    "original_fields_sha256": "a3d12195456c9e719e9f90b99b2c1de476ace3020a5c9cb6e889f0fef1756f44",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0901"
+  },
+  {
+    "EID": "E-0902",
+    "title": "[PDF] Network Performance Evaluation in Web Browsers: Comprehensive Methodologies Key Metrics and Visualization Techniques",
+    "snippet_characters": 187,
+    "original_fields_sha256": "f8191d48a55bf4043f449f1590dc051fe8219c195e4ae828b1750e7221146b08",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0902"
+  },
+  {
+    "EID": "E-0903",
+    "title": "[PDF] Feature Selection Methods for Intelligent Software Performance Monitoring Based on Machine Learning",
+    "snippet_characters": 182,
+    "original_fields_sha256": "784062b1eb740093bf5788248ad0423c7bb29326334071c72cca0a206fcd1d6a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0903"
+  },
+  {
+    "EID": "E-0904",
+    "title": "Differences in source selection and their effect on the quality of written statements during a critical online reasoning performance assessment",
+    "snippet_characters": 185,
+    "original_fields_sha256": "c7e2ba51c02974511c3d1454028eb6aff2c42735e9927be3725657a7415124b3",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0904"
+  },
+  {
+    "EID": "E-0905",
+    "title": "Метод поетапного покращення Core Web Vitals у web-сайтах зі збереженням функціональності та візуальної цілісності інтерфейсу",
+    "snippet_characters": 185,
+    "original_fields_sha256": "ece2f760bfd29b2da0085ce9e85dff9eb92fd87f6d3abb93b6ae9d80528c36c1",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0905"
+  },
+  {
+    "EID": "E-0906",
+    "title": "eIRWR: Enhanced Iterative Random Walk with Restart for Scalable Root Cause Analysis in Microservices",
+    "snippet_characters": 184,
+    "original_fields_sha256": "2d5d5866ba1f3bc40b24af84728497da69682eb0368188518610cb0f1b58b7ed",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0906"
+  },
+  {
+    "EID": "E-0907",
+    "title": "ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions",
+    "snippet_characters": 191,
+    "original_fields_sha256": "9fffc56eecc4e5c9a82bbbfa238c86f491c34662262b743f3ec6003efddeb7ff",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0907"
+  },
+  {
+    "EID": "E-0908",
+    "title": "Web app performance testing in industrial contexts: Supporting workload generation with E2E-Loader++",
+    "snippet_characters": 182,
+    "original_fields_sha256": "bd1872e6d19ab1fd34d98176aa7e84e73506a5ff77058eb0a537bf1d5edbf677",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0908"
+  },
+  {
+    "EID": "E-0909",
+    "title": "[PDF] Validation of a Compact SERVQUAL Composite for Telecom Service Quality Dashboards",
+    "snippet_characters": 189,
+    "original_fields_sha256": "031e2cd6b58023edac9e0efc2becdca97e06caef0911c82bc053e6eae19c4b4b",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0909"
+  },
+  {
+    "EID": "E-0910",
+    "title": "[PDF] Examining the performance impacts of Artificial Intelligence (AI) in Online Retailing: An Empirical Analysis",
+    "snippet_characters": 183,
+    "original_fields_sha256": "0a94554ea702bb92cf8152f424e782c5eaeefcc70d60bd41a63ce21a94cbe22d",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0910"
+  },
+  {
+    "EID": "E-0911",
+    "title": "What Should Data Teach? Moving Bottlenecks Across Circuit, Store, and Use",
+    "snippet_characters": 179,
+    "original_fields_sha256": "84e80ab87f317ac623dbc6339a643cde23c12ded9645a6c729a356f427083f27",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0911"
+  },
+  {
+    "EID": "E-0912",
+    "title": "[PDF] Design and Evaluation of an Explainable Clinical Decision Support System for Depression-Related Triage Based on Digital Phenotyping",
+    "snippet_characters": 186,
+    "original_fields_sha256": "106e66d38c2f010a88e3e4e3fe21cbeac92d96e6a4184213f3ec65a4a211f22f",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0912"
+  },
+  {
+    "EID": "E-0913",
+    "title": "Internet of things (IoT)",
+    "snippet_characters": 181,
+    "original_fields_sha256": "cebc2faa0183ee462120a6e47191149691ade8e4b42885116dc2b22a96bd64cd",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0913"
+  },
+  {
+    "EID": "E-0914",
+    "title": "BERTRAG as a BERT-enhanced retrieval-augmented generation framework for preserving Awori and Ogu indigenous knowledge",
+    "snippet_characters": 194,
+    "original_fields_sha256": "ccd87529cb9c8215791ff8e5fea8b2780a9274a1c840fcf45dffa1a42df1ec7a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0914"
+  },
+  {
+    "EID": "E-0915",
+    "title": "[HTML] The COVID-19 pandemic: resilient organisational response to a low-chance, high-impact event",
+    "snippet_characters": 179,
+    "original_fields_sha256": "ffa3ee4d16a34b192f5297d741f9f7640b7cc62a76bec542898ee391fd034262",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0915"
+  },
+  {
+    "EID": "E-0916",
+    "title": "Histories, futures and the changing business and technologies of journalism",
+    "snippet_characters": 179,
+    "original_fields_sha256": "1f55af38794b9a1325e64409985a1f9af31cb9a13dfbd74b3c4ec888a0190134",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0916"
+  },
+  {
+    "EID": "E-0917",
+    "title": "[HTML] Status reports to the Papermaking Project Advisory Committee, March 8-9, 2000",
+    "snippet_characters": 184,
+    "original_fields_sha256": "299d964539ebb4809bcfd6e73af0b92955979113468a8869f1535d6569ce4f36",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0917"
+  },
+  {
+    "EID": "E-0918",
+    "title": "Navigating the edge-cloud continuum: A state-of-practice survey",
+    "snippet_characters": 187,
+    "original_fields_sha256": "db532e98c09d13a2c7496102aa6904487e4043c689cbeb44730b22bb234fcb7a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0918"
+  },
+  {
+    "EID": "E-0919",
+    "title": "Muse-autoskill: Self-evolving agents via skill creation, memory, management, and evaluation",
+    "snippet_characters": 194,
+    "original_fields_sha256": "6a0606de92a96959ed7413f0c2d600c0f74e068c6ae1f5bd5d512e8df8aa2d32",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0919"
+  },
+  {
+    "EID": "E-0920",
+    "title": "[PDF] Examining the performance impacts of Artificial Intelligence (AI) in Online Retailing: An Empirical Analysis",
+    "snippet_characters": 183,
+    "original_fields_sha256": "b821b69f26173c489c6dcfdd5fbe65733525cae8f08a50c132a073d9547e083b",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0920"
+  },
+  {
+    "EID": "E-0921",
+    "title": "[PDF] Logo Organization",
+    "snippet_characters": 184,
+    "original_fields_sha256": "2e18cc68c815c54b9b02d1e47e7452fc76606dbc818496e19bd4f01f058e3242",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0921"
+  },
+  {
+    "EID": "E-0922",
+    "title": "BERTRAG as a BERT-enhanced retrieval-augmented generation framework for preserving Awori and Ogu indigenous knowledge",
+    "snippet_characters": 194,
+    "original_fields_sha256": "c186e3c71ef31b9dc3bcd2f10d07fc07fce8733e1a3e310b12499629706faa7a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0922"
+  },
+  {
+    "EID": "E-0923",
+    "title": "[PDF] Design and Evaluation of an Explainable Clinical Decision Support System for Depression-Related Triage Based on Digital Phenotyping",
+    "snippet_characters": 186,
+    "original_fields_sha256": "1b6c0e1eb502fa71c4dc52ea78f625de954a8a489fd730f64cff1c32dc645906",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0923"
+  },
+  {
+    "EID": "E-0924",
+    "title": "What Should Data Teach? Moving Bottlenecks Across Circuit, Store, and Use",
+    "snippet_characters": 179,
+    "original_fields_sha256": "c6198e17f44d73ee54ad88779c9645595523ecdffe6f169bd3508949967578e1",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0924"
+  },
+  {
+    "EID": "E-0925",
+    "title": "Automating Robotic Workflows with Cloud DevOps Frameworks",
+    "snippet_characters": 180,
+    "original_fields_sha256": "2428899a5ae36c3926cd3c3f90d8ee39aa9b5b737c984ba7b16b502e8b3b6645",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0925"
+  },
+  {
+    "EID": "E-0926",
+    "title": "[PDF] Details of proposal–vision, aims and influence on open research",
+    "snippet_characters": 180,
+    "original_fields_sha256": "ec465fde622d78c664d9d99ba52f088066616f123aef15f74b5d28cb03f92299",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0926"
+  },
+  {
+    "EID": "E-0927",
+    "title": "[PDF] Integrated framework for enhancing sales enablement through advanced CRM and analytics solutions",
+    "snippet_characters": 176,
+    "original_fields_sha256": "290e623716120c9779bb5f82c6117bf8f832c79c8c4a43af62ab903e52e39132",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0927"
+  },
+  {
+    "EID": "E-0928",
+    "title": "[B] Adaptive Health Monitoring Using Aggregated Energy Readings from Smart Meters",
+    "snippet_characters": 199,
+    "original_fields_sha256": "cb174ee67e126f8d2337f42bc9c273f63551a9b4dc1d48149633140d8d752ecf",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0928"
+  },
+  {
+    "EID": "E-0929",
+    "title": "Artificial Intelligence Applied to Cybersecurity and Health Care",
+    "snippet_characters": 193,
+    "original_fields_sha256": "d150b859e585a9830d21e775682e8002f5ed56d61117deaae26be2ce5a2d0496",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0929"
+  },
+  {
+    "EID": "E-0930",
+    "title": "[PDF] A predictive analytics model for optimizing cash flow management in multi-location and global business enterprises",
+    "snippet_characters": 187,
+    "original_fields_sha256": "daa05a3cd3ce73abd3d2aae84e4fc410d5a0088af5565a2cae6ae8730f00e30b",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0930"
+  },
+  {
+    "EID": "E-0931",
+    "title": "Internet of things (IoT)",
+    "snippet_characters": 181,
+    "original_fields_sha256": "b020f43c07e00b2e945d12e3843b193d1f5ee7ac8225dcf072b09b9620fede73",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0931"
+  },
+  {
+    "EID": "E-0932",
+    "title": "Histories, futures and the changing business and technologies of journalism",
+    "snippet_characters": 179,
+    "original_fields_sha256": "4bf4ee4565e884ca4868f74bc423707ccc9b87212efd579dd54161d72e3e354e",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0932"
+  },
+  {
+    "EID": "E-0933",
+    "title": "[HTML] Status reports to the Papermaking Project Advisory Committee, March 8-9, 2000",
+    "snippet_characters": 184,
+    "original_fields_sha256": "38499d56bd1c0f794e455de88500c9d086e0a164aff07ed832d97b2aebc70ec6",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0933"
+  },
+  {
+    "EID": "E-0934",
+    "title": "Internet of things (IoT)",
+    "snippet_characters": 181,
+    "original_fields_sha256": "30e8ea318c25bac415db489ce3bae36d20b0d6e1008124058cfcc05377cd9a25",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0934"
+  },
+  {
+    "EID": "E-0935",
+    "title": "Histories, futures and the changing business and technologies of journalism",
+    "snippet_characters": 179,
+    "original_fields_sha256": "3b80d96982d6fa53bd1ab48e60e55a500adb58b152d045ef5d7f4378f196dd98",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0935"
+  },
+  {
+    "EID": "E-0936",
+    "title": "Controlled “Black Box”",
+    "snippet_characters": 191,
+    "original_fields_sha256": "a797966fb0e0ad0b290ae506e7b2afa87edad188c13355eeb9da5f7fd1f5e211",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0936"
+  },
+  {
+    "EID": "E-0937",
+    "title": "[HTML] Status reports to the Papermaking Project Advisory Committee, March 8-9, 2000",
+    "snippet_characters": 184,
+    "original_fields_sha256": "8bebee1c581881576f46d7c3c1736f76e618d3c4f50c9aeb3c49ebaaaed56afe",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0937"
+  },
+  {
+    "EID": "E-0938",
+    "title": "NIR spectroscopic method for the in-line moisture assessment during drying in a six-segmented fluid bed dryer of a continuous tablet production line: validation of …",
+    "snippet_characters": 182,
+    "original_fields_sha256": "36493233b2c2d667697837858342501889fd3b01a2c259f99c7cb88da592cf92",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0938"
+  },
+  {
+    "EID": "E-0939",
+    "title": "Application and evaluation of lighthouse technology for precision motion capture",
+    "snippet_characters": 188,
+    "original_fields_sha256": "4879438bed8ccf69f46cab16b93bd3e0fce9c2337c66c4d29baad58a0a3224fd",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0939"
+  },
+  {
+    "EID": "E-0940",
+    "title": "Functional reading acuity and performance: comparison of 2 accommodating intraocular lenses",
+    "snippet_characters": 194,
+    "original_fields_sha256": "e4d4503442e638955ccd9d82619c2a72b494389d7eeb2927cec1fb19585cb4ce",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0940"
+  },
+  {
+    "EID": "E-0941",
+    "title": "An evaluation of the Mars letter contrast sensitivity test",
+    "snippet_characters": 189,
+    "original_fields_sha256": "7fcbee08449006e2296da4366310a76ef88c4f0c33eb99b56437da4dda17c6a4",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0941"
+  },
+  {
+    "EID": "E-0942",
+    "title": "Lighthouse stylus: An accessible 6-dof input device for projection-based cad/cam interfaces",
+    "snippet_characters": 184,
+    "original_fields_sha256": "83fd7ba66b1e66fa0369fd9078423b00a57927b0b411bda4f0a7d06cc3a43d14",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0942"
+  },
+  {
+    "EID": "E-0943",
+    "title": "Response of the Eddystone Lighthouse to storm-wave impacts",
+    "snippet_characters": 185,
+    "original_fields_sha256": "07039baf8b90def09708d23c6233bd64f2b0d58133ecdd97260b3ddf48743df3",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0943"
+  },
+  {
+    "EID": "E-0944",
+    "title": "[HTML] Squat Kinematics Analysis Using Vicon and Affordable Motion-Capture Solutions",
+    "snippet_characters": 185,
+    "original_fields_sha256": "4f645c0780772e26aa3ba81d877e97ac39c24eb561c25bcfb1e26eeff7ad52ff",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0944"
+  },
+  {
+    "EID": "E-0945",
+    "title": "Performance of a computerised visual acuity measurement device in subjects with age-related macular degeneration: comparison with gold standard ETDRS chart …",
+    "snippet_characters": 185,
+    "original_fields_sha256": "b54c8d8a85c46672d2e15119b34870c7062663531b46fbec9d25e67735e94148",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0945"
+  },
+  {
+    "EID": "E-0946",
+    "title": "Validation of a computerised logMAR visual acuity measurement system (COMPlog): comparison with ETDRS and the electronic ETDRS testing algorithm in adults …",
+    "snippet_characters": 183,
+    "original_fields_sha256": "528b0fff949ea9b222cceb6c6973fab4cc6e450f35e5d00bc22e7e7d727f2ee1",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0946"
+  },
+  {
+    "EID": "E-0947",
+    "title": "HTC vive: Analysis and accuracy improvement",
+    "snippet_characters": 189,
+    "original_fields_sha256": "216735b75863f5079370121f9fbd2ea664b304114e16f4868e26398261faf3fc",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0947"
+  },
+  {
+    "EID": "E-0948",
+    "title": "Repeatability of the Universiti Teknologi MARA reading charts",
+    "snippet_characters": 187,
+    "original_fields_sha256": "d168a8fb50410ef651d2069927671e22f183d86408d2e022f2380a2fe0fb24a4",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0948"
+  },
+  {
+    "EID": "E-0949",
+    "title": "Comparison of visual acuity in macular degeneration patients measured with snellen and early treatment diabetic retinopathy study charts",
+    "snippet_characters": 183,
+    "original_fields_sha256": "8c43f8f635a5c58415850377576a2845e883eb2eb99349ffca1df85cc0e18e61",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0949"
+  },
+  {
+    "EID": "E-0950",
+    "title": "Comparison between the Instant Vision Assessment Device (IVAD) and the Focometer in determining refractive error",
+    "snippet_characters": 185,
+    "original_fields_sha256": "aaa29f0a91ee1979e626ab800414648f947900bcb7dee890bb71537f7799b09b",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0950"
+  },
+  {
+    "EID": "E-0951",
+    "title": "[HTML] Intersession repeatability of Humphrey perimetry measurements in patients with retinitis pigmentosa",
+    "snippet_characters": 193,
+    "original_fields_sha256": "f1c7422cc2dd805df018af6d04e75b82999878ae6abde95d27411d087736dee2",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0951"
+  },
+  {
+    "EID": "E-0952",
+    "title": "Comparison of manual and artificial intelligence-automated choroidal thickness segmentation of optical coherence tomography imaging in myopic adults",
+    "snippet_characters": 192,
+    "original_fields_sha256": "cbc6f0f767bbb609699b2c35bb60c477bb212d4a36d7bd6598a3ba839f057002",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0952"
+  },
+  {
+    "EID": "E-0953",
+    "title": "[PDF] Molt staging using pleopods in American lobster (Homarus americanus): quantifying repeatability of assessments and impact of freezing.",
+    "snippet_characters": 184,
+    "original_fields_sha256": "03852694a4e81b9630b64a77842c2502e6120ad3a06d70ecbab8bf476d94eb93",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0953"
+  },
+  {
+    "EID": "E-0954",
+    "title": "Documentation, structural health monitoring and numerical modelling for damage assessment of the Morris Island Lighthouse",
+    "snippet_characters": 186,
+    "original_fields_sha256": "38857d1ffede020e299cff555e274cb81afac80aafbb2ba0cee39dbdf5ec2622",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0954"
+  },
+  {
+    "EID": "E-0955",
+    "title": "Repeatability of visual function measures in age-related macular degeneration",
+    "snippet_characters": 190,
+    "original_fields_sha256": "cc9d95aa1a642053887a216133ab539d844f304dde62558b005ebaf273581c91",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0955"
+  },
+  {
+    "EID": "E-0956",
+    "title": "Lighthouse : Enabling landmark-based accurate and robust next generation indoor LBSs on a worldwide scale",
+    "snippet_characters": 187,
+    "original_fields_sha256": "807ffa1032715c39fa2df4f002667d251204cfe8764b992b0f5245e00d435775",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0956"
+  },
+  {
+    "EID": "E-0957",
+    "title": "Intrasession and Intersession Repeatability of Retinal Sensitivity Using a Modified Nidek MP-1 Microperimeter in Patients with Stargardt Disease",
+    "snippet_characters": 193,
+    "original_fields_sha256": "4d21287c71f18d73fab20fcd7c67e480a9e1b4002ba311b444e46eabe9bff6b6",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0957"
+  },
+  {
+    "EID": "E-0958",
+    "title": "Low-cost and open-source solutions for automated image orientation–A critical overview",
+    "snippet_characters": 196,
+    "original_fields_sha256": "35f45cb47a8a5998ae4752163df0107e86afa350bdc287a9a2cd2a01e65f4894",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0958"
+  },
+  {
+    "EID": "E-0959",
+    "title": "[HTML] The repeatability of best corrected acuity in normal and amblyopic children 4 to 12 years of age",
+    "snippet_characters": 179,
+    "original_fields_sha256": "1efa8d445963c6cea9935f8110e9788fea9f17c0b1ab694c6703b79c136ccc59",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0959"
+  },
+  {
+    "EID": "E-0960",
+    "title": "Reliability and consistency of visual acuity and contrast sensitivity measures in advanced eye disease",
+    "snippet_characters": 191,
+    "original_fields_sha256": "07830d80fa8c5a77f55eea568878696054b90a6259c5f8c4d019d951e9a665a0",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0960"
+  },
+  {
+    "EID": "E-0961",
+    "title": "[PDF] Response of the Eddystone Lighthouse to storm-wave impacts",
+    "snippet_characters": 177,
+    "original_fields_sha256": "7321663dffa98c38c126cce3a2e01374577bbfd4a0ded0829344b3d75f368a08",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0961"
+  },
+  {
+    "EID": "E-0962",
+    "title": "On the statistical reliability of letter-chart visual acuity measurements.",
+    "snippet_characters": 190,
+    "original_fields_sha256": "91cc1b2a06b456be9d80d2c5a8369301480b7694ccafd81916a2cf9768b915ef",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0962"
+  },
+  {
+    "EID": "E-0963",
+    "title": "Research on the Efficiency Improvement Model of Lighthouse Factory Operation Based on XGBoost Algorithm",
+    "snippet_characters": 191,
+    "original_fields_sha256": "27bf696e26d10ae0b92b93257450240926dba1d24f8739e6d2a5340eae25500f",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0963"
+  },
+  {
+    "EID": "E-0964",
+    "title": "[PDF] Accuracy and repeatability investigation of CSRS-PPP online processing service",
+    "snippet_characters": 188,
+    "original_fields_sha256": "328fa2c40255d0ef176e566d565852b23f182124046d410470fc669af51cccf8",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0964"
+  },
+  {
+    "EID": "E-0965",
+    "title": "Comparison of tropicamide and cyclopentolate for cycloplegic refractions in myopic adult refractive surgery patients",
+    "snippet_characters": 185,
+    "original_fields_sha256": "821a24e89a2871bebf0f29b5fc71e4496c393928a0953043b321f064cff8270c",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0965"
+  },
+  {
+    "EID": "E-0966",
+    "title": "Comparison of Scheimpflug imaging and spectral domain anterior segment optical coherence tomography for detection of narrow anterior chamber angles",
+    "snippet_characters": 182,
+    "original_fields_sha256": "e93662bf88d529c06684f1b3d900bbcd3e2d3e55c7bec63a13e8bd53f0db0a07",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0966"
+  },
+  {
+    "EID": "E-0967",
+    "title": "[PDF] Comparison of Web Frontend Technologies and Possible Optimization",
+    "snippet_characters": 179,
+    "original_fields_sha256": "095a76b417b411908af7f6fe6ec6210a65d239847882b9178ab0912ac493a096",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0967"
+  },
+  {
+    "EID": "E-0968",
+    "title": "[PDF] A field and laboratory study on the dynamic response of the Eddystone lighthouse to wave loading",
+    "snippet_characters": 188,
+    "original_fields_sha256": "c59cd1b19406e29f4beea48a547f0ced3a6e688a06c470089221739711d8e3ae",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0968"
+  },
+  {
+    "EID": "E-0969",
+    "title": "Objective accommodation measurements in prepresbyopic eyes using an autorefractor and an aberrometer",
+    "snippet_characters": 189,
+    "original_fields_sha256": "9654109a6c95fa92305799ff54fb11c1e39a49adcc6dc72d1910ff83f03979bc",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0969"
+  },
+  {
+    "EID": "E-0970",
+    "title": "Two-dimensional control of radiant intensity by use of nonimaging optics",
+    "snippet_characters": 179,
+    "original_fields_sha256": "b84cd245564cd61650ce7c5eff2f942774f88e1f85c81f856274ee14129e1079",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0970"
+  },
+  {
+    "EID": "E-0971",
+    "title": "[HTML] Progress in Organic Coatings Comparison of six ester components in nitrocellulose lacquer thinner from the aspects of dissolution rates, explosion …",
+    "snippet_characters": 196,
+    "original_fields_sha256": "2e2656642e01b2800c63c9ca6ce7cdfb9cae4abc78083aebf306b16fd101518d",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0971"
+  },
+  {
+    "EID": "E-0972",
+    "title": "Inter‐device comparison of retinal sensitivity measurements: the CenterVue MAIA and the Nidek MP‐1",
+    "snippet_characters": 184,
+    "original_fields_sha256": "a8219aba48ca862ff57ccf456258b28bf168c03a1a623a15d7a99c34ef4d7dbc",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0972"
+  },
+  {
+    "EID": "E-0973",
+    "title": "[HTML] Three-dimensional gait analysis using a virtual reality tracking system",
+    "snippet_characters": 189,
+    "original_fields_sha256": "0746ef33710fab5eb106cee6564836e123b54e81695e8ed2239ef247a5be8635",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0973"
+  },
+  {
+    "EID": "E-0974",
+    "title": "An inter- comparison exercise of Sentinel-2 radiometric validations assessed by independent expert groups",
+    "snippet_characters": 190,
+    "original_fields_sha256": "0529c8d97c7b25778b03562ed5d0a1ea1767e0c57be96220f698153e3518ee82",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0974"
+  },
+  {
+    "EID": "E-0975",
+    "title": "ROI-Based Substrate Cover Quantification from Underwater Photo Transects Using ImageJ: A Case Study at the Paiton Coal-Fired Power Plant, Indonesia",
+    "snippet_characters": 190,
+    "original_fields_sha256": "78ee063b131fa707636c9528b12529819142f8af1a6365df3a8e3491949914be",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0975"
+  },
+  {
+    "EID": "E-0976",
+    "title": "[HTML] An evaluation of motion trackers with virtual reality sensor technology in comparison to a marker-based motion capture system based on joint angles for …",
+    "snippet_characters": 187,
+    "original_fields_sha256": "fc3513e36b166e5272d5bad25b7993efdbc5d34e9ca52d1a9d0b0c72d5f20831",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0976"
+  },
+  {
+    "EID": "E-0977",
+    "title": "[HTML] The Freiburg Acuity Test in preschool children: testability, test–retest variability, and comparison with LEA Symbols",
+    "snippet_characters": 183,
+    "original_fields_sha256": "057954e2c90258dcb75bc7cc1d9e4d9481da0516ecc3db83ed9a248106fb1374",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0977"
+  },
+  {
+    "EID": "E-0978",
+    "title": "[HTML] Comparison of reading speed with 3 different log-scaled reading charts",
+    "snippet_characters": 178,
+    "original_fields_sha256": "6ced9b550863727512d66ae43bcc6af4add5ba99c648ccc09464af88c4905333",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0978"
+  },
+  {
+    "EID": "E-0979",
+    "title": "Towards a reference framework for tactile robot performance and safety benchmarking",
+    "snippet_characters": 190,
+    "original_fields_sha256": "7ded23a063f2bdbb646b373c56fab2ed11df7f4d320a2197b5b863330ab395a0",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0979"
+  },
+  {
+    "EID": "E-0980",
+    "title": "Comparison on testability of visual acuity, stereo acuity and colour vision tests between children with learning disabilities and children without learning disabilities in …",
+    "snippet_characters": 190,
+    "original_fields_sha256": "0fcfe2d5b51f3e33238f32b9eefe2a6431ac4a03a98b133cead192f886f07c3c",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0980"
+  },
+  {
+    "EID": "E-0981",
+    "title": "Clinical assessment of two new contrast sensitivity charts",
+    "snippet_characters": 193,
+    "original_fields_sha256": "1c469bef50507f4ad9b5b13577cc2bc67ba782a4934c410dac3c82de3a1d6ded",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0981"
+  },
+  {
+    "EID": "E-0982",
+    "title": "Discrete choice experiment with duration versus time trade-off: a comparison of test–retest reliability of health utility elicitation approaches in SF-6Dv2 valuation",
+    "snippet_characters": 193,
+    "original_fields_sha256": "d053ef8905d24e5c8e0cfc5d65df69ef20d71a995fc9a634dbdd473d56f400b9",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0982"
+  },
+  {
+    "EID": "E-0983",
+    "title": "Intersession test–retest variability of 10-2 MAIA microperimetry in fixation-threatening glaucoma",
+    "snippet_characters": 185,
+    "original_fields_sha256": "50298b782fed1f4874dc06474f7ad7e8cdeaae495965701e3726da63d9625503",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0983"
+  },
+  {
+    "EID": "E-0984",
+    "title": "Dynamic pose tracking performance evaluation of HTC Vive virtual reality system",
+    "snippet_characters": 191,
+    "original_fields_sha256": "959f492fc6b4d4ff2dcd58887dcd0dc82fd802f050f86d40e051f8686ee017e5",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0984"
+  },
+  {
+    "EID": "E-0985",
+    "title": "Artificial Intelligence in the Service of Digital Accessibility–Evaluating the Effectiveness of AI Models in Website Accessibility Auditing Compared to Traditional Methods",
+    "snippet_characters": 197,
+    "original_fields_sha256": "7e28e6b59b9004ecdf23f7fd22302a57fb4c9ecd5ecd394851e33e0eda265c44",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0985"
+  },
+  {
+    "EID": "E-0986",
+    "title": "Fixation stability: a comparison between the Nidek MP-1 and the Rodenstock scanning laser ophthalmoscope in persons with and without diabetic maculopathy",
+    "snippet_characters": 181,
+    "original_fields_sha256": "8ad2d1d18b0407d1c1f41e4c74ee47bc12fd0427fca21698f4160b32ec2f42e0",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0986"
+  },
+  {
+    "EID": "E-0987",
+    "title": "[HTML] Is there an adequate alternative to commercially manufactured face masks? A comparison of various materials and forms",
+    "snippet_characters": 181,
+    "original_fields_sha256": "7d633c02a420eb20e3d26ec43f51b87dc4c9a98299d4bfc10e6cc176dbee3b3a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0987"
+  },
+  {
+    "EID": "E-0988",
+    "title": "Development of a Carbon-Oriented Web Assessment Framework and Composite Sustainable Web Scores: A Türkiye University Case Study",
+    "snippet_characters": 185,
+    "original_fields_sha256": "5e3d3f71fa177d12ee3a4e20aed5779131c5b43ba061c7533637bd4a7bb029f8",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0988"
+  },
+  {
+    "EID": "E-0989",
+    "title": "[B] Cybermetric techniques to evaluate organizations using web-based data",
+    "snippet_characters": 191,
+    "original_fields_sha256": "30dbbe91379984437ca8ff1701568c392082cd70d0b903384ded186402862c51",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0989"
+  },
+  {
+    "EID": "E-0990",
+    "title": "Spatio-temporal web performance forecasting with Sequential Gaussian Simulation method",
+    "snippet_characters": 179,
+    "original_fields_sha256": "7c289ed711634d2139569a3a20e81000a177ebeb6b669315ddfd14fbdb41d800",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0990"
+  },
+  {
+    "EID": "E-0991",
+    "title": "[PDF] Spatial web performance forecasting with sequential gaussin simulation method",
+    "snippet_characters": 175,
+    "original_fields_sha256": "d2cd354aab30a0f39a79c51c690d076fc5e7aca7cb6fcb780848e14d9ea82693",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0991"
+  },
+  {
+    "EID": "E-0992",
+    "title": "Modeling web quality using a probabilistic approach: An empirical validation",
+    "snippet_characters": 188,
+    "original_fields_sha256": "07b80fb2800a2df24b95a0847392f4b1f1ea751bf95449fe5399467e2fcef2c9",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0992"
+  },
+  {
+    "EID": "E-0993",
+    "title": "Markovian workload characterization for QoS prediction in the cloud",
+    "snippet_characters": 196,
+    "original_fields_sha256": "204169cd444fe0b06d4cc0ca600b12107c72fc7a56b611695e17675084dac956",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0993"
+  },
+  {
+    "EID": "E-0994",
+    "title": "[HTML] Predicting website performance: A systematic review of metrics, methods, and research gaps (2010–2024)",
+    "snippet_characters": 195,
+    "original_fields_sha256": "c7f76ff6ba852a72e8c30c60cd5d2a9577c86874d0743822a470a20610f49016",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0994"
+  },
+  {
+    "EID": "E-0995",
+    "title": "Genetic based web cluster dynamic load balancing in fuzzy environment",
+    "snippet_characters": 195,
+    "original_fields_sha256": "a4cf3f8a2e99df09b93522ae6a4820827b5da341ca7895942daf8cb2d82f1ab5",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0995"
+  },
+  {
+    "EID": "E-0996",
+    "title": "Performance Analysis and Models of Web Traffic",
+    "snippet_characters": 200,
+    "original_fields_sha256": "3115a463b270ed2266f0a1cf88ff90075bee626f954c1c54a206174b55a6582a",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0996"
+  },
+  {
+    "EID": "E-0997",
+    "title": "[HTML] Symmetry-aware causal-inference-driven web performance modeling: A structure-aware framework for predictive analysis and actionable optimization",
+    "snippet_characters": 192,
+    "original_fields_sha256": "2bb00299c8c46678d7d67d35fe6bc5a15b03012009a800882467fb6059019650",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0997"
+  },
+  {
+    "EID": "E-0998",
+    "title": "Leveraging web browsing performance data for network monitoring: a data-driven approach",
+    "snippet_characters": 178,
+    "original_fields_sha256": "1ebbcad3749d1f9a7967f24517894bef2f1b84a016f8a069796ab500db02bb38",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0998"
+  },
+  {
+    "EID": "E-0999",
+    "title": "On the impact of internal webpage selection when evaluating ad blocker performance",
+    "snippet_characters": 185,
+    "original_fields_sha256": "ecf48168821f1a418ac72541b781edb8697552430f4348cef0a1e25c8425b076",
+    "status": "actually read complete supplied title/snippet/metadata in primary pass",
+    "authored_check": "authored_checks.tsv#E-0999"
+  }
+]

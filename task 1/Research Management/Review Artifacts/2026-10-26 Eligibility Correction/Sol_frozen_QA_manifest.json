@@ -1,0 +1,1746 @@
+{
+  "created_utc": "2026-10-26T05:26:25.756473+00:00",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "input_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "input_rows": 838,
+  "producer_hashes": {
+    "OA1/group-qc.json": "ceccf92e521f62447004557081b4654b316edf278113d1f4cb33ba7a870b3c2f",
+    "OA1/handoff.md": "e3842ee11ed3d1d6d2f5bb2608a0501c85602d97327dfbcb28e4c023fcef1859",
+    "OA1/manifest.json": "2a0f9cfeea58c282c6bd7a5d7b3039880e2f73dbc206a5fb9e3aee0d19bee6d2",
+    "OA1/overlay.csv": "7d3b3560ce33a54c1fc7e0932750ca1e4548552b83aeedbf9a2093bf5fb73892",
+    "OA1/qc.json": "1a764e9e6517e1631b38e5d49a3d0f9eb820a3cccb2017f045e9dacf2bbec931",
+    "OA2/frozen_EID_manifest.csv": "0d8e1ac8a8ced9f0d9a3072fbd240dc2f716c3c8b790891bbb8447a40f24c692",
+    "OA2/handoff.md": "57f614972bbb9d11c3ea204942a0f97eb61bd55aa9a51ad3c929c343c3700f59",
+    "OA2/overlay.csv": "c304e83b412a560fa30de22271584c4bb54742ab735c6fc27355500179c4282a",
+    "OA2/qc.json": "19382a26cf99d092a4d89cd819d4c016fda8e7fa22ff7d9d7fda25f3a1dd812e",
+    "OA2/qc_exclusions.json": "f4b7ca4dcd81ff4c068a76b67bcaf456a96f04674599d1f017f6ff4f141f7f12",
+    "Scholar/handoff.md": "ea7a32a47383a244cfbde1ae50007f4c14b279ee1b6d8c1a84d9e6e4c2a44b9a",
+    "Scholar/manifest.json": "f7069108fcee6359fe6ab7e7831b5a5369fd0c70378d8ac3c42c204d59cbef20",
+    "Scholar/overlay.csv": "dcca171457b64157570843a4dd9ef9f346f9e6ea022fe00b994ffb75074175b5",
+    "Scholar/qc_counts.json": "182a3c3c77461517765dc976dce53cf23926cf484dabf9092b9cdce60272ea26"
+  },
+  "target_count": 173,
+  "targets": [
+    {
+      "EID": "E-0200",
+      "platform_ID": "https://openalex.org/W2898796029",
+      "source_url": "https://openalex.org/W2898796029",
+      "producer": "OA1",
+      "producer_event": "E-1100"
+    },
+    {
+      "EID": "E-0201",
+      "platform_ID": "https://openalex.org/W4366549916",
+      "source_url": "https://openalex.org/W4366549916",
+      "producer": "OA1",
+      "producer_event": "E-1101"
+    },
+    {
+      "EID": "E-0202",
+      "platform_ID": "https://openalex.org/W4391290503",
+      "source_url": "https://openalex.org/W4391290503",
+      "producer": "OA1",
+      "producer_event": "E-1102"
+    },
+    {
+      "EID": "E-0205",
+      "platform_ID": "https://openalex.org/W1523783981",
+      "source_url": "https://openalex.org/W1523783981",
+      "producer": "OA1",
+      "producer_event": "E-1105"
+    },
+    {
+      "EID": "E-0206",
+      "platform_ID": "https://openalex.org/W217313739",
+      "source_url": "https://openalex.org/W217313739",
+      "producer": "OA1",
+      "producer_event": "E-1106"
+    },
+    {
+      "EID": "E-0207",
+      "platform_ID": "https://openalex.org/W123069810",
+      "source_url": "https://openalex.org/W123069810",
+      "producer": "OA1",
+      "producer_event": "E-1107"
+    },
+    {
+      "EID": "E-0208",
+      "platform_ID": "https://openalex.org/W2803865615",
+      "source_url": "https://openalex.org/W2803865615",
+      "producer": "OA1",
+      "producer_event": "E-1108"
+    },
+    {
+      "EID": "E-0209",
+      "platform_ID": "https://openalex.org/W2592542762",
+      "source_url": "https://openalex.org/W2592542762",
+      "producer": "OA1",
+      "producer_event": "E-1109"
+    },
+    {
+      "EID": "E-0210",
+      "platform_ID": "https://openalex.org/W3170186186",
+      "source_url": "https://openalex.org/W3170186186",
+      "producer": "OA1",
+      "producer_event": "E-1110"
+    },
+    {
+      "EID": "E-0211",
+      "platform_ID": "https://openalex.org/W2606342375",
+      "source_url": "https://openalex.org/W2606342375",
+      "producer": "OA1",
+      "producer_event": "E-1111"
+    },
+    {
+      "EID": "E-0212",
+      "platform_ID": "https://openalex.org/W2062913298",
+      "source_url": "https://openalex.org/W2062913298",
+      "producer": "OA1",
+      "producer_event": "E-1112"
+    },
+    {
+      "EID": "E-0213",
+      "platform_ID": "https://openalex.org/W3049122368",
+      "source_url": "https://openalex.org/W3049122368",
+      "producer": "OA1",
+      "producer_event": "E-1113"
+    },
+    {
+      "EID": "E-0214",
+      "platform_ID": "https://openalex.org/W2903282143",
+      "source_url": "https://openalex.org/W2903282143",
+      "producer": "OA1",
+      "producer_event": "E-1114"
+    },
+    {
+      "EID": "E-0215",
+      "platform_ID": "https://openalex.org/W2498282322",
+      "source_url": "https://openalex.org/W2498282322",
+      "producer": "OA1",
+      "producer_event": "E-1115"
+    },
+    {
+      "EID": "E-0216",
+      "platform_ID": "https://openalex.org/W1600272871",
+      "source_url": "https://openalex.org/W1600272871",
+      "producer": "OA1",
+      "producer_event": "E-1116"
+    },
+    {
+      "EID": "E-0217",
+      "platform_ID": "https://openalex.org/W2534337457",
+      "source_url": "https://openalex.org/W2534337457",
+      "producer": "OA1",
+      "producer_event": "E-1117"
+    },
+    {
+      "EID": "E-0219",
+      "platform_ID": "https://openalex.org/W4391928105",
+      "source_url": "https://openalex.org/W4391928105",
+      "producer": "OA1",
+      "producer_event": "E-1119"
+    },
+    {
+      "EID": "E-0221",
+      "platform_ID": "https://openalex.org/W2944326956",
+      "source_url": "https://openalex.org/W2944326956",
+      "producer": "OA1",
+      "producer_event": "E-1121"
+    },
+    {
+      "EID": "E-0222",
+      "platform_ID": "https://openalex.org/W4406139823",
+      "source_url": "https://openalex.org/W4406139823",
+      "producer": "OA1",
+      "producer_event": "E-1122"
+    },
+    {
+      "EID": "E-0223",
+      "platform_ID": "https://openalex.org/W1662133657",
+      "source_url": "https://openalex.org/W1662133657",
+      "producer": "OA1",
+      "producer_event": "E-1123"
+    },
+    {
+      "EID": "E-0224",
+      "platform_ID": "https://openalex.org/W2612091601",
+      "source_url": "https://openalex.org/W2612091601",
+      "producer": "OA1",
+      "producer_event": "E-1124"
+    },
+    {
+      "EID": "E-0225",
+      "platform_ID": "https://openalex.org/W3044517463",
+      "source_url": "https://openalex.org/W3044517463",
+      "producer": "OA1",
+      "producer_event": "E-1125"
+    },
+    {
+      "EID": "E-0226",
+      "platform_ID": "https://openalex.org/W7217526348",
+      "source_url": "https://openalex.org/W7217526348",
+      "producer": "OA1",
+      "producer_event": "E-1126"
+    },
+    {
+      "EID": "E-0227",
+      "platform_ID": "https://openalex.org/W2046844528",
+      "source_url": "https://openalex.org/W2046844528",
+      "producer": "OA1",
+      "producer_event": "E-1127"
+    },
+    {
+      "EID": "E-0228",
+      "platform_ID": "https://openalex.org/W2911895462",
+      "source_url": "https://openalex.org/W2911895462",
+      "producer": "OA1",
+      "producer_event": "E-1128"
+    },
+    {
+      "EID": "E-0229",
+      "platform_ID": "https://openalex.org/W2527896214",
+      "source_url": "https://openalex.org/W2527896214",
+      "producer": "OA1",
+      "producer_event": "E-1129"
+    },
+    {
+      "EID": "E-0230",
+      "platform_ID": "https://openalex.org/W2803200182",
+      "source_url": "https://openalex.org/W2803200182",
+      "producer": "OA1",
+      "producer_event": "E-1130"
+    },
+    {
+      "EID": "E-0231",
+      "platform_ID": "https://openalex.org/W2149557440",
+      "source_url": "https://openalex.org/W2149557440",
+      "producer": "OA1",
+      "producer_event": "E-1131"
+    },
+    {
+      "EID": "E-0232",
+      "platform_ID": "https://openalex.org/W3171589458",
+      "source_url": "https://openalex.org/W3171589458",
+      "producer": "OA1",
+      "producer_event": "E-1132"
+    },
+    {
+      "EID": "E-0233",
+      "platform_ID": "https://openalex.org/W4304080058",
+      "source_url": "https://openalex.org/W4304080058",
+      "producer": "OA1",
+      "producer_event": "E-1133"
+    },
+    {
+      "EID": "E-0234",
+      "platform_ID": "https://openalex.org/W2138477762",
+      "source_url": "https://openalex.org/W2138477762",
+      "producer": "OA1",
+      "producer_event": "E-1134"
+    },
+    {
+      "EID": "E-0235",
+      "platform_ID": "https://openalex.org/W2395379085",
+      "source_url": "https://openalex.org/W2395379085",
+      "producer": "OA1",
+      "producer_event": "E-1135"
+    },
+    {
+      "EID": "E-0236",
+      "platform_ID": "https://openalex.org/W2076766778",
+      "source_url": "https://openalex.org/W2076766778",
+      "producer": "OA1",
+      "producer_event": "E-1136"
+    },
+    {
+      "EID": "E-0237",
+      "platform_ID": "https://openalex.org/W2052300994",
+      "source_url": "https://openalex.org/W2052300994",
+      "producer": "OA1",
+      "producer_event": "E-1137"
+    },
+    {
+      "EID": "E-0238",
+      "platform_ID": "https://openalex.org/W2313508106",
+      "source_url": "https://openalex.org/W2313508106",
+      "producer": "OA1",
+      "producer_event": "E-1138"
+    },
+    {
+      "EID": "E-0239",
+      "platform_ID": "https://openalex.org/W2538145160",
+      "source_url": "https://openalex.org/W2538145160",
+      "producer": "OA1",
+      "producer_event": "E-1139"
+    },
+    {
+      "EID": "E-0242",
+      "platform_ID": "https://openalex.org/W1546160919",
+      "source_url": "https://openalex.org/W1546160919",
+      "producer": "OA1",
+      "producer_event": "E-1142"
+    },
+    {
+      "EID": "E-0243",
+      "platform_ID": "https://openalex.org/W4313455370",
+      "source_url": "https://openalex.org/W4313455370",
+      "producer": "OA1",
+      "producer_event": "E-1143"
+    },
+    {
+      "EID": "E-0244",
+      "platform_ID": "https://openalex.org/W1969634671",
+      "source_url": "https://openalex.org/W1969634671",
+      "producer": "OA1",
+      "producer_event": "E-1144"
+    },
+    {
+      "EID": "E-0245",
+      "platform_ID": "https://openalex.org/W2233823309",
+      "source_url": "https://openalex.org/W2233823309",
+      "producer": "OA1",
+      "producer_event": "E-1145"
+    },
+    {
+      "EID": "E-0246",
+      "platform_ID": "https://openalex.org/W2507821185",
+      "source_url": "https://openalex.org/W2507821185",
+      "producer": "OA1",
+      "producer_event": "E-1146"
+    },
+    {
+      "EID": "E-0247",
+      "platform_ID": "https://openalex.org/W3169050797",
+      "source_url": "https://openalex.org/W3169050797",
+      "producer": "OA1",
+      "producer_event": "E-1147"
+    },
+    {
+      "EID": "E-0248",
+      "platform_ID": "https://openalex.org/W2260026176",
+      "source_url": "https://openalex.org/W2260026176",
+      "producer": "OA1",
+      "producer_event": "E-1148"
+    },
+    {
+      "EID": "E-0249",
+      "platform_ID": "https://openalex.org/W4386075729",
+      "source_url": "https://openalex.org/W4386075729",
+      "producer": "OA1",
+      "producer_event": "E-1149"
+    },
+    {
+      "EID": "E-0250",
+      "platform_ID": "https://openalex.org/W4239199746",
+      "source_url": "https://openalex.org/W4239199746",
+      "producer": "OA1",
+      "producer_event": "E-1150"
+    },
+    {
+      "EID": "E-0253",
+      "platform_ID": "https://openalex.org/W2021415832",
+      "source_url": "https://openalex.org/W2021415832",
+      "producer": "OA1",
+      "producer_event": "E-1153"
+    },
+    {
+      "EID": "E-0257",
+      "platform_ID": "https://openalex.org/W3118592480",
+      "source_url": "https://openalex.org/W3118592480",
+      "producer": "OA1",
+      "producer_event": "E-1157"
+    },
+    {
+      "EID": "E-0258",
+      "platform_ID": "https://openalex.org/W1553695897",
+      "source_url": "https://openalex.org/W1553695897",
+      "producer": "OA1",
+      "producer_event": "E-1158"
+    },
+    {
+      "EID": "E-0259",
+      "platform_ID": "https://openalex.org/W645664730",
+      "source_url": "https://openalex.org/W645664730",
+      "producer": "OA1",
+      "producer_event": "E-1159"
+    },
+    {
+      "EID": "E-0263",
+      "platform_ID": "https://openalex.org/W4281478490",
+      "source_url": "https://openalex.org/W4281478490",
+      "producer": "OA1",
+      "producer_event": "E-1163"
+    },
+    {
+      "EID": "E-0270",
+      "platform_ID": "https://openalex.org/W7199296126",
+      "source_url": "https://openalex.org/W7199296126",
+      "producer": "OA1",
+      "producer_event": "E-1170"
+    },
+    {
+      "EID": "E-0275",
+      "platform_ID": "https://openalex.org/W2497316715",
+      "source_url": "https://openalex.org/W2497316715",
+      "producer": "OA1",
+      "producer_event": "E-1175"
+    },
+    {
+      "EID": "E-0277",
+      "platform_ID": "https://openalex.org/W4392497378",
+      "source_url": "https://openalex.org/W4392497378",
+      "producer": "OA1",
+      "producer_event": "E-1177"
+    },
+    {
+      "EID": "E-0279",
+      "platform_ID": "https://openalex.org/W2119588373",
+      "source_url": "https://openalex.org/W2119588373",
+      "producer": "OA1",
+      "producer_event": "E-1179"
+    },
+    {
+      "EID": "E-0280",
+      "platform_ID": "https://openalex.org/W916837809",
+      "source_url": "https://openalex.org/W916837809",
+      "producer": "OA1",
+      "producer_event": "E-1180"
+    },
+    {
+      "EID": "E-0282",
+      "platform_ID": "https://openalex.org/W4387674220",
+      "source_url": "https://openalex.org/W4387674220",
+      "producer": "OA1",
+      "producer_event": "E-1182"
+    },
+    {
+      "EID": "E-0283",
+      "platform_ID": "https://openalex.org/W4415276507",
+      "source_url": "https://openalex.org/W4415276507",
+      "producer": "OA1",
+      "producer_event": "E-1183"
+    },
+    {
+      "EID": "E-0286",
+      "platform_ID": "https://openalex.org/W4415031722",
+      "source_url": "https://openalex.org/W4415031722",
+      "producer": "OA1",
+      "producer_event": "E-1186"
+    },
+    {
+      "EID": "E-0289",
+      "platform_ID": "https://openalex.org/W4308643070",
+      "source_url": "https://openalex.org/W4308643070",
+      "producer": "OA1",
+      "producer_event": "E-1189"
+    },
+    {
+      "EID": "E-0292",
+      "platform_ID": "https://openalex.org/W3159980834",
+      "source_url": "https://openalex.org/W3159980834",
+      "producer": "OA1",
+      "producer_event": "E-1192"
+    },
+    {
+      "EID": "E-0294",
+      "platform_ID": "https://openalex.org/W1536000481",
+      "source_url": "https://openalex.org/W1536000481",
+      "producer": "OA1",
+      "producer_event": "E-1194"
+    },
+    {
+      "EID": "E-0295",
+      "platform_ID": "https://openalex.org/W4205529937",
+      "source_url": "https://openalex.org/W4205529937",
+      "producer": "OA1",
+      "producer_event": "E-1195"
+    },
+    {
+      "EID": "E-0298",
+      "platform_ID": "https://openalex.org/W7165914681",
+      "source_url": "https://openalex.org/W7165914681",
+      "producer": "OA1",
+      "producer_event": "E-1198"
+    },
+    {
+      "EID": "E-0304",
+      "platform_ID": "https://openalex.org/W7212156239",
+      "source_url": "https://openalex.org/W7212156239",
+      "producer": "OA1",
+      "producer_event": "E-1204"
+    },
+    {
+      "EID": "E-0305",
+      "platform_ID": "https://openalex.org/W4391638627",
+      "source_url": "https://openalex.org/W4391638627",
+      "producer": "OA1",
+      "producer_event": "E-1205"
+    },
+    {
+      "EID": "E-0306",
+      "platform_ID": "https://openalex.org/W4416157195",
+      "source_url": "https://openalex.org/W4416157195",
+      "producer": "OA1",
+      "producer_event": "E-1206"
+    },
+    {
+      "EID": "E-0307",
+      "platform_ID": "https://openalex.org/W7162664993",
+      "source_url": "https://openalex.org/W7162664993",
+      "producer": "OA1",
+      "producer_event": "E-1207"
+    },
+    {
+      "EID": "E-0308",
+      "platform_ID": "https://openalex.org/W4411359576",
+      "source_url": "https://openalex.org/W4411359576",
+      "producer": "OA1",
+      "producer_event": "E-1208"
+    },
+    {
+      "EID": "E-0312",
+      "platform_ID": "https://openalex.org/W4225820450",
+      "source_url": "https://openalex.org/W4225820450",
+      "producer": "OA1",
+      "producer_event": "E-1212"
+    },
+    {
+      "EID": "E-0315",
+      "platform_ID": "https://openalex.org/W2273867387",
+      "source_url": "https://openalex.org/W2273867387",
+      "producer": "OA1",
+      "producer_event": "E-1215"
+    },
+    {
+      "EID": "E-0317",
+      "platform_ID": "https://openalex.org/W2620847194",
+      "source_url": "https://openalex.org/W2620847194",
+      "producer": "OA1",
+      "producer_event": "E-1217"
+    },
+    {
+      "EID": "E-0318",
+      "platform_ID": "https://openalex.org/W1228700129",
+      "source_url": "https://openalex.org/W1228700129",
+      "producer": "OA1",
+      "producer_event": "E-1218"
+    },
+    {
+      "EID": "E-0319",
+      "platform_ID": "https://openalex.org/W4410888267",
+      "source_url": "https://openalex.org/W4410888267",
+      "producer": "OA1",
+      "producer_event": "E-1219"
+    },
+    {
+      "EID": "E-0320",
+      "platform_ID": "https://openalex.org/W2765370702",
+      "source_url": "https://openalex.org/W2765370702",
+      "producer": "OA1",
+      "producer_event": "E-1220"
+    },
+    {
+      "EID": "E-0321",
+      "platform_ID": "https://openalex.org/W3198532185",
+      "source_url": "https://openalex.org/W3198532185",
+      "producer": "OA1",
+      "producer_event": "E-1221"
+    },
+    {
+      "EID": "E-0323",
+      "platform_ID": "https://openalex.org/W4403523317",
+      "source_url": "https://openalex.org/W4403523317",
+      "producer": "OA1",
+      "producer_event": "E-1223"
+    },
+    {
+      "EID": "E-0324",
+      "platform_ID": "https://openalex.org/W2139984758",
+      "source_url": "https://openalex.org/W2139984758",
+      "producer": "OA1",
+      "producer_event": "E-1224"
+    },
+    {
+      "EID": "E-0325",
+      "platform_ID": "https://openalex.org/W7204480411",
+      "source_url": "https://openalex.org/W7204480411",
+      "producer": "OA1",
+      "producer_event": "E-1225"
+    },
+    {
+      "EID": "E-0326",
+      "platform_ID": "https://openalex.org/W2804130130",
+      "source_url": "https://openalex.org/W2804130130",
+      "producer": "OA1",
+      "producer_event": "E-1226"
+    },
+    {
+      "EID": "E-0327",
+      "platform_ID": "https://openalex.org/W2010551744",
+      "source_url": "https://openalex.org/W2010551744",
+      "producer": "OA1",
+      "producer_event": "E-1227"
+    },
+    {
+      "EID": "E-0330",
+      "platform_ID": "https://openalex.org/W4321175801",
+      "source_url": "https://openalex.org/W4321175801",
+      "producer": "OA1",
+      "producer_event": "E-1230"
+    },
+    {
+      "EID": "E-0335",
+      "platform_ID": "https://openalex.org/W7223099805",
+      "source_url": "https://openalex.org/W7223099805",
+      "producer": "OA1",
+      "producer_event": "E-1235"
+    },
+    {
+      "EID": "E-0336",
+      "platform_ID": "https://openalex.org/W4210465401",
+      "source_url": "https://openalex.org/W4210465401",
+      "producer": "OA1",
+      "producer_event": "E-1236"
+    },
+    {
+      "EID": "E-0337",
+      "platform_ID": "https://openalex.org/W1849672500",
+      "source_url": "https://openalex.org/W1849672500",
+      "producer": "OA1",
+      "producer_event": "E-1237"
+    },
+    {
+      "EID": "E-0338",
+      "platform_ID": "https://openalex.org/W2734032589",
+      "source_url": "https://openalex.org/W2734032589",
+      "producer": "OA1",
+      "producer_event": "E-1238"
+    },
+    {
+      "EID": "E-0339",
+      "platform_ID": "https://openalex.org/W2547229409",
+      "source_url": "https://openalex.org/W2547229409",
+      "producer": "OA1",
+      "producer_event": "E-1239"
+    },
+    {
+      "EID": "E-0340",
+      "platform_ID": "https://openalex.org/W2750778915",
+      "source_url": "https://openalex.org/W2750778915",
+      "producer": "OA1",
+      "producer_event": "E-1240"
+    },
+    {
+      "EID": "E-0341",
+      "platform_ID": "https://openalex.org/W2108192693",
+      "source_url": "https://openalex.org/W2108192693",
+      "producer": "OA1",
+      "producer_event": "E-1241"
+    },
+    {
+      "EID": "E-0342",
+      "platform_ID": "https://openalex.org/W7133330813",
+      "source_url": "https://openalex.org/W7133330813",
+      "producer": "OA1",
+      "producer_event": "E-1242"
+    },
+    {
+      "EID": "E-0344",
+      "platform_ID": "https://openalex.org/W2086842989",
+      "source_url": "https://openalex.org/W2086842989",
+      "producer": "OA1",
+      "producer_event": "E-1244"
+    },
+    {
+      "EID": "E-0346",
+      "platform_ID": "https://openalex.org/W2907337795",
+      "source_url": "https://openalex.org/W2907337795",
+      "producer": "OA1",
+      "producer_event": "E-1246"
+    },
+    {
+      "EID": "E-0350",
+      "platform_ID": "https://openalex.org/W4408407015",
+      "source_url": "https://openalex.org/W4408407015",
+      "producer": "OA2",
+      "producer_event": "E-1250"
+    },
+    {
+      "EID": "E-0351",
+      "platform_ID": "https://openalex.org/W4415797714",
+      "source_url": "https://openalex.org/W4415797714",
+      "producer": "OA2",
+      "producer_event": "E-1251"
+    },
+    {
+      "EID": "E-0352",
+      "platform_ID": "https://openalex.org/W4296820701",
+      "source_url": "https://openalex.org/W4296820701",
+      "producer": "OA2",
+      "producer_event": "E-1252"
+    },
+    {
+      "EID": "E-0353",
+      "platform_ID": "https://openalex.org/W3199479085",
+      "source_url": "https://openalex.org/W3199479085",
+      "producer": "OA2",
+      "producer_event": "E-1253"
+    },
+    {
+      "EID": "E-0354",
+      "platform_ID": "https://openalex.org/W4381587374",
+      "source_url": "https://openalex.org/W4381587374",
+      "producer": "OA2",
+      "producer_event": "E-1254"
+    },
+    {
+      "EID": "E-0355",
+      "platform_ID": "https://openalex.org/W2048382000",
+      "source_url": "https://openalex.org/W2048382000",
+      "producer": "OA2",
+      "producer_event": "E-1255"
+    },
+    {
+      "EID": "E-0356",
+      "platform_ID": "https://openalex.org/W2981104727",
+      "source_url": "https://openalex.org/W2981104727",
+      "producer": "OA2",
+      "producer_event": "E-1256"
+    },
+    {
+      "EID": "E-0358",
+      "platform_ID": "https://openalex.org/W1806263934",
+      "source_url": "https://openalex.org/W1806263934",
+      "producer": "OA2",
+      "producer_event": "E-1258"
+    },
+    {
+      "EID": "E-0360",
+      "platform_ID": "https://openalex.org/W2791336151",
+      "source_url": "https://openalex.org/W2791336151",
+      "producer": "OA2",
+      "producer_event": "E-1260"
+    },
+    {
+      "EID": "E-0362",
+      "platform_ID": "https://openalex.org/W7214110914",
+      "source_url": "https://openalex.org/W7214110914",
+      "producer": "OA2",
+      "producer_event": "E-1262"
+    },
+    {
+      "EID": "E-0363",
+      "platform_ID": "https://openalex.org/W7140230007",
+      "source_url": "https://openalex.org/W7140230007",
+      "producer": "OA2",
+      "producer_event": "E-1263"
+    },
+    {
+      "EID": "E-0364",
+      "platform_ID": "https://openalex.org/W7214032747",
+      "source_url": "https://openalex.org/W7214032747",
+      "producer": "OA2",
+      "producer_event": "E-1264"
+    },
+    {
+      "EID": "E-0365",
+      "platform_ID": "https://openalex.org/W2064140723",
+      "source_url": "https://openalex.org/W2064140723",
+      "producer": "OA2",
+      "producer_event": "E-1265"
+    },
+    {
+      "EID": "E-0366",
+      "platform_ID": "https://openalex.org/W2963725376",
+      "source_url": "https://openalex.org/W2963725376",
+      "producer": "OA2",
+      "producer_event": "E-1266"
+    },
+    {
+      "EID": "E-0368",
+      "platform_ID": "https://openalex.org/W2092137585",
+      "source_url": "https://openalex.org/W2092137585",
+      "producer": "OA2",
+      "producer_event": "E-1268"
+    },
+    {
+      "EID": "E-0369",
+      "platform_ID": "https://openalex.org/W4403854152",
+      "source_url": "https://openalex.org/W4403854152",
+      "producer": "OA2",
+      "producer_event": "E-1269"
+    },
+    {
+      "EID": "E-0370",
+      "platform_ID": "https://openalex.org/W2151388232",
+      "source_url": "https://openalex.org/W2151388232",
+      "producer": "OA2",
+      "producer_event": "E-1270"
+    },
+    {
+      "EID": "E-0371",
+      "platform_ID": "https://openalex.org/W1487200369",
+      "source_url": "https://openalex.org/W1487200369",
+      "producer": "OA2",
+      "producer_event": "E-1271"
+    },
+    {
+      "EID": "E-0372",
+      "platform_ID": "https://openalex.org/W4238380459",
+      "source_url": "https://openalex.org/W4238380459",
+      "producer": "OA2",
+      "producer_event": "E-1272"
+    },
+    {
+      "EID": "E-0375",
+      "platform_ID": "https://openalex.org/W2884426444",
+      "source_url": "https://openalex.org/W2884426444",
+      "producer": "OA2",
+      "producer_event": "E-1275"
+    },
+    {
+      "EID": "E-0376",
+      "platform_ID": "https://openalex.org/W2049118965",
+      "source_url": "https://openalex.org/W2049118965",
+      "producer": "OA2",
+      "producer_event": "E-1276"
+    },
+    {
+      "EID": "E-0378",
+      "platform_ID": "https://openalex.org/W7221821716",
+      "source_url": "https://openalex.org/W7221821716",
+      "producer": "OA2",
+      "producer_event": "E-1278"
+    },
+    {
+      "EID": "E-0379",
+      "platform_ID": "https://openalex.org/W4225598893",
+      "source_url": "https://openalex.org/W4225598893",
+      "producer": "OA2",
+      "producer_event": "E-1279"
+    },
+    {
+      "EID": "E-0381",
+      "platform_ID": "https://openalex.org/W2403877730",
+      "source_url": "https://openalex.org/W2403877730",
+      "producer": "OA2",
+      "producer_event": "E-1281"
+    },
+    {
+      "EID": "E-0382",
+      "platform_ID": "https://openalex.org/W4403702494",
+      "source_url": "https://openalex.org/W4403702494",
+      "producer": "OA2",
+      "producer_event": "E-1282"
+    },
+    {
+      "EID": "E-0383",
+      "platform_ID": "https://openalex.org/W2955949092",
+      "source_url": "https://openalex.org/W2955949092",
+      "producer": "OA2",
+      "producer_event": "E-1283"
+    },
+    {
+      "EID": "E-0385",
+      "platform_ID": "https://openalex.org/W7167066446",
+      "source_url": "https://openalex.org/W7167066446",
+      "producer": "OA2",
+      "producer_event": "E-1285"
+    },
+    {
+      "EID": "E-0386",
+      "platform_ID": "https://openalex.org/W104095413",
+      "source_url": "https://openalex.org/W104095413",
+      "producer": "OA2",
+      "producer_event": "E-1286"
+    },
+    {
+      "EID": "E-0387",
+      "platform_ID": "https://openalex.org/W4226208156",
+      "source_url": "https://openalex.org/W4226208156",
+      "producer": "OA2",
+      "producer_event": "E-1287"
+    },
+    {
+      "EID": "E-0390",
+      "platform_ID": "https://openalex.org/W3148721332",
+      "source_url": "https://openalex.org/W3148721332",
+      "producer": "OA2",
+      "producer_event": "E-1290"
+    },
+    {
+      "EID": "E-0393",
+      "platform_ID": "https://openalex.org/W2105891259",
+      "source_url": "https://openalex.org/W2105891259",
+      "producer": "OA2",
+      "producer_event": "E-1293"
+    },
+    {
+      "EID": "E-0394",
+      "platform_ID": "https://openalex.org/W2032770950",
+      "source_url": "https://openalex.org/W2032770950",
+      "producer": "OA2",
+      "producer_event": "E-1294"
+    },
+    {
+      "EID": "E-0399",
+      "platform_ID": "https://openalex.org/W1830991328",
+      "source_url": "https://openalex.org/W1830991328",
+      "producer": "OA2",
+      "producer_event": "E-1299"
+    },
+    {
+      "EID": "E-0419",
+      "platform_ID": "https://openalex.org/W2550570544",
+      "source_url": "https://openalex.org/W2550570544",
+      "producer": "OA2",
+      "producer_event": "E-1319"
+    },
+    {
+      "EID": "E-0425",
+      "platform_ID": "https://openalex.org/W2067610613",
+      "source_url": "https://openalex.org/W2067610613",
+      "producer": "OA2",
+      "producer_event": "E-1325"
+    },
+    {
+      "EID": "E-0426",
+      "platform_ID": "https://openalex.org/W2151808499",
+      "source_url": "https://openalex.org/W2151808499",
+      "producer": "OA2",
+      "producer_event": "E-1326"
+    },
+    {
+      "EID": "E-0428",
+      "platform_ID": "https://openalex.org/W251081942",
+      "source_url": "https://openalex.org/W251081942",
+      "producer": "OA2",
+      "producer_event": "E-1328"
+    },
+    {
+      "EID": "E-0436",
+      "platform_ID": "https://openalex.org/W2060938911",
+      "source_url": "https://openalex.org/W2060938911",
+      "producer": "OA2",
+      "producer_event": "E-1336"
+    },
+    {
+      "EID": "E-0437",
+      "platform_ID": "https://openalex.org/W4225106913",
+      "source_url": "https://openalex.org/W4225106913",
+      "producer": "OA2",
+      "producer_event": "E-1337"
+    },
+    {
+      "EID": "E-0438",
+      "platform_ID": "https://openalex.org/W2074087393",
+      "source_url": "https://openalex.org/W2074087393",
+      "producer": "OA2",
+      "producer_event": "E-1338"
+    },
+    {
+      "EID": "E-0439",
+      "platform_ID": "https://openalex.org/W2132088506",
+      "source_url": "https://openalex.org/W2132088506",
+      "producer": "OA2",
+      "producer_event": "E-1339"
+    },
+    {
+      "EID": "E-0440",
+      "platform_ID": "https://openalex.org/W2147847490",
+      "source_url": "https://openalex.org/W2147847490",
+      "producer": "OA2",
+      "producer_event": "E-1340"
+    },
+    {
+      "EID": "E-0441",
+      "platform_ID": "https://openalex.org/W1980182854",
+      "source_url": "https://openalex.org/W1980182854",
+      "producer": "OA2",
+      "producer_event": "E-1341"
+    },
+    {
+      "EID": "E-0442",
+      "platform_ID": "https://openalex.org/W4395049001",
+      "source_url": "https://openalex.org/W4395049001",
+      "producer": "OA2",
+      "producer_event": "E-1342"
+    },
+    {
+      "EID": "E-0443",
+      "platform_ID": "https://openalex.org/W2516333753",
+      "source_url": "https://openalex.org/W2516333753",
+      "producer": "OA2",
+      "producer_event": "E-1343"
+    },
+    {
+      "EID": "E-0444",
+      "platform_ID": "https://openalex.org/W7216144710",
+      "source_url": "https://openalex.org/W7216144710",
+      "producer": "OA2",
+      "producer_event": "E-1344"
+    },
+    {
+      "EID": "E-0445",
+      "platform_ID": "https://openalex.org/W3134055061",
+      "source_url": "https://openalex.org/W3134055061",
+      "producer": "OA2",
+      "producer_event": "E-1345"
+    },
+    {
+      "EID": "E-0446",
+      "platform_ID": "https://openalex.org/W2169658834",
+      "source_url": "https://openalex.org/W2169658834",
+      "producer": "OA2",
+      "producer_event": "E-1346"
+    },
+    {
+      "EID": "E-0447",
+      "platform_ID": "https://openalex.org/W2118918727",
+      "source_url": "https://openalex.org/W2118918727",
+      "producer": "OA2",
+      "producer_event": "E-1347"
+    },
+    {
+      "EID": "E-0454",
+      "platform_ID": "https://openalex.org/W2058699724",
+      "source_url": "https://openalex.org/W2058699724",
+      "producer": "OA2",
+      "producer_event": "E-1354"
+    },
+    {
+      "EID": "E-0457",
+      "platform_ID": "https://openalex.org/W239794421",
+      "source_url": "https://openalex.org/W239794421",
+      "producer": "OA2",
+      "producer_event": "E-1357"
+    },
+    {
+      "EID": "E-0459",
+      "platform_ID": "https://openalex.org/W2107458651",
+      "source_url": "https://openalex.org/W2107458651",
+      "producer": "OA2",
+      "producer_event": "E-1359"
+    },
+    {
+      "EID": "E-0460",
+      "platform_ID": "https://openalex.org/W3009918428",
+      "source_url": "https://openalex.org/W3009918428",
+      "producer": "OA2",
+      "producer_event": "E-1360"
+    },
+    {
+      "EID": "E-0461",
+      "platform_ID": "https://openalex.org/W2049335625",
+      "source_url": "https://openalex.org/W2049335625",
+      "producer": "OA2",
+      "producer_event": "E-1361"
+    },
+    {
+      "EID": "E-0465",
+      "platform_ID": "https://openalex.org/W2029500199",
+      "source_url": "https://openalex.org/W2029500199",
+      "producer": "OA2",
+      "producer_event": "E-1365"
+    },
+    {
+      "EID": "E-0466",
+      "platform_ID": "https://openalex.org/W2151531626",
+      "source_url": "https://openalex.org/W2151531626",
+      "producer": "OA2",
+      "producer_event": "E-1366"
+    },
+    {
+      "EID": "E-0467",
+      "platform_ID": "https://openalex.org/W2137443247",
+      "source_url": "https://openalex.org/W2137443247",
+      "producer": "OA2",
+      "producer_event": "E-1367"
+    },
+    {
+      "EID": "E-0468",
+      "platform_ID": "https://openalex.org/W2167390864",
+      "source_url": "https://openalex.org/W2167390864",
+      "producer": "OA2",
+      "producer_event": "E-1368"
+    },
+    {
+      "EID": "E-0469",
+      "platform_ID": "https://openalex.org/W2145213895",
+      "source_url": "https://openalex.org/W2145213895",
+      "producer": "OA2",
+      "producer_event": "E-1369"
+    },
+    {
+      "EID": "E-0470",
+      "platform_ID": "https://openalex.org/W2103204596",
+      "source_url": "https://openalex.org/W2103204596",
+      "producer": "OA2",
+      "producer_event": "E-1370"
+    },
+    {
+      "EID": "E-0472",
+      "platform_ID": "https://openalex.org/W1988183134",
+      "source_url": "https://openalex.org/W1988183134",
+      "producer": "OA2",
+      "producer_event": "E-1372"
+    },
+    {
+      "EID": "E-0473",
+      "platform_ID": "https://openalex.org/W7223101084",
+      "source_url": "https://openalex.org/W7223101084",
+      "producer": "OA2",
+      "producer_event": "E-1373"
+    },
+    {
+      "EID": "E-0474",
+      "platform_ID": "https://openalex.org/W7223151537",
+      "source_url": "https://openalex.org/W7223151537",
+      "producer": "OA2",
+      "producer_event": "E-1374"
+    },
+    {
+      "EID": "E-0475",
+      "platform_ID": "https://openalex.org/W3125443215",
+      "source_url": "https://openalex.org/W3125443215",
+      "producer": "OA2",
+      "producer_event": "E-1375"
+    },
+    {
+      "EID": "E-0478",
+      "platform_ID": "https://openalex.org/W2021193054",
+      "source_url": "https://openalex.org/W2021193054",
+      "producer": "OA2",
+      "producer_event": "E-1378"
+    },
+    {
+      "EID": "E-0480",
+      "platform_ID": "https://openalex.org/W2144530326",
+      "source_url": "https://openalex.org/W2144530326",
+      "producer": "OA2",
+      "producer_event": "E-1380"
+    },
+    {
+      "EID": "E-0481",
+      "platform_ID": "https://openalex.org/W576460462",
+      "source_url": "https://openalex.org/W576460462",
+      "producer": "OA2",
+      "producer_event": "E-1381"
+    },
+    {
+      "EID": "E-0483",
+      "platform_ID": "https://openalex.org/W2537169660",
+      "source_url": "https://openalex.org/W2537169660",
+      "producer": "OA2",
+      "producer_event": "E-1383"
+    },
+    {
+      "EID": "E-0485",
+      "platform_ID": "https://openalex.org/W2109480140",
+      "source_url": "https://openalex.org/W2109480140",
+      "producer": "OA2",
+      "producer_event": "E-1385"
+    },
+    {
+      "EID": "E-0487",
+      "platform_ID": "https://openalex.org/W2145157410",
+      "source_url": "https://openalex.org/W2145157410",
+      "producer": "OA2",
+      "producer_event": "E-1387"
+    },
+    {
+      "EID": "E-0488",
+      "platform_ID": "https://openalex.org/W1965300094",
+      "source_url": "https://openalex.org/W1965300094",
+      "producer": "OA2",
+      "producer_event": "E-1388"
+    },
+    {
+      "EID": "E-0489",
+      "platform_ID": "https://openalex.org/W2168859597",
+      "source_url": "https://openalex.org/W2168859597",
+      "producer": "OA2",
+      "producer_event": "E-1389"
+    },
+    {
+      "EID": "E-0490",
+      "platform_ID": "https://openalex.org/W2148540243",
+      "source_url": "https://openalex.org/W2148540243",
+      "producer": "OA2",
+      "producer_event": "E-1390"
+    },
+    {
+      "EID": "E-0491",
+      "platform_ID": "https://openalex.org/W7160087424",
+      "source_url": "https://openalex.org/W7160087424",
+      "producer": "OA2",
+      "producer_event": "E-1391"
+    },
+    {
+      "EID": "E-0492",
+      "platform_ID": "https://openalex.org/W2049228309",
+      "source_url": "https://openalex.org/W2049228309",
+      "producer": "OA2",
+      "producer_event": "E-1392"
+    },
+    {
+      "EID": "E-0493",
+      "platform_ID": "https://openalex.org/W2939418684",
+      "source_url": "https://openalex.org/W2939418684",
+      "producer": "OA2",
+      "producer_event": "E-1393"
+    },
+    {
+      "EID": "E-0494",
+      "platform_ID": "https://openalex.org/W2116361328",
+      "source_url": "https://openalex.org/W2116361328",
+      "producer": "OA2",
+      "producer_event": "E-1394"
+    },
+    {
+      "EID": "E-0495",
+      "platform_ID": "https://openalex.org/W3093344787",
+      "source_url": "https://openalex.org/W3093344787",
+      "producer": "OA2",
+      "producer_event": "E-1395"
+    },
+    {
+      "EID": "E-0496",
+      "platform_ID": "https://openalex.org/W2116820886",
+      "source_url": "https://openalex.org/W2116820886",
+      "producer": "OA2",
+      "producer_event": "E-1396"
+    },
+    {
+      "EID": "E-0497",
+      "platform_ID": "https://openalex.org/W3126513506",
+      "source_url": "https://openalex.org/W3126513506",
+      "producer": "OA2",
+      "producer_event": "E-1397"
+    },
+    {
+      "EID": "E-0498",
+      "platform_ID": "https://openalex.org/W2164201790",
+      "source_url": "https://openalex.org/W2164201790",
+      "producer": "OA2",
+      "producer_event": "E-1398"
+    },
+    {
+      "EID": "E-0499",
+      "platform_ID": "https://openalex.org/W91134386",
+      "source_url": "https://openalex.org/W91134386",
+      "producer": "OA2",
+      "producer_event": "E-1399"
+    }
+  ],
+  "groups": [
+    {
+      "RID": "R1",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0261",
+        "E-0313",
+        "E-0331",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 8
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0204",
+        "E-0288",
+        "E-0303",
+        "E-0343",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0204",
+      "nonselected_count": 9
+    },
+    {
+      "RID": "R1",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 1
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0256",
+        "E-0261",
+        "E-0262",
+        "E-0265",
+        "E-0266",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 10
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0254",
+        "E-0255",
+        "E-0260",
+        "E-0264",
+        "E-0269",
+        "E-0271",
+        "E-0272",
+        "E-0273",
+        "E-0281",
+        "E-0284",
+        "E-0291",
+        "E-0299",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0254",
+      "nonselected_count": 17
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0251",
+        "E-0268",
+        "E-0274",
+        "E-0290",
+        "E-0297",
+        "E-0486"
+      ],
+      "selected": "E-0251",
+      "nonselected_count": 5
+    },
+    {
+      "RID": "R2",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0267",
+        "E-0285",
+        "E-0293"
+      ],
+      "selected": "E-0267",
+      "nonselected_count": 2
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "article",
+      "members": [
+        "E-0203",
+        "E-0262",
+        "E-0276",
+        "E-0300",
+        "E-0313",
+        "E-0314",
+        "E-0322",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0450",
+        "E-0453",
+        "E-0462",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0203",
+      "nonselected_count": 14
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0254",
+        "E-0278",
+        "E-0288",
+        "E-0296",
+        "E-0301",
+        "E-0302",
+        "E-0309",
+        "E-0311",
+        "E-0316",
+        "E-0343",
+        "E-0345",
+        "E-0348",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0254",
+      "nonselected_count": 17
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0310",
+        "E-0329",
+        "E-0333",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 4
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0241",
+        "E-0328"
+      ],
+      "selected": "E-0241",
+      "nonselected_count": 1
+    },
+    {
+      "RID": "R3",
+      "metadata_type": "report",
+      "members": [
+        "E-0349"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "article",
+      "members": [
+        "E-0367",
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0395",
+        "E-0396",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0409",
+        "E-0410",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448",
+        "E-0455",
+        "E-0463"
+      ],
+      "selected": "E-0367",
+      "nonselected_count": 32
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0220",
+        "E-0311"
+      ],
+      "selected": "E-0220",
+      "nonselected_count": 1
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0310",
+        "E-0333",
+        "E-0432"
+      ],
+      "selected": "E-0310",
+      "nonselected_count": 2
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "other",
+      "members": [
+        "E-0397"
+      ],
+      "selected": "E-0397",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R4",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0240",
+        "E-0391",
+        "E-0412",
+        "E-0420"
+      ],
+      "selected": "E-0240",
+      "nonselected_count": 3
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "article",
+      "members": [
+        "E-0252",
+        "E-0400",
+        "E-0401",
+        "E-0402",
+        "E-0403",
+        "E-0404",
+        "E-0405",
+        "E-0406",
+        "E-0409",
+        "E-0410",
+        "E-0413",
+        "E-0414",
+        "E-0415",
+        "E-0416",
+        "E-0417",
+        "E-0418",
+        "E-0421",
+        "E-0422",
+        "E-0423",
+        "E-0424",
+        "E-0429",
+        "E-0430",
+        "E-0431",
+        "E-0434",
+        "E-0435",
+        "E-0448"
+      ],
+      "selected": "E-0252",
+      "nonselected_count": 25
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "book",
+      "members": [
+        "E-0407"
+      ],
+      "selected": "E-0407",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0278",
+        "E-0288",
+        "E-0343"
+      ],
+      "selected": "E-0278",
+      "nonselected_count": 2
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dataset",
+      "members": [
+        "E-0427"
+      ],
+      "selected": "E-0427",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0432"
+      ],
+      "selected": "E-0432",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R5",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0412",
+        "E-0420"
+      ],
+      "selected": "E-0412",
+      "nonselected_count": 1
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "article",
+      "members": [
+        "E-0218",
+        "E-0300",
+        "E-0314",
+        "E-0322",
+        "E-0331",
+        "E-0332",
+        "E-0334",
+        "E-0347",
+        "E-0367",
+        "E-0373",
+        "E-0374",
+        "E-0377",
+        "E-0395",
+        "E-0396",
+        "E-0450",
+        "E-0453",
+        "E-0455",
+        "E-0462",
+        "E-0463",
+        "E-0477",
+        "E-0482"
+      ],
+      "selected": "E-0218",
+      "nonselected_count": 20
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "book-chapter",
+      "members": [
+        "E-0484"
+      ],
+      "selected": "E-0484",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "conference-paper",
+      "members": [
+        "E-0204",
+        "E-0288",
+        "E-0301",
+        "E-0302",
+        "E-0303",
+        "E-0309",
+        "E-0311",
+        "E-0316",
+        "E-0348",
+        "E-0456",
+        "E-0458",
+        "E-0464",
+        "E-0471",
+        "E-0476",
+        "E-0479"
+      ],
+      "selected": "E-0204",
+      "nonselected_count": 14
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "dissertation",
+      "members": [
+        "E-0287",
+        "E-0329",
+        "E-0486"
+      ],
+      "selected": "E-0287",
+      "nonselected_count": 2
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "other",
+      "members": [
+        "E-0397"
+      ],
+      "selected": "E-0397",
+      "nonselected_count": 0
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "preprint",
+      "members": [
+        "E-0328",
+        "E-0391"
+      ],
+      "selected": "E-0328",
+      "nonselected_count": 1
+    },
+    {
+      "RID": "R6",
+      "metadata_type": "report",
+      "members": [
+        "E-0349"
+      ],
+      "selected": "E-0349",
+      "nonselected_count": 0
+    }
+  ],
+  "group_rule": "First original occurrence EID per provisional producer R/type group among 127 advance/pending records; occurrence proxy, NOT ERP claim/SID QC.",
+  "status": "FROZEN BEFORE SOL ORIGINAL-TEXT RECHECK; producer Scholar freeze remains missed; original claims unassessed"
+}

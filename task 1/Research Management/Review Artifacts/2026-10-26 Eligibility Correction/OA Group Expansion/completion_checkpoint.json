@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-10-26T07:22:14.847212+00:00",
+  "primary_checked": 130,
+  "primary_unreviewed": 0,
+  "secondary_selected_checked": 63,
+  "secondary_selected_unreviewed": 0,
+  "additional_pattern_checked": 2,
+  "final_overlay_sha256": "bac2cb5b4db91a39935d3a4f0d56b3fe2bf165f5811407210c21dbb9d154517f",
+  "authored_primary_hashes": {
+    "authored_primary_000_010.json": "4c3d46f45bb675270aca40524f36b569797eaa267e6d1c993d938e58f6263506",
+    "authored_primary_010_025.json": "ac4ae33a2cc3966e6d428b3413dcc4c348f134fe00886e835264a6a1aa3474e1",
+    "authored_primary_025_040.json": "a54255dbaae4880407008a4dc25a76fe3f5ed09fed7bd3ad17d1dd00733bc7d2",
+    "authored_primary_040_055.json": "af55ba5a6c6e7c303f8445d529b6e770acfb67d17be5b44403877d8a03347d87",
+    "authored_primary_055_070.json": "05ae2e8844b57ac18300b4314e7fb264a3910b4fb05c706ac3714a0311a5baf0",
+    "authored_primary_070_085.json": "a20574501c79a4d22e39cc55d7dfae394235de162817a3bfe4520e9aa7752a32",
+    "authored_primary_085_100.json": "b8733491830f2edec2738b009215e16833294990e276fdbf9ce15b255c37c887",
+    "authored_primary_100_115.json": "9e9fa205141a58772cf8f33f3cefc270eb9145610f82b2ecbdc183fe4dfa3662",
+    "authored_primary_115_130.json": "a4ba0ee253818db8b41be254b351db3a83d92c86dc1e14181659cb211c519b62"
+  },
+  "authored_secondary_hashes": {
+    "authored_secondary_000_010.json": "6257ac99678049ee02619c60c78048b1d2fe3e969d1bdc4a8a9c93e878e8fbea",
+    "authored_secondary_010_022.json": "8168c00dfd550932af427cf436af2767a8f94e05a3d6c5c52808101c747c5e82",
+    "authored_secondary_022_035.json": "f0fb9d6b2f7deb4352f73454209e677818d5223a15d4773f86cb955cd5cfba96",
+    "authored_secondary_035_048.json": "dd4e43b563cf51a26eae073827d22e384d2fcf4c5095c73e1907f7616e589ff3",
+    "authored_secondary_048_063.json": "edf8d4a4a8af58bda385d51fa7628b36c4cc95dcaa86d7a2e858ebedb7c79d83"
+  },
+  "pattern_hashes": {
+    "secondary_pattern_expansion_freeze.json": "b0e5ad7a0a0a05906d3bb095d21801ca42b0fbe21b76974368d885dd60f9a2f5",
+    "pattern_read_receipt_000_002.json": "b4178e3260db9f2649cbe616f6d6a95a8a0e7f07742a6d88302f8e44efa1f59b",
+    "authored_pattern_QA.json": "627ba1a15070ccf686e81e685444bd770f1b9c6ab70c57c04e0ab5fd0812bd67"
+  },
+  "input_hashes": {
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Accepted Snapshot 3/effective_state_838.csv": "089dad4d37ae783362d376c9d20d3daff2f63eebcf8f009a020cdeb96e60e536",
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/OA Global Group QA/expansion_freeze.json": "1c27816e683ea369157fb134bad2fda489e0d5fca1aaf986b1be3175e74f43c2",
+    "/home/mendydias/Projects/eei6689/task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/OA Global Group QA/prospective_freeze.json": "9952da137a1d5fafa32f22c5a198e7ace0cb2bad24daf9b16d935e4dc4206dc3"
+  }
+}

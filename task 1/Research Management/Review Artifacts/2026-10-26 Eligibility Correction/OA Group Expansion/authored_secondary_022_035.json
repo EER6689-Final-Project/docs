@@ -1,0 +1,15 @@
+{
+  "E-0351": ["checked-no-discrepancy", "R4 outside retained: the named estimators target predictive/aleatoric/OOD tasks, not precision of repeated performance runs. No domain-only exclusion is inferred; R6 stays inherited."],
+  "E-0352": ["unresolved", "R4 supported/R5 unclear retained: repeated-mean SD versus specification-based Type B explicitly supports an uncertainty budget, whereas instrument calibration results reveal no paired agreement/reference-error procedure."],
+  "E-0353": ["checked-no-discrepancy", "R4 support remains narrowly the known-function/reference coverage-and-width diagnostic for uncertainty procedures. It is not a claim that a deep-regression predictive estimator models nested browser repetitions; that transfer assumption is explicit and remains to be tested."],
+  "E-0354": ["checked-no-discrepancy", "R4 outside/R6 supported retained: prediction calibration is not repeated-performance uncertainty, but backbone/descriptor/UQ-category variation is an explicit evaluation-factor matrix. No randomized or fully crossed design is inferred."],
+  "E-0356": ["unresolved", "R4 unclear retained: forcing/model-version ensembles identify uncertainty sources but not the variance/precision method. The existing R6 ensemble-design lead is preserved separately."],
+  "E-0357": ["unresolved", "R4 unclear retained despite the promising repeated-measurement title: no abstract gives the scoring rule, estimand or assumptions; null language remains unresolved."],
+  "E-0362": ["unresolved", "R4 unclear retained: absent abstract and null language prevent a specific wave-measurement uncertainty transfer. R5 is inherited, not newly confirmed."],
+  "E-0363": ["checked-no-discrepancy", "R4 outside retained: supply/demand risk, scenarios and optimization do not state repeated-measurement precision. The broad planning discussion is not silently treated as scientific appraisal or all-R exclusion."],
+  "E-0364": ["checked-no-discrepancy", "R4 outside/R6 supported retained: predictive risk ranking differs from run uncertainty, while random/clustering splits, predictor panels and explicitly retrospective case selection offer specific coverage and post-selection design boundaries."],
+  "E-0366": ["checked-no-discrepancy", "R5 supported only as a condition-defined reference-benchmark lead: measured wake/power/loads anchor comparison under three atmospheric strata. No paired residual analysis, tolerance or reference certainty is invented."],
+  "E-0369": ["unresolved", "R4 outside/R6 unclear retained: fairness prediction randomness is not measurement precision, and axioms plus benchmark datasets give no explicit fixture/allocation mechanism. Pending routing preserves further retrieval possibilities."],
+  "E-0376": ["unresolved", "R4 unclear retained: named physical uncertainty sources and sigma comparisons do not specify their combination; changed MCNP/data-library calculations are not same-condition replication."],
+  "E-0377": ["unresolved", "R4 unclear retained: this context review names no concrete estimator or hierarchy in the complete supplied abstract. Retain an originals-discovery lead, not an inferred method or X3."]
+}

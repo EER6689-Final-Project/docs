@@ -1,0 +1,20 @@
+{
+  "checked_utc": "2026-10-26T05:53:39.180827+00:00",
+  "all_frozen_input_hashes_unchanged": true,
+  "queue_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "original_838_fields_unchanged": true,
+  "prior_195_effective_fields_unchanged": true,
+  "Scholar_538_effective_fields_unchanged": true,
+  "original_44_X3_unchanged": true,
+  "target_order_and_exact_set_preserved": true,
+  "corrective_events": [
+    "E-2600",
+    "E-2704"
+  ],
+  "corrective_event_count": 105,
+  "source_support_confidence_UNASSESSED": true,
+  "date_language_type_identity_still_pending": true,
+  "final_group_freeze_preceded_actual_second_pass": true,
+  "planned_versus_actual_link": "group_exclusion_QA_results.json",
+  "no_fulltext_citations_library_or_gate_actions": true
+}

@@ -1,0 +1,394 @@
+{
+  "frozen_at_utc": "2026-10-26T07:04:20.290681+00:00",
+  "primary_sha256": "6b463664af1352cef72e3d992bdb4d536777b0c57d8c4aa156d2ff6514792e21",
+  "producer_X3": [
+    "E-1000",
+    "E-1005",
+    "E-1007",
+    "E-1008",
+    "E-1012",
+    "E-1013",
+    "E-1020",
+    "E-1026",
+    "E-1028",
+    "E-1029",
+    "E-1030",
+    "E-1031",
+    "E-1032",
+    "E-1034",
+    "E-1035",
+    "E-1036"
+  ],
+  "Sol_X3": [
+    "E-1000",
+    "E-1005",
+    "E-1008",
+    "E-1020",
+    "E-1026",
+    "E-1034",
+    "E-1036"
+  ],
+  "corrected_explicit_groups": {
+    "type-proxy:journal": [
+      "E-1000",
+      "E-1003",
+      "E-1004",
+      "E-1005",
+      "E-1007",
+      "E-1008",
+      "E-1009",
+      "E-1013",
+      "E-1019",
+      "E-1022",
+      "E-1023",
+      "E-1024",
+      "E-1025",
+      "E-1026",
+      "E-1027",
+      "E-1032",
+      "E-1034"
+    ],
+    "method-proxy:marketing-construct": [
+      "E-1000",
+      "E-1003",
+      "E-1019",
+      "E-1036"
+    ],
+    "R-positive:R3": [
+      "E-1001",
+      "E-1002",
+      "E-1009",
+      "E-1011",
+      "E-1015",
+      "E-1016",
+      "E-1018",
+      "E-1024",
+      "E-1025",
+      "E-1027",
+      "E-1037"
+    ],
+    "R-unresolved:R2": [
+      "E-1001",
+      "E-1002",
+      "E-1007",
+      "E-1011",
+      "E-1013",
+      "E-1015",
+      "E-1024",
+      "E-1028",
+      "E-1032",
+      "E-1033"
+    ],
+    "R-unresolved:R6": [
+      "E-1001",
+      "E-1003",
+      "E-1006",
+      "E-1007",
+      "E-1009",
+      "E-1010",
+      "E-1011",
+      "E-1012",
+      "E-1016",
+      "E-1018",
+      "E-1024",
+      "E-1025",
+      "E-1027",
+      "E-1028",
+      "E-1029",
+      "E-1031",
+      "E-1032",
+      "E-1033",
+      "E-1035"
+    ],
+    "type-proxy:preprint": [
+      "E-1001",
+      "E-1011"
+    ],
+    "method-proxy:network-workload": [
+      "E-1001",
+      "E-1011"
+    ],
+    "R-positive:R6": [
+      "E-1002",
+      "E-1014",
+      "E-1015",
+      "E-1017",
+      "E-1021",
+      "E-1023",
+      "E-1037"
+    ],
+    "R-unresolved:R1": [
+      "E-1002",
+      "E-1003",
+      "E-1006",
+      "E-1009",
+      "E-1010",
+      "E-1015",
+      "E-1019",
+      "E-1022",
+      "E-1023",
+      "E-1025",
+      "E-1028",
+      "E-1033",
+      "E-1037"
+    ],
+    "type-proxy:conference": [
+      "E-1002",
+      "E-1006",
+      "E-1010",
+      "E-1014",
+      "E-1015",
+      "E-1016",
+      "E-1017",
+      "E-1021",
+      "E-1028",
+      "E-1029",
+      "E-1030",
+      "E-1033",
+      "E-1037"
+    ],
+    "method-proxy:cache-evaluation": [
+      "E-1002",
+      "E-1015"
+    ],
+    "R-unresolved:R3": [
+      "E-1004",
+      "E-1012",
+      "E-1017",
+      "E-1019",
+      "E-1021",
+      "E-1023",
+      "E-1029",
+      "E-1031",
+      "E-1035"
+    ],
+    "method-proxy:human-navigation": [
+      "E-1004",
+      "E-1024",
+      "E-1027"
+    ],
+    "method-proxy:ranking-visibility": [
+      "E-1005",
+      "E-1034"
+    ],
+    "method-proxy:standards-topics": [
+      "E-1006",
+      "E-1010"
+    ],
+    "method-proxy:tool-mention": [
+      "E-1007"
+    ],
+    "method-proxy:physical-measurement": [
+      "E-1008"
+    ],
+    "method-proxy:platform-workload": [
+      "E-1009"
+    ],
+    "R-unresolved:R4": [
+      "E-1012",
+      "E-1013",
+      "E-1016",
+      "E-1021",
+      "E-1030",
+      "E-1037"
+    ],
+    "type-proxy:book": [
+      "E-1012"
+    ],
+    "method-proxy:method-volume": [
+      "E-1012"
+    ],
+    "method-proxy:detector-noise": [
+      "E-1013"
+    ],
+    "R-positive:R4": [
+      "E-1014",
+      "E-1017",
+      "E-1033",
+      "E-1035"
+    ],
+    "method-proxy:online-experiment": [
+      "E-1014",
+      "E-1021"
+    ],
+    "method-proxy:workload-model": [
+      "E-1016",
+      "E-1025"
+    ],
+    "R-positive:R1": [
+      "E-1017"
+    ],
+    "R-positive:R2": [
+      "E-1017"
+    ],
+    "method-proxy:runtime-instrumentation": [
+      "E-1017"
+    ],
+    "type-proxy:chapter": [
+      "E-1018"
+    ],
+    "method-proxy:cache-model": [
+      "E-1018"
+    ],
+    "type-proxy:thesis-proxy": [
+      "E-1020",
+      "E-1035",
+      "E-1036"
+    ],
+    "method-proxy:marketing-analytics": [
+      "E-1020",
+      "E-1022"
+    ],
+    "method-proxy:technical-optimization": [
+      "E-1023"
+    ],
+    "method-proxy:export-contamination": [
+      "E-1026"
+    ],
+    "method-proxy:security-index": [
+      "E-1028"
+    ],
+    "method-proxy:system-consolidation": [
+      "E-1029"
+    ],
+    "method-proxy:lagged-statistical-model": [
+      "E-1030"
+    ],
+    "type-proxy:journal-proxy": [
+      "E-1031"
+    ],
+    "method-proxy:warehouse-system": [
+      "E-1031"
+    ],
+    "method-proxy:self-healing": [
+      "E-1032"
+    ],
+    "method-proxy:trimmed-statistical-model": [
+      "E-1033"
+    ],
+    "method-proxy:probability-simulation": [
+      "E-1035"
+    ],
+    "method-proxy:resource-workload": [
+      "E-1037"
+    ]
+  },
+  "first_EID_per_group": {
+    "type-proxy:journal": "E-1000",
+    "method-proxy:marketing-construct": "E-1000",
+    "R-positive:R3": "E-1001",
+    "R-unresolved:R2": "E-1001",
+    "R-unresolved:R6": "E-1001",
+    "type-proxy:preprint": "E-1001",
+    "method-proxy:network-workload": "E-1001",
+    "R-positive:R6": "E-1002",
+    "R-unresolved:R1": "E-1002",
+    "type-proxy:conference": "E-1002",
+    "method-proxy:cache-evaluation": "E-1002",
+    "R-unresolved:R3": "E-1004",
+    "method-proxy:human-navigation": "E-1004",
+    "method-proxy:ranking-visibility": "E-1005",
+    "method-proxy:standards-topics": "E-1006",
+    "method-proxy:tool-mention": "E-1007",
+    "method-proxy:physical-measurement": "E-1008",
+    "method-proxy:platform-workload": "E-1009",
+    "R-unresolved:R4": "E-1012",
+    "type-proxy:book": "E-1012",
+    "method-proxy:method-volume": "E-1012",
+    "method-proxy:detector-noise": "E-1013",
+    "R-positive:R4": "E-1014",
+    "method-proxy:online-experiment": "E-1014",
+    "method-proxy:workload-model": "E-1016",
+    "R-positive:R1": "E-1017",
+    "R-positive:R2": "E-1017",
+    "method-proxy:runtime-instrumentation": "E-1017",
+    "type-proxy:chapter": "E-1018",
+    "method-proxy:cache-model": "E-1018",
+    "type-proxy:thesis-proxy": "E-1020",
+    "method-proxy:marketing-analytics": "E-1020",
+    "method-proxy:technical-optimization": "E-1023",
+    "method-proxy:export-contamination": "E-1026",
+    "method-proxy:security-index": "E-1028",
+    "method-proxy:system-consolidation": "E-1029",
+    "method-proxy:lagged-statistical-model": "E-1030",
+    "type-proxy:journal-proxy": "E-1031",
+    "method-proxy:warehouse-system": "E-1031",
+    "method-proxy:self-healing": "E-1032",
+    "method-proxy:trimmed-statistical-model": "E-1033",
+    "method-proxy:probability-simulation": "E-1035",
+    "method-proxy:resource-workload": "E-1037"
+  },
+  "minimum_selected_ordered": [
+    "E-1000",
+    "E-1001",
+    "E-1002",
+    "E-1004",
+    "E-1005",
+    "E-1006",
+    "E-1007",
+    "E-1008",
+    "E-1009",
+    "E-1012",
+    "E-1013",
+    "E-1014",
+    "E-1016",
+    "E-1017",
+    "E-1018",
+    "E-1020",
+    "E-1023",
+    "E-1026",
+    "E-1028",
+    "E-1029",
+    "E-1030",
+    "E-1031",
+    "E-1032",
+    "E-1033",
+    "E-1034",
+    "E-1035",
+    "E-1036",
+    "E-1037"
+  ],
+  "finite_error_pattern_expansion_ordered": [
+    "E-1000",
+    "E-1001",
+    "E-1002",
+    "E-1003",
+    "E-1004",
+    "E-1005",
+    "E-1006",
+    "E-1007",
+    "E-1008",
+    "E-1009",
+    "E-1010",
+    "E-1011",
+    "E-1012",
+    "E-1013",
+    "E-1014",
+    "E-1015",
+    "E-1016",
+    "E-1017",
+    "E-1018",
+    "E-1019",
+    "E-1020",
+    "E-1021",
+    "E-1022",
+    "E-1023",
+    "E-1024",
+    "E-1025",
+    "E-1026",
+    "E-1027",
+    "E-1028",
+    "E-1029",
+    "E-1030",
+    "E-1031",
+    "E-1032",
+    "E-1033",
+    "E-1034",
+    "E-1035",
+    "E-1036",
+    "E-1037"
+  ],
+  "expansion_reason": "Across this exact 38 only: overconfident exclusion of fragmented methodological/tool leads and positive adjacent-construct mappings; reread all38 before accepting local primary. No other batch targets.",
+  "before_secondary_original_reread": true,
+  "proxy_warning": "R candidate groups separated from positive. Method/type grouping uses entire authored labels, not just R; neither source type nor canonical claim group is verified."
+}

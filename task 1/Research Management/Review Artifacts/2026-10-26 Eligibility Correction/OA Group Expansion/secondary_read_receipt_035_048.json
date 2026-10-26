@@ -1,0 +1,347 @@
+{
+  "phase": "secondary",
+  "emitted_at_utc": "2026-10-26T07:17:45.905473+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0378",
+      "event": "E-3563",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "When Repeated Measurements Hurt Tabular Foundation Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Tabular foundation models (TFMs) achieve state-of-the-art performance on IID benchmarks, but how do they respond to repeated measurements at the same inputs? Across six TFMs, synthetic and semi-synthetic experiments show that additional measurements can improve predictions at measured inputs while degrading them elsewhere. Harm is most frequent at low noise, and irrelevant features amplify it in several models; real repeated-measurement datasets show similar patterns. Statistically, the IID rule targeted by PFN pretraining treats each repeated input as fresh evidence about the input distribution. When the prior links this distribution to the response function, the resulting protocol mismatch can outweigh the benefit of additional measurements, even under exact inference. Computationally, interventions identify row-count dependence in TabPFN-v3's attention scaling as a contributor to harm. Resetting the count largely reverses distortion in a noiseless linear diagnostic and attenuates amplification by irrelevant features. Finally, we evaluate ways to retain the benefits of repeated measurements while limiting their harm. Averaging measurements usually outperforms supplying them separately at larger repetition counts, whereas count reset can suppress both harm and useful gains. Code, saved results and reproduction instructions are available at https://github.com/drizmiz/PFN-Repeated-Measurement-Supp",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-10-12",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2610.16801",
+        "platform_record_id": "https://openalex.org/W7221821716",
+        "record_url": "https://openalex.org/W7221821716",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2610.16801\", \"publication_year\": 2026, \"publication_date\": \"2026-10-12\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Yixiang Liu\", \"Ruizhe Deng\", \"Bibhas Chakraborty\", \"Qiong Zhang\", \"Yan Shuo Tan\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7221821716\", \"landing_page_url\": \"https://arxiv.org/abs/2610.16801\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "29",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "adfa508974e1ce606ca877528bf6f3de4a898b90668c095deda9903feccfb592"
+    },
+    {
+      "target": "E-0379",
+      "event": "E-3564",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarking atlas-level data integration in single-cell genomics",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Single-cell atlases often include samples that span locations, laboratories and conditions, leading to complex, nested batch effects in data. Thus, joint analysis of atlas datasets requires reliable data integration. To guide integration method choice, we benchmarked 68 method and preprocessing combinations on 85 batches of gene expression, chromatin accessibility and simulation data from 23 publications, altogether representing >1.2 million cells distributed in 13 atlas-level integration tasks. We evaluated methods according to scalability, usability and their ability to remove batch effects while retaining biological variation using 14 evaluation metrics. We show that highly variable gene selection improves the performance of data integration methods, whereas scaling pushes methods to prioritize batch removal over conservation of biological variation. Overall, scANVI, Scanorama, scVI and scGen perform well, particularly on complex integration tasks, while single-cell ATAC-sequencing integration performance is strongly affected by choice of feature space. Our freely available Python module and benchmarking pipeline can identify optimal data integration methods for new data, benchmark new methods and improve method development.",
+      "metadata": {
+        "publication_year": "2021",
+        "publication_date": "2021-12-23",
+        "language": "en",
+        "doi": "https://doi.org/10.1038/s41592-021-01336-8",
+        "platform_record_id": "https://openalex.org/W4225598893",
+        "record_url": "https://openalex.org/W4225598893",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1038/s41592-021-01336-8\", \"publication_year\": 2021, \"publication_date\": \"2021-12-23\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Malte D. Luecken\", \"Maren Büttner\", \"Kridsadakorn Chaichoompu\", \"Anna Danese\", \"Marta Interlandi\", \"M. F. Mueller\", \"Daniel C. Strobl\", \"Luke Zappia\", \"Martin Dugas\", \"Maria Colomé‐Tatché\", \"Fabian Joachim Theis\"], \"venue\": \"Nature Methods\", \"openalex_id\": \"https://openalex.org/W4225598893\", \"landing_page_url\": \"https://doi.org/10.1038/s41592-021-01336-8\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "30",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b24e83396a2cd5ed010f899aaf1b33f069395b830d5df6621c2de20ae43ff13a"
+    },
+    {
+      "target": "E-0382",
+      "event": "E-3566",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R1;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarking Large Language Model Uncertainty for Prompt Optimization",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Prompt optimization algorithms for Large Language Models (LLMs) excel in multi-step reasoning but still lack effective uncertainty estimation. This paper introduces a benchmark dataset to evaluate uncertainty metrics, focusing on Answer, Correctness, Aleatoric, and Epistemic Uncertainty. Through analysis of models like GPT-3.5-Turbo and Meta-Llama-3.1-8B-Instruct, we show that current metrics align more with Answer Uncertainty, which reflects output confidence and diversity, rather than Correctness Uncertainty, highlighting the need for improved metrics that are optimization-objective-aware to better guide prompt optimization. Our code and dataset are available at https://github.com/0Frett/PO-Uncertainty-Benchmarking.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-09-16",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2409.10044",
+        "platform_record_id": "https://openalex.org/W4403702494",
+        "record_url": "https://openalex.org/W4403702494",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2409.10044\", \"publication_year\": 2024, \"publication_date\": \"2024-09-16\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Pei-Fu Guo\", \"Yun-Da Tsai\", \"Shou-De Lin\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4403702494\", \"landing_page_url\": \"http://arxiv.org/abs/2409.10044\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "33",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "943f4e1b4e3a7f025a35794d7d5305bf19d977771160ffab7751911960e517c3"
+    },
+    {
+      "target": "E-0383",
+      "event": "E-3567",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "An Uncertainty Descriptor for Quantitative Measurement of the Uncertainty of Remote Sensing Images",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Reliable image classification results are crucial for the application of remote sensing images, but the reliability of image classification has received less attention. In particular, the inherent uncertainty of remote sensing images has been disregarded. The uncertainty of a remote sensing image accumulates and propagates continuously in the classification process and ultimately affects the reliability of the classification results. Therefore, quantitative description and investigation of the inherent uncertainty of remote sensing images are crucial in achieving reliable remote sensing image classification. In this study, we analyze the sources of uncertainty of remote sensing images in detail and propose a quantitative descriptor for measuring image uncertainty comprehensively and effectively. In addition, we also design two verification schemes to verify the validity of the proposed uncertainty descriptor. Finally, the validity of the proposed uncertainty descriptor is confirmed by experimental results on three real remote sensing images. Our study on the uncertainty of remote sensing images may help the development of uncertainty control methods and reliable classification schemes of remote sensing images.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-07-01",
+        "language": "en",
+        "doi": "https://doi.org/10.3390/rs11131560",
+        "platform_record_id": "https://openalex.org/W2955949092",
+        "record_url": "https://openalex.org/W2955949092",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.3390/rs11131560\", \"publication_year\": 2019, \"publication_date\": \"2019-07-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Qi Zhang\", \"Penglin Zhang\"], \"venue\": \"Remote Sensing\", \"openalex_id\": \"https://openalex.org/W2955949092\", \"landing_page_url\": \"https://doi.org/10.3390/rs11131560\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "34",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "2b140c8c017d61148624a1e19a3bd52568405d9008ed621d467ed0e21fbc408f"
+    },
+    {
+      "target": "E-0385",
+      "event": "E-3569",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R2;R3;R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "ScionPathML: Enabling an Empirical Measurement Dataset and Benchmarks for Path-Aware Networking",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Path-aware networking architectures, such as SCION, give endpoints explicit visibility into multiple inter-domain paths, opening new opportunities for data-driven path selection, reliability prediction, and automated diagnosis. However, the lack of standardized, machine learning-ready datasets collected from live path-aware deployments has slowed progress in this domain. We present ScionPathML, an open-source measurement and data-standardization pipeline that abstracts the complexity of SCION’s tooling to continuously collect longitudinal performance measurements (RTT, packet loss, jitter, bandwidth, and per-hop latency) in formats directly usable by ML pipelines. Using a four-week, multi-region campaign across four vantage points on the SCIONLab testbed, we release a public dataset capturing path availability, churn, lifetimes, and end-to-end performance across concurrently available paths. To demonstrate its application, we define four reproducible benchmark tasks, including short-horizon performance forecasting, path failure prediction, anomaly detection, and multi-objective path recommendation, each accompanied by baseline models and evaluation protocols. Our results show that live SCION path performance exhibits an exploitable temporal structure, enabling accurate short-term predictions and early detection of availability drops. Together, the dataset, benchmarks, and open tooling substantially lower the barrier for ML researchers and provide a reproducible foundation for accelerating innovation in path-aware networking.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-07-02",
+        "language": "en",
+        "doi": "https://doi.org/10.3390/telecom7040081",
+        "platform_record_id": "https://openalex.org/W7167066446",
+        "record_url": "https://openalex.org/W7167066446",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.3390/telecom7040081\", \"publication_year\": 2026, \"publication_date\": \"2026-07-02\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Damien Rossi\", \"Sina Keshvadi\", \"Yogesh Sharma\"], \"venue\": \"Telecom\", \"openalex_id\": \"https://openalex.org/W7167066446\", \"landing_page_url\": \"https://doi.org/10.3390/telecom7040081\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "36",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4155307bd79766eaee2296a783b767bf2a52a4127b08b70427d8d39d5517992b"
+    },
+    {
+      "target": "E-0387",
+      "event": "E-3570",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Benchmarking of the Fock-space coupled-cluster method and uncertainty estimation: Magnetic hyperfine interaction in the excited state of BaF",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We present an investigation of the performance of the relativistic multireference Fock-space coupled-cluster (FSCC) method for predicting molecular hyperfine structure (HFS) constants, including a thorough computational study to estimate the associated uncertainties. In particular, we considered the $^{19}\\mathrm{F}$ HFS constant in the ground and excited states of BaF. The ab initio values were compared to the recent experimental results, and good overall agreement within the theoretical uncertainties was found. This work demonstrates the predictive power of the FSCC method and the reliability of the established uncertainty estimates, which can be crucial in cases where the calculated property cannot be directly compared to experiment.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-05-31",
+        "language": "en",
+        "doi": "https://doi.org/10.1103/physreva.105.052811",
+        "platform_record_id": "https://openalex.org/W4226208156",
+        "record_url": "https://openalex.org/W4226208156",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1103/physreva.105.052811\", \"publication_year\": 2022, \"publication_date\": \"2022-05-31\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Malika Denis\", \"Pi A. B. Haase\", \"Maarten C. Mooij\", \"Yuly Chamorro\", \"Parul Aggarwal\", \"Hendrick L. Bethlem\", \"A. Boeschoten\", \"Anastasia Borschevsky\", \"Kevin Esajas\", \"Yongliang Hao\", \"Steven Hoekstra\", \"Joost W. F. van Hofslot\", \"Virginia R. Marshall\", \"T. B. Meijknecht\", \"Rob G. E. Timmermans\", \"Anno Touwen\", \"Wim Ubachs\", \"Lorenz Willmann\", \"Yanning Yin\"], \"venue\": \"Physical Review A\", \"openalex_id\": \"https://openalex.org/W4226208156\", \"landing_page_url\": \"https://doi.org/10.1103/physreva.105.052811\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "38",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b203324334be0cc968f90503537cd5b9d2ff5c73ddaf3ddba53804e2a21bf79b"
+    },
+    {
+      "target": "E-0395",
+      "event": "E-3575",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Traceable measurements and calibration: a primer on uncertainty analysis",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Describing the quality of measurements is necessary to understand the level of confidence in any observation. Accuracy, precision, trueness, repeatability, reproducibility, and uncertainty are all used to describe quality of measurement, but the terms are inconsistently defined and measured and thus easily misunderstood. One purpose of quality parameters is for the comparison of observations, but when dissimilar methods for estimating quality terms are utilized, a comparison is misrepresented. A standardized approach to estimating uncertainty provides a basis for meeting measurement requirements and providing a level of confidence for observations. Here, we show the approach used by the National Ecological Observatory Network to estimate uncertainty of the calibration processes and measurements illustrated with an example of uncertainty assessment on a temperature sensor. Detailing the approach for uncertainty assessment provides the transparency necessary for network science and allows for the approach to be adopted in the scientific community. Reporting uncertainty with all measurements needs to become consistent and commonplace across disciplines.",
+      "metadata": {
+        "publication_year": "2017",
+        "publication_date": "2017-02-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/ecs2.1683",
+        "platform_record_id": "https://openalex.org/W2587346516",
+        "record_url": "https://openalex.org/W2587346516",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/ecs2.1683\", \"publication_year\": 2017, \"publication_date\": \"2017-02-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Janae Csavina\", \"Joshua A. Roberti\", \"Jeffrey R. Taylor\", \"Henry W. Loescher\"], \"venue\": \"Ecosphere\", \"openalex_id\": \"https://openalex.org/W2587346516\", \"landing_page_url\": \"https://doi.org/10.1002/ecs2.1683\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "46",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "b491a2be8664c8ada2fe6a224856c6f2f6b3a014274ac0df7f42d07a84c1cfe6"
+    },
+    {
+      "target": "E-0412",
+      "event": "E-3588",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Flexible Method Comparison with the Probability of Agreement",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The comparison of methods of measurement is a common problem in clinical practice; as novel methods are developed, establishing their agreement with existing methods is crucial. The probability of agreement (PoA) has previously been proposed as an intuitive and informative means of assessing agreement between two methods of measurement. It straightforwardly quantifies the likelihood that two measurements by different methods on the same subject are clinically indistinguishable. In this paper, we overhaul and extend the PoA methodology by developing an inference framework that relaxes several restrictive assumptions made in previous implementations, ultimately increasing its utility in a wider range of applications. We illustrate this more flexible methodology in an example that compares methods of measuring total Prostatic Specific Antigen (tPSA). And we thoroughly investigate its performance via simulation. This work dramatically increases the flexibility, availability, and hence impact of the PoA approach for method comparison.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-06-12",
+        "language": "",
+        "doi": "https://doi.org/10.48550/arxiv.2606.14921",
+        "platform_record_id": "https://openalex.org/W7164889362",
+        "record_url": "https://openalex.org/W7164889362",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2606.14921\", \"publication_year\": 2026, \"publication_date\": \"2026-06-12\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Nathaniel T. Stevens\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W7164889362\", \"landing_page_url\": \"https://arxiv.org/abs/2606.14921\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "13",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "95d884cb7fe55846f41d1a9cefce812438446450bca2fe8d41b183758e646f5d"
+    },
+    {
+      "target": "E-0415",
+      "event": "E-3591",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "A tolerance interval approach for assessment of agreement in method comparison studies with repeated measurements",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2007",
+        "publication_date": "2007-05-19",
+        "language": "en",
+        "doi": "https://doi.org/10.1016/j.jspi.2007.03.056",
+        "platform_record_id": "https://openalex.org/W1963778469",
+        "record_url": "https://openalex.org/W1963778469",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1016/j.jspi.2007.03.056\", \"publication_year\": 2007, \"publication_date\": \"2007-05-19\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Pankaj K. Choudhary\"], \"venue\": \"Journal of Statistical Planning and Inference\", \"openalex_id\": \"https://openalex.org/W1963778469\", \"landing_page_url\": \"https://doi.org/10.1016/j.jspi.2007.03.056\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "16",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9f317e12c5f825bb6e12bdc123f93900a79f858e4a1a03bae7a03e4ab172e8e1"
+    },
+    {
+      "target": "E-0419",
+      "event": "E-3594",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Measurement of bacterial replication rates in microbial communities",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2016",
+        "publication_date": "2016-11-07",
+        "language": "en",
+        "doi": "https://doi.org/10.1038/nbt.3704",
+        "platform_record_id": "https://openalex.org/W2550570544",
+        "record_url": "https://openalex.org/W2550570544",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1038/nbt.3704\", \"publication_year\": 2016, \"publication_date\": \"2016-11-07\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Christopher T. Brown\", \"Matthew R. Olm\", \"Brian C. Thomas\", \"Jillian F. Banfield\"], \"venue\": \"Nature Biotechnology\", \"openalex_id\": \"https://openalex.org/W2550570544\", \"landing_page_url\": \"https://doi.org/10.1038/nbt.3704\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "20",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3f1f450096c5f77777b77e864f26d63562db6a2e5078e4bd972502fe433d9568"
+    },
+    {
+      "target": "E-0427",
+      "event": "E-3599",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "MethComp: Analysis of Agreement in Method Comparison Studies",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Methods (standard and advanced) for analysis of agreement between measurement methods. These cover Bland-Altman plots, Deming regression, Lin's Total deviation index, and difference-on-average regression. See Carstensen B. (2010) \"Comparing Clinical Measurement Methods: A Practical Guide (Statistics in Practice)\" <doi:10.1002/9780470683019> for more information.",
+      "metadata": {
+        "publication_year": "2011",
+        "publication_date": "2011-02-18",
+        "language": "en",
+        "doi": "https://doi.org/10.32614/cran.package.methcomp",
+        "platform_record_id": "https://openalex.org/W4399534149",
+        "record_url": "https://openalex.org/W4399534149",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.32614/cran.package.methcomp\", \"publication_year\": 2011, \"publication_date\": \"2011-02-18\", \"type\": \"dataset\", \"language\": \"en\", \"authorships\": [\"Bendix Carstensen\", \"Lyle C. Gurrin\", \"Claus Thorn Ekstrøm\", \"Michal Figurski\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W4399534149\", \"landing_page_url\": \"https://doi.org/10.32614/cran.package.methcomp\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "28",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "53e1730380b580732ff2ea8b8e04e0b533334a26dbee77a18ea6027b455ea218"
+    },
+    {
+      "target": "E-0431",
+      "event": "E-3603",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Statistical methods for conducting agreement (comparison of clinical tests) and precision (repeatability or reproducibility) studies in optometry and ophthalmology",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2011",
+        "publication_date": "2011-05-26",
+        "language": "en",
+        "doi": "https://doi.org/10.1111/j.1475-1313.2011.00851.x",
+        "platform_record_id": "https://openalex.org/W2126376404",
+        "record_url": "https://openalex.org/W2126376404",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1111/j.1475-1313.2011.00851.x\", \"publication_year\": 2011, \"publication_date\": \"2011-05-26\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Colm McAlinden\", \"Jyoti Khadka\", \"Konrad Pesudovs\"], \"venue\": \"Ophthalmic and Physiological Optics\", \"openalex_id\": \"https://openalex.org/W2126376404\", \"landing_page_url\": \"https://doi.org/10.1111/j.1475-1313.2011.00851.x\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "32",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "df7705b2d3789355ab9e07e4847e2aa686f61b6b843dce0b0ff19711fc426382"
+    },
+    {
+      "target": "E-0438",
+      "event": "E-3606",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Three‐way comparison of methods for the measurement of the erythrocyte sedimentation rate",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "An erythrocyte sedimentation rate (ESR) is a nonspecific sickness index, which is not diagnostic of any particular disease, but which when elevated may indicate the presence of inflammation, infection, rheumatologic disease, or neoplasm. Technological advances continue to evolve to make this old test to conform to requirements of a modern analytical laboratory. In this evaluation, two new semi-automated ESR measuring systems, the HumaSed and ESR-Auto Plus (EAP), were compared with the Westergren method with regard to the accuracy and precision of ESR measurement, sample stability, and interference of various substances with the ESR assay. Samples from 125 patients were analyzed with the three methods and the results compared using linear regression and Bland-Altman plots. The mean ESR values of the HumaSed (32.10+/-4.86) and EAP (38.09+/-5.33) were comparable to that of the Westergren (31.54+/-4.94). The high correlation coefficients of 0.910-0.96 and the Bland-Altman scatter plots revealed good association and agreement between the three methods. Bias between the three methods was small and the imprecision was within acceptable limits. ESR analysis beyond 4 hr was found to be unacceptable owing to sample instability. There was bilirubin and lipid but not heparin interference in the two automated systems. Overall, two automated analyzers were found to be fast, reliable, standardized, simplified, and safe instruments with accuracy and precision for ESR measurement comparable to the Westergren.",
+      "metadata": {
+        "publication_year": "2008",
+        "publication_date": "2008-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/jcla.20267",
+        "platform_record_id": "https://openalex.org/W2074087393",
+        "record_url": "https://openalex.org/W2074087393",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/jcla.20267\", \"publication_year\": 2008, \"publication_date\": \"2008-01-01\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Johnny Ndoni Mahlangu\", \"Melony Davids\"], \"venue\": \"Journal of Clinical Laboratory Analysis\", \"openalex_id\": \"https://openalex.org/W2074087393\", \"landing_page_url\": \"https://doi.org/10.1002/jcla.20267\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R5",
+        "query": "method comparison agreement replicate measurements",
+        "rank": "39",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a0f13b52f6c9e03a909f5a4ca0beac20449e8ac27cdd2d674e765de01d16cae2"
+    }
+  ]
+}

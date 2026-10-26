@@ -1,0 +1,408 @@
+{
+  "created_utc": "2026-10-26T05:50:58.877413+00:00",
+  "phase": "AFTER primary original-item review; BEFORE separate secondary original-item pass",
+  "target_freeze_sha256": "e5f3980ec2018133b4fc01a92fc71b9181bb70a1e3679629dcd641f4542f51a7",
+  "overlay_sha256": "f6997c61dcb44a4873f1049bec16edbc2e05363f6446244241bf90c5853cbeac",
+  "author_checks_sha256": "334b109ac7395f46f31a3a126cbb2a01b30e2c92e8794bdee6f370ec4f1902c7",
+  "all_producer_proposed_exclusions": [
+    "E-0519"
+  ],
+  "all_Sol_proposed_exclusions": [
+    "E-0519"
+  ],
+  "corrected_explicit_R_type_groups": {
+    "R1|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 1
+    },
+    "R1|conference-chapter-candidate": {
+      "members": [
+        "E-0502"
+      ],
+      "first_EID": "E-0502",
+      "nonselected_count": 0
+    },
+    "R1|journal-candidate": {
+      "members": [
+        "E-0521"
+      ],
+      "first_EID": "E-0521",
+      "nonselected_count": 0
+    },
+    "R1|repository-pdf-unresolved": {
+      "members": [
+        "E-0520"
+      ],
+      "first_EID": "E-0520",
+      "nonselected_count": 0
+    },
+    "R2|conference-candidate": {
+      "members": [
+        "E-0506",
+        "E-0523"
+      ],
+      "first_EID": "E-0506",
+      "nonselected_count": 1
+    },
+    "R3|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0505",
+        "E-0506",
+        "E-0515",
+        "E-0517",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 5
+    },
+    "R3|conference-pdf-candidate": {
+      "members": [
+        "E-0513"
+      ],
+      "first_EID": "E-0513",
+      "nonselected_count": 0
+    },
+    "R3|journal-candidate": {
+      "members": [
+        "E-0514",
+        "E-0524"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 1
+    },
+    "R3|proceedings-pdf-candidate": {
+      "members": [
+        "E-0508"
+      ],
+      "first_EID": "E-0508",
+      "nonselected_count": 0
+    },
+    "R6|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0505",
+        "E-0511",
+        "E-0517",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 4
+    },
+    "R6|conference-chapter-candidate": {
+      "members": [
+        "E-0516"
+      ],
+      "first_EID": "E-0516",
+      "nonselected_count": 0
+    },
+    "R6|conference-pdf-candidate": {
+      "members": [
+        "E-0513"
+      ],
+      "first_EID": "E-0513",
+      "nonselected_count": 0
+    },
+    "R6|journal-candidate": {
+      "members": [
+        "E-0500",
+        "E-0514",
+        "E-0524"
+      ],
+      "first_EID": "E-0500",
+      "nonselected_count": 2
+    },
+    "R6|journal-pdf-candidate": {
+      "members": [
+        "E-0518"
+      ],
+      "first_EID": "E-0518",
+      "nonselected_count": 0
+    },
+    "R6|proceedings-pdf-candidate": {
+      "members": [
+        "E-0508"
+      ],
+      "first_EID": "E-0508",
+      "nonselected_count": 0
+    },
+    "R6|thesis-candidate": {
+      "members": [
+        "E-0509"
+      ],
+      "first_EID": "E-0509",
+      "nonselected_count": 0
+    }
+  },
+  "producer_explicit_R_type_groups_for_discrepancy_audit": {
+    "R1|book-candidate": {
+      "members": [
+        "E-0512"
+      ],
+      "first_EID": "E-0512",
+      "nonselected_count": 0
+    },
+    "R1|book-explicit": {
+      "members": [
+        "E-0503"
+      ],
+      "first_EID": "E-0503",
+      "nonselected_count": 0
+    },
+    "R1|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0504",
+        "E-0505",
+        "E-0517",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 4
+    },
+    "R1|conference-chapter-candidate": {
+      "members": [
+        "E-0516"
+      ],
+      "first_EID": "E-0516",
+      "nonselected_count": 0
+    },
+    "R1|conference-pdf-candidate": {
+      "members": [
+        "E-0513"
+      ],
+      "first_EID": "E-0513",
+      "nonselected_count": 0
+    },
+    "R1|journal-candidate": {
+      "members": [
+        "E-0514",
+        "E-0524"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 1
+    },
+    "R1|thesis-candidate": {
+      "members": [
+        "E-0507"
+      ],
+      "first_EID": "E-0507",
+      "nonselected_count": 0
+    },
+    "R2|conference-candidate": {
+      "members": [
+        "E-0505",
+        "E-0506",
+        "E-0523"
+      ],
+      "first_EID": "E-0505",
+      "nonselected_count": 2
+    },
+    "R3|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0505",
+        "E-0506",
+        "E-0511",
+        "E-0515",
+        "E-0517",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 6
+    },
+    "R3|conference-chapter-candidate": {
+      "members": [
+        "E-0502",
+        "E-0516"
+      ],
+      "first_EID": "E-0502",
+      "nonselected_count": 1
+    },
+    "R3|conference-pdf-candidate": {
+      "members": [
+        "E-0513"
+      ],
+      "first_EID": "E-0513",
+      "nonselected_count": 0
+    },
+    "R3|journal-candidate": {
+      "members": [
+        "E-0514",
+        "E-0521",
+        "E-0524"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 2
+    },
+    "R3|journal-pdf-candidate": {
+      "members": [
+        "E-0518"
+      ],
+      "first_EID": "E-0518",
+      "nonselected_count": 0
+    },
+    "R3|overview-chapter-candidate": {
+      "members": [
+        "E-0522"
+      ],
+      "first_EID": "E-0522",
+      "nonselected_count": 0
+    },
+    "R3|proceedings-pdf-candidate": {
+      "members": [
+        "E-0508"
+      ],
+      "first_EID": "E-0508",
+      "nonselected_count": 0
+    },
+    "R3|repository-pdf-unresolved": {
+      "members": [
+        "E-0520"
+      ],
+      "first_EID": "E-0520",
+      "nonselected_count": 0
+    },
+    "R3|thesis-candidate": {
+      "members": [
+        "E-0507",
+        "E-0509"
+      ],
+      "first_EID": "E-0507",
+      "nonselected_count": 1
+    },
+    "R4|journal-candidate": {
+      "members": [
+        "E-0514",
+        "E-0524"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 1
+    },
+    "R4|proceedings-pdf-candidate": {
+      "members": [
+        "E-0508"
+      ],
+      "first_EID": "E-0508",
+      "nonselected_count": 0
+    },
+    "R5|book-explicit": {
+      "members": [
+        "E-0503"
+      ],
+      "first_EID": "E-0503",
+      "nonselected_count": 0
+    },
+    "R5|conference-candidate": {
+      "members": [
+        "E-0505"
+      ],
+      "first_EID": "E-0505",
+      "nonselected_count": 0
+    },
+    "R5|conference-chapter-candidate": {
+      "members": [
+        "E-0516"
+      ],
+      "first_EID": "E-0516",
+      "nonselected_count": 0
+    },
+    "R5|journal-candidate": {
+      "members": [
+        "E-0514"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 0
+    },
+    "R6|conference-candidate": {
+      "members": [
+        "E-0501",
+        "E-0505",
+        "E-0511",
+        "E-0517",
+        "E-0523"
+      ],
+      "first_EID": "E-0501",
+      "nonselected_count": 4
+    },
+    "R6|conference-chapter-candidate": {
+      "members": [
+        "E-0516"
+      ],
+      "first_EID": "E-0516",
+      "nonselected_count": 0
+    },
+    "R6|conference-pdf-candidate": {
+      "members": [
+        "E-0513"
+      ],
+      "first_EID": "E-0513",
+      "nonselected_count": 0
+    },
+    "R6|journal-candidate": {
+      "members": [
+        "E-0514",
+        "E-0524"
+      ],
+      "first_EID": "E-0514",
+      "nonselected_count": 1
+    },
+    "R6|journal-pdf-candidate": {
+      "members": [
+        "E-0518"
+      ],
+      "first_EID": "E-0518",
+      "nonselected_count": 0
+    },
+    "R6|proceedings-pdf-candidate": {
+      "members": [
+        "E-0508"
+      ],
+      "first_EID": "E-0508",
+      "nonselected_count": 0
+    },
+    "R6|thesis-candidate": {
+      "members": [
+        "E-0507",
+        "E-0509"
+      ],
+      "first_EID": "E-0507",
+      "nonselected_count": 1
+    }
+  },
+  "finite_expansion": [
+    "E-0500",
+    "E-0501",
+    "E-0502",
+    "E-0503",
+    "E-0504",
+    "E-0505",
+    "E-0506",
+    "E-0507",
+    "E-0508",
+    "E-0509",
+    "E-0510",
+    "E-0511",
+    "E-0512",
+    "E-0513",
+    "E-0514",
+    "E-0515",
+    "E-0516",
+    "E-0517",
+    "E-0518",
+    "E-0519",
+    "E-0520",
+    "E-0521",
+    "E-0522",
+    "E-0523",
+    "E-0524"
+  ],
+  "expansion_reason": "Unsupported producer mappings and copied rationale; recheck all 25, not only deterministic group samples",
+  "status_at_freeze": "PLANNED; secondary check not yet performed",
+  "group_limit": "Occurrence EIDs and displayed type proxies, not canonical S-ID/C-ID protocol claim QC",
+  "checker": "Sol separate-pass AI self-audit; no independent human review"
+}

@@ -1,0 +1,91 @@
+{
+  "artifact": "Semantic Stage 1 eligibility overlay; OpenAlex original rows 151-300 only",
+  "generated_local": "2026-10-26T10:17:31+05:30",
+  "freeze": {
+    "EID_manifest": "frozen_EID_manifest.csv",
+    "manifest_sha256": "0d8e1ac8a8ced9f0d9a3072fbd240dc2f716c3c8b790891bbb8447a40f24c692",
+    "input_REVIEWQUEUE_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+    "freeze_time_local": "2026-10-26T09:46:31+05:30"
+  },
+  "selection": {
+    "total_OpenAlex_rows": 300,
+    "selected_openalex_ordinal_range": "151-300",
+    "input_row_range": [
+      151,
+      300
+    ],
+    "EID_range": [
+      "E-0350",
+      "E-0499"
+    ],
+    "ordering": "immutable REVIEWQUEUE original row order; source_platform=OpenAlex"
+  },
+  "semantic_review": {
+    "reviewer": "GPT-6 Luna (AI); actual rowwise title+exported abstract+metadata reading; not independent human review",
+    "reviewed_all_150": true,
+    "counts": {
+      "X3": 82,
+      "PENDING": 13,
+      "ADVANCE": 55
+    },
+    "X3_exclusions": 82,
+    "X3_review_manifest": "qc_exclusions.json",
+    "fulltext_inspected": 0,
+    "citation_pass": "NOT RUN",
+    "date_X1": 0,
+    "language_X2": 0,
+    "identity_merges": 0,
+    "new_SIDs": 0,
+    "work_count": "not inferred"
+  },
+  "QA": {
+    "input_immutable_hash_recheck": "PASS",
+    "150 occurrence + join fields/order": "PASS",
+    "new EIDs E-1250..E-1399 in order": "PASS",
+    "all stage1 exclusion candidates reread in separate pass": true,
+    "exclusion_count": 82,
+    "first_EID_per_RID/metadata-source-type_group": {
+      "R4 | metadata:article": "E-0367",
+      "R6 | metadata:article": "E-0367",
+      "R4 | metadata:preprint": "E-0391",
+      "R6 | metadata:preprint": "E-0391",
+      "R4 | metadata:other": "E-0397",
+      "R6 | metadata:other": "E-0397",
+      "R5 | metadata:article": "E-0400",
+      "R5 | metadata:book": "E-0407",
+      "R4 | metadata:book": "E-0407",
+      "R5 | metadata:preprint": "E-0412",
+      "R5 | metadata:dataset": "E-0427",
+      "R4 | metadata:dataset": "E-0427",
+      "R5 | metadata:dissertation": "E-0432",
+      "R4 | metadata:dissertation": "E-0432",
+      "R1 | metadata:article": "E-0450",
+      "R2 | metadata:article": "E-0450",
+      "R3 | metadata:article": "E-0450",
+      "R1 | metadata:conference-paper": "E-0456",
+      "R2 | metadata:conference-paper": "E-0456",
+      "R3 | metadata:conference-paper": "E-0456",
+      "R6 | metadata:conference-paper": "E-0456",
+      "R1 | metadata:book-chapter": "E-0484",
+      "R2 | metadata:book-chapter": "E-0484",
+      "R3 | metadata:book-chapter": "E-0484",
+      "R6 | metadata:book-chapter": "E-0484",
+      "R1 | metadata:dissertation": "E-0486",
+      "R2 | metadata:dissertation": "E-0486",
+      "R3 | metadata:dissertation": "E-0486",
+      "R6 | metadata:dissertation": "E-0486"
+    },
+    "performed": "Self-audit performed 2026-10-26; all 82 proposed X3 rationale rows and first advanced item for each recorded R/type group checked against saved rowwise rationale; reviewer is same AI, not independent human",
+    "planned_vs_performed": "This artifact performed the listed self-audit; not an independent-human QC and not passage-level verification",
+    "automated QC asserts": "row/order/join/hash/IDs/counts only; no automated semantic decision"
+  },
+  "limitations": [
+    "OpenAlex reconstructed abstracts are not publisher abstracts or full texts.",
+    "Generic 2026 metadata dates remain date-pending; exact source/version dates not checked.",
+    "Metadata language does not determine full-text language or authorized translation.",
+    "Source-type assessments are metadata-only and not final eligibility verification.",
+    "Candidate labels are relevance leads, not contribution comparison or gate closure.",
+    "All identities remain pending; no title-normalized duplicate merges.",
+    "No full-text queries, citation pass, passage verification or G3/G4 claim."
+  ]
+}

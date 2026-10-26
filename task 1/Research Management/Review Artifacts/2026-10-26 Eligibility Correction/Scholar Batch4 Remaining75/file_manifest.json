@@ -1,0 +1,65 @@
+{
+  "files": {
+    "authored_judgments_first25.json": {
+      "sha256": "39a1e1c2481d70936d136588fcb9868e2c8da6a576265694ed2bc8a5c48ad551",
+      "bytes": 38190
+    },
+    "authored_remaining_750_774.json": {
+      "sha256": "821f1703613f0c10293a465aae40dccdf11110e93897cee772fbc579330aaea6",
+      "bytes": 61732
+    },
+    "authored_remaining_775_799.json": {
+      "sha256": "4d909e7f88c8e8b898353ac55db2154544e8cba7c8ebdc9e0d17e60af7ed499a",
+      "bytes": 62322
+    },
+    "counts.json": {
+      "sha256": "b081b24644a4062432a62cf1df245e67690a2accc0e5b2420e1a155d2025ce39",
+      "bytes": 534
+    },
+    "handoff.md": {
+      "sha256": "d88a33cfc1b6abfe66ed1631bebe8724ceae51dab2b14b496b4990eed7688310",
+      "bytes": 3146
+    },
+    "overlay_first25.csv": {
+      "sha256": "735c19ec39678019e4133f2a9fb99d64020c49309384b6de77999062828cf614",
+      "bytes": 31074
+    },
+    "overlay_remaining50.csv": {
+      "sha256": "2b0fc74c9e9b9a0f8fd71922ca42ee7ca130199cde000f35a4128bddff6e593e",
+      "bytes": 212236
+    },
+    "primary_overlay_frozen_for_QA.csv": {
+      "sha256": "8a0cc9a3190c04bbd6a0f00eb27b0665521c802b1f7a9eb5047699e18027b70f",
+      "bytes": 99874
+    },
+    "remaining50_counts.json": {
+      "sha256": "e665eaf307c83ad96ae40d18bfe54f97745e99e3ab758f85a7dfbe8bec68f5ae",
+      "bytes": 1546
+    },
+    "remaining50_freeze.json": {
+      "sha256": "ebeaf9ad829a410c224e8380dab331756a274b670294245e900afe26577fd6ff",
+      "bytes": 2135
+    },
+    "secondary_freeze.json": {
+      "sha256": "aa1e3f9b18dba0485531166b70c523dac06ef2b06c8fff8ef44a955ff5c5dc40",
+      "bytes": 1134
+    },
+    "secondary_remaining50_freeze.json": {
+      "sha256": "95a8bc96bfb11770ed29f2ee55f46f496fcae2484ccc4052829b2ea490e593e8",
+      "bytes": 3337
+    },
+    "secondary_remaining50_results.json": {
+      "sha256": "8bdc862bd17be9aeb9c089084b8acc7264aef0ccb6db235860a9ddd481deeb05",
+      "bytes": 5710
+    },
+    "secondary_results.json": {
+      "sha256": "6cefa891eab09ce6f6f25fed83c6b182c0d5f300f50fdd9504e48d82710e0a8e",
+      "bytes": 1076
+    },
+    "target_freeze.json": {
+      "sha256": "49d8708f131274adf87398214ce9839571ee3bcef632dc0cf30930b8c1b21466",
+      "bytes": 2931
+    }
+  },
+  "note": "SHA-256 and byte size for each actual subtree file except this manifest"
+}

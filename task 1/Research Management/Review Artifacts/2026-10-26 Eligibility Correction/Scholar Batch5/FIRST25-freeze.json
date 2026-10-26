@@ -1,0 +1,24 @@
+{
+  "batch": "Scholar Batch5 FIRST25",
+  "frozen_at_local": "2026-10-26T12:27:47+05:30",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff_inclusive": "2026-10-25",
+  "source_path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "source_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "source_bytes": 2286727,
+  "source_csv_data_rows": 838,
+  "scope_ids": [
+    "E-0800",
+    "E-0824"
+  ],
+  "scope_count": 25,
+  "source_positions_1based": [
+    601,
+    625
+  ],
+  "prior_mispath_outputs_preserved_as_deviation_history": [
+    "task 1/Research Management/Review Artifacts/EligibilityCorrection/Scholar Batch5/freeze.json",
+    "task 1/Research Management/Review Artifacts/EligibilityCorrection/Scholar Batch5/handoff.md"
+  ],
+  "prior_outputs_role": "Producer history only; no retroactive claim of screening."
+}

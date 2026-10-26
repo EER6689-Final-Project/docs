@@ -1,0 +1,27 @@
+{
+  "batch": "Scholar Batch5 remaining75",
+  "frozen_at_local": "2026-10-26T12:33:39+05:30",
+  "protocol": "ERP-2026-10-25-v1.0",
+  "cutoff_inclusive": "2026-10-25",
+  "source_path": "task 1/Research Management/Review Artifacts/2026-10-26 Discovery/REVIEWQUEUE.csv",
+  "source_sha256": "92b984c89cf89ecdd8fe5970108e668e67f36cbfcbe4db08900af6d8032c10ad",
+  "source_bytes": 2286727,
+  "scope_count": 75,
+  "scope_ids": [
+    "E-0825",
+    "E-0899"
+  ],
+  "source_positions_1based": [
+    626,
+    700
+  ],
+  "reserved_producer_EIDs": [
+    "E-3925",
+    "E-3999"
+  ],
+  "scope_excludes_completed_first25": [
+    "E-0800",
+    "E-0824"
+  ],
+  "prior_first25_receipts_are_separate": true
+}

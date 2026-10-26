@@ -1,0 +1,112 @@
+{
+  "algorithm": "SHA-256",
+  "self_excluded": true,
+  "mechanical_verification": "PASSED; does not establish scientific validity",
+  "files": [
+    {
+      "path": "build_completion.py",
+      "sha256": "5ca3123589618238ad3a1b2695ba3509b9e1459a85e00feea135c71d0ea2952d",
+      "bytes": 9300,
+      "line_count": 72,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "counts.json",
+      "sha256": "501058c14116cc7415ce576a43c7a6a729e171fe4c71bb71159580f7dfdef387",
+      "bytes": 2458,
+      "line_count": 148,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "effective_state_838.csv",
+      "sha256": "1054e767ec7de1cfc9fe590fe60559fcc2d0c53a67dcc02b675183b04d46e3a9",
+      "bytes": 2854283,
+      "record_count": 838,
+      "count_basis": "data records excluding header; occurrences/events/checks as named, not distinct works"
+    },
+    {
+      "path": "freeze.py",
+      "sha256": "d70c1ca0f3f808b8df0b6cff3cdf4db76739280d2d4ed68edd4239f770e17b97",
+      "bytes": 1558,
+      "line_count": 28,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "group_exclusion_QA_results.json",
+      "sha256": "9d3bd24d131c3f858da9e97662ad689ecfd7c877580ddbb561f63f8695e8b981",
+      "bytes": 15932,
+      "line_count": 408,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "group_exclusion_freeze.json",
+      "sha256": "36ba6d70bf482cfb7d2ec48b80dfaeb423c3132c44f0ae35e1d6ed8b42bab851",
+      "bytes": 7153,
+      "line_count": 336,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "handoff.md",
+      "sha256": "df7bf2884b0d0b0e3ef89df1db56cb7ccf2a91f882f4f2f68e6564a07ce81a19",
+      "bytes": 8141,
+      "line_count": 50,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "integrity_checks.json",
+      "sha256": "f20e546fc274455e8b482c7e596b79986d079e2b320ed118e66970986e2916bb",
+      "bytes": 783,
+      "line_count": 20,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "item_checks.tsv",
+      "sha256": "98f8bfd7b5233d129a1b6859392ca773ab1ee55bb90f5fcfedb24431d4f035bd",
+      "bytes": 30387,
+      "record_count": 105,
+      "count_basis": "data records excluding header; occurrences/events/checks as named, not distinct works"
+    },
+    {
+      "path": "original_export_targets.csv",
+      "sha256": "f6392787a2b0758cc37eea24fc163ac35c7af1af52d39818898b9fc3d6b17e1c",
+      "bytes": 350629,
+      "record_count": 105,
+      "count_basis": "data records excluding header; occurrences/events/checks as named, not distinct works"
+    },
+    {
+      "path": "overlay.csv",
+      "sha256": "6601f0d2f97429eee88274ef9c24c7207158c8635163d69e836ad6299754ade8",
+      "bytes": 170288,
+      "record_count": 105,
+      "count_basis": "data records excluding header; occurrences/events/checks as named, not distinct works"
+    },
+    {
+      "path": "plan_groups.py",
+      "sha256": "d30ec76f9b4d619c69af90582f481da35a437479ba380bec99201b5970d914ab",
+      "bytes": 1919,
+      "line_count": 23,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "second_pass_checks.tsv",
+      "sha256": "2378b95624dc26c0ddf655dadfe41f4f50ba712e6594776bb334ddb1d1021a31",
+      "bytes": 4384,
+      "record_count": 16,
+      "count_basis": "data records excluding header; occurrences/events/checks as named, not distinct works"
+    },
+    {
+      "path": "target_freeze.json",
+      "sha256": "f4373193bd96a9693f3cfa42bd7e8635cb48e3a3b27f8e4f378cf077e4af758a",
+      "bytes": 4503,
+      "line_count": 236,
+      "count_basis": "text lines, not source or work counts"
+    },
+    {
+      "path": "verify_and_manifest.py",
+      "sha256": "1a029429ad28336caeff92c78d6bb2783574efdaf964c3e4ab272f5f94d1cd25",
+      "bytes": 3231,
+      "line_count": 65,
+      "count_basis": "text lines, not source or work counts"
+    }
+  ]
+}

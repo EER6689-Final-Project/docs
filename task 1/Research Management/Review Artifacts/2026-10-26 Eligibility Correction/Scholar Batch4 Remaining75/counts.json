@@ -1,0 +1,17 @@
+{
+  "frozen_target_count": 75,
+  "all_75_original_titles_entire_snippets_and_metadata_read": true,
+  "authored_itemwise_six_R_judgments": 25,
+  "ADVANCE": 25,
+  "PENDING": 0,
+  "X3": 0,
+  "secondary_original_export_rereads": 1,
+  "secondary_checked_no_discrepancy": 1,
+  "secondary_unreviewed_in_authored_subset": 24,
+  "unreviewed_semantic_judgments": 50,
+  "support_confidence_assessed": 0,
+  "fulltext_or_citations_run": false,
+  "identity_merges_or_DUP_resolutions": 0,
+  "producer_events_reserved": 75,
+  "new_events_used": 25
+}

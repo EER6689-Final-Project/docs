@@ -1,0 +1,401 @@
+{
+  "phase": "primary",
+  "emitted_at_utc": "2026-10-26T06:38:43.210950+00:00",
+  "note": "Tool emission, not elapsed semantic reading time or live source access.",
+  "records": [
+    {
+      "target": "E-0343",
+      "event": "E-3540",
+      "affected": [
+        "R1",
+        "R2"
+      ],
+      "previous_RIDs": "R1;R2;R3",
+      "previous_status": "ADVANCE",
+      "title": "Community contribution award -- Measuring and mitigating web performance bottlenecks in broadband access networks",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "We measure Web performance bottlenecks in home broadband access networks and evaluate ways to mitigate these bottlenecks with caching within home networks. We first measure Web performance bottlenecks to nine popular Web sites from more than 5,000 broadband access networks and demonstrate that when the downstream throughput of the access link exceeds about 16 Mbits/s, latency is the main bottleneck for Web page load time. Next, we use a router-based Web measurement tool, Mirage, to deconstruct Web page load time into its constituent components (DNS lookup, TCP connection setup, object download) and show that simple latency optimizations can yield significant improvements in overall page load times. We then present a case for placing a cache in the home network and deploy three common optimizations: DNS caching, TCP connection caching, and content caching. We show that caching only DNS and TCP connections yields significant improvements in page load time, even when the user's browser is already performing similar independent optimizations. Finally, we use traces from real homes to demonstrate how prefetching DNS and TCP connections for popular sites in a home-router cache can achieve faster page load times.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-10-22",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/2504730.2504741",
+        "platform_record_id": "https://openalex.org/W2006905279",
+        "record_url": "https://openalex.org/W2006905279",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/2504730.2504741\", \"publication_year\": 2013, \"publication_date\": \"2013-10-22\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Srikanth Sundaresan\", \"Nick Feamster\", \"Renata Teixeira\", \"Nazanin Magharei\"], \"venue\": null, \"openalex_id\": \"https://openalex.org/W2006905279\", \"landing_page_url\": \"https://doi.org/10.1145/2504730.2504741\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "44",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4bc417d6ef215e294a94438f712f6d7d38d3a3e1cf98514eb6a2f69890f26346"
+    },
+    {
+      "target": "E-0345",
+      "event": "E-3541",
+      "affected": [
+        "R1"
+      ],
+      "previous_RIDs": "R1;R3",
+      "previous_status": "ADVANCE",
+      "title": "A Service Provider's View of Web Site Performance.",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2001",
+        "publication_date": "2001-01-01",
+        "language": "en",
+        "doi": "",
+        "platform_record_id": "https://openalex.org/W30965998",
+        "record_url": "https://openalex.org/W30965998",
+        "raw_record_metadata": "{\"doi\": \"\", \"publication_year\": 2001, \"publication_date\": \"2001-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Chris L. Molloy\"], \"venue\": \"Int. CMG Conference\", \"openalex_id\": \"https://openalex.org/W30965998\", \"landing_page_url\": \"https://dblp.uni-trier.de/db/conf/cmg/cmg2001.html#Molloy01\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R3",
+        "query": "web performance synthetic representative",
+        "rank": "46",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "f4cfff98683a51338e7a814b266533298d2026e81b4d16f5123e57bdb377278b"
+    },
+    {
+      "target": "E-0351",
+      "event": "E-3542",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Uncertainty quantification, once a singular task, has evolved into a spectrum of tasks, including abstained prediction, out-of-distribution detection, and aleatoric uncertainty quantification. The latest goal is disentanglement: the construction of multiple estimators that are each tailored to one and only one source of uncertainty. This paper presents the first benchmark of uncertainty disentanglement. We reimplement and evaluate a comprehensive range of uncertainty estimators, from Bayesian over evidential to deterministic ones, across a diverse range of uncertainty tasks on ImageNet. We find that, despite recent theoretical endeavors, no existing approach provides pairs of disentangled uncertainty estimators in practice. We further find that specialized uncertainty tasks are harder than predictive uncertainty tasks, where we observe saturating performance. Our results provide both practical advice for which uncertainty estimators to use for which specific task, and reveal opportunities for future research toward task-centric and disentangled uncertainties. All our reimplementations and Weights & Biases logs are available at https://github.com/bmucsanyi/untangle.",
+      "metadata": {
+        "publication_year": "2024",
+        "publication_date": "2024-01-01",
+        "language": "en",
+        "doi": "https://doi.org/10.52202/079017-1614",
+        "platform_record_id": "https://openalex.org/W4415797714",
+        "record_url": "https://openalex.org/W4415797714",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.52202/079017-1614\", \"publication_year\": 2024, \"publication_date\": \"2024-01-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Bálint Mucsányi\", \"Michael Kirchhof\", \"Seung‐June Oh\"], \"venue\": \"neural information processing systems\", \"openalex_id\": \"https://openalex.org/W4415797714\", \"landing_page_url\": \"https://doi.org/10.52202/079017-1614\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "2",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "4cb5f2b39b0e88489d39497d0e7a8e3b11ab21d953312bdf268983d62d24c6db"
+    },
+    {
+      "target": "E-0352",
+      "event": "E-3543",
+      "affected": [
+        "R4",
+        "R5"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Uncertainty Analysis Study on Seakeeping Tests of Benchmark Model",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Experimental uncertainty and measurement, particularly in engineering, have been increasingly emphasized over the last 20 years. Uncertainty analysis of ship model testing in seakeeping experiments based on International Organization for Standardization, Guide for Uncertainty of Measurements (ISO-GUM), report with recommendations published by ITTC (2008). In this paper, the uncertainties for free-running tests were performed for a model scale 1:62 as a benchmark model test at the Indonesian Hydrodynamic Laboratory (IHL). The benchmark model is representative of a full scale of 186 meters. The model has full appendages as well as a rudder and propellers to allow for free-running tests, natural roll period, free roll decay, and swing tests. Factors of basic uncertainty (type A and type B) are estimated using model tests. The standard deviation of the mean value of a repeated measurement is uncertainty type A. However, Type B uncertainty is estimated from manufacturing specifications. The uncertainty components resulting from both types are quantified by standard deviations. The uncertainty value of Type B is approximated by a corresponding variance. This study helps to understand the underlying uncertainty associated with this research, which resulted in a total geometry uncertainty value (Lpp, B, T, H, KG ¯ , and kyy) of 0.17598% and the total uncertainty value of the instrument calibration results (wave height sensor and qualysis motion tracking) is 0.01161%. The results of this study are expected to minimize the impact of sources of uncertainty and allow the potential for underlying uncertainty to be corrected for the next seaworthiness test.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-09-01",
+        "language": "en",
+        "doi": "https://doi.org/10.1088/1755-1315/1081/1/012021",
+        "platform_record_id": "https://openalex.org/W4296820701",
+        "record_url": "https://openalex.org/W4296820701",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1088/1755-1315/1081/1/012021\", \"publication_year\": 2022, \"publication_date\": \"2022-09-01\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Nandiko Rizal\", \"Dian Purnama Sari\", \"Beny Cahyono\", \"Dedy Dwi Prastyo\", \"Baharuddin Ali\", \"Erdina Arianti\"], \"venue\": \"IOP Conference Series Earth and Environmental Science\", \"openalex_id\": \"https://openalex.org/W4296820701\", \"landing_page_url\": \"https://doi.org/10.1088/1755-1315/1081/1/012021\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "3",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a0d0cab9b7cd05d743cabc7a8db904984b4587a48b1e688cee28bd0f996fa2c7"
+    },
+    {
+      "target": "E-0353",
+      "event": "E-3544",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "A framework for benchmarking uncertainty in deep regression",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract We propose a framework for the assessment of uncertainty quantification in deep regression. The framework is based on regression problems where the regression function is a linear combination of nonlinear functions. Basically, any level of complexity can be realized through the choice of the nonlinear functions and the dimensionality of their domain. Results of an uncertainty quantification for deep regression are compared against those obtained by a statistical reference method. The reference method utilizes knowledge about the underlying nonlinear functions and is based on Bayesian linear regression using a prior reference. The flexibility, together with the availability of a reference solution, makes the framework suitable for defining benchmark sets for uncertainty quantification. Reliability of uncertainty quantification is assessed in terms of coverage probabilities, and accuracy through the size of calculated uncertainties. We illustrate the proposed framework by applying it to current approaches for uncertainty quantification in deep regression. In addition, results for three real-world regression tasks are presented.",
+      "metadata": {
+        "publication_year": "2022",
+        "publication_date": "2022-08-09",
+        "language": "en",
+        "doi": "https://doi.org/10.1007/s10489-022-03908-3",
+        "platform_record_id": "https://openalex.org/W3199479085",
+        "record_url": "https://openalex.org/W3199479085",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1007/s10489-022-03908-3\", \"publication_year\": 2022, \"publication_date\": \"2022-08-09\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Franko Schmähling\", \"Jörg Martin\", \"Clemens Elster\"], \"venue\": \"Applied Intelligence\", \"openalex_id\": \"https://openalex.org/W3199479085\", \"landing_page_url\": \"https://doi.org/10.1007/s10489-022-03908-3\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "4",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "953fed9b7ced51dd4731d0909b7451888deb89ede8e8284ba7577c599a893347"
+    },
+    {
+      "target": "E-0354",
+      "event": "E-3545",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "MUBen: Benchmarking the Uncertainty of Molecular Representation Models",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Large molecular representation models pre-trained on massive unlabeled data have shown great success in predicting molecular properties. However, these models may tend to overfit the fine-tuning data, resulting in over-confident predictions on test data that fall outside of the training distribution. To address this issue, uncertainty quantification (UQ) methods can be used to improve the models' calibration of predictions. Although many UQ approaches exist, not all of them lead to improved performance. While some studies have included UQ to improve molecular pre-trained models, the process of selecting suitable backbone and UQ methods for reliable molecular uncertainty estimation remains underexplored. To address this gap, we present MUBen, which evaluates different UQ methods for state-of-the-art backbone molecular representation models to investigate their capabilities. By fine-tuning various backbones using different molecular descriptors as inputs with UQ methods from different categories, we assess the influence of architectural decisions and training strategies. Our study offers insights for selecting UQ for backbone models, which can facilitate research on uncertainty-critical applications in fields such as materials science and drug discovery.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-06-14",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.2306.10060",
+        "platform_record_id": "https://openalex.org/W4381587374",
+        "record_url": "https://openalex.org/W4381587374",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.2306.10060\", \"publication_year\": 2023, \"publication_date\": \"2023-06-14\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Yinghao Li\", \"Lingkai Kong\", \"Yuanqi Du\", \"Yue Yu\", \"Yuchen Zhuang\", \"Wenhao Mu\", \"Chao Zhang\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W4381587374\", \"landing_page_url\": \"http://arxiv.org/abs/2306.10060\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "5",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "2fd108e495a418e41c6a98690faf46d134cca35564db116ff7adf2d3923924fc"
+    },
+    {
+      "target": "E-0355",
+      "event": "E-3546",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Uncertainty quantification in thermochemistry, benchmarking electronic structure computations, and Active Thermochemical Tables",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "The accepted convention for expressing uncertainties of thermochemical quantities, followed by virtually all thermochemical tabulations, is to provide earnest estimates of 95% confidence intervals. Theoretical studies frequently ignore this convention, and, instead, provide the mean absolute deviation, which underestimates the recommended thermochemical uncertainty by a factor of 2.5–3.5 or even more, and thus may vitiate claims that “chemical accuracy” (ability to predict thermochemical quantities within ±1 kcal/mol) has been achieved. Furthermore, copropagating underestimated uncertainties for theoretical values with uncertainties found in thermochemical compilations produces invalid uncertainties for reaction enthalpies. Two groups of procedures for determining the accuracy of computed thermochemical quantities are outlined: one relying on estimates that are based on experience, the other on benchmarking. Benchmarking procedures require a source of thermochemical data that is as accurate and reliable as possible. The role of Active Thermochemical Tables in benchmarking state‐of‐the‐art electronic structure methods is discussed. Published 2014. This article is a U.S. Government work and is in the public domain in the USA. International Journal of Quantum Chemistry published by Wiley Periodicals, Inc.",
+      "metadata": {
+        "publication_year": "2014",
+        "publication_date": "2014-01-11",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/qua.24605",
+        "platform_record_id": "https://openalex.org/W2048382000",
+        "record_url": "https://openalex.org/W2048382000",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/qua.24605\", \"publication_year\": 2014, \"publication_date\": \"2014-01-11\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Branko Ruščić\"], \"venue\": \"International Journal of Quantum Chemistry\", \"openalex_id\": \"https://openalex.org/W2048382000\", \"landing_page_url\": \"https://doi.org/10.1002/qua.24605\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "6",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "dc4fa79fa5a19fb6b433838bac9af767961f0d824ce5d5cde0714607e6ce1cb4"
+    },
+    {
+      "target": "E-0356",
+      "event": "E-3547",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "The Community Land Model Version 5: Description of New Features, Benchmarking, and Impact of Forcing Uncertainty",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract The Community Land Model (CLM) is the land component of the Community Earth System Model (CESM) and is used in several global and regional modeling systems. In this paper, we introduce model developments included in CLM version 5 (CLM5), which is the default land component for CESM2. We assess an ensemble of simulations, including prescribed and prognostic vegetation state, multiple forcing data sets, and CLM4, CLM4.5, and CLM5, against a range of metrics including from the International Land Model Benchmarking (ILAMBv2) package. CLM5 includes new and updated processes and parameterizations: (1) dynamic land units, (2) updated parameterizations and structure for hydrology and snow (spatially explicit soil depth, dry surface layer, revised groundwater scheme, revised canopy interception and canopy snow processes, updated fresh snow density, simple firn model, and Model for Scale Adaptive River Transport), (3) plant hydraulics and hydraulic redistribution, (4) revised nitrogen cycling (flexible leaf stoichiometry, leaf N optimization for photosynthesis, and carbon costs for plant nitrogen uptake), (5) global crop model with six crop types and time‐evolving irrigated areas and fertilization rates, (6) updated urban building energy, (7) carbon isotopes, and (8) updated stomatal physiology. New optional features include demographically structured dynamic vegetation model (Functionally Assembled Terrestrial Ecosystem Simulator), ozone damage to plants, and fire trace gas emissions coupling to the atmosphere. Conclusive establishment of improvement or degradation of individual variables or metrics is challenged by forcing uncertainty, parametric uncertainty, and model structural complexity, but the multivariate metrics presented here suggest a general broad improvement from CLM4 to CLM5.",
+      "metadata": {
+        "publication_year": "2019",
+        "publication_date": "2019-10-19",
+        "language": "en",
+        "doi": "https://doi.org/10.1029/2018ms001583",
+        "platform_record_id": "https://openalex.org/W2981104727",
+        "record_url": "https://openalex.org/W2981104727",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1029/2018ms001583\", \"publication_year\": 2019, \"publication_date\": \"2019-10-19\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"David M. Lawrence\", \"Rosie A. Fisher\", \"Charles D. Koven\", \"Keith W. Oleson\", \"Sean Claude Swenson\", \"Gordon B. Bonan\", \"Nathan Collier\", \"Bardan Ghimire\", \"Leo van Kampenhout\", \"Daniel Kennedy\", \"Erik Kluzek\", \"Peter Lawrence\", \"Fang Li\", \"Hong‐Yi Li\", \"Danica Lombardozzi\", \"W. J. Riley\", \"William J. Sacks\", \"Mingjie Shi\", \"Mariana Vertenstein\", \"William R. Wieder\", \"Chonggang Xu\", \"Ashehad Ashween Ali\", \"Andrew M. Badger\", \"Gautam Bisht\", \"M. R. van den Broeke\", \"Michael A. Brunke\", \"Sean P. Burns\", \"Jonathan Buzan\", \"Martyn Clark\", \"Anthony P Craig\", \"Kyla M. Dahlin\", \"Beth A. Drewniak\", \"Joshua B. Fisher\", \"Mark G. Flanner\", \"Andrew M. Fox\", \"Pierre Gentine\", \"Forrest M. Hoffman\", \"Gretchen Keppel‐Aleks\", \"Ryan Knox\", \"Sanjiv Kumar\", \"Jan T. M. Lenaerts\", \"Lai-Yung Ruby Leung\", \"William H. Lipscomb\", \"Yaqiong Lü\", \"Ashutosh Pandey\", \"Jon D. Pelletier\", \"J. Perket\", \"James T. Randerson\", \"Daniel M. Ricciuto\", \"Benjamin Mark Sanderson\", \"Andrew G. Slater\", \"Zachary M. Subin\", \"Jinyun Tang\", \"R. Quinn Thomas\", \"Maria Val Martin\", \"Xubin Zeng\"], \"venue\": \"Journal of Advances in Modeling Earth Systems\", \"openalex_id\": \"https://openalex.org/W2981104727\", \"landing_page_url\": \"https://doi.org/10.1029/2018ms001583\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "7",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "d5e190fc4cd1d39e52b9e6f90b65406036cf654dd49d88d67e126ebb9a7a4799"
+    },
+    {
+      "target": "E-0357",
+      "event": "E-3548",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4",
+      "previous_status": "ADVANCE",
+      "title": "Evaluating Aleatoric Uncertainty from Repeated Measurements: A Proper Scoring Rule for Heteroscedastic Probabilistic Surrogates",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.7548499",
+        "platform_record_id": "https://openalex.org/W7215091758",
+        "record_url": "https://openalex.org/W7215091758",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.7548499\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Ferdinand Dunkes\", \"Christian Breitsamter\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7215091758\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.7548499\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "8",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "01159d74e80a2bbb1974d74354aacf8188881612594c52b1db5fcf76022ffe09"
+    },
+    {
+      "target": "E-0358",
+      "event": "E-3549",
+      "affected": [
+        "R6"
+      ],
+      "previous_RIDs": "R3;R6",
+      "previous_status": "ADVANCE",
+      "title": "Benchmarking in Manipulation Research: The YCB Object and Model Set and Benchmarking Protocols",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "In this paper we present the Yale-CMU-Berkeley (YCB) Object and Model set, intended to be used to facilitate benchmarking in robotic manipulation, prosthetic design and rehabilitation research. The objects in the set are designed to cover a wide range of aspects of the manipulation problem; it includes objects of daily life with different shapes, sizes, textures, weight and rigidity, as well as some widely used manipulation tests. The associated database provides high-resolution RGBD scans, physical properties, and geometric models of the objects for easy incorporation into manipulation and planning software platforms. In addition to describing the objects and models in the set along with how they were chosen and derived, we provide a framework and a number of example task protocols, laying out how the set can be used to quantitatively evaluate a range of manipulation approaches including planning, learning, mechanical design, control, and many others. A comprehensive literature survey on existing benchmarks and object datasets is also presented and their scope and limitations are discussed. The set will be freely distributed to research groups worldwide at a series of tutorials at robotics conferences, and will be otherwise available at a reasonable purchase cost. It is our hope that the ready availability of this set along with the ground laid in terms of protocol templates will enable the community of manipulation researchers to more easily compare approaches as well as continually evolve benchmarking tests as the field matures.",
+      "metadata": {
+        "publication_year": "2015",
+        "publication_date": "2015-02-10",
+        "language": "en",
+        "doi": "https://doi.org/10.48550/arxiv.1502.03143",
+        "platform_record_id": "https://openalex.org/W1806263934",
+        "record_url": "https://openalex.org/W1806263934",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.48550/arxiv.1502.03143\", \"publication_year\": 2015, \"publication_date\": \"2015-02-10\", \"type\": \"preprint\", \"language\": \"en\", \"authorships\": [\"Berk Çallı\", \"Aaron Walsman\", \"Arjun Singh\", \"Siddhartha S Srinivasa\", \"Pieter Abbeel\", \"Aaron Michael Dollar\"], \"venue\": \"arXiv (Cornell University)\", \"openalex_id\": \"https://openalex.org/W1806263934\", \"landing_page_url\": \"http://arxiv.org/abs/1502.03143\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "9",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "9afb9d7905d6a11087d5511ea210b7aeff86f4e9450acbe8c41b514e393eea69"
+    },
+    {
+      "target": "E-0360",
+      "event": "E-3550",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "ADVANCE",
+      "title": "Impact of Stage Measurement Errors on Streamflow Uncertainty",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Stage measurement errors are generally overlooked when streamflow time series are derived from uncertain rating curves. We introduce an original method for propagating stage uncertainties due to two types of stage measurement errors: (i) errors of the stage read during the gauging and (ii) systematic and nonsystematic (independent) errors of the recorded stage time series. The error models are generic and can be used for any probabilistic rating curve estimation method that provides an ensemble of rating curves. The new method is applied to a range of six contrasting hydrometric stations in France. Uncertainty budgets quantifying the contribution of various error sources to the total streamflow uncertainty are computed and compared for streamflow time series averaged at time intervals from hour to year. A sensitivity analysis is conducted on the stage time series error model to identify the most sensitive parameters. The results are site specific, which illustrates the key role played by the properties of both the hydrometric site and the gauged catchment. Across the range of sites, stage errors of the gaugings are found to have limited impact on rating curve uncertainty, at least for gaugings performed in fair conditions. Nonsystematic errors in the stage time series have a negligible effect, generally. However, systematic stage errors should not be neglected. Over the six hydrometric stations in this study, the 95% uncertainty component reflecting stage systematic errors (from ±0.5 cm to ±6.8 cm) alone ranged from 4% to 12% of daily average streamflow, and from 1% to 3% of yearly average streamflow as sensors were assumed to be recalibrated every 30 days. Perspectives for improving and validating the streamflow uncertainty estimation techniques are eventually discussed.",
+      "metadata": {
+        "publication_year": "2018",
+        "publication_date": "2018-02-26",
+        "language": "en",
+        "doi": "https://doi.org/10.1002/2017wr022039",
+        "platform_record_id": "https://openalex.org/W2791336151",
+        "record_url": "https://openalex.org/W2791336151",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1002/2017wr022039\", \"publication_year\": 2018, \"publication_date\": \"2018-02-26\", \"type\": \"article\", \"language\": \"en\", \"authorships\": [\"Ivan Horner\", \"Benjamin Renard\", \"Jérôme Le Coz\", \"Flora Branger\", \"Hilary McMillan\", \"Gilles Pierrefeu\"], \"venue\": \"Water Resources Research\", \"openalex_id\": \"https://openalex.org/W2791336151\", \"landing_page_url\": \"https://doi.org/10.1002/2017wr022039\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "11",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "901b0532a5ea888220a48daf045d9197552c5a664db1095b2283a9c14344723c"
+    },
+    {
+      "target": "E-0361",
+      "event": "E-3551",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "ADVANCE",
+      "title": "Rigorous benchmarking in reasonable time",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Experimental evaluation is key to systems research. Because modern systems are complex and non-deterministic, good experimental methodology demands that researchers account for uncertainty. To obtain valid results, they are expected to run many iterations of benchmarks, invoke virtual machines (VMs) several times, or even rebuild VM or benchmark binaries more than once. All this repetition costs time to complete experiments. Currently, many evaluations give up on sufficient repetition or rigorous statistical methods, or even run benchmarks only in training sizes. The results reported often lack proper variation estimates and, when a small difference between two systems is reported, some are simply unreliable.",
+      "metadata": {
+        "publication_year": "2013",
+        "publication_date": "2013-06-20",
+        "language": "en",
+        "doi": "https://doi.org/10.1145/2464157.2464160",
+        "platform_record_id": "https://openalex.org/W2013901208",
+        "record_url": "https://openalex.org/W2013901208",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.1145/2464157.2464160\", \"publication_year\": 2013, \"publication_date\": \"2013-06-20\", \"type\": \"conference-paper\", \"language\": \"en\", \"authorships\": [\"Tomáš Kalibera\", \"Richard Jones\"], \"venue\": \"International Symposium on Memory Management\", \"openalex_id\": \"https://openalex.org/W2013901208\", \"landing_page_url\": \"https://doi.org/10.1145/2464157.2464160\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "12",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "c5894e5a3a196e499b2337f4486e549ca5fd90fdf98cd2f558286633a5971180"
+    },
+    {
+      "target": "E-0362",
+      "event": "E-3552",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R5",
+      "previous_status": "PENDING",
+      "title": "Uncertainty of ADV and volumetric PTV measurements of irregular wave kinematics",
+      "abstract_status": "No abstract supplied",
+      "entire_abstract": "",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-01-01",
+        "language": "",
+        "doi": "https://doi.org/10.2139/ssrn.7511777",
+        "platform_record_id": "https://openalex.org/W7214110914",
+        "record_url": "https://openalex.org/W7214110914",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.2139/ssrn.7511777\", \"publication_year\": 2026, \"publication_date\": \"2026-01-01\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Oliver Millar\", \"Alexandros Charogiannis\", \"Ioannis Karmpadakis\"], \"venue\": \"SSRN Electronic Journal\", \"openalex_id\": \"https://openalex.org/W7214110914\", \"landing_page_url\": \"https://doi.org/10.2139/ssrn.7511777\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "13",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "3d3dc5cb50ca8e89204c5e95ddec20b9b6dcde65b4f3eee35ada6d2be2201ebb"
+    },
+    {
+      "target": "E-0363",
+      "event": "E-3553",
+      "affected": [
+        "R4"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Advanced supply chain data modeling for performance measurement efficiency benchmarking and uncertainty-aware planning",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Advanced supply chain data modeling has become essential for improving performance measurement, efficiency benchmarking, and uncertainty-aware planning in increasingly complex and volatile operational environments. At a broad level, modern supply chains generate large volumes of heterogeneous data spanning production, inventory, transportation, and market demand. Leveraging this data through advanced modeling techniques enables organizations to move beyond descriptive reporting toward systematic evaluation of operational performance and comparative efficiency across processes, facilities, and networks. Focusing more narrowly, performance measurement and efficiency benchmarking require robust analytical frameworks capable of capturing both operational outputs and underlying resource constraints. Data-driven models such as stochastic frontier analysis, data envelopment analysis, and machine learning–based performance metrics allow organizations to benchmark efficiency under varying operating conditions while accounting for scale effects and structural differences. However, traditional benchmarking approaches often overlook uncertainty inherent in supply and demand, process variability, and external disruptions. This abstract emphasizes uncertainty-aware planning as an integral extension of advanced supply chain data modeling. By incorporating probabilistic forecasting, scenario analysis, and stochastic optimization, organizations can evaluate efficiency trade-offs under uncertainty and design adaptive operational plans. Integrating performance measurement with uncertainty-aware planning supports informed decision-making, enhances resilience, and enables continuous performance improvement across supply chain systems facing dynamic and unpredictable conditions.",
+      "metadata": {
+        "publication_year": "2023",
+        "publication_date": "2023-07-01",
+        "language": "",
+        "doi": "https://doi.org/10.33545/26648792.2023.v5.i2c.641",
+        "platform_record_id": "https://openalex.org/W7140230007",
+        "record_url": "https://openalex.org/W7140230007",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.33545/26648792.2023.v5.i2c.641\", \"publication_year\": 2023, \"publication_date\": \"2023-07-01\", \"type\": \"article\", \"language\": null, \"authorships\": [\"Bosede Ogunbamise\", \"Joanne Kusiima\", \"Suliyat Tijani\"], \"venue\": \"International Journal of Research in Management\", \"openalex_id\": \"https://openalex.org/W7140230007\", \"landing_page_url\": \"https://doi.org/10.33545/26648792.2023.v5.i2c.641\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "14",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "a9babc268bfefc7cabb8415e700d9c668bb64dfc260756aa8816243a7aa92126"
+    },
+    {
+      "target": "E-0364",
+      "event": "E-3554",
+      "affected": [
+        "R4",
+        "R6"
+      ],
+      "previous_RIDs": "R4;R6",
+      "previous_status": "PENDING",
+      "title": "Benchmarking Uncertainty and Improving Risk Ranking in Multi-task Bioactivity Prediction",
+      "abstract_status": "OpenAlex inverted-index reconstructed abstract",
+      "entire_abstract": "Abstract Multi-task bioactivity prediction transfers information across assays, but experimental prioritization also requires uncertainty estimates that identify unreliable predictions. We benchmarked prediction accuracy and uncertainty calibration for five multi-task predictors on 100 ChEMBL27 test assays and 100 CHEMBL37 assays under the random split and the clustering split. Calibration used native, Deep Ensemble and MC Dropout uncertainty; risk ranking was compared for two Gaussian process (GP) backbones. Adaptive deep kernel fitting (ADKF) achieved the best mean calibration results, while deep kernel transfer (DKT) ranked errors more effectively than ADKF with native uncertainty. We also introduce Influence Calibrated Support Reconstruction (ICSR), a risk score for kernel-based predictors. ICSR combines measured support reconstruction errors with query-specific influence and stabilizes their weighted average toward the full-support mean to adjust Gaussian process uncertainty while preserving predicted activities. With DKT and ADKF, ICSR improved all three mean risk-ranking metrics over native uncertainty and an adapted neighborhood comparator in every panel and split. ICSR achieved a mean half-query MAE reduction ( R 50 ) of 14.2–19.6%, where R 50 measures the percentage decrease in mean absolute error (MAE) after retaining the lowest-risk half of the queries. A retrospectively selected SARS-CoV-2 main protease case further illustrated its use for selecting more reliable predictions. The benchmark supports joint assessment of calibration and error ranking, while ICSR improves selective use of kernel-based bioactivity predictions.",
+      "metadata": {
+        "publication_year": "2026",
+        "publication_date": "2026-09-22",
+        "language": "",
+        "doi": "https://doi.org/10.64898/2026.09.15.751772",
+        "platform_record_id": "https://openalex.org/W7214032747",
+        "record_url": "https://openalex.org/W7214032747",
+        "raw_record_metadata": "{\"doi\": \"https://doi.org/10.64898/2026.09.15.751772\", \"publication_year\": 2026, \"publication_date\": \"2026-09-22\", \"type\": \"preprint\", \"language\": null, \"authorships\": [\"Zijian Wang\", \"Li Tian\", \"Chi‐Ming Che\"], \"venue\": \"bioRxiv (Cold Spring Harbor Laboratory)\", \"openalex_id\": \"https://openalex.org/W7214032747\", \"landing_page_url\": \"https://doi.org/10.64898/2026.09.15.751772\", \"is_retracted\": false}",
+        "operation": "OpenAlex_R4",
+        "query": "benchmarking repeated measurements uncertainty",
+        "rank": "15",
+        "source_platform": "OpenAlex"
+      },
+      "queue_record_sha256": "aa158089b1426f56da68f51d088fc3f1f9f34b34043257058b1c95473942ff2a"
+    }
+  ]
+}

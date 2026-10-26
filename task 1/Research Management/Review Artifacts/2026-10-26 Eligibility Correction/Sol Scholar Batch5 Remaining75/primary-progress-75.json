@@ -1,0 +1,20 @@
+{
+  "time": "2026-10-26T12:48:34.448601+05:30",
+  "actually_primary_read": 75,
+  "not_yet_reviewed": 0,
+  "counts": {
+    "ADVANCE": 53,
+    "PENDING": 3,
+    "X3": 19
+  },
+  "overlay": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Batch5 Remaining75/remaining75-overlay.csv",
+    "bytes": 606022,
+    "sha256": "a3850abd19f1dda9d7ca9518d579c879c89a8de3fa191993a0f0555f83910f0d"
+  },
+  "author_checks": {
+    "path": "task 1/Research Management/Review Artifacts/2026-10-26 Eligibility Correction/Sol Scholar Batch5 Remaining75/author-checks.json",
+    "bytes": 338597,
+    "sha256": "4f5ac63977b46a836ac01212c0326f928c09d59841ae8395d984b8975dc0ea73"
+  }
+}

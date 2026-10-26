@@ -1,0 +1,82 @@
+{
+  "record_occurrences": 838,
+  "overall": {
+    "X3": 144,
+    "ADVANCE": 613,
+    "X2": 3,
+    "DUP": 78
+  },
+  "counts_by_Q_ID": {
+    "Q-200": {
+      "X3": 41,
+      "ADVANCE": 8,
+      "X2": 1
+    },
+    "Q-201": {
+      "ADVANCE": 44,
+      "X3": 6
+    },
+    "Q-202": {
+      "ADVANCE": 13,
+      "DUP": 1,
+      "X3": 36
+    },
+    "Q-203": {
+      "ADVANCE": 29,
+      "X3": 20,
+      "DUP": 1
+    },
+    "Q-204": {
+      "ADVANCE": 39,
+      "X3": 11
+    },
+    "Q-205": {
+      "ADVANCE": 17,
+      "X3": 30,
+      "DUP": 1,
+      "X2": 2
+    },
+    "Q-206": {
+      "ADVANCE": 43,
+      "DUP": 7
+    },
+    "Q-207": {
+      "ADVANCE": 39,
+      "DUP": 11
+    },
+    "Q-208": {
+      "ADVANCE": 40,
+      "DUP": 10
+    },
+    "Q-209": {
+      "ADVANCE": 50
+    },
+    "Q-210": {
+      "ADVANCE": 46,
+      "DUP": 4
+    },
+    "Q-211": {
+      "ADVANCE": 42,
+      "DUP": 8
+    },
+    "Q-224": {
+      "ADVANCE": 43,
+      "DUP": 7
+    },
+    "Q-225": {
+      "ADVANCE": 40,
+      "DUP": 10
+    },
+    "Q-226": {
+      "ADVANCE": 28,
+      "DUP": 10
+    },
+    "Q-227": {
+      "ADVANCE": 50
+    },
+    "Q-228": {
+      "ADVANCE": 42,
+      "DUP": 8
+    }
+  }
+}

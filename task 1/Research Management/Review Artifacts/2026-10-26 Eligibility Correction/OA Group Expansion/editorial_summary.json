@@ -1,0 +1,49 @@
+{
+  "checked_at_utc": "2026-10-26T07:24:38.658575+00:00",
+  "commands": [
+    {
+      "command": [
+        "git",
+        "status",
+        "--short",
+        "--untracked-files=all"
+      ],
+      "returncode": 0,
+      "stdout_lines": 476,
+      "stdout_bytes": 56191,
+      "stderr": "",
+      "diff_check_output_sha256": "N/A"
+    },
+    {
+      "command": [
+        "git",
+        "diff",
+        "--ignore-space-at-eol",
+        "--",
+        "task 1"
+      ],
+      "returncode": 0,
+      "stdout_lines": 745,
+      "stdout_bytes": 180036,
+      "stderr": "",
+      "diff_check_output_sha256": "N/A"
+    },
+    {
+      "command": [
+        "git",
+        "diff",
+        "--check",
+        "--",
+        "task 1"
+      ],
+      "returncode": 2,
+      "stdout_lines": 2572,
+      "stdout_bytes": 413647,
+      "stderr": "",
+      "diff_check_output_sha256": "56e32b6aee66ac41ed8653bd8ea8db7195d3c017b9606359c1d6e2cef893fb22",
+      "scope_note": "Existing whitespace findings outside the owned new subtree; no unrelated files altered."
+    }
+  ],
+  "own_text_files_trailing_whitespace": [],
+  "scope": "Git diff may contain pre-existing orchestrator/user changes; this agent edited only the owned new subtree. Untracked research deliverables were checked directly."
+}
