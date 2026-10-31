@@ -95,3 +95,7 @@ The report title is now **Reliability of Delayed Website or Web Application Perf
 The current stage is explicitly literature review and research proposal. The work plan now includes subsequent implementation, readiness checks, feasibility pilot, main experiment, analysis, discussion, future-work planning and final empirical reporting. Pilot limits, hypotheses and the five objectives are unchanged. The abstract has been rewritten for a broader readership without reporting unperformed work as results.
 
 The researcher requested a separate mathematics font. TeX Gyre Termes Math is used only for mathematical notation; normal prose remains Times New Roman at 12 pt with a 15 pt baseline. PDF metadata is restricted to the report title, author, subject and keywords. The prior reviewed submission was committed and pushed as `fb19010` before these changes. Fresh build and layout checks are recorded in `docs/review/submission-revision-2026-11-01.md`.
+
+## Abstract and reliability terminology — 1 November 2026
+
+The abstract now motivates the study through repeated monitoring visits and illustrative changes in authentication, cache state, image loading and main-thread activity. These examples explain why follow-up evidence may not identify the original cause; they do not add authentication experiments to FP-0.1. The term **diagnostic reliability index** denotes the existing original-cause attribution rate, not a new composite score. Its denominator, deadline, budget conditions and missing-label rules are unchanged. Cost and uncertainty remain separately reported.

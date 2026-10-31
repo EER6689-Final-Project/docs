@@ -97,3 +97,6 @@ institutional approval.
 The latest title, application, work-plan, abstract and mathematics-font revision
 is verified in `review/submission-revision-2026-11-01.md`; earlier build receipts
 refer to their recorded artifact hashes.
+
+The subsequent abstract and diagnostic reliability-index clarification is recorded
+in `review/abstract-revision-2026-11-01.md`, which identifies the current PDF hash.
