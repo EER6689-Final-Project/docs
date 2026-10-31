@@ -38,3 +38,7 @@ Sol original-passage recheck, 2026-10-25; **not independent human/scientific rev
 ## Copy receipt
 
 Source: `/tmp/opencode/eei6689-t16-supporting/klotski-paper.pdf`; new target `Klotski 2015.pdf`, 1,360,188 bytes. Exact bytes preserved; source/target SHA-256 checked, no existing target overwritten. Original official-venue provenance is Luna's retrieval plus Sol cover/identity review; the failed fresh HTTP 403 does not replace that receipt with a new successful retrieval claim.
+
+## Zotero identity update — 2026-10-31
+
+A parent record for this paper was added to Final Project Research Papers and individually read back through the local API: **`JL4U756T`**, retaining local source ID **S-0013**. The earlier unresolved-key wording describes the original review pass; its passage, edition and appraisal limits remain unchanged. See the [Study Source Map](<../../../Research Management/Study Source Map.md>) and [import receipt](<../../../Research Archive/Review Artifacts/2026-10-31 Study Source Map/README.md>).

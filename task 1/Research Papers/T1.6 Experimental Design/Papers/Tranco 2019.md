@@ -38,3 +38,7 @@ Sol original-passage recheck, 2026-10-25; separate agent passage pass after Luna
 Source: `/tmp/opencode/eei6689-t16-supporting/tranco-paper.pdf`; new target `Tranco 2019.pdf`, 650,399 bytes. Exact bytes preserved; source/target SHA-256 checked, no existing target overwritten. Sol's fresh official download `/tmp/opencode/eei6689-t16-supporting/tranco-official-sol.pdf` has the same hash, independently confirming the corrected hash-to-work association (not independent scientific review).
 
 Final editorial/pagination self-audit corrected a draft page-count error using `pdfinfo`. Because text segmentation could affect PDF anchors, the check expanded to all four supporting-PDF claims C-T1.6-050–053: page-bounded original extraction explicitly revalidated Tranco pp. 12–13, Demir pp. 5–6, Klotski pp. 3/10 and Polaris pp. 8/11. All retained anchors remained valid; no inferred text-segment page count is used.
+
+## Zotero identity update — 2026-10-31
+
+A parent record for this paper was added to Final Project Research Papers and individually read back through the local API: **`MWTY6KCS`**, retaining local source ID **S-0010**. The earlier unresolved-key wording describes the original review pass; its passage, edition and appraisal limits remain unchanged. See the [Study Source Map](<../../../Research Management/Study Source Map.md>) and [import receipt](<../../../Research Archive/Review Artifacts/2026-10-31 Study Source Map/README.md>).

@@ -1,0 +1,260 @@
+{
+  "review_id": "SC-2026-10-31",
+  "date_local": "2026-10-31",
+  "timezone": "Asia/Colombo",
+  "purpose": "Decision-critical supplementary source verification for Reliability of Delayed Browser Performance Diagnosis",
+  "reviewers": {
+    "extractor": "Codex assistant",
+    "checker": "Same assistant in a separate targeted pass",
+    "independent_human_review": false
+  },
+  "query_engine": "web.run; supplementary targeted search, not prescribed Scholar/OpenAlex execution",
+  "queries_submitted": [
+    "\"LMAT\" \"112890\"",
+    "\"2411.17548\" \"3749839\"",
+    "\"Mertz\" \"111708\"",
+    "\"Tracing Optimization for Performance Modeling\" \"3749839\"",
+    "\"Miller95Paradyn\" \"1995\"",
+    "\"Leveraging Website Popularity Differences\" Grassi 2021 pdf",
+    "site:ftp.cs.wisc.edu/paradyn/papers \"471178\"",
+    "site:pages.cs.wisc.edu \"The Paradyn Parallel Performance Tools\" pdf",
+    "site:heng-li.org \"Tracing Optimization\"",
+    "site:sciencedirect.com/science/article/pii/S0164121226001238 \"pre-trigger\"",
+    "site:sciencedirect.com/science/article/pii/S0164121226001238 \"tracing\" \"3.\"",
+    "\"Tracing Optimization\" \"Shahedi\" \"2025\" site:heng-li.org",
+    "\"Tracing Optimization\" \"Shahedi\" site:users.encs.concordia.ca",
+    "\"Tracing Optimization for Performance Modeling and Regression Detection\" Shahedi journal",
+    "\"LMAT\" \"pre-trigger\" tracing",
+    "site:dl.acm.org \"3749839\" \"2026\"",
+    "\"browser\" \"performance diagnosis\" \"rerun\"",
+    "\"web performance\" \"root cause\" \"transient\" profiling",
+    "\"web performance\" \"original\" \"retroactive\" tracing",
+    "site:publications.polymtl.ca \"Tracing Optimization for Performance Modeling and Regression Detection\"",
+    "\"browser performance\" \"diagnosis\" \"intermittent\" paper",
+    "\"web performance\" \"diagnosis\" \"retention\" paper",
+    "site:ieeexplore.ieee.org/document/471178 \"Paradyn\"",
+    "site:dl.acm.org/doi/10.1145/3749839 \"35\" \"134\"",
+    "\"Prediction of performance anomalies in web-applications based-on software aging scenarios\" pdf"
+  ],
+  "query_results_limitations": "Exact ranked complete result sets and per-query timestamps were not archived; some multi-query results were irrelevant. No zero-hit, total retrieved-work count, search sufficiency or absence claim is inferred. Secondary search snippets were navigation leads only. Discovery searches here are not a prespecified exhaustive query set; only the bounded claims with original-source anchors are used.",
+  "frozen_cutoff": "2026-10-25; unchanged",
+  "source_files": [
+    {
+      "claim_id": "SC-C03",
+      "path": "Sources/WMF - INFOCOM 2021 author paper.pdf",
+      "origin_url": "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+      "sha256": "0f123c2198ce4a888eeb54c3861f29e9fe2ad7f5dc9005d73eb43e7f6fa0c042",
+      "bytes": 1951962,
+      "physical_pages": 10,
+      "access": "Downloaded from public primary host with curl after sandbox DNS failures; extracted with pdftotext -layout.",
+      "read_bounds": [
+        "title/abstract; PDF 3–6, sections III–V",
+        "selected VII.B/Conclusion passages on PDF 8–9; not complete-page reading of both",
+        "PDF 6 rendered and visually inspected"
+      ]
+    },
+    {
+      "claim_id": "SC-C02",
+      "path": "Sources/Hindsight - NSDI 2023.pdf",
+      "origin_url": "https://www.usenix.org/system/files/nsdi23-zhang-lei.pdf",
+      "sha256": "ac598bae927cbb5e728fb98ea1007e287bf8d5397805ead6318df2e45b250ccc",
+      "bytes": 1996223,
+      "physical_pages": 20,
+      "access": "Downloaded from public primary host with curl after sandbox DNS failures; extracted with pdftotext -layout.",
+      "read_bounds": [
+        "title/abstract; sections 3–4.3, PDF 5–7, printed 324–326",
+        "section 6 evaluation setup, PDF 9 / printed 328",
+        "selected event-horizon/loss passages; PDF 6 rendered and visually inspected"
+      ]
+    },
+    {
+      "claim_id": "SC-C04",
+      "path": "Sources/Shahedi - Tracing Optimization arXiv v1.pdf",
+      "origin_url": "https://arxiv.org/pdf/2411.17548v1",
+      "sha256": "257c2fcfd74e6a5ffb5be6db6fecce5af7332100ae1d69040f0dbcdb9b9cd5aa",
+      "bytes": 809423,
+      "physical_pages": 23,
+      "access": "Downloaded from public primary host with curl after sandbox DNS failures; extracted with pdftotext -layout.",
+      "read_bounds": [
+        "title/abstract and selected RQ passages on PDF 3",
+        "PDF 6, 13, 18–20: sections 3.1, 3.4.2–3.4.3, 4.4 and 5",
+        "No final journal text read; numerical tables not adopted"
+      ]
+    },
+    {
+      "claim_id": "SC-C05",
+      "path": "Sources/Mertz and Nunes - Adaptive Sampling arXiv v1.pdf",
+      "origin_url": "https://arxiv.org/pdf/2305.01039v1",
+      "sha256": "a93a1824ff1852121eda7d5e49c491c79bf26e0428e6179f4c60dede71db566e",
+      "bytes": 1238807,
+      "physical_pages": 14,
+      "access": "Downloaded from public primary host with curl after sandbox DNS failures; extracted with pdftotext -layout.",
+      "read_bounds": [
+        "title/abstract; selected sections 3–3.4, especially PDF 7",
+        "PDF 8: section 4.1; PDF 12: sections 4.4–4.5",
+        "Algorithm scope appraised; no proof or statistical guarantee adopted"
+      ]
+    },
+    {
+      "claim_id": "SC-C06",
+      "path": "Sources/Paradyn - project manuscript.pdf",
+      "origin_url": "https://ftp.cs.wisc.edu/paradyn/papers/Miller95Paradyn.pdf",
+      "sha256": "8ca9a189f970735eb5cb6315abd0cc264e8bdf417f834b25ce448d8cdce672d2",
+      "bytes": 98155,
+      "physical_pages": 23,
+      "access": "Downloaded from public primary host with curl after sandbox DNS failures; extracted with pdftotext -layout.",
+      "read_bounds": [
+        "title/abstract; PDF/printed 4–5 section 1.2",
+        "Author bibliography associates paper path with journal work; final edited text unread"
+      ]
+    },
+    {
+      "claim_id": "SC-C07",
+      "existing_repository_path": "task 1/Research Papers/T1.4 Statistical Measurement/Papers/Netravali et al. 2018 - Vesper Measuring Time-to-Interactivity for Web Pages.pdf",
+      "sha256": "664ac6ed1b076d429d2552fb15a2f4550e2b0f0056ee77be48487aff07d4629e",
+      "physical_pages_targeted": [
+        8,
+        9
+      ],
+      "access": "Existing attachment; Vesper extracted directly this round. WebREC preprint checked through arXiv v4 HTML against previously identified local attachment; final checked separately through USENIX PDF text.",
+      "copied": false
+    },
+    {
+      "claim_id": "SC-C08",
+      "existing_repository_path": "task 1/Research Papers/T1.3 Synthetic Agents and External Validity/Papers/Hantke et al. 2025 - Web Execution Bundles Reproducible, Accurate, and Archivable Web Measurements.pdf",
+      "sha256": "5a0b2dc6d9c2f69212d2c6fee140f65bef6d0cd08bcf6a99bca86ac2f0c1df4c",
+      "physical_pages_targeted": [
+        5,
+        6,
+        13
+      ],
+      "access": "Existing attachment; Vesper extracted directly this round. WebREC preprint checked through arXiv v4 HTML against previously identified local attachment; final checked separately through USENIX PDF text.",
+      "copied": false
+    }
+  ],
+  "web_access": [
+    {
+      "claim_id": "SC-C01",
+      "urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0164121226001238",
+        "https://threadslab.org/research-publications/papers/lmat-adaptive-tracing-language-models/",
+        "https://github.com/kasra-darvishi/adaptive_tracer"
+      ],
+      "result": "Publisher direct open 403; search-indexed primary body passages available. Author record and artifact citation/method descriptions accessible.",
+      "inspected": "Indexed sections 3/3.1, 5.4, 6 intermittent-and-rare-errors, 7; author Method/Limitations/Citation; artifact citation/overview.",
+      "discrepancy": "Indexed controller passage says post-trigger linger maintained; discussion says evaluated prototype has no pre-trigger buffer or post-trigger linger. Exact implementation unresolved. No numeric effect promoted."
+    },
+    {
+      "claim_id": "SC-C04",
+      "urls": [
+        "https://arxiv.org/abs/2411.17548",
+        "https://www.hengli.org/publications/",
+        "https://dl.acm.org/doi/10.1145/3749839",
+        "https://dl.acm.org/doi/pdf/10.1145/3749839",
+        "https://publications.polymtl.ca/view/person/e5172357fe7982db40c63911f4452646.html"
+      ],
+      "result": "arXiv and coauthor page read. Publisher landing/PDF 403; institutional index direct open cache miss. Same publisher route includes landing and PDF variants.",
+      "inspected": "Coauthor title/authors/DOI and 2025 accepted status; no final edition methods/pagination adopted. Secondary 2026 issue snippets not promoted."
+    },
+    {
+      "claim_id": "SC-C03",
+      "urls": [
+        "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+        "https://cs-pub.bu.edu/faculty/crovella/list.html"
+      ],
+      "result": "Web PDF open failed; direct curl download succeeded after network escalation. Paper supersedes author-list author-order variation.",
+      "inspected": "Direct local passages in file manifest; prior reported root-versus-Luna access mismatch resolved by new access, not by inferring historical success."
+    },
+    {
+      "claim_id": "SC-C06",
+      "urls": [
+        "https://pages.cs.wisc.edu/~bart/includes/publications.html",
+        "https://www.cs.wisc.edu/paradyn/papers/Miller95Paradyn.pdf",
+        "https://ftp.cs.wisc.edu/paradyn/papers/Miller95Paradyn.pdf",
+        "https://doi.org/10.1109/2.471178"
+      ],
+      "result": "Author bibliography 1995 entry read; linked www path fetch failed, ftp-host HTTPS copy accessible and downloaded. Journal DOI retrieval failed.",
+      "inspected": "Author-supplied work/manuscript association only; exact final text unverified."
+    },
+    {
+      "claim_id": "SC-C08",
+      "urls": [
+        "https://www.usenix.org/system/files/usenixsecurity25-hantke.pdf",
+        "https://arxiv.org/html/2501.15911v4"
+      ],
+      "result": "USENIX final 20-page PDF text and arXiv v4 HTML accessible. Local final-PDF download failed with connection reset; no local final file claimed.",
+      "inspected": "Final title/cover; section 2.3.2 physical PDF 6, sections 3.2–3.3 PDF 7–8, section 6.1 and end of section 5 PDF 14. Targeted passages only; not whole-version equality. Screenshot command requested PDF pages 7 and 14 but returned no usable image to the model; no final-PDF visual inspection claimed."
+    },
+    {
+      "claim_id": "SC-C09",
+      "urls": [
+        "https://github.com/GoogleChrome/web-vitals",
+        "https://github.com/GoogleChrome/web-vitals/blob/main/package.json",
+        "https://raw.githubusercontent.com/GoogleChrome/web-vitals/v5.1.0/README.md",
+        "https://raw.githubusercontent.com/GoogleChrome/web-vitals/v5.1.0/src/types/INPAttribution.ts",
+        "https://raw.githubusercontent.com/GoogleChrome/web-vitals/v5.1.0/src/types/CLSAttribution.ts"
+      ],
+      "result": "Main README/package page surfaced; v5.1.0 README is the named reference for adopted schema statements. Individual type-source opens returned cache misses.",
+      "inspected": "v5.1.0 Attribution, INPAttribution, CLSAttribution, LCPAttribution, Limitations. Main is not a selected implementation. No latest-release assertion, runtime test or code audit."
+    },
+    {
+      "claim_id": "SC-C10",
+      "urls": [
+        "https://w3c.github.io/performance-timeline/"
+      ],
+      "result": "Editor draft dated 26 October 2026 read; mutable work in progress.",
+      "inspected": "sections 2, 4.1–4.2, 5.6: type buffers, buffered retrieval, dropped entries. Browser conformance untested."
+    },
+    {
+      "claim_id": "SC-C11",
+      "urls": [
+        "https://wicg.github.io/js-self-profiling/"
+      ],
+      "result": "Current mutable draft accessible.",
+      "inspected": "Profiling Sessions, Sampling, ProfilerInitOptions and Document Policy; requested versus actual interval, sample-buffer-full behavior and current js-profiling-mode wording. No assumed equivalence to older implementation headers."
+    },
+    {
+      "role": "supplementary lead",
+      "urls": [
+        "https://www.usenix.org/conference/atc21/presentation/weng",
+        "https://www.usenix.org/system/files/atc21-weng.pdf"
+      ],
+      "result": "Argus venue citation/abstract and original PDF introduction/section 2, physical pages 2–3 checked.",
+      "inspected": "Desktop causal diagnosis includes a Chrome/macOS issue. Evaluation/full-cost comparison not appraised; no numeric effectiveness claim promoted."
+    },
+    {
+      "role": "existing discovery lead E-0633/Q-208",
+      "urls": [
+        "https://ieeexplore.ieee.org/abstract/document/5722095/"
+      ],
+      "result": "Existing Snapshot 7 occurrence inspected locally; title search surfaced publisher/secondary metadata. No original method full text obtained in this round.",
+      "inspected": "Historical-data anomaly-prediction lead only; no frozen state/identity merge or count change."
+    }
+  ],
+  "retrieval_limit_note": "Publisher landing/PDF variants and transport retries for the same primary URL are recorded as one content route; no publisher access control was bypassed. Author/institution routes and remaining edition holds are explicit.",
+  "local_operations": {
+    "scratch_directory": "/tmp/eei6689-source-checks",
+    "extraction": "pdftotext -layout; outputs sometimes truncated, so read bounds below exclude whole-paper claims",
+    "visual_checks": [
+      "WMF physical PDF 6",
+      "Hindsight physical PDF 6"
+    ],
+    "auxiliary_unadopted_reads": [
+      "Howard local PDF first page and Kalibera source-note opening inspected for context; no statistical method selected, no new methodological claim promoted."
+    ]
+  },
+  "qc": {
+    "SC-C01": "unresolved controller discrepancy; broad overlap qualified",
+    "SC-C02_to_SC-C11": "checked-no-discrepancy for bounded retained claims; edition/conformance limits preserved",
+    "gate_effect": "G3–G7 remain open; no main-study/pilot readiness approval"
+  },
+  "accounting": {
+    "historical_matrix_evidence_rows": 133,
+    "separate_closest_work_supplement": 5,
+    "frozen_discovery_occurrences": 838,
+    "advance": 574,
+    "X3": 112,
+    "pending": 152,
+    "zotero_library_access": "Unavailable; local identities do not establish live membership. No Zotero mutations."
+  }
+}

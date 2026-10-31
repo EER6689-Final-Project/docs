@@ -1,0 +1,13 @@
+{
+  "batches": [
+    {
+      "top_level_items_checked": 376,
+      "method": "all local API top-level pages; exact normalized title, DOI and URL matching"
+    },
+    {
+      "top_level_items_checked": 388,
+      "method": "all local API top-level pages; exact normalized title, DOI and URL matching"
+    }
+  ],
+  "note": "Second batch followed discovery of newer project appraisals; prior12records already present."
+}

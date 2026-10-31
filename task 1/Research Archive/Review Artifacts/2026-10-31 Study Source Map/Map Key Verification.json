@@ -1,0 +1,798 @@
+{
+  "date": "2026-10-31",
+  "local_top_level_items_checked": 390,
+  "map_item_keys": 158,
+  "verified": {
+    "KE53ZLW3": {
+      "key": "KE53ZLW3",
+      "title": "Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing",
+      "itemType": "conferencePaper"
+    },
+    "UMVA36NP": {
+      "key": "UMVA36NP",
+      "title": "JS Self-Profiling API draft",
+      "itemType": "webpage"
+    },
+    "A3SS4UWX": {
+      "key": "A3SS4UWX",
+      "title": "LMAT: An adaptive tracing approach based on efficient system behavior analysis using language models",
+      "itemType": "journalArticle"
+    },
+    "3ED3FDXH": {
+      "key": "3ED3FDXH",
+      "title": "The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems",
+      "itemType": "conferencePaper"
+    },
+    "P57ARGS6": {
+      "key": "P57ARGS6",
+      "title": "Leveraging Website Popularity Differences to Identify Performance Anomalies",
+      "itemType": "conferencePaper"
+    },
+    "IX2DU87B": {
+      "key": "IX2DU87B",
+      "title": "Tracing Optimization for Performance Modeling and Regression Detection",
+      "itemType": "report"
+    },
+    "WE8HHCA8": {
+      "key": "WE8HHCA8",
+      "title": "Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces",
+      "itemType": "journalArticle"
+    },
+    "Z2BQ69Z4": {
+      "key": "Z2BQ69Z4",
+      "title": "Diagnosing Performance Changes by Comparing Request Flows",
+      "itemType": "conferencePaper"
+    },
+    "9IN2U6Z2": {
+      "key": "9IN2U6Z2",
+      "title": "Understanding Website Complexity: Measurements, Metrics, and Implications",
+      "itemType": "conferencePaper"
+    },
+    "MWTY6KCS": {
+      "key": "MWTY6KCS",
+      "title": "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation",
+      "itemType": "conferencePaper"
+    },
+    "JL4U756T": {
+      "key": "JL4U756T",
+      "title": "Klotski: Reprioritizing Web Content to Improve User Experience on Mobile Devices",
+      "itemType": "conferencePaper"
+    },
+    "N33VTKAN": {
+      "key": "N33VTKAN",
+      "title": "web-vitals library: usage and attribution build",
+      "itemType": "webpage"
+    },
+    "SSS4NSXC": {
+      "key": "SSS4NSXC",
+      "title": "Playwright: Isolation and browser contexts",
+      "itemType": "webpage"
+    },
+    "63QKVL86": {
+      "key": "63QKVL86",
+      "title": "Chrome DevTools Protocol: Tracing domain",
+      "itemType": "webpage"
+    },
+    "RB93JMBB": {
+      "key": "RB93JMBB",
+      "title": "Reproducibility and Replicability of Web Measurement Studies",
+      "itemType": "conferencePaper"
+    },
+    "GYIRB4X5": {
+      "key": "GYIRB4X5",
+      "title": "5.3.3.4. Fractional factorial designs",
+      "itemType": "webpage"
+    },
+    "V8C28N5J": {
+      "key": "V8C28N5J",
+      "title": "5.3.3.3. Full factorial designs",
+      "itemType": "webpage"
+    },
+    "T2YDS3PP": {
+      "key": "T2YDS3PP",
+      "title": "5.3.3.2.2. Graeco-Latin square designs",
+      "itemType": "webpage"
+    },
+    "FBTV2ICM": {
+      "key": "FBTV2ICM",
+      "title": "5.3.3.2. Randomized block designs",
+      "itemType": "webpage"
+    },
+    "A3AT7C2E": {
+      "key": "A3AT7C2E",
+      "title": "A research-oriented top sites ranking hardened against manipulation - Tranco",
+      "itemType": "webpage"
+    },
+    "TAZSGXJH": {
+      "key": "TAZSGXJH",
+      "title": "Towards Realistic and ReproducibleWeb Crawl Measurements",
+      "itemType": "conferencePaper"
+    },
+    "BCIWQ2PK": {
+      "key": "BCIWQ2PK",
+      "title": "Methodology | The Web Almanac by HTTP Archive",
+      "itemType": "webpage"
+    },
+    "QYN69APX": {
+      "key": "QYN69APX",
+      "title": "The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing",
+      "itemType": "conferencePaper"
+    },
+    "VGT3AWRS": {
+      "key": "VGT3AWRS",
+      "title": "Speedometer 3.1",
+      "itemType": "webpage"
+    },
+    "B9FIJAKE": {
+      "key": "B9FIJAKE",
+      "title": "Towards Realistic and ReproducibleWeb Crawl Measurements",
+      "itemType": "conferencePaper"
+    },
+    "U2NAEPYI": {
+      "key": "U2NAEPYI",
+      "title": "The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing",
+      "itemType": "conferencePaper"
+    },
+    "HA26TRBU": {
+      "key": "HA26TRBU",
+      "title": "Polaris: Faster Page Loads Using Fine-grained Dependency Tracking",
+      "itemType": "journalArticle"
+    },
+    "6UGAU5X4": {
+      "key": "6UGAU5X4",
+      "title": "Mahimahi: Accurate Record-and-Replay for HTTP",
+      "itemType": "conferencePaper"
+    },
+    "LP4CHUX3": {
+      "key": "LP4CHUX3",
+      "title": "How Speedy is {SPDY}?",
+      "itemType": "conferencePaper"
+    },
+    "98WM2BIA": {
+      "key": "98WM2BIA",
+      "title": "[VIM3] 2.25 measurement reproducibility",
+      "itemType": "webpage"
+    },
+    "YIBGR5RT": {
+      "key": "YIBGR5RT",
+      "title": "[VIM3] 2.21 measurement repeatability",
+      "itemType": "webpage"
+    },
+    "DT5MQ99J": {
+      "key": "DT5MQ99J",
+      "title": "[VIM3] 2.15 measurement precision",
+      "itemType": "webpage"
+    },
+    "AAW3TPVK": {
+      "key": "AAW3TPVK",
+      "title": "[VIM3] 2.13 measurement accuracy",
+      "itemType": "webpage"
+    },
+    "E8MGSAC8": {
+      "key": "E8MGSAC8",
+      "title": "Quantifying Performance Changes with Effect Size Confidence Intervals",
+      "itemType": "preprint"
+    },
+    "WF5NM72E": {
+      "key": "WF5NM72E",
+      "title": "Performance mutation testing",
+      "itemType": "journalArticle"
+    },
+    "EI36S6VA": {
+      "key": "EI36S6VA",
+      "title": "Performance mutation testing",
+      "itemType": "journalArticle"
+    },
+    "N5YHCXI3": {
+      "key": "N5YHCXI3",
+      "title": "ROC CURVE",
+      "itemType": "webpage"
+    },
+    "VMWYVJKL": {
+      "key": "VMWYVJKL",
+      "title": "Performance panel: Analyze your website's performance | Chrome DevTools",
+      "itemType": "webpage"
+    },
+    "9T8ACIJ8": {
+      "key": "9T8ACIJ8",
+      "title": "Time to Interactive | Lighthouse",
+      "itemType": "webpage"
+    },
+    "U9PHTV9S": {
+      "key": "U9PHTV9S",
+      "title": "User Timing marks and measures | Lighthouse",
+      "itemType": "webpage"
+    },
+    "AIFQRE7Y": {
+      "key": "AIFQRE7Y",
+      "title": "Avoid enormous network payloads | Lighthouse",
+      "itemType": "webpage"
+    },
+    "QHUCFVBF": {
+      "key": "QHUCFVBF",
+      "title": "Total Blocking Time | Lighthouse",
+      "itemType": "webpage"
+    },
+    "QF52VUCU": {
+      "key": "QF52VUCU",
+      "title": "Largest Contentful Paint | Lighthouse",
+      "itemType": "webpage"
+    },
+    "9WMJW57H": {
+      "key": "9WMJW57H",
+      "title": "What's new in DevTools, Chrome 143 | Blog",
+      "itemType": "webpage"
+    },
+    "NTWVE6GJ": {
+      "key": "NTWVE6GJ",
+      "title": "What's New In DevTools (Chrome 103) | Blog",
+      "itemType": "webpage"
+    },
+    "FNWVG4JH": {
+      "key": "FNWVG4JH",
+      "title": "Monitor your local and real-user Core Web Vitals performance in DevTools | Blog",
+      "itemType": "webpage"
+    },
+    "7CBVI4EG": {
+      "key": "7CBVI4EG",
+      "title": "Confidence interval estimation for the Bland-Altman limits of agreement with multiple observations per individual",
+      "itemType": "journalArticle"
+    },
+    "6VK2G66S": {
+      "key": "6VK2G66S",
+      "title": "Statistical models for assessing agreement in method comparison studies with replicate measurements",
+      "itemType": "journalArticle"
+    },
+    "8FNYPXJD": {
+      "key": "8FNYPXJD",
+      "title": "A new biometrical procedure for testing the equality of measurements from two different analytical methods. Application of linear regression procedures for method comparison studies in clinical chemistry, Part I",
+      "itemType": "journalArticle"
+    },
+    "HB6E4DMC": {
+      "key": "HB6E4DMC",
+      "title": "A concordance correlation coefficient to evaluate reproducibility",
+      "itemType": "journalArticle"
+    },
+    "X4BEQVFF": {
+      "key": "X4BEQVFF",
+      "title": "Measuring agreement in method comparison studies",
+      "itemType": "journalArticle"
+    },
+    "4MGN3SYQ": {
+      "key": "4MGN3SYQ",
+      "title": "[VIM3] 2.18 measurement bias",
+      "itemType": "webpage"
+    },
+    "ZNCYRKP4": {
+      "key": "ZNCYRKP4",
+      "title": "A Robust Measure of Skewness",
+      "itemType": "journalArticle"
+    },
+    "X7ZXVUQY": {
+      "key": "X7ZXVUQY",
+      "title": "Alternatives to the Median Absolute Deviation",
+      "itemType": "journalArticle"
+    },
+    "SKLNC8DZ": {
+      "key": "SKLNC8DZ",
+      "title": "Adaptive Stopping Rule for Performance Measurements",
+      "itemType": "webpage"
+    },
+    "GANI6MKK": {
+      "key": "GANI6MKK",
+      "title": "Sequential estimation of quantiles with applications to A/B testing and best-arm identification",
+      "itemType": "journalArticle"
+    },
+    "NIWWJJIZ": {
+      "key": "NIWWJJIZ",
+      "title": "Time-uniform, nonparametric, nonasymptotic confidence sequences",
+      "itemType": "journalArticle"
+    },
+    "ISZ9TU75": {
+      "key": "ISZ9TU75",
+      "title": "Virtual Machine Warmup Blows Hot and Cold",
+      "itemType": "journalArticle"
+    },
+    "TNLWEEU7": {
+      "key": "TNLWEEU7",
+      "title": "Time-uniform, nonparametric, nonasymptotic confidence sequences",
+      "itemType": "journalArticle"
+    },
+    "XX924A92": {
+      "key": "XX924A92",
+      "title": "Finite-Sample Performance of Absolute Precision Stopping Rules",
+      "itemType": "journalArticle"
+    },
+    "DS3SS83A": {
+      "key": "DS3SS83A",
+      "title": "(PDF) Statistically Rigorous Java Performance Evaluation",
+      "itemType": "journalArticle"
+    },
+    "E2A63QR8": {
+      "key": "E2A63QR8",
+      "title": "Sample Quantiles in Statistical Packages",
+      "itemType": "journalArticle"
+    },
+    "L59HPN96": {
+      "key": "L59HPN96",
+      "title": "Robust analogs to the coefficient of variation",
+      "itemType": "journalArticle"
+    },
+    "SMCZWD5S": {
+      "key": "SMCZWD5S",
+      "title": "Calculating nonparametric confidence intervals for quantiles using fractional order statistics",
+      "itemType": "journalArticle"
+    },
+    "2K3IB5CQ": {
+      "key": "2K3IB5CQ",
+      "title": "Better Bootstrap Confidence Intervals",
+      "itemType": "journalArticle"
+    },
+    "TWKB9CAY": {
+      "key": "TWKB9CAY",
+      "title": "Rigorous benchmarking in reasonable time",
+      "itemType": "conferencePaper"
+    },
+    "T3FHMMCH": {
+      "key": "T3FHMMCH",
+      "title": "How the Core Web Vitals metrics thresholds were defined | Articles",
+      "itemType": "webpage"
+    },
+    "W5GNFUTP": {
+      "key": "W5GNFUTP",
+      "title": "Robust benchmarking in noisy environments",
+      "itemType": "journalArticle"
+    },
+    "JNNJZS5L": {
+      "key": "JNNJZS5L",
+      "title": "Demystifying Page Load Performance with WProf",
+      "itemType": "journalArticle"
+    },
+    "YEM9ZMRR": {
+      "key": "YEM9ZMRR",
+      "title": "Duet Benchmarking: Improving Measurement Accuracy in the Cloud",
+      "itemType": "conferencePaper"
+    },
+    "KKG9KNEU": {
+      "key": "KKG9KNEU",
+      "title": "Robust benchmarking in noisy environments",
+      "itemType": "journalArticle"
+    },
+    "6H3HKLL4": {
+      "key": "6H3HKLL4",
+      "title": "The Tail at Scale",
+      "itemType": "journalArticle"
+    },
+    "SZBK3ZEE": {
+      "key": "SZBK3ZEE",
+      "title": "The Distribution Is the Performance",
+      "itemType": "webpage"
+    },
+    "D568X6SQ": {
+      "key": "D568X6SQ",
+      "title": "Demystifying Page Load Performance with WProf",
+      "itemType": "journalArticle"
+    },
+    "P94EL9KH": {
+      "key": "P94EL9KH",
+      "title": "Statistically rigorous java performance evaluation",
+      "itemType": "conferencePaper"
+    },
+    "B39WMA9T": {
+      "key": "B39WMA9T",
+      "title": "Duet Benchmarking: Improving Measurement Accuracy in the Cloud",
+      "itemType": "conferencePaper"
+    },
+    "GJMALCNF": {
+      "key": "GJMALCNF",
+      "title": "Rigorous benchmarking in reasonable time",
+      "itemType": "journalArticle"
+    },
+    "DJI5ULJD": {
+      "key": "DJI5ULJD",
+      "title": "(PDF) Towards Representative Web Performance Measurements with Google Lighthouse",
+      "itemType": "conferencePaper"
+    },
+    "H2BXWLHZ": {
+      "key": "H2BXWLHZ",
+      "title": "Web Experience in Mobile Networks: Lessons from Two Million Page Visits",
+      "itemType": "conferencePaper"
+    },
+    "TAB5LR2M": {
+      "key": "TAB5LR2M",
+      "title": "RFC9111",
+      "itemType": "webpage"
+    },
+    "4XWMB3XH": {
+      "key": "4XWMB3XH",
+      "title": "lighthouse/docs/lantern.md at main · GoogleChrome/lighthouse",
+      "itemType": "webpage"
+    },
+    "JT3PXZLG": {
+      "key": "JT3PXZLG",
+      "title": "lighthouse/docs/throttling.md at main · GoogleChrome/lighthouse",
+      "itemType": "webpage"
+    },
+    "EPH3DPP2": {
+      "key": "EPH3DPP2",
+      "title": "tc-netem(8) - Linux manual page",
+      "itemType": "webpage"
+    },
+    "YLRND2GP": {
+      "key": "YLRND2GP",
+      "title": "Network - DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "ZZSL9IPU": {
+      "key": "ZZSL9IPU",
+      "title": "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements",
+      "itemType": "preprint"
+    },
+    "UKNA4QJZ": {
+      "key": "UKNA4QJZ",
+      "title": "Emulation - DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "9IDW7B5Y": {
+      "key": "9IDW7B5Y",
+      "title": "Through the Lens of Google CrUX: Dissecting Web Browsing Experience Across Devices and Countries",
+      "itemType": "preprint"
+    },
+    "SYQR5RQL": {
+      "key": "SYQR5RQL",
+      "title": "Domain-Sharding for Faster HTTP/2 in Lossy Cellular Networks",
+      "itemType": "preprint"
+    },
+    "DFUNZS6W": {
+      "key": "DFUNZS6W",
+      "title": "CrUX API | Chrome UX Report",
+      "itemType": "webpage"
+    },
+    "Q2T3R76T": {
+      "key": "Q2T3R76T",
+      "title": "What slows you down? Your network or your device?",
+      "itemType": "preprint"
+    },
+    "NW3PJGSZ": {
+      "key": "NW3PJGSZ",
+      "title": "Correlating Lighthouse scores to page-level CrUX data - Analysis",
+      "itemType": "webpage"
+    },
+    "ESM2TZ9A": {
+      "key": "ESM2TZ9A",
+      "title": "Khipu Visualisation | RIPE Atlas Documentation",
+      "itemType": "webpage"
+    },
+    "VDGPNUWI": {
+      "key": "VDGPNUWI",
+      "title": "CrUX on BigQuery | Chrome UX Report",
+      "itemType": "webpage"
+    },
+    "MDWB2TDG": {
+      "key": "MDWB2TDG",
+      "title": "Navigation types now available in CrUX | Blog",
+      "itemType": "webpage"
+    },
+    "RUPJYKW5": {
+      "key": "RUPJYKW5",
+      "title": "More accurate DevTools performance debugging using real-world data | Blog",
+      "itemType": "webpage"
+    },
+    "WU62T7AT": {
+      "key": "WU62T7AT",
+      "title": "Performance features reference | Chrome DevTools",
+      "itemType": "webpage"
+    },
+    "IL735Y87": {
+      "key": "IL735Y87",
+      "title": "Research Synthetic Profiles",
+      "itemType": "webpage"
+    },
+    "JRR4K3ST": {
+      "key": "JRR4K3ST",
+      "title": "Dimensions | Chrome UX Report",
+      "itemType": "webpage"
+    },
+    "9V33RJH6": {
+      "key": "9V33RJH6",
+      "title": "HTTP: Primer on Web Performance - High Performance Browser Networking (O'Reilly)",
+      "itemType": "webpage"
+    },
+    "99DTPUKH": {
+      "key": "99DTPUKH",
+      "title": "How To Think About Speed Tools | Articles",
+      "itemType": "webpage"
+    },
+    "JHEC6VHJ": {
+      "key": "JHEC6VHJ",
+      "title": "Why lab and field data can be different (and what to do about it) | Articles",
+      "itemType": "webpage"
+    },
+    "GJ9PAHK3": {
+      "key": "GJ9PAHK3",
+      "title": "Modeling User-Centered Page Load Time for Smartphones",
+      "itemType": "conferencePaper"
+    },
+    "2LYVIL8I": {
+      "key": "2LYVIL8I",
+      "title": "A Vital Improvement? Relating Google's Core Web Vitals to Actual Web QoE",
+      "itemType": "conferencePaper"
+    },
+    "6EFLN7PR": {
+      "key": "6EFLN7PR",
+      "title": "Perceived Performance of Top Retail Webpages In the Wild: Insights from Large-scale Crowdsourcing of Above-the-Fold QoE",
+      "itemType": "conferencePaper"
+    },
+    "9A8CMSAY": {
+      "key": "9A8CMSAY",
+      "title": "Speed Index: Relating the Industrial Standard for User Perceived Web Performance to web QoE",
+      "itemType": "conferencePaper"
+    },
+    "R2U9EAFA": {
+      "key": "R2U9EAFA",
+      "title": "Layout Instability API",
+      "itemType": "webpage"
+    },
+    "HS3PKWFL": {
+      "key": "HS3PKWFL",
+      "title": "Vesper: Measuring Time-to-Interactivity for Web Pages",
+      "itemType": "conferencePaper"
+    },
+    "22HAD6YA": {
+      "key": "22HAD6YA",
+      "title": "Do you agree? Contrasting Google’s Core Web Vitals and the impact of cookie consent banners with actual web QoE",
+      "itemType": "journalArticle"
+    },
+    "WUUGBCG4": {
+      "key": "WUUGBCG4",
+      "title": "Improving User Perceived Page Load Times Using Gaze",
+      "itemType": "conferencePaper"
+    },
+    "9WT3HAHJ": {
+      "key": "9WT3HAHJ",
+      "title": "Optimize along the way: An industrial case study on web performance",
+      "itemType": "journalArticle"
+    },
+    "NJYH4V45": {
+      "key": "NJYH4V45",
+      "title": "WICG/performance-measure-memory",
+      "itemType": "computerProgram"
+    },
+    "3KVANYXJ": {
+      "key": "3KVANYXJ",
+      "title": "CrUX methodology | Chrome UX Report",
+      "itemType": "webpage"
+    },
+    "WB6JZEUA": {
+      "key": "WB6JZEUA",
+      "title": "Lighthouse performance scoring",
+      "itemType": "webpage"
+    },
+    "A8GDSSI7": {
+      "key": "A8GDSSI7",
+      "title": "Speed Index | Lighthouse",
+      "itemType": "webpage"
+    },
+    "BL8XCEDY": {
+      "key": "BL8XCEDY",
+      "title": "Timeline event reference | Chrome DevTools",
+      "itemType": "webpage"
+    },
+    "DP9EINBS": {
+      "key": "DP9EINBS",
+      "title": "Metrics | Chrome UX Report",
+      "itemType": "webpage"
+    },
+    "XFCVZVBE": {
+      "key": "XFCVZVBE",
+      "title": "Web Performance Working Group - Publications",
+      "itemType": "webpage"
+    },
+    "GYN22PP7": {
+      "key": "GYN22PP7",
+      "title": "Cumulative Layout Shift (CLS) | Articles",
+      "itemType": "webpage"
+    },
+    "VWHJLGV3": {
+      "key": "VWHJLGV3",
+      "title": "Advancing Interaction to Next Paint | Blog",
+      "itemType": "webpage"
+    },
+    "B8XNKSHY": {
+      "key": "B8XNKSHY",
+      "title": "Interaction to Next Paint (INP)  |  web.dev",
+      "itemType": "webpage"
+    },
+    "UN6NKBQX": {
+      "key": "UN6NKBQX",
+      "title": "Web Vitals  |  Articles  |  web.dev",
+      "itemType": "webpage"
+    },
+    "EVB9FDNG": {
+      "key": "EVB9FDNG",
+      "title": "Understanding Measurement Perturbation in Trace-based Data",
+      "itemType": "conferencePaper"
+    },
+    "TIIDVPV8": {
+      "key": "TIIDVPV8",
+      "title": "The Paradyn Parallel Performance Measurement Tools",
+      "itemType": "webpage"
+    },
+    "BUPGR8ZJ": {
+      "key": "BUPGR8ZJ",
+      "title": "A framework for reducing the cost of instrumented code",
+      "itemType": "conferencePaper"
+    },
+    "T3K44KHZ": {
+      "key": "T3K44KHZ",
+      "title": "A framework for reducing the cost of instrumented code",
+      "itemType": "conferencePaper"
+    },
+    "3TNGADXQ": {
+      "key": "3TNGADXQ",
+      "title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild",
+      "itemType": "conferencePaper"
+    },
+    "5NNCRU98": {
+      "key": "5NNCRU98",
+      "title": "STABILIZER: statistically sound performance evaluation",
+      "itemType": "conferencePaper"
+    },
+    "IWCIN2C5": {
+      "key": "IWCIN2C5",
+      "title": "Producing wrong data without doing anything obviously wrong!",
+      "itemType": "conferencePaper"
+    },
+    "YTP4WLI9": {
+      "key": "YTP4WLI9",
+      "title": "ProtoZero design document - Perfetto Tracing Docs",
+      "itemType": "webpage"
+    },
+    "J9YYJDDP": {
+      "key": "J9YYJDDP",
+      "title": "Overhead Compensation in Performance Profiling | Springer Nature Link",
+      "itemType": "webpage"
+    },
+    "MF3Z7MCZ": {
+      "key": "MF3Z7MCZ",
+      "title": "Impact of extensions on browser performance: An empirical study on google chrome",
+      "itemType": "journalArticle"
+    },
+    "9TZCJ36B": {
+      "key": "9TZCJ36B",
+      "title": "Detecting Bot Detection: Prevalence, Techniques, and Implications for Web Measurement Research",
+      "itemType": "preprint"
+    },
+    "XV62BFGD": {
+      "key": "XV62BFGD",
+      "title": "Chrome Headless mode  |  Automation and testing  |  Chrome for Developers",
+      "itemType": "webpage"
+    },
+    "JZ6S53CX": {
+      "key": "JZ6S53CX",
+      "title": "Chromium Docs - Life of a frame",
+      "itemType": "webpage"
+    },
+    "CWHHFA55": {
+      "key": "CWHHFA55",
+      "title": "lighthouse/docs/variability.md at main · GoogleChrome/lighthouse",
+      "itemType": "webpage"
+    },
+    "MI895PBZ": {
+      "key": "MI895PBZ",
+      "title": "lighthouse/docs/throttling.md at main · GoogleChrome/lighthouse",
+      "itemType": "webpage"
+    },
+    "I2QWB27Y": {
+      "key": "I2QWB27Y",
+      "title": "lighthouse/docs/architecture.md at main · GoogleChrome/lighthouse",
+      "itemType": "webpage"
+    },
+    "WYGSHWFH": {
+      "key": "WYGSHWFH",
+      "title": "Puppeteer",
+      "itemType": "webpage"
+    },
+    "HUJR8W9W": {
+      "key": "HUJR8W9W",
+      "title": "Adding Traces to Chromium/WebKit/Javascript",
+      "itemType": "webpage"
+    },
+    "P82GMMCM": {
+      "key": "P82GMMCM",
+      "title": "Adding Traces to Chromium/WebKit/Javascript",
+      "itemType": "webpage"
+    },
+    "47DZSUKL": {
+      "key": "47DZSUKL",
+      "title": "FrameViewer How-To",
+      "itemType": "webpage"
+    },
+    "WRY7VL9Z": {
+      "key": "WRY7VL9Z",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "66QX7WHN": {
+      "key": "66QX7WHN",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "H6CJZ69R": {
+      "key": "H6CJZ69R",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "I9Z9RWE2": {
+      "key": "I9Z9RWE2",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "GC9EIJZR": {
+      "key": "GC9EIJZR",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "QW7AGAGB": {
+      "key": "QW7AGAGB",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "SU8DH5XW": {
+      "key": "SU8DH5XW",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "92RRK4LT": {
+      "key": "92RRK4LT",
+      "title": "Chrome DevTools Protocol",
+      "itemType": "webpage"
+    },
+    "CU4HMS98": {
+      "key": "CU4HMS98",
+      "title": "High Resolution Time",
+      "itemType": "webpage"
+    },
+    "6SJEG5G9": {
+      "key": "6SJEG5G9",
+      "title": "Long Animation Frames API",
+      "itemType": "webpage"
+    },
+    "KEJFZJHV": {
+      "key": "KEJFZJHV",
+      "title": "Long Tasks API",
+      "itemType": "webpage"
+    },
+    "I8L7FN9V": {
+      "key": "I8L7FN9V",
+      "title": "Event Timing API",
+      "itemType": "webpage"
+    },
+    "6WVYFE8R": {
+      "key": "6WVYFE8R",
+      "title": "Largest Contentful Paint",
+      "itemType": "webpage"
+    },
+    "JJWRMF5Z": {
+      "key": "JJWRMF5Z",
+      "title": "Navigation Timing Level 2",
+      "itemType": "webpage"
+    },
+    "84ZFNR74": {
+      "key": "84ZFNR74",
+      "title": "Paint Timing",
+      "itemType": "webpage"
+    },
+    "NXHCE5SV": {
+      "key": "NXHCE5SV",
+      "title": "Resource Timing",
+      "itemType": "webpage"
+    },
+    "REP5RHB6": {
+      "key": "REP5RHB6",
+      "title": "Performance Timeline",
+      "itemType": "webpage"
+    }
+  },
+  "missing_keys": []
+}

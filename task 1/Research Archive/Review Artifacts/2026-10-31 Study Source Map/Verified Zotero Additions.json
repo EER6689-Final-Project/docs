@@ -1,0 +1,1058 @@
+[
+  {
+    "key": "A3SS4UWX",
+    "version": 1130,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/A3SS4UWX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/A3SS4UWX",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Darvishi et al.",
+      "parsedDate": "2026",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "A3SS4UWX",
+      "version": 1130,
+      "itemType": "journalArticle",
+      "title": "LMAT: An adaptive tracing approach based on efficient system behavior analysis using language models",
+      "date": "2026",
+      "DOI": "10.1016/j.jss.2026.112890",
+      "url": "https://doi.org/10.1016/j.jss.2026.112890",
+      "accessDate": "2026-10-31",
+      "volume": "238",
+      "pages": "112890",
+      "publicationTitle": "Journal of Systems and Software",
+      "creators": [
+        {
+          "firstName": "Kasra",
+          "lastName": "Darvishi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Morteza",
+          "lastName": "Noferesti",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yuvraj",
+          "lastName": "Sehgal",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Naser",
+          "lastName": "Ezzati-Jivan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "3ED3FDXH",
+    "version": 1131,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/3ED3FDXH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/3ED3FDXH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Zhang et al.",
+      "parsedDate": "2023",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3ED3FDXH",
+      "version": 1131,
+      "itemType": "conferencePaper",
+      "title": "The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems",
+      "date": "2023",
+      "url": "https://www.usenix.org/conference/nsdi23/presentation/zhang-lei",
+      "accessDate": "2026-10-31",
+      "publisher": "USENIX Association",
+      "pages": "321-339",
+      "proceedingsTitle": "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 23)",
+      "creators": [
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiqiang",
+          "lastName": "Xie",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vaastav",
+          "lastName": "Anand",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ymir",
+          "lastName": "Vigfusson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jonathan",
+          "lastName": "Mace",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "P57ARGS6",
+    "version": 1132,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/P57ARGS6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/P57ARGS6",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Grassi et al.",
+      "parsedDate": "2021",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "P57ARGS6",
+      "version": 1132,
+      "itemType": "conferencePaper",
+      "title": "Leveraging Website Popularity Differences to Identify Performance Anomalies",
+      "date": "2021",
+      "DOI": "10.1109/INFOCOM42981.2021.9488832",
+      "url": "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+      "accessDate": "2026-10-31",
+      "publisher": "IEEE",
+      "proceedingsTitle": "IEEE INFOCOM 2021 - IEEE Conference on Computer Communications",
+      "creators": [
+        {
+          "firstName": "Giulio",
+          "lastName": "Grassi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Renata",
+          "lastName": "Teixeira",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chadi",
+          "lastName": "Barakat",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Crovella",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "IX2DU87B",
+    "version": 1133,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/IX2DU87B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/IX2DU87B",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Shahedi et al.",
+      "parsedDate": "2024",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IX2DU87B",
+      "version": 1133,
+      "itemType": "report",
+      "title": "Tracing Optimization for Performance Modeling and Regression Detection",
+      "date": "2024",
+      "url": "https://arxiv.org/abs/2411.17548v1",
+      "accessDate": "2026-10-31",
+      "extra": "Inspected preprint version 1, submitted 26 November 2024. Author publication list reports TOSEM accepted 2025, DOI 10.1145/3749839; journal edition and publication year remain to be reconciled. One work, not two independent studies.",
+      "institution": "arXiv",
+      "reportNumber": "arXiv:2411.17548v1",
+      "creators": [
+        {
+          "firstName": "Kaveh",
+          "lastName": "Shahedi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Heng",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maxime",
+          "lastName": "Lamothe",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Foutse",
+          "lastName": "Khomh",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "WE8HHCA8",
+    "version": 1134,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/WE8HHCA8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/WE8HHCA8",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Mertz⁩ and ⁨Nunes⁩",
+      "parsedDate": "2023",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WE8HHCA8",
+      "version": 1134,
+      "itemType": "journalArticle",
+      "title": "Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces",
+      "date": "2023",
+      "DOI": "10.1016/j.jss.2023.111708",
+      "url": "https://doi.org/10.1016/j.jss.2023.111708",
+      "accessDate": "2026-10-31",
+      "extra": "Author preprint: https://arxiv.org/abs/2305.01039 . Prior method review used the preprint; journal/preprint content equivalence remains to be checked.",
+      "volume": "202",
+      "pages": "111708",
+      "publicationTitle": "Journal of Systems and Software",
+      "creators": [
+        {
+          "firstName": "Jhonny",
+          "lastName": "Mertz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ingrid",
+          "lastName": "Nunes",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "Z2BQ69Z4",
+    "version": 1135,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/Z2BQ69Z4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/Z2BQ69Z4",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Sambasivan et al.",
+      "parsedDate": "2011",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Z2BQ69Z4",
+      "version": 1135,
+      "itemType": "conferencePaper",
+      "title": "Diagnosing Performance Changes by Comparing Request Flows",
+      "date": "2011",
+      "url": "https://www.usenix.org/conference/nsdi11/diagnosing-performance-changes-comparing-request-flows",
+      "accessDate": "2026-10-31",
+      "publisher": "USENIX Association",
+      "proceedingsTitle": "8th USENIX Symposium on Networked Systems Design and Implementation (NSDI 11)",
+      "creators": [
+        {
+          "firstName": "Raja R.",
+          "lastName": "Sambasivan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alice X.",
+          "lastName": "Zheng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "De Rosa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elie",
+          "lastName": "Krevat",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Spencer",
+          "lastName": "Whitman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Stroucken",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "William",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lianghong",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gregory R.",
+          "lastName": "Ganger",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "9IN2U6Z2",
+    "version": 1136,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/9IN2U6Z2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/9IN2U6Z2",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Butkiewicz et al.",
+      "parsedDate": "2011",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9IN2U6Z2",
+      "version": 1136,
+      "itemType": "conferencePaper",
+      "title": "Understanding Website Complexity: Measurements, Metrics, and Implications",
+      "date": "2011",
+      "DOI": "10.1145/2068816.2068846",
+      "url": "https://www.andrew.cmu.edu/user/vsekar/papers/imc191-butkiewicz.pdf",
+      "accessDate": "2026-10-31",
+      "publisher": "ACM",
+      "pages": "313-328",
+      "proceedingsTitle": "Proceedings of the 2011 ACM SIGCOMM Internet Measurement Conference",
+      "creators": [
+        {
+          "firstName": "Michael",
+          "lastName": "Butkiewicz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harsha V.",
+          "lastName": "Madhyastha",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vyas",
+          "lastName": "Sekar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "MWTY6KCS",
+    "version": 1137,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/MWTY6KCS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/MWTY6KCS",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Le Pochat et al.",
+      "parsedDate": "2019",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MWTY6KCS",
+      "version": 1137,
+      "itemType": "conferencePaper",
+      "title": "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation",
+      "date": "2019",
+      "DOI": "10.14722/ndss.2019.23386",
+      "url": "https://www.ndss-symposium.org/ndss-paper/tranco-a-research-oriented-top-sites-ranking-hardened-against-manipulation/",
+      "accessDate": "2026-10-31",
+      "extra": "Paper record; distinct from existing Tranco live-service webpage A3AT7C2E.",
+      "publisher": "Internet Society",
+      "proceedingsTitle": "Network and Distributed System Security Symposium (NDSS) 2019",
+      "creators": [
+        {
+          "firstName": "Victor",
+          "lastName": "Le Pochat",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tom",
+          "lastName": "Van Goethem",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Samaneh",
+          "lastName": "Tajalizadehkhoob",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maciej",
+          "lastName": "Korczyński",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wouter",
+          "lastName": "Joosen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "JL4U756T",
+    "version": 1138,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/JL4U756T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/JL4U756T",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Butkiewicz et al.",
+      "parsedDate": "2015",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JL4U756T",
+      "version": 1138,
+      "itemType": "conferencePaper",
+      "title": "Klotski: Reprioritizing Web Content to Improve User Experience on Mobile Devices",
+      "date": "2015",
+      "url": "https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/butkiewicz",
+      "accessDate": "2026-10-31",
+      "publisher": "USENIX Association",
+      "pages": "439-453",
+      "proceedingsTitle": "12th USENIX Symposium on Networked Systems Design and Implementation (NSDI 15)",
+      "creators": [
+        {
+          "firstName": "Michael",
+          "lastName": "Butkiewicz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Daimeng",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhe",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harsha V.",
+          "lastName": "Madhyastha",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vyas",
+          "lastName": "Sekar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "N33VTKAN",
+    "version": 1139,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/N33VTKAN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/N33VTKAN",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "GoogleChrome/web-vitals contributors",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "N33VTKAN",
+      "version": 1139,
+      "itemType": "webpage",
+      "title": "web-vitals library: usage and attribution build",
+      "url": "https://github.com/GoogleChrome/web-vitals",
+      "accessDate": "2026-10-31",
+      "extra": "Mutable library documentation, accessed 31 October 2026. Supports existing attribution capability, not a validated fault-cause oracle or pinned implementation cost.",
+      "creators": [
+        {
+          "name": "GoogleChrome/web-vitals contributors",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "SSS4NSXC",
+    "version": 1140,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/SSS4NSXC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/SSS4NSXC",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Microsoft / Playwright contributors",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SSS4NSXC",
+      "version": 1140,
+      "itemType": "webpage",
+      "title": "Playwright: Isolation and browser contexts",
+      "url": "https://playwright.dev/docs/browser-contexts",
+      "accessDate": "2026-10-31",
+      "extra": "Mutable official documentation, accessed 31 October 2026. Browser storage isolation does not reset server state or prove experimental independence.",
+      "creators": [
+        {
+          "name": "Microsoft / Playwright contributors",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "63QKVL86",
+    "version": 1141,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/63QKVL86",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/63QKVL86",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chromium authors",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "63QKVL86",
+      "version": 1141,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol: Tracing domain",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Tracing/",
+      "accessDate": "2026-10-31",
+      "extra": "Mutable tip-of-tree protocol documentation, accessed 31 October 2026. Browser/protocol version, buffer coverage and event loss require pilot verification.",
+      "creators": [
+        {
+          "name": "Chromium authors",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:22:32Z",
+      "dateModified": "2026-10-31T17:22:33Z"
+    }
+  },
+  {
+    "key": "KE53ZLW3",
+    "version": 1144,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/KE53ZLW3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/KE53ZLW3",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Weng et al.",
+      "parsedDate": "2021",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KE53ZLW3",
+      "version": 1144,
+      "itemType": "conferencePaper",
+      "title": "Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing",
+      "date": "2021",
+      "url": "https://www.usenix.org/conference/atc21/presentation/weng",
+      "accessDate": "2026-10-31",
+      "extra": "Related-work lead: project check inspected introduction/section 2 only. Evaluation and equivalence to original-browser-episode versus delayed-visit comparison remain unappraised; no numerical result adopted.",
+      "publisher": "USENIX Association",
+      "pages": "193-207",
+      "proceedingsTitle": "2021 USENIX Annual Technical Conference (USENIX ATC 21)",
+      "creators": [
+        {
+          "firstName": "Lingmei",
+          "lastName": "Weng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peng",
+          "lastName": "Huang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jason",
+          "lastName": "Nieh",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Junfeng",
+          "lastName": "Yang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:26:24Z",
+      "dateModified": "2026-10-31T17:26:24Z"
+    }
+  },
+  {
+    "key": "UMVA36NP",
+    "version": 1145,
+    "library": {
+      "type": "user",
+      "id": 16350997,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/16350997",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/16350997",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/16350997/items/UMVA36NP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/16350997/items/UMVA36NP",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Web Platform Incubator Community Group",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UMVA36NP",
+      "version": 1145,
+      "itemType": "webpage",
+      "title": "JS Self-Profiling API draft",
+      "url": "https://wicg.github.io/js-self-profiling/",
+      "accessDate": "2026-10-31",
+      "extra": "Optional sampled-evidence reference, not an adopted profiler. Mutable draft; runtime version, policy configuration, sampling and buffer/export loss must be checked in pilot.",
+      "creators": [
+        {
+          "name": "Web Platform Incubator Community Group",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "EEI6689 study source map"
+        }
+      ],
+      "collections": [
+        "FN3JMCGF"
+      ],
+      "relations": {},
+      "dateAdded": "2026-10-31T17:26:24Z",
+      "dateModified": "2026-10-31T17:26:24Z"
+    }
+  }
+]

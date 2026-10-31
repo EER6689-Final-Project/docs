@@ -13,6 +13,7 @@ Start with the [current working files](<../Research Management/README.md>) and [
 | Earlier synthesis and alternative gaps | Phase 0 Evidence Synthesis, Evidence Map, Candidate Gap Assessment, Common Evidence Review and earlier progress/direction reviews in this folder. |
 | Record/version accounting | T1.3–T1.6 source inventories in this folder. |
 | Alternative view of existing sources | [Research Source Comparison Table](<Research Source Comparison Table.md>); the detailed matrix remains in the working folder. |
+| Current decision-critical source review | [2026-10-31 source checks, appraisals and preserved PDFs](<Review Artifacts/2026-10-31 Decision-Critical Source Checks/README.md>) |
 | Discovery exports, corrections and review receipts | [Review Artifacts](<Review Artifacts/>) |
 
 The cleanup preserves the underlying evidence and source PDFs. Raw review exports/receipts retain their original bytes; navigational Markdown links were adjusted where needed. Historical numerical counts and source-access limits are not upgraded by the move. Audit metadata containing old paths remains a record of its original execution location.

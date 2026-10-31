@@ -44,3 +44,7 @@
 ## T1.1 Claim Check
 
 - **Qualified:** The report's 24–64% disagreement applies to Vesper's defined interactive readiness in its selected/replayed corpus and experimental conditions, not to an independent universal truth or to INP.
+
+## Decision-critical source check — 2026-10-31
+
+`SC-C07` in the [source appraisal](<../../../Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/Source Appraisals.md#sc-c07--vesper-cross-load-caveat-confirmed-with-contrary-context>) records a direct recheck of local PDF 8–9 / printed 223–224, §4.3. Preserve both sides: different loads **may** expose different functional state or event paths, but the authors report no such functional-state nondeterminism in their tested corpus. This conditional caveat motivates an equivalence test; it does not establish frequent rerun failure. T1.4 reuse is the same work, not independent evidence. No new numerical effect is adopted. Separate-pass AI self-audit, not independent human review.

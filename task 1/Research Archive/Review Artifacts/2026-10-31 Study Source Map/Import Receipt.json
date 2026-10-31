@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-31",
+  "existing_matrix_rows": 133,
+  "new_library_parent_records": 14,
+  "new_map_only_sources": 11,
+  "existing_matrix_identities_resolved": {
+    "S-0004": "9IN2U6Z2",
+    "S-0010": "MWTY6KCS",
+    "S-0013": "JL4U756T"
+  },
+  "collection_key": "FN3JMCGF",
+  "collection_name": "Final Project Research Papers",
+  "method": "Read-only SQLite before app launch; local API dedup over376top-level items by normalized title, DOI and URL; connector import then collection filing; individual item readback. No direct SQLite writes.",
+  "failed_attempts": [
+    {
+      "endpoint": "connector/import",
+      "status": 400,
+      "cause": "JSON content was parsed before import translator received text",
+      "reconciliation": "All376top-level items rechecked; no additions; corrected to text/plain before retry."
+    }
+  ],
+  "successful_import_status": 201,
+  "filing_status": 200,
+  "record_readback_count": 14,
+  "limits": [
+    "Metadata records added; this action does not establish new full-text reads or verified source methods.",
+    "Cloud sync not checked.",
+    "Existing133source rows and accepted discovery counts unchanged."
+  ],
+  "additional_batch": {
+    "sources": [
+      "Argus",
+      "JS Self-Profiling draft"
+    ],
+    "keys": [
+      "KE53ZLW3",
+      "UMVA36NP"
+    ],
+    "import_status": 201,
+    "filing_status": 200,
+    "readback_count": 2
+  },
+  "newer_project_appraisals": "SC-2026-10-31 incorporated; source-specific bounds supersede earlier access statements.",
+  "final_map_item_keys_verified": 158,
+  "final_top_level_items": 390
+}

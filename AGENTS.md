@@ -4,7 +4,7 @@
 
 This repository contains research materials for the EEI6689 project, not application source code. The project files are under `task 1/`:
 
-- `Research Management/` contains six report-working files: its index, selected research plan, literature matrix, novelty cross-reference, current decision log, and focused verification queue.
+- `Research Management/` contains seven report-working files: its index, selected research plan, study source map, literature matrix, novelty cross-reference, current decision log, and focused verification queue.
 - `Research Archive/` preserves earlier assessments, the evidence map, source inventories, full historical decisions/verification ledger, screening logs, and audit artifacts.
 - `Research Papers/T1.1` through `T1.6/` contains topic syntheses and associated source PDFs. Topic-specific paper notes are kept in `Papers/` where applicable.
 - `Thought process/` contains staged planning notes.

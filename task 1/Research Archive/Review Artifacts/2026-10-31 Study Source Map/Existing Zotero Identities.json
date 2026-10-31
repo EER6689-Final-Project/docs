@@ -1,0 +1,1164 @@
+{
+  "checked_date": "2026-10-31",
+  "access": "read-only local SQLite; excludes deleted items; not cloud-sync verification",
+  "selected_keys_found": {
+    "MDWB2TDG": {
+      "key": "MDWB2TDG",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Navigation types now available in CrUX | Blog",
+      "url": "https://developer.chrome.com/blog/crux-navigation-types"
+    },
+    "MAYMCK7L": {
+      "key": "MAYMCK7L",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements"
+    },
+    "J9YYJDDP": {
+      "key": "J9YYJDDP",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Overhead Compensation in Performance Profiling | Springer Nature Link",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-540-27866-5_16"
+    },
+    "GYN22PP7": {
+      "key": "GYN22PP7",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Cumulative Layout Shift (CLS) | Articles",
+      "url": "https://web.dev/articles/cls"
+    },
+    "MF3Z7MCZ": {
+      "key": "MF3Z7MCZ",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Impact of extensions on browser performance: An empirical study on google chrome",
+      "date": "2025-04-21 2025-04-21",
+      "DOI": "10.1007/s10664-025-10633-1",
+      "url": "https://doi.org/10.1007/s10664-025-10633-1",
+      "publicationTitle": "Empirical Software Engineering"
+    },
+    "XX924A92": {
+      "key": "XX924A92",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Finite-Sample Performance of Absolute Precision Stopping Rules",
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/ijoc.1110.0471",
+      "publicationTitle": "INFORMS Journal on Computing"
+    },
+    "PXAH8MD3": {
+      "key": "PXAH8MD3",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Demystifying Page Load Performance with WProf",
+      "date": "2013-00-00 2013",
+      "url": "https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/wang_xiao"
+    },
+    "4XWMB3XH": {
+      "key": "4XWMB3XH",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "lighthouse/docs/lantern.md at main · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/blob/main/docs/lantern.md"
+    },
+    "3HI3DY8W": {
+      "key": "3HI3DY8W",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "STABILIZER: statistically sound performance evaluation",
+      "date": "2013-03-16 March 16, 2013",
+      "DOI": "10.1145/2451116.2451141",
+      "url": "https://dl.acm.org/doi/10.1145/2451116.2451141"
+    },
+    "NTWVE6GJ": {
+      "key": "NTWVE6GJ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "What's New In DevTools (Chrome 103) | Blog",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-103"
+    },
+    "4MGN3SYQ": {
+      "key": "4MGN3SYQ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "[VIM3] 2.18 measurement bias",
+      "url": "https://jcgm.bipm.org/vim/en/2.18.html"
+    },
+    "UN6NKBQX": {
+      "key": "UN6NKBQX",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Web Vitals  |  Articles  |  web.dev",
+      "url": "https://web.dev/articles/vitals"
+    },
+    "TIIDVPV8": {
+      "key": "TIIDVPV8",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "The Paradyn Parallel Performance Measurement Tools",
+      "url": "https://www.paradyn.org/publications/abstracts/Miller95Paradyn.html"
+    },
+    "9TZCJ36B": {
+      "key": "9TZCJ36B",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "Detecting Bot Detection: Prevalence, Techniques, and Implications for Web Measurement Research",
+      "date": "2026-06-12 2026-06-12",
+      "DOI": "10.48550/arXiv.2606.14525",
+      "url": "http://arxiv.org/abs/2606.14525"
+    },
+    "R2U9EAFA": {
+      "key": "R2U9EAFA",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Layout Instability API",
+      "url": "https://wicg.github.io/layout-instability/"
+    },
+    "I9Z9RWE2": {
+      "key": "I9Z9RWE2",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/HeapProfiler/"
+    },
+    "VGT3AWRS": {
+      "key": "VGT3AWRS",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Speedometer 3.1",
+      "url": "https://browserbench.org/Speedometer3.1/"
+    },
+    "H2BXWLHZ": {
+      "key": "H2BXWLHZ",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Web Experience in Mobile Networks: Lessons from Two Million Page Visits",
+      "date": "2019-05-13 May 13, 2019",
+      "DOI": "10.1145/3308558.3313606",
+      "url": "https://doi.org/10.1145/3308558.3313606"
+    },
+    "U2NAEPYI": {
+      "key": "U2NAEPYI",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing",
+      "date": "2020-04-20 April 20, 2020",
+      "DOI": "10.1145/3366423.3380104",
+      "url": "https://dl.acm.org/doi/10.1145/3366423.3380104"
+    },
+    "QF52VUCU": {
+      "key": "QF52VUCU",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Largest Contentful Paint | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint"
+    },
+    "FNI9NMU6": {
+      "key": "FNI9NMU6",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements"
+    },
+    "DP9EINBS": {
+      "key": "DP9EINBS",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Metrics | Chrome UX Report",
+      "url": "https://developer.chrome.com/docs/crux/methodology/metrics"
+    },
+    "22HAD6YA": {
+      "key": "22HAD6YA",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Do you agree? Contrasting Google’s Core Web Vitals and the impact of cookie consent banners with actual web QoE",
+      "date": "2023-06-30 2023-06-30",
+      "DOI": "10.1007/s41233-023-00058-3",
+      "url": "https://doi.org/10.1007/s41233-023-00058-3",
+      "publicationTitle": "Quality and User Experience"
+    },
+    "6WVYFE8R": {
+      "key": "6WVYFE8R",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Largest Contentful Paint",
+      "url": "https://www.w3.org/TR/largest-contentful-paint/"
+    },
+    "GJMALCNF": {
+      "key": "GJMALCNF",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Rigorous benchmarking in reasonable time",
+      "date": "2013-06-20 June 20, 2013",
+      "DOI": "10.1145/2555670.2464160",
+      "url": "https://dl.acm.org/doi/10.1145/2555670.2464160",
+      "publicationTitle": "ACM SIGPLAN Notices"
+    },
+    "ZNCYRKP4": {
+      "key": "ZNCYRKP4",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "A Robust Measure of Skewness",
+      "date": "2004-12-01 2004-12-01",
+      "DOI": "10.1198/106186004X12632",
+      "url": "https://doi.org/10.1198/106186004X12632",
+      "publicationTitle": "Journal of Computational and Graphical Statistics"
+    },
+    "BCIWQ2PK": {
+      "key": "BCIWQ2PK",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Methodology | The Web Almanac by HTTP Archive",
+      "url": "https://almanac.httparchive.org/en/2025/methodology"
+    },
+    "YTP4WLI9": {
+      "key": "YTP4WLI9",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "ProtoZero design document - Perfetto Tracing Docs",
+      "url": "https://perfetto.dev/docs/design-docs/protozero"
+    },
+    "D568X6SQ": {
+      "key": "D568X6SQ",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Demystifying Page Load Performance with WProf"
+    },
+    "9WT3HAHJ": {
+      "key": "9WT3HAHJ",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Optimize along the way: An industrial case study on web performance",
+      "date": "2023-04-00 04/2023",
+      "DOI": "10.1016/j.jss.2022.111593",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0164121222002692",
+      "publicationTitle": "Journal of Systems and Software"
+    },
+    "NXHCE5SV": {
+      "key": "NXHCE5SV",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Resource Timing",
+      "url": "https://www.w3.org/TR/resource-timing/"
+    },
+    "3TNGADXQ": {
+      "key": "3TNGADXQ",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild",
+      "date": "2019-10-21 October 21, 2019",
+      "DOI": "10.1145/3355369.3355599",
+      "url": "https://dl.acm.org/doi/10.1145/3355369.3355599"
+    },
+    "CWHHFA55": {
+      "key": "CWHHFA55",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "lighthouse/docs/variability.md at main · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/blob/main/docs/variability.md"
+    },
+    "FBTV2ICM": {
+      "key": "FBTV2ICM",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "5.3.3.2. Randomized block designs",
+      "url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri332.htm"
+    },
+    "GANI6MKK": {
+      "key": "GANI6MKK",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Sequential estimation of quantiles with applications to A/B testing and best-arm identification",
+      "date": "2022-08-00 2022/08",
+      "DOI": "10.3150/21-BEJ1388",
+      "url": "https://projecteuclid.org/journals/bernoulli/volume-28/issue-3/Sequential-estimation-of-quantiles-with-applications-to-A-B-testing/10.3150/21-BEJ1388.full",
+      "publicationTitle": "Bernoulli"
+    },
+    "MI895PBZ": {
+      "key": "MI895PBZ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "lighthouse/docs/throttling.md at main · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md?utm_source=chatgpt.com"
+    },
+    "JRR4K3ST": {
+      "key": "JRR4K3ST",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Dimensions | Chrome UX Report",
+      "url": "https://developer.chrome.com/docs/crux/methodology/dimensions"
+    },
+    "84ZFNR74": {
+      "key": "84ZFNR74",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Paint Timing",
+      "url": "https://www.w3.org/TR/paint-timing/"
+    },
+    "JNNJZS5L": {
+      "key": "JNNJZS5L",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Demystifying Page Load Performance with WProf"
+    },
+    "E8MGSAC8": {
+      "key": "E8MGSAC8",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "Quantifying Performance Changes with Effect Size Confidence Intervals",
+      "date": "2020-07-21 2020-07-21",
+      "DOI": "10.48550/arXiv.2007.10899",
+      "url": "http://arxiv.org/abs/2007.10899"
+    },
+    "JT3PXZLG": {
+      "key": "JT3PXZLG",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "lighthouse/docs/throttling.md at main · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md"
+    },
+    "HB6E4DMC": {
+      "key": "HB6E4DMC",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "A concordance correlation coefficient to evaluate reproducibility",
+      "date": "1989-03-00 1989-03",
+      "publicationTitle": "Biometrics"
+    },
+    "QYN69APX": {
+      "key": "QYN69APX",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing",
+      "date": "2020-04-20 2020-04-20",
+      "DOI": "10.1145/3366423.3380104",
+      "url": "https://dl.acm.org/doi/10.1145/3366423.3380104"
+    },
+    "U9PHTV9S": {
+      "key": "U9PHTV9S",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "User Timing marks and measures | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/user-timings"
+    },
+    "EVB9FDNG": {
+      "key": "EVB9FDNG",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Understanding Measurement Perturbation in Trace-based Data",
+      "date": "2007-00-00 2007",
+      "DOI": "10.1109/IPDPS.2007.370515",
+      "url": "http://ieeexplore.ieee.org/document/4228243/"
+    },
+    "B8XNKSHY": {
+      "key": "B8XNKSHY",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Interaction to Next Paint (INP)  |  web.dev",
+      "url": "https://web.dev/articles/inp"
+    },
+    "JJWRMF5Z": {
+      "key": "JJWRMF5Z",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Navigation Timing Level 2",
+      "url": "https://www.w3.org/TR/navigation-timing-2/"
+    },
+    "WUUGBCG4": {
+      "key": "WUUGBCG4",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Improving User Perceived Page Load Times Using Gaze",
+      "date": "2017-00-00 2017",
+      "url": "https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kelton"
+    },
+    "2K3IB5CQ": {
+      "key": "2K3IB5CQ",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Better Bootstrap Confidence Intervals",
+      "date": "1987-03-01 1987-03-01",
+      "DOI": "10.1080/01621459.1987.10478410",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478410",
+      "publicationTitle": "Journal of the American Statistical Association"
+    },
+    "N5YHCXI3": {
+      "key": "N5YHCXI3",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "ROC CURVE",
+      "url": "https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/roccurve.htm"
+    },
+    "6UGAU5X4": {
+      "key": "6UGAU5X4",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Mahimahi: Accurate Record-and-Replay for HTTP",
+      "date": "2015-00-00 2015",
+      "url": "https://www.usenix.org/conference/atc15/technical-session/presentation/netravali"
+    },
+    "9T8ACIJ8": {
+      "key": "9T8ACIJ8",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Time to Interactive | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/interactive"
+    },
+    "XFCVZVBE": {
+      "key": "XFCVZVBE",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Web Performance Working Group - Publications",
+      "date": "2019-11-21 2019-11-21",
+      "url": "https://www.w3.org/groups/wg/webperf/publications/"
+    },
+    "9A8CMSAY": {
+      "key": "9A8CMSAY",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Speed Index: Relating the Industrial Standard for User Perceived Web Performance to web QoE",
+      "date": "2018-05-00 5/2018",
+      "DOI": "10.1109/QoMEX.2018.8463430",
+      "url": "https://ieeexplore.ieee.org/document/8463430/"
+    },
+    "5NNCRU98": {
+      "key": "5NNCRU98",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "STABILIZER: statistically sound performance evaluation",
+      "date": "2013-03-16 March 16, 2013",
+      "DOI": "10.1145/2451116.2451141",
+      "url": "https://dl.acm.org/doi/10.1145/2451116.2451141"
+    },
+    "V8C28N5J": {
+      "key": "V8C28N5J",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "5.3.3.3. Full factorial designs",
+      "url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri333.htm"
+    },
+    "6VK2G66S": {
+      "key": "6VK2G66S",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Statistical models for assessing agreement in method comparison studies with replicate measurements",
+      "date": "2008-00-00 2008",
+      "DOI": "10.2202/1557-4679.1107",
+      "publicationTitle": "The International Journal of Biostatistics"
+    },
+    "SMCZWD5S": {
+      "key": "SMCZWD5S",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Calculating nonparametric confidence intervals for quantiles using fractional order statistics",
+      "date": "1999-03-01 1999-03-01",
+      "DOI": "10.1080/02664769922458",
+      "url": "https://doi.org/10.1080/02664769922458",
+      "publicationTitle": "Journal of Applied Statistics"
+    },
+    "GYIRB4X5": {
+      "key": "GYIRB4X5",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "5.3.3.4. Fractional factorial designs",
+      "url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri334.htm"
+    },
+    "EI36S6VA": {
+      "key": "EI36S6VA",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Performance mutation testing",
+      "date": "2021-08-00 08/2021",
+      "DOI": "10.1002/stvr.1728",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/stvr.1728",
+      "publicationTitle": "Software Testing, Verification and Reliability"
+    },
+    "KKG9KNEU": {
+      "key": "KKG9KNEU",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Robust benchmarking in noisy environments"
+    },
+    "6H3HKLL4": {
+      "key": "6H3HKLL4",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "The Tail at Scale",
+      "date": "2013-00-00 2013",
+      "url": "https://research.google/pubs/the-tail-at-scale/"
+    },
+    "DS3SS83A": {
+      "key": "DS3SS83A",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "(PDF) Statistically Rigorous Java Performance Evaluation",
+      "DOI": "10.1145/1297027.1297033",
+      "url": "https://www.researchgate.net/publication/200039331_Statistically_Rigorous_Java_Performance_Evaluation",
+      "publicationTitle": "ResearchGate"
+    },
+    "47DZSUKL": {
+      "key": "47DZSUKL",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "FrameViewer How-To",
+      "url": "https://www.chromium.org/developers/how-tos/trace-event-profiling-tool/using-frameviewer/"
+    },
+    "DJI5ULJD": {
+      "key": "DJI5ULJD",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "(PDF) Towards Representative Web Performance Measurements with Google Lighthouse",
+      "url": "https://www.researchgate.net/publication/354558629_Towards_Representative_Web_Performance_Measurements_with_Google_Lighthouse"
+    },
+    "TWKB9CAY": {
+      "key": "TWKB9CAY",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Rigorous benchmarking in reasonable time",
+      "date": "2013-06-20 2013-06-20",
+      "DOI": "10.1145/2464157.2464160",
+      "url": "https://dl.acm.org/doi/10.1145/2464157.2464160"
+    },
+    "CU4HMS98": {
+      "key": "CU4HMS98",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "High Resolution Time",
+      "url": "https://www.w3.org/TR/hr-time-3/"
+    },
+    "XV62BFGD": {
+      "key": "XV62BFGD",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome Headless mode  |  Automation and testing  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/automation-and-testing/headless"
+    },
+    "QHUCFVBF": {
+      "key": "QHUCFVBF",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Total Blocking Time | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time"
+    },
+    "BUPGR8ZJ": {
+      "key": "BUPGR8ZJ",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "A framework for reducing the cost of instrumented code",
+      "date": "2001-05-01 May 1, 2001",
+      "DOI": "10.1145/378795.378832",
+      "url": "https://dl.acm.org/doi/10.1145/378795.378832"
+    },
+    "9V33RJH6": {
+      "key": "9V33RJH6",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "HTTP: Primer on Web Performance - High Performance Browser Networking (O'Reilly)",
+      "url": "https://hpbn.co/primer-on-web-performance/"
+    },
+    "7CBVI4EG": {
+      "key": "7CBVI4EG",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Confidence interval estimation for the Bland-Altman limits of agreement with multiple observations per individual",
+      "date": "2013-12-00 2013-12",
+      "DOI": "10.1177/0962280211402548",
+      "publicationTitle": "Statistical Methods in Medical Research"
+    },
+    "SU8DH5XW": {
+      "key": "SU8DH5XW",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Performance/"
+    },
+    "I8L7FN9V": {
+      "key": "I8L7FN9V",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Event Timing API",
+      "url": "https://www.w3.org/TR/event-timing/"
+    },
+    "9IDW7B5Y": {
+      "key": "9IDW7B5Y",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "Through the Lens of Google CrUX: Dissecting Web Browsing Experience Across Devices and Countries",
+      "date": "2024-04-18 2024-04-18",
+      "DOI": "10.48550/arXiv.2308.06409",
+      "url": "http://arxiv.org/abs/2308.06409"
+    },
+    "GJ9PAHK3": {
+      "key": "GJ9PAHK3",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Modeling User-Centered Page Load Time for Smartphones",
+      "date": "2020-10-05 2020-10-05",
+      "DOI": "10.1145/3379503.3403565",
+      "url": "https://dl.acm.org/doi/10.1145/3379503.3403565"
+    },
+    "9WMJW57H": {
+      "key": "9WMJW57H",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "What's new in DevTools, Chrome 143 | Blog",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-143"
+    },
+    "T2YDS3PP": {
+      "key": "T2YDS3PP",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "5.3.3.2.2. Graeco-Latin square designs",
+      "url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri3322.htm"
+    },
+    "3KVANYXJ": {
+      "key": "3KVANYXJ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "CrUX methodology | Chrome UX Report",
+      "url": "https://developer.chrome.com/docs/crux/methodology"
+    },
+    "YLRND2GP": {
+      "key": "YLRND2GP",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Network - DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/#/Network"
+    },
+    "2LYVIL8I": {
+      "key": "2LYVIL8I",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "A Vital Improvement? Relating Google's Core Web Vitals to Actual Web QoE",
+      "date": "2022-09-05 2022-9-5",
+      "DOI": "10.1109/QoMEX55416.2022.9900881",
+      "url": "https://ieeexplore.ieee.org/document/9900881/"
+    },
+    "REP5RHB6": {
+      "key": "REP5RHB6",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Performance Timeline",
+      "url": "https://www.w3.org/TR/performance-timeline/"
+    },
+    "DQUYYQXB": {
+      "key": "DQUYYQXB",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Vesper: Measuring Time-to-Interactivity for Web Pages"
+    },
+    "YIBGR5RT": {
+      "key": "YIBGR5RT",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "[VIM3] 2.21 measurement repeatability",
+      "url": "https://jcgm.bipm.org/vim/en/2.21.html"
+    },
+    "BL8XCEDY": {
+      "key": "BL8XCEDY",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Timeline event reference | Chrome DevTools",
+      "url": "https://developer.chrome.com/docs/devtools/performance/timeline-reference"
+    },
+    "A8GDSSI7": {
+      "key": "A8GDSSI7",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Speed Index | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/speed-index"
+    },
+    "HUJR8W9W": {
+      "key": "HUJR8W9W",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Adding Traces to Chromium/WebKit/Javascript",
+      "url": "https://www.chromium.org/developers/how-tos/trace-event-profiling-tool/tracing-event-instrumentation/"
+    },
+    "98WM2BIA": {
+      "key": "98WM2BIA",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "[VIM3] 2.25 measurement reproducibility",
+      "url": "https://jcgm.bipm.org/vim/en/2.25.html"
+    },
+    "WU62T7AT": {
+      "key": "WU62T7AT",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Performance features reference | Chrome DevTools",
+      "url": "https://developer.chrome.com/docs/devtools/performance/reference"
+    },
+    "A3AT7C2E": {
+      "key": "A3AT7C2E",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "A research-oriented top sites ranking hardened against manipulation - Tranco",
+      "url": "https://tranco-list.eu/"
+    },
+    "VDGPNUWI": {
+      "key": "VDGPNUWI",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "CrUX on BigQuery | Chrome UX Report",
+      "url": "https://developer.chrome.com/docs/crux/bigquery"
+    },
+    "WB6JZEUA": {
+      "key": "WB6JZEUA",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Lighthouse performance scoring",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/performance-scoring"
+    },
+    "JHEC6VHJ": {
+      "key": "JHEC6VHJ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Why lab and field data can be different (and what to do about it) | Articles",
+      "url": "https://web.dev/articles/lab-and-field-data-differences"
+    },
+    "ISZ9TU75": {
+      "key": "ISZ9TU75",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Virtual Machine Warmup Blows Hot and Cold",
+      "date": "2017-10-12 2017-10-12",
+      "DOI": "10.1145/3133876",
+      "url": "http://arxiv.org/abs/1602.00602",
+      "publicationTitle": "Proceedings of the ACM on Programming Languages"
+    },
+    "B39WMA9T": {
+      "key": "B39WMA9T",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Duet Benchmarking: Improving Measurement Accuracy in the Cloud",
+      "date": "2020-04-20 2020-04-20",
+      "DOI": "10.1145/3358960.3379132",
+      "url": "https://dl.acm.org/doi/10.1145/3358960.3379132"
+    },
+    "VMWYVJKL": {
+      "key": "VMWYVJKL",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Performance panel: Analyze your website's performance | Chrome DevTools",
+      "url": "https://developer.chrome.com/docs/devtools/performance/overview"
+    },
+    "TNLWEEU7": {
+      "key": "TNLWEEU7",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Time-uniform, nonparametric, nonasymptotic confidence sequences",
+      "date": "2021-04-01 2021-4-1",
+      "DOI": "10.1214/20-AOS1991",
+      "url": "http://arxiv.org/abs/1810.08240",
+      "publicationTitle": "The Annals of Statistics"
+    },
+    "VWHJLGV3": {
+      "key": "VWHJLGV3",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Advancing Interaction to Next Paint | Blog",
+      "url": "https://web.dev/blog/inp-cwv"
+    },
+    "IL735Y87": {
+      "key": "IL735Y87",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Research Synthetic Profiles",
+      "url": "https://chatgpt.com/g/g-p-6a9281fb31e88191bf5dd9bb9b313f92-first-progress-presentation/c/6a92b52c-ee64-83ee-8b12-acb6dbeb1141"
+    },
+    "RB93JMBB": {
+      "key": "RB93JMBB",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Reproducibility and Replicability of Web Measurement Studies",
+      "date": "2022-04-25 2022-04-25",
+      "DOI": "10.1145/3485447.3512214",
+      "url": "https://dl.acm.org/doi/10.1145/3485447.3512214"
+    },
+    "TAZSGXJH": {
+      "key": "TAZSGXJH",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Towards Realistic and ReproducibleWeb Crawl Measurements",
+      "date": "2021-04-19 2021-04-19",
+      "DOI": "10.1145/3442381.3450050",
+      "url": "https://dl.acm.org/doi/10.1145/3442381.3450050"
+    },
+    "AAW3TPVK": {
+      "key": "AAW3TPVK",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "[VIM3] 2.13 measurement accuracy",
+      "url": "https://jcgm.bipm.org/vim/en/2.13.html"
+    },
+    "B9FIJAKE": {
+      "key": "B9FIJAKE",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Towards Realistic and ReproducibleWeb Crawl Measurements",
+      "date": "2021-06-03 June 3, 2021",
+      "DOI": "10.1145/3442381.3450050",
+      "url": "https://dl.acm.org/doi/10.1145/3442381.3450050"
+    },
+    "92RRK4LT": {
+      "key": "92RRK4LT",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Network/"
+    },
+    "P82GMMCM": {
+      "key": "P82GMMCM",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Adding Traces to Chromium/WebKit/Javascript",
+      "url": "https://www.chromium.org/developers/how-tos/trace-event-profiling-tool/tracing-event-instrumentation/"
+    },
+    "SKLNC8DZ": {
+      "key": "SKLNC8DZ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Adaptive Stopping Rule for Performance Measurements",
+      "url": "https://sc23.supercomputing.org/proceedings/workshops/workshop_pages/ws_pmbsf134.html"
+    },
+    "SYQR5RQL": {
+      "key": "SYQR5RQL",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "Domain-Sharding for Faster HTTP/2 in Lossy Cellular Networks",
+      "date": "2017-07-18 2017-07-18",
+      "DOI": "10.48550/arXiv.1707.05836",
+      "url": "http://arxiv.org/abs/1707.05836"
+    },
+    "T3K44KHZ": {
+      "key": "T3K44KHZ",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "A framework for reducing the cost of instrumented code",
+      "date": "2001-05-01 May 1, 2001",
+      "DOI": "10.1145/378795.378832",
+      "url": "https://dl.acm.org/doi/10.1145/378795.378832"
+    },
+    "FNWVG4JH": {
+      "key": "FNWVG4JH",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Monitor your local and real-user Core Web Vitals performance in DevTools | Blog",
+      "url": "https://developer.chrome.com/blog/devtools-realtime-cwv"
+    },
+    "WYGSHWFH": {
+      "key": "WYGSHWFH",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Puppeteer",
+      "url": "https://pptr.dev/"
+    },
+    "6EFLN7PR": {
+      "key": "6EFLN7PR",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Perceived Performance of Top Retail Webpages In the Wild: Insights from Large-scale Crowdsourcing of Above-the-Fold QoE",
+      "date": "2017-08-21 August 21, 2017",
+      "DOI": "10.1145/3098603.3098606",
+      "url": "https://dl.acm.org/doi/10.1145/3098603.3098606"
+    },
+    "ZZSL9IPU": {
+      "key": "ZZSL9IPU",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements",
+      "date": "2025-06-04 2025-06-04",
+      "DOI": "10.48550/arXiv.2501.15911",
+      "url": "http://arxiv.org/abs/2501.15911"
+    },
+    "WF5NM72E": {
+      "key": "WF5NM72E",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Performance mutation testing",
+      "date": "2021-00-00 2021",
+      "DOI": "10.1002/stvr.1728",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1728",
+      "publicationTitle": "Software Testing, Verification and Reliability"
+    },
+    "I2QWB27Y": {
+      "key": "I2QWB27Y",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "lighthouse/docs/architecture.md at main · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/blob/main/docs/architecture.md"
+    },
+    "RUPJYKW5": {
+      "key": "RUPJYKW5",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "More accurate DevTools performance debugging using real-world data | Blog",
+      "url": "https://developer.chrome.com/blog/devtools-grounded-real-world"
+    },
+    "JZ6S53CX": {
+      "key": "JZ6S53CX",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chromium Docs - Life of a frame",
+      "url": "https://chromium.googlesource.com/chromium/src/%2B/HEAD/docs/life_of_a_frame.md"
+    },
+    "IWCIN2C5": {
+      "key": "IWCIN2C5",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Producing wrong data without doing anything obviously wrong!",
+      "date": "2009-03-07 March 7, 2009",
+      "DOI": "10.1145/1508244.1508275",
+      "url": "https://dl.acm.org/doi/10.1145/1508244.1508275"
+    },
+    "LXFQBXE3": {
+      "key": "LXFQBXE3",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Vesper: Measuring Time-to-Interactivity for Web Pages"
+    },
+    "T3FHMMCH": {
+      "key": "T3FHMMCH",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "How the Core Web Vitals metrics thresholds were defined | Articles",
+      "url": "https://web.dev/articles/defining-core-web-vitals-thresholds"
+    },
+    "X7ZXVUQY": {
+      "key": "X7ZXVUQY",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Alternatives to the Median Absolute Deviation",
+      "date": "1993-12-01 1993-12-01",
+      "DOI": "10.1080/01621459.1993.10476408",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476408",
+      "publicationTitle": "Journal of the American Statistical Association"
+    },
+    "QW7AGAGB": {
+      "key": "QW7AGAGB",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/PerformanceTimeline/"
+    },
+    "2TY5A3XC": {
+      "key": "2TY5A3XC",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Producing wrong data without doing anything obviously wrong!",
+      "date": "2009-03-07 March 7, 2009",
+      "DOI": "10.1145/1508284.1508275",
+      "url": "https://dl.acm.org/doi/10.1145/1508284.1508275",
+      "publicationTitle": "ACM SIGPLAN Notices"
+    },
+    "L59HPN96": {
+      "key": "L59HPN96",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Robust analogs to the coefficient of variation",
+      "DOI": "10.1080/02664763.2020.1808599",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9196089/",
+      "publicationTitle": "Journal of Applied Statistics"
+    },
+    "DFUNZS6W": {
+      "key": "DFUNZS6W",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "CrUX API | Chrome UX Report",
+      "url": "https://developer.chrome.com/docs/crux/api"
+    },
+    "99DTPUKH": {
+      "key": "99DTPUKH",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "How To Think About Speed Tools | Articles",
+      "url": "https://web.dev/articles/speed-tools"
+    },
+    "AIFQRE7Y": {
+      "key": "AIFQRE7Y",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Avoid enormous network payloads | Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight"
+    },
+    "H6CJZ69R": {
+      "key": "H6CJZ69R",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Memory/"
+    },
+    "ESM2TZ9A": {
+      "key": "ESM2TZ9A",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Khipu Visualisation | RIPE Atlas Documentation",
+      "url": "https://atlas.ripe.net/docs/tools-and-code/khipu"
+    },
+    "E2A63QR8": {
+      "key": "E2A63QR8",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Sample Quantiles in Statistical Packages",
+      "date": "1996-00-00 1996",
+      "DOI": "10.2307/2684934",
+      "url": "https://www.jstor.org/stable/2684934",
+      "publicationTitle": "The American Statistician"
+    },
+    "SZBK3ZEE": {
+      "key": "SZBK3ZEE",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "The Distribution Is the Performance",
+      "url": "https://www.computer.org/csdl/magazine/co/2024/04/10488880/1VORquj9zGw"
+    },
+    "Q2T3R76T": {
+      "key": "Q2T3R76T",
+      "libraryID": 1,
+      "itemType": "preprint",
+      "title": "What slows you down? Your network or your device?",
+      "date": "2016-03-07 2016-03-07",
+      "DOI": "10.48550/arXiv.1603.02293",
+      "url": "http://arxiv.org/abs/1603.02293"
+    },
+    "66QX7WHN": {
+      "key": "66QX7WHN",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/DOMSnapshot/"
+    },
+    "NJYH4V45": {
+      "key": "NJYH4V45",
+      "libraryID": 1,
+      "itemType": "computerProgram",
+      "title": "WICG/performance-measure-memory",
+      "date": "2026-08-04 2026-08-04T00:11:06Z",
+      "url": "https://github.com/WICG/performance-measure-memory"
+    },
+    "UKNA4QJZ": {
+      "key": "UKNA4QJZ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Emulation - DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/#/Emulation"
+    },
+    "P94EL9KH": {
+      "key": "P94EL9KH",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Statistically rigorous java performance evaluation",
+      "date": "2007-10-21 October 21, 2007",
+      "DOI": "10.1145/1297027.1297033",
+      "url": "https://dl.acm.org/doi/10.1145/1297027.1297033"
+    },
+    "HS3PKWFL": {
+      "key": "HS3PKWFL",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Vesper: Measuring Time-to-Interactivity for Web Pages",
+      "date": "2018-00-00 2018",
+      "url": "https://www.usenix.org/conference/nsdi18/presentation/netravali-vesper"
+    },
+    "EPH3DPP2": {
+      "key": "EPH3DPP2",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "tc-netem(8) - Linux manual page",
+      "url": "https://man7.org/linux/man-pages/man8/tc-netem.8.html"
+    },
+    "8FNYPXJD": {
+      "key": "8FNYPXJD",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "A new biometrical procedure for testing the equality of measurements from two different analytical methods. Application of linear regression procedures for method comparison studies in clinical chemistry, Part I",
+      "date": "1983-11-00 1983-11",
+      "DOI": "10.1515/cclm.1983.21.11.709",
+      "publicationTitle": "Journal of Clinical Chemistry and Clinical Biochemistry. Zeitschrift Fur Klinische Chemie Und Klinische Biochemie"
+    },
+    "DT5MQ99J": {
+      "key": "DT5MQ99J",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "[VIM3] 2.15 measurement precision",
+      "url": "https://jcgm.bipm.org/vim/en/2.15.html"
+    },
+    "6SJEG5G9": {
+      "key": "6SJEG5G9",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Long Animation Frames API",
+      "url": "https://www.w3.org/TR/long-animation-frames/"
+    },
+    "NW3PJGSZ": {
+      "key": "NW3PJGSZ",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Correlating Lighthouse scores to page-level CrUX data - Analysis",
+      "date": "2021-06-08 2021-06-08T01:37:55+00:00",
+      "url": "https://discuss.httparchive.org/t/correlating-lighthouse-scores-to-page-level-crux-data/2164"
+    },
+    "TAB5LR2M": {
+      "key": "TAB5LR2M",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "RFC9111",
+      "date": "2022-06-00 2022-06",
+      "url": "https://httpwg.org/specs/rfc9111.html"
+    },
+    "X4BEQVFF": {
+      "key": "X4BEQVFF",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Measuring agreement in method comparison studies",
+      "date": "1999-06-00 1999-06",
+      "DOI": "10.1177/096228029900800204",
+      "publicationTitle": "Statistical Methods in Medical Research"
+    },
+    "GC9EIJZR": {
+      "key": "GC9EIJZR",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Profiler/"
+    },
+    "LP4CHUX3": {
+      "key": "LP4CHUX3",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "How Speedy is {SPDY}?",
+      "date": "2014-00-00 2014",
+      "url": "https://www.usenix.org/conference/nsdi14/technical-sessions/wang"
+    },
+    "HA26TRBU": {
+      "key": "HA26TRBU",
+      "libraryID": 1,
+      "itemType": "journalArticle",
+      "title": "Polaris: Faster Page Loads Using Fine-grained Dependency Tracking"
+    },
+    "WRY7VL9Z": {
+      "key": "WRY7VL9Z",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Chrome DevTools Protocol",
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Runtime/"
+    },
+    "KEJFZJHV": {
+      "key": "KEJFZJHV",
+      "libraryID": 1,
+      "itemType": "webpage",
+      "title": "Long Tasks API",
+      "url": "https://www.w3.org/TR/longtasks-1/"
+    },
+    "P9T8B48H": {
+      "key": "P9T8B48H",
+      "libraryID": 1,
+      "itemType": "conferencePaper",
+      "title": "Statistically rigorous java performance evaluation",
+      "date": "2007-10-21 October 21, 2007",
+      "DOI": "10.1145/1297027.1297033",
+      "url": "https://dl.acm.org/doi/10.1145/1297027.1297033"
+    }
+  }
+}

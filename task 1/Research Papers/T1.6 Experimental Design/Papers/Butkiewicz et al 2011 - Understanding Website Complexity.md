@@ -55,3 +55,7 @@ Dependency group **DG-T16-BUTKIEWICZ-COMPLEXITY**: feature and performance analy
 **QC-004**, GPT-6.1 Sol, 2026-10-25, time unknown; **checked-corrected**. Reopened original pp. 1-4 §§1, 3, 4: corrected handoff's unqualified seven-week account by retaining the original seven/nine discrepancy; checked frame/sample/browser, exclusions, repeated-load average, explicit content/service definitions and main landing-page scope. Expanded recheck covers all retained numerical/source assertions in this claim; unverified table and model-benefit numbers were removed from scope. Printed-page mapping is not guessed.
 
 Separate-pass same-AI self-audit; human independent review **not done**. Duration discrepancy remains **unresolved** within the source, not a source-access blocker and not independent confirmation. QC record is note-local for integration; no tracker, inventory, gate, or Zotero mutation made. Novelty passes **not run**.
+
+## Zotero identity update — 2026-10-31
+
+A parent record for this paper was added to Final Project Research Papers and individually read back through the local API: **`9IN2U6Z2`**, retaining local source ID **S-0004**. The earlier unresolved-key wording describes the original review pass; its passage, edition and appraisal limits remain unchanged. See the [Study Source Map](<../../../Research Management/Study Source Map.md>) and [import receipt](<../../../Research Archive/Review Artifacts/2026-10-31 Study Source Map/README.md>).

@@ -1,0 +1,541 @@
+[
+  {
+    "id": "LMAT",
+    "type": "article-journal",
+    "title": "LMAT: An adaptive tracing approach based on efficient system behavior analysis using language models",
+    "author": [
+      {
+        "given": "Kasra",
+        "family": "Darvishi"
+      },
+      {
+        "given": "Morteza",
+        "family": "Noferesti"
+      },
+      {
+        "given": "Yuvraj",
+        "family": "Sehgal"
+      },
+      {
+        "given": "Naser",
+        "family": "Ezzati-Jivan"
+      }
+    ],
+    "URL": "https://doi.org/10.1016/j.jss.2026.112890",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jss.2026.112890",
+    "volume": "238",
+    "page": "112890",
+    "container-title": "Journal of Systems and Software"
+  },
+  {
+    "id": "Hindsight",
+    "type": "paper-conference",
+    "title": "The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems",
+    "author": [
+      {
+        "given": "Lei",
+        "family": "Zhang"
+      },
+      {
+        "given": "Zhiqiang",
+        "family": "Xie"
+      },
+      {
+        "given": "Vaastav",
+        "family": "Anand"
+      },
+      {
+        "given": "Ymir",
+        "family": "Vigfusson"
+      },
+      {
+        "given": "Jonathan",
+        "family": "Mace"
+      }
+    ],
+    "URL": "https://www.usenix.org/conference/nsdi23/presentation/zhang-lei",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "321-339",
+    "publisher": "USENIX Association",
+    "container-title": "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 23)"
+  },
+  {
+    "id": "WMF",
+    "type": "paper-conference",
+    "title": "Leveraging Website Popularity Differences to Identify Performance Anomalies",
+    "author": [
+      {
+        "given": "Giulio",
+        "family": "Grassi"
+      },
+      {
+        "given": "Renata",
+        "family": "Teixeira"
+      },
+      {
+        "given": "Chadi",
+        "family": "Barakat"
+      },
+      {
+        "given": "Mark",
+        "family": "Crovella"
+      }
+    ],
+    "URL": "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1109/INFOCOM42981.2021.9488832",
+    "publisher": "IEEE",
+    "container-title": "IEEE INFOCOM 2021 - IEEE Conference on Computer Communications"
+  },
+  {
+    "id": "TracingOptimization",
+    "type": "report",
+    "title": "Tracing Optimization for Performance Modeling and Regression Detection",
+    "author": [
+      {
+        "given": "Kaveh",
+        "family": "Shahedi"
+      },
+      {
+        "given": "Heng",
+        "family": "Li"
+      },
+      {
+        "given": "Maxime",
+        "family": "Lamothe"
+      },
+      {
+        "given": "Foutse",
+        "family": "Khomh"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2411.17548v1",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "number": "arXiv:2411.17548v1",
+    "publisher": "arXiv",
+    "note": "Inspected preprint version 1, submitted 26 November 2024. Author publication list reports TOSEM accepted 2025, DOI 10.1145/3749839; journal edition and publication year remain to be reconciled. One work, not two independent studies."
+  },
+  {
+    "id": "AdaptiveSampling",
+    "type": "article-journal",
+    "title": "Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces",
+    "author": [
+      {
+        "given": "Jhonny",
+        "family": "Mertz"
+      },
+      {
+        "given": "Ingrid",
+        "family": "Nunes"
+      }
+    ],
+    "URL": "https://doi.org/10.1016/j.jss.2023.111708",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jss.2023.111708",
+    "volume": "202",
+    "page": "111708",
+    "note": "Author preprint: https://arxiv.org/abs/2305.01039 . Prior method review used the preprint; journal/preprint content equivalence remains to be checked.",
+    "container-title": "Journal of Systems and Software"
+  },
+  {
+    "id": "Spectroscope",
+    "type": "paper-conference",
+    "title": "Diagnosing Performance Changes by Comparing Request Flows",
+    "author": [
+      {
+        "given": "Raja R.",
+        "family": "Sambasivan"
+      },
+      {
+        "given": "Alice X.",
+        "family": "Zheng"
+      },
+      {
+        "given": "Michael",
+        "family": "De Rosa"
+      },
+      {
+        "given": "Elie",
+        "family": "Krevat"
+      },
+      {
+        "given": "Spencer",
+        "family": "Whitman"
+      },
+      {
+        "given": "Michael",
+        "family": "Stroucken"
+      },
+      {
+        "given": "William",
+        "family": "Wang"
+      },
+      {
+        "given": "Lianghong",
+        "family": "Xu"
+      },
+      {
+        "given": "Gregory R.",
+        "family": "Ganger"
+      }
+    ],
+    "URL": "https://www.usenix.org/conference/nsdi11/diagnosing-performance-changes-comparing-request-flows",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "USENIX Association",
+    "container-title": "8th USENIX Symposium on Networked Systems Design and Implementation (NSDI 11)"
+  },
+  {
+    "id": "WebsiteComplexity",
+    "type": "paper-conference",
+    "title": "Understanding Website Complexity: Measurements, Metrics, and Implications",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Butkiewicz"
+      },
+      {
+        "given": "Harsha V.",
+        "family": "Madhyastha"
+      },
+      {
+        "given": "Vyas",
+        "family": "Sekar"
+      }
+    ],
+    "URL": "https://www.andrew.cmu.edu/user/vsekar/papers/imc191-butkiewicz.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1145/2068816.2068846",
+    "page": "313-328",
+    "publisher": "ACM",
+    "container-title": "Proceedings of the 2011 ACM SIGCOMM Internet Measurement Conference"
+  },
+  {
+    "id": "TrancoPaper",
+    "type": "paper-conference",
+    "title": "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation",
+    "author": [
+      {
+        "given": "Victor",
+        "family": "Le Pochat"
+      },
+      {
+        "given": "Tom",
+        "family": "Van Goethem"
+      },
+      {
+        "given": "Samaneh",
+        "family": "Tajalizadehkhoob"
+      },
+      {
+        "given": "Maciej",
+        "family": "Korczyński"
+      },
+      {
+        "given": "Wouter",
+        "family": "Joosen"
+      }
+    ],
+    "URL": "https://www.ndss-symposium.org/ndss-paper/tranco-a-research-oriented-top-sites-ranking-hardened-against-manipulation/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.14722/ndss.2019.23386",
+    "publisher": "Internet Society",
+    "note": "Paper record; distinct from existing Tranco live-service webpage A3AT7C2E.",
+    "container-title": "Network and Distributed System Security Symposium (NDSS) 2019"
+  },
+  {
+    "id": "Klotski",
+    "type": "paper-conference",
+    "title": "Klotski: Reprioritizing Web Content to Improve User Experience on Mobile Devices",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Butkiewicz"
+      },
+      {
+        "given": "Daimeng",
+        "family": "Wang"
+      },
+      {
+        "given": "Zhe",
+        "family": "Wu"
+      },
+      {
+        "given": "Harsha V.",
+        "family": "Madhyastha"
+      },
+      {
+        "given": "Vyas",
+        "family": "Sekar"
+      }
+    ],
+    "URL": "https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/butkiewicz",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "439-453",
+    "publisher": "USENIX Association",
+    "container-title": "12th USENIX Symposium on Networked Systems Design and Implementation (NSDI 15)"
+  },
+  {
+    "id": "WebVitalsAttribution",
+    "type": "webpage",
+    "title": "web-vitals library: usage and attribution build",
+    "author": [
+      {
+        "literal": "GoogleChrome/web-vitals contributors"
+      }
+    ],
+    "URL": "https://github.com/GoogleChrome/web-vitals",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "Mutable library documentation, accessed 31 October 2026. Supports existing attribution capability, not a validated fault-cause oracle or pinned implementation cost."
+  },
+  {
+    "id": "PlaywrightContexts",
+    "type": "webpage",
+    "title": "Playwright: Isolation and browser contexts",
+    "author": [
+      {
+        "literal": "Microsoft / Playwright contributors"
+      }
+    ],
+    "URL": "https://playwright.dev/docs/browser-contexts",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "Mutable official documentation, accessed 31 October 2026. Browser storage isolation does not reset server state or prove experimental independence."
+  },
+  {
+    "id": "CDPTracing",
+    "type": "webpage",
+    "title": "Chrome DevTools Protocol: Tracing domain",
+    "author": [
+      {
+        "literal": "Chromium authors"
+      }
+    ],
+    "URL": "https://chromedevtools.github.io/devtools-protocol/tot/Tracing/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "Mutable tip-of-tree protocol documentation, accessed 31 October 2026. Browser/protocol version, buffer coverage and event loss require pilot verification."
+  },
+  {
+    "id": "Argus",
+    "type": "paper-conference",
+    "title": "Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing",
+    "author": [
+      {
+        "given": "Lingmei",
+        "family": "Weng"
+      },
+      {
+        "given": "Peng",
+        "family": "Huang"
+      },
+      {
+        "given": "Jason",
+        "family": "Nieh"
+      },
+      {
+        "given": "Junfeng",
+        "family": "Yang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "container-title": "2021 USENIX Annual Technical Conference (USENIX ATC 21)",
+    "page": "193-207",
+    "publisher": "USENIX Association",
+    "URL": "https://www.usenix.org/conference/atc21/presentation/weng",
+    "note": "Related-work lead: project check inspected introduction/section 2 only. Evaluation and equivalence to original-browser-episode versus delayed-visit comparison remain unappraised; no numerical result adopted."
+  },
+  {
+    "id": "JSSelfProfiling",
+    "type": "webpage",
+    "title": "JS Self-Profiling API draft",
+    "author": [
+      {
+        "literal": "Web Platform Incubator Community Group"
+      }
+    ],
+    "URL": "https://wicg.github.io/js-self-profiling/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "Optional sampled-evidence reference, not an adopted profiler. Mutable draft; runtime version, policy configuration, sampling and buffer/export loss must be checked in pilot."
+  }
+]

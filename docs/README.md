@@ -13,10 +13,11 @@ Edit `config/metadata.tex` for the report identity. It currently contains:
 - **Student registration number:** 321424374
 - **Contact:** s92064374@ousl.lk
 - **Subject:** EEY6189 Research Methodology and Project Identification (Software)
+- **Supervisors:** Prof. Uditha Ratnayake and Ms. Tharini Abeyrathne
 - **Date:** 27 October 2026, four days before 31 October 2026
 
 The cover shows October 2026; the title page shows the full fixed date. Fill in
-the supervisor, project group, department and faculty placeholders before
+the project group, department and faculty placeholders before
 submission. The course code supplied for this report is retained even though
 the repository uses EEI6689 in its name.
 

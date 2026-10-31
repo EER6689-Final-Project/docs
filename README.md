@@ -10,9 +10,10 @@ This repository organizes the proposal and supporting research for the EEI6689 p
 
 ## Research Management
 
-The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the six [research report working files](task%201/Research%20Management/README.md):
+The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the seven [research report working files](task%201/Research%20Management/README.md):
 
 - [Research Plan](task%201/Research%20Management/Research%20Plan.md)
+- [Study Source Map](task%201/Research%20Management/Study%20Source%20Map.md)
 - [Literature Review and Research Gap Matrix](task%201/Research%20Management/Literature%20Review%20and%20Research%20Gap%20Matrix.md)
 - [Monitoring Novelty Cross Reference](task%201/Research%20Management/Monitoring%20Novelty%20Cross%20Reference.md)
 - [Decision Log](task%201/Research%20Management/Decision%20Log.md)

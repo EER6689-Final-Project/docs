@@ -54,6 +54,8 @@ Start with owned or authorized controlled websites and small test websites, call
 
 The procedures below are proposed research choices. Exact targets, versions, run counts, thresholds, budgets and statistical procedures will be fixed after the pilot and before inspecting main-study results.
 
+The [Study Source Map](<Study Source Map.md>) attributes metric definitions, methodological precedents and limitations to the selected papers and documents, using their Zotero keys. It separates source-supported principles from this study's operational choices, including the episode definition and primary attribution rate.
+
 ### Objective 1: Define a repeatable measurement protocol
 
 **Method.** Write a measurement contract that explains what each visit measures and when it starts and ends. Keep original visits and follow-up visits separately identified, even when they use the same URL.
@@ -108,6 +110,8 @@ The dataset will use linked tables or equivalent structured records:
 ### Objective 3: Implement and compare profiling strategies
 
 **Method.** Use the same lightweight measurements, baseline, alert rule, fault taxonomy and diagnosis deadline across the main comparisons. Change how diagnostic evidence is collected. Each strategy must diagnose the original episode using only the evidence it would legitimately possess.
+
+“Lightweight” and “detailed” describe **capture contracts**, not fixed lists of metric names. Define each contract by its collectors, events/fields, version, observation window, attribution, buffering and export rules. Use the [source map's definitions and capture rationale](<Study Source Map.md#evidence-for-defining-lighter-and-deeper-capture>) to select candidate contracts, then verify their coverage and resource cost in the pilot. A metric can be available through more than one acquisition path; the label alone does not establish cost.
 
 | Strategy | Collection procedure | Main comparison role |
 | --- | --- | --- |
@@ -200,4 +204,6 @@ Research outputs are the episode dataset and manifests, versioned capture config
 
 ## Immediate work
 
-Resolve the decision-critical source and method checks in the [verification queue](<Zotero Verification Queue.md>) and turn the objective-by-objective methodology into a finite pilot protocol. Confirm a useful original-evidence comparator before freezing H₁. Browser versions, endpoints, thresholds, deadlines, budgets, target list, run counts, campaign duration, statistical procedures and retention rules remain open. The selected direction and methodology outline are recorded in the [decision log](<Decision Log.md>).
+The [decision-critical source review](<../Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/README.md>) now records the five closest-work identities, named paper passage checks and original-visit evidence documentation. WMF's earlier access discrepancy is resolved. LMAT controller details and the unread Shahedi journal edition retain explicit holds; Paradyn is usable with an explicit manuscript citation. The comparison supports a candidate empirical question, not proof of novelty.
+
+Next, turn the objective-by-objective methodology into a finite pilot protocol while resolving the remaining claim-specific source and method checks in the [verification queue](<Zotero Verification Queue.md>). Confirm a useful original-evidence comparator before freezing H₁. Start with existing original-visit attribution and a bounded record of supported entries; a full original trace or JS stack sampler is not assumed. Browser versions, endpoints, thresholds, deadlines, budgets, target list, run counts, campaign duration, statistical procedures and retention rules remain open. The selected direction, methodology outline and source-review consequences are recorded in the [decision log](<Decision Log.md>).

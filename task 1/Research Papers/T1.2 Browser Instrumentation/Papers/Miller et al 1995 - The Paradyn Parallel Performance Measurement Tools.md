@@ -26,3 +26,7 @@ Paradyn is a dynamic performance measurement tool designed for large, long-runni
 - **Source-described capability:** Instrumentation is dynamically placed and removed under Performance Consultant control, with a user-controllable threshold on data collection cost.
 - **Preliminary inference:** A browser profiler might benefit from staged probes or an explicit instrumentation budget, but the Paradyn manuscript does not measure their effectiveness for browser frames, page loads, or short interactions.
 - **Phase 0 scope:** The manuscript is a design precedent for later assessment. It does not select an adaptive architecture, overhead threshold, or research gap.
+
+## Decision-critical source check — 2026-10-31
+
+`SC-C06` in the [source appraisal](<../../../Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/Source Appraisals.md#sc-c06--paradyn-manuscript-to-work-association-confirmed-edition-equivalence-unverified>) supersedes the earlier unresolved **association**: the lead author's bibliography links this manuscript path to the 1995 Computer work. The manuscript's different title/23-page pagination remain; exact edited-text equivalence is unverified. Direct recheck of manuscript §1.2, PDF/printed 4–5 confirms the short-execution and saved-search-state rerun discussion. Cite the manuscript for that passage, not invented journal anchors. The original PDF is preserved with the appraisal; no browser effect size or journal-only passage is adopted. Separate-pass AI self-audit, not independent human review.
