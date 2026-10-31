@@ -1,0 +1,45 @@
+{
+  "pages": 41,
+  "source_sha256": "04f2a570203133ed4360dfbfb07ae50a37a1961fc1e3ec12d8cd7addc7dea774",
+  "report_sha256": "625bf477bc15c8cb5040a9760192948b265785105ff015f1a53a9ddcbc2e229a",
+  "identity_lines_removed": true,
+  "embedded_pages": [
+    {
+      "source_page": 1,
+      "report_page": 3,
+      "source_size_points": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "report_size_points": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "pixel_identical_at_120_dpi": true,
+      "normalized_text_identical": true
+    },
+    {
+      "source_page": 2,
+      "report_page": 4,
+      "source_size_points": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "report_size_points": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "pixel_identical_at_120_dpi": true,
+      "normalized_text_identical": true
+    }
+  ],
+  "method": "XeLaTeX reserves both checklist pages and links; pypdf restores original page content/resources/geometry without altering destination page references."
+}

@@ -12,7 +12,7 @@ or main-study result is asserted.
 | --- | --- | --- |
 | 1 | Cover page | `frontmatter/cover.tex` |
 | 2 | Title page | `frontmatter/title.tex` |
-| 3 | Declaration page | `frontmatter/declaration.tex` |
+| 3 | Supplied declaration/checklist PDF (two pages) | `frontmatter/declaration.tex` embeds `format.pdf` |
 | 4 | Abstract and keywords | `frontmatter/abstract.tex` |
 | 5 | Table of contents | Generated from headings |
 | 6 | List of figures | Generated from the included figure captions |
@@ -38,13 +38,18 @@ course and supervisors. The title is consistent throughout this project.
 The cover identifies this as a **Detailed Report-Writing Plan** prepared on
 31 October 2026. The existing report date, 27 October 2026, is retained and
 explicitly marked for confirmation; it is not represented as an actual study
-completion date. Project group, department and faculty remain administrative
-fields to confirm. Do not guess them.
+completion date. The project-group and department lines have been removed
+from the identity pages. The faculty field remains to confirm.
 
-`format.pdf` contains formatting instructions and a checklist signature, but
-no prescribed authorship declaration. The declaration page therefore provides
-a visibly labelled draft and completion instructions. It is unsigned and must
-be replaced with approved wording before submission.
+The former drafted declaration is replaced by all pages of the supplied
+`format.pdf`, embedded through `pdfpages` at its original Letter page size.
+No heading, report folio, signature or other overlay is added. The report's
+other pages remain A4. The contents entry links to the first inserted page.
+After LaTeX compilation, `tools/preserve-format-pages.py` restores the original
+PDF page resources and content streams using pypdf, retaining the report's
+destination page objects and links. This avoids font re-encoding by the TeX
+PDF importer. The two inserted pages are verified against the source by page
+size, extracted text and pixel-identical 120-dpi renders.
 
 ## Evidence and source handling
 
@@ -88,6 +93,8 @@ If the TeX Live install lacks a prebuilt XeLaTeX format, the script generates
 one in `/tmp` for that build. The output is `main.pdf`; intermediates and that
 compiled preview are ignored by Git. The LaTeX sources, bibliography, source
 assets and review records are the editable deliverables.
+The final preservation step requires Python with `pypdf`; the script uses a
+system installation when available, otherwise the bundled Codex Python runtime.
 
 `format.pdf` requires Times New Roman. The style uses that font when installed;
 otherwise it emits an explicit warning and uses **TeX Gyre Termes for the draft

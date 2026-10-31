@@ -28,4 +28,9 @@ xelatex -interaction=nonstopmode -halt-on-error -file-line-error main.tex
 biber main
 xelatex -interaction=nonstopmode -halt-on-error -file-line-error main.tex
 xelatex -interaction=nonstopmode -halt-on-error -file-line-error main.tex
+report_pdf_python=python3
+if ! "$report_pdf_python" -c 'import pypdf' >/dev/null 2>&1; then
+  report_pdf_python="${HOME}/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+fi
+"$report_pdf_python" tools/preserve-format-pages.py
 printf 'Built %s/main.pdf. Inspect the font notice and review record before submission.\n' "$report_root"
