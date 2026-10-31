@@ -59,3 +59,7 @@ For each ID, the final verifier should record **PASS / FAIL / N/A**, the source 
 - The guide gives `1.0 1.1 1.1.1` as section-number examples, not a demand to create a `1.0` section or every level in every chapter.
 - The guide says some arrangement items may be optional. The user's 13-component order and explicit omissions determine this report's actual components.
 - `format.pdf` is a supplied checklist artifact whose boxes and signature area must remain blank. Its fonts, preprinted page furniture, and Letter geometry are **source content**, not authored-report formatting defects.
+
+## 1 November 2026 typography amendment
+
+The researcher requested a separate font for mathematical notation. TeX Gyre Termes Math is permitted for inline and displayed mathematics; authored prose remains 12 pt Times New Roman with a 15 pt baseline. This explicit exception supplements the font checks above. The enlarged report title must be rechecked on both identity pages.

@@ -1,6 +1,6 @@
 # Zotero Verification Queue
 
-**Updated:** 2026-10-31. **Current direction:** Reliability of Delayed Browser Performance Diagnosis, selected by the researcher. This is the focused queue for report preparation. Full historical claims, source keys, inventories, screening dispositions and gate records are preserved in the [archived verification ledger](<../Research Archive/Zotero Verification Queue before research selection.md>).
+**Updated:** 2026-10-31. **Current direction:** Reliability of Delayed Website or Web Application Performance Diagnosis, selected by the researcher. This is the focused queue for report preparation. Full historical claims, source keys, inventories, screening dispositions and gate records are preserved in the [archived verification ledger](<../Research Archive/Zotero Verification Queue before research selection.md>).
 
 ## Source checks completed or bounded — 2026-10-31
 

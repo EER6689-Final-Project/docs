@@ -1,8 +1,8 @@
 # Research Plan
 
-**Working title:** Reliability of Delayed Browser Performance Diagnosis.
+**Working title:** RELIABILITY OF DELAYED WEBSITE OR WEB APPLICATION PERFORMANCE DIAGNOSIS.
 
-**Status:** research direction selected by the researcher on 2026-10-31. The objective-by-objective methodology below is a proposed study design. The pilot will establish feasibility and inform a separate protocol and analysis freeze before the main study. Selection does not establish novelty or experimental findings.
+**Status:** literature review and research proposal. The research direction was selected by the researcher on 2026-10-31. The objective-by-objective methodology below is a proposed study design. Implementation and the pilot remain future work; the pilot will establish feasibility and inform a separate protocol and analysis freeze before the main study. Selection does not establish novelty or experimental findings.
 
 ## Problem and rationale
 
@@ -14,9 +14,11 @@ The [novelty comparison](<Monitoring Novelty Cross Reference.md>) connects this 
 
 ## Research question and aim
 
-**Research question:** Within a fixed monitoring budget, how reliably can detailed profiling during a follow-up browser visit identify the cause of an earlier website performance regression, compared with diagnostic evidence saved during the original visit?
+**Research question:** For projects that require accurate and reliable performance diagnosis at a limited monitoring cost, how does detailed follow-up profiling compare with evidence retained during the original visit in identifying the cause of an earlier website or web application regression under matched resource limits and the same diagnosis deadline?
 
-**Aim:** assess the reliability, diagnostic coverage and total monitoring cost of delayed browser profiling compared with retaining diagnostic evidence from the original visit.
+**Aim:** assess original-cause attribution, diagnostic coverage and total monitoring cost for delayed browser profiling and retained original-visit evidence, then use those results to inform profiler design choices within the tested conditions.
+
+**Application:** The results are intended to inform performance-monitoring and resource-use estimation systems that measure web application behavior while limiting collection and storage costs. The primary comparison concerns intermittent faults, for which the original cause may be absent at follow-up. The experiment evaluates evidence collection and diagnosis; it does not validate the outputs of a separate application.
 
 ## Hypotheses
 

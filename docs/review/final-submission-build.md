@@ -1,5 +1,7 @@
 # Final submission build and PDF verification
 
+This is the earlier submission snapshot. The later requested title and content revision is recorded in [submission-revision-2026-11-01.md](submission-revision-2026-11-01.md).
+
 **Date:** 1 November 2026. **Artifact:** [`EEY6189_N.W.L.U.R.D.Nanayakkara_321424374_Final Report.pdf`](../EEY6189_N.W.L.U.R.D.Nanayakkara_321424374_Final%20Report.pdf). **SHA-256:** `d63e7f84081a821a7070e4da304f80d7abf1d4d2b24b71b272f0251a78dda1ec`. **Size:** 636,866 bytes. **Length:** 44 physical pages. The named file is byte identical to the final post-processed `main.pdf`. The active input fingerprint is `e5b700d7185c8d8a2fd372271be0fc2865e2080b5983dd04232fe537a83dddc7`; its included paths and machine-readable checks are in `final-submission-build.json`.
 
 `bash docs/tools/build-report.sh` completed XeLaTeX, Biber, XeLaTeX, XeLaTeX and original-page preservation. The build used TeX Live 2026 XeTeX `3.141592653-2.6-0.999998`, Biber `2.22`, pypdf `6.10.0` and Poppler `26.01.0`. The final XeLaTeX/Biber logs have no errors, unresolved citations or cross-references, missing characters, or overfull boxes. Narrow table cells and URLs yield underfull ragged-wrap warnings; page render review found no clipping or overlap. `git diff --check` passes.

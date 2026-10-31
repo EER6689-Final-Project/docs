@@ -1,6 +1,6 @@
 # Study Source Map
 
-**Study:** Reliability of Delayed Browser Performance Diagnosis. **Updated:** 2026-10-31.
+**Study:** Reliability of Delayed Website or Web Application Performance Diagnosis. **Updated:** 2026-10-31.
 
 This map connects the [research question, objectives and methodology](<Research Plan.md>) to definitions, findings and methods in the selected sources. It explains what each source contributes and where the proposed study still requires a justified design choice or pilot check. It is a report-writing guide, not a claim that every listed method has been adopted.
 

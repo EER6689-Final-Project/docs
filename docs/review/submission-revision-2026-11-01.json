@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-01",
+  "prior_checkpoint": "fb19010",
+  "build_command": "bash docs/tools/build-report.sh",
+  "artifact": "EEY6189_N.W.L.U.R.D.Nanayakkara_321424374_Final Report.pdf",
+  "sha256": "a5cf0b19915fe627c53a26dc47385077d092da3992e45507ad6faf07d9f2eb85",
+  "bytes": 630321,
+  "pages": 44,
+  "metadata": {
+    "/Title": "RELIABILITY OF DELAYED WEBSITE OR WEB APPLICATION PERFORMANCE DIAGNOSIS \u2013 Final Report",
+    "/Author": "N. W. L. U. R. D. Nanayakkara",
+    "/Subject": "EEY6189 Research Methodology and Project Identification (Software)",
+    "/Keywords": "website performance, web application performance, delayed diagnosis, reliability, monitoring cost"
+  },
+  "xmp_present": false,
+  "named_copy_matches_main": true,
+  "checklist_original_sha256": "04f2a570203133ed4360dfbfb07ae50a37a1961fc1e3ec12d8cd7addc7dea774",
+  "checklist_pages": [
+    3,
+    4
+  ],
+  "checklist_stream_geometry_and_pixels_match": true,
+  "pixel_comparison_dpi": 120,
+  "body_font": "Times New Roman",
+  "math_font": "TeX Gyre Termes Math",
+  "body_baseline_tex_pt": 15,
+  "body_spacing_samples": {
+    "5": {
+      "samples": 16,
+      "median_baseline_pdf_bp": 14.94
+    },
+    "11": {
+      "samples": 27,
+      "median_baseline_pdf_bp": 14.94
+    },
+    "30": {
+      "samples": 26,
+      "median_baseline_pdf_bp": 14.94
+    },
+    "34": {
+      "samples": 23,
+      "median_baseline_pdf_bp": 14.94
+    }
+  },
+  "no_build_errors_or_unresolved_references_or_missing_glyphs_or_overfull_boxes": true,
+  "visual_review": "All 44 pages in contact sheets; cover, abstract and equation inspected enlarged. No clipping or overlap.",
+  "input_hashes": {
+    "docs/chapters/01-introduction.tex": "a1a9f903933721298d50303813428c64881407025cce597b39f14aef85d5ec0d",
+    "docs/chapters/02-literature-review.tex": "1a9771b563e84256a4c8e93fde8b918bd88d62334b224b00f0c84ba1303e83c3",
+    "docs/chapters/03-methodology.tex": "5aea816628d0fdb41684592cf22780c0c996f6297741c2bc4a8615d20e7527c6",
+    "docs/chapters/04-work-plan.tex": "2d910521d58b36f41717b50c50f561b4c15101335bc6258e92308067fe0bda17",
+    "docs/chapters/05-conclusion.tex": "39f53849b68262cebe6d4cac312bc52461d6400e039c30108fdd4c079f686014",
+    "docs/config/metadata.tex": "6d1e974d68454e471a3bf714e85c2928a9d505e9c2e61d95aae4ea9123141ba9",
+    "docs/config/report-format.sty": "c3da129da0b40b1eb3e8016551b5c754d770680bdb3d3524cbcd04ced9d7a20d",
+    "docs/figures/episode-evidence-chain.tex": "a2a13637a513054659d2f0f81b400baa420be194c51fb850490b052c27391a6f",
+    "docs/frontmatter/abstract.tex": "49384445765ef2cba66ea08950734873702fc1913e3a5ea368c305537127f863",
+    "docs/frontmatter/cover.tex": "91e76ab7b007c05e94776a5c8cf248a26e288a3465b270f0d7efd05b1c2391b7",
+    "docs/frontmatter/declaration.tex": "b4bdd02e54fc0a8275762134fa2b53fd8c54c7f4f35f0306fc97ed57ef5becf6",
+    "docs/frontmatter/symbols-and-abbreviations.tex": "f5ad0956ba6a5e1627f3941623bfd8912914c9121461950cbe07ab0ceda0e3a7",
+    "docs/frontmatter/title.tex": "cb00a8326fd8474740e4bdcdd6f6738a8839d38174f5918682c996f40e713223",
+    "docs/main.tex": "950f835da6c39ced76a78ab0bc5d94bf75d5bba5edabd76cdc465d658f88706f",
+    "docs/references.bib": "57a676492ddf0bb35702fc5889c1451a6131bef640a843928c94be001ade9c7e",
+    "docs/tools/preserve-format-pages.py": "c523e05f234ef83d7d42f101023e3d11cfd1009ce40ff78468940fbdcaefd24a"
+  }
+}

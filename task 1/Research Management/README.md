@@ -1,6 +1,6 @@
 # Research Report Working Files
 
-**Selected direction:** Reliability of Delayed Browser Performance Diagnosis. The researcher selected this idea on 2026-10-31. The contribution concerns whether a detailed follow-up visit can explain an earlier performance regression as reliably as evidence retained from the original visit.
+**Selected direction:** Reliability of Delayed Website or Web Application Performance Diagnosis. The researcher selected this idea on 2026-10-31. The contribution concerns whether a detailed follow-up visit can explain an earlier performance regression as reliably as evidence retained from the original visit.
 
 Eight working files are retained here, including the source map and finite pilot protocol:
 

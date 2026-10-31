@@ -1,7 +1,7 @@
 # Research report
 
-Start with `main.tex`. The LaTeX report **Reliability of Delayed Browser
-Performance Diagnosis** presents the research question, literature review,
+Start with `main.tex`. The LaTeX report **Reliability of Delayed Website or Web
+Application Performance Diagnosis** presents the research question, literature review,
 proposed methodology, research work plan and conclusion. Neither the feasibility
 pilot nor the main study has been executed; the report does not present
 experimental findings.
@@ -54,7 +54,8 @@ Run from the repository root:
 bash docs/tools/build-report.sh
 ```
 
-XeLaTeX, Biber, Times New Roman and Python with `pypdf` are required. The script
+XeLaTeX, Biber, Times New Roman, TeX Gyre Termes Math, `unicode-math` and Python
+with `pypdf` are required. The script
 uses tools on PATH, or the existing TeX Live 2026 installation under
 `~/.local/texlive/2026/bin/x86_64-linux/`. A temporary XeLaTeX format is generated
 when the installation has no prebuilt format. XeLaTeX, Biber and two further
@@ -66,6 +67,8 @@ The original two checklist pages are preserved by
 PDF's content streams, resources and Letter page geometry into the reserved
 pages without changing the report's page destinations. No heading, folio or
 other overlay is added. Authored pages use A4. The source PDF is unchanged.
+The same step limits PDF metadata to the title, author, subject and keywords;
+tool provenance and inherited XMP metadata are removed.
 
 The final submission filename is:
 
@@ -75,7 +78,8 @@ The final submission filename is:
 
 The main source of formatting requirements is `format.pdf`; the requirement
 matrix is `review/format-structure-checklist.md`. Normal paragraph text is
-12 pt Times New Roman with a 15 pt baseline. Figure/table lists and references
+12 pt Times New Roman with a 15 pt baseline. Mathematical notation uses TeX Gyre
+Termes Math, as requested; this does not change paragraph typography. Figure/table lists and references
 use 18 pt baselines. Margins are 1.5 inches on the left/top and 1 inch on the
 right/bottom. Chapter headings are 22 pt uppercase; subheadings are 14 pt.
 Page numbers are placed at the bottom right, with Roman preliminary pages and
@@ -89,3 +93,7 @@ hashes are recorded in `review/font-verification.json`. Build and validation
 records are kept under `review/`; earlier records describe their historical
 snapshots. No review or document build establishes study execution or
 institutional approval.
+
+The latest title, application, work-plan, abstract and mathematics-font revision
+is verified in `review/submission-revision-2026-11-01.md`; earlier build receipts
+refer to their recorded artifact hashes.

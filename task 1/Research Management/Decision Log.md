@@ -87,3 +87,11 @@ and page-dependent checks are recorded separately under `docs/review/`.
 These revisions prepare the report, not the experiment. FP-0.1 and the main
 study remain unrun; capture feasibility, main-study analysis decisions,
 source-edition limits and the provisional contribution are unchanged.
+
+## Application and submission revision — 1 November 2026
+
+The report title is now **Reliability of Delayed Website or Web Application Performance Diagnosis**. The research question retains the original-visit versus follow-up comparison under matched resource limits and a common diagnosis deadline, and states its use in choosing profilers that balance monitoring cost, diagnostic accuracy and reliability. Performance-monitoring and resource-use estimation systems are application examples; no downstream estimation model is validated by this experiment. The research remains independent of a named group application.
+
+The current stage is explicitly literature review and research proposal. The work plan now includes subsequent implementation, readiness checks, feasibility pilot, main experiment, analysis, discussion, future-work planning and final empirical reporting. Pilot limits, hypotheses and the five objectives are unchanged. The abstract has been rewritten for a broader readership without reporting unperformed work as results.
+
+The researcher requested a separate mathematics font. TeX Gyre Termes Math is used only for mathematical notation; normal prose remains Times New Roman at 12 pt with a 15 pt baseline. PDF metadata is restricted to the report title, author, subject and keywords. The prior reviewed submission was committed and pushed as `fb19010` before these changes. Fresh build and layout checks are recorded in `docs/review/submission-revision-2026-11-01.md`.

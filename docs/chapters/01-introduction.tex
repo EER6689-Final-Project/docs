@@ -17,11 +17,13 @@ The empirical question is deliberately narrower than a claim that one profiler i
 
 \section{Research Question and Aim}
 
-\textbf{Research question.} Within a fixed monitoring budget, how reliably can detailed profiling during a follow-up browser visit identify the cause of an earlier website performance regression, compared with diagnostic evidence saved during the original visit?
+\textbf{Research question.} For projects that require accurate and reliable performance diagnosis at a limited monitoring cost, how does detailed follow-up profiling compare with evidence retained during the original visit in identifying the cause of an earlier website or web application regression under matched resource limits and the same diagnosis deadline?
 
-\textbf{Aim.} Assess the reliability, diagnostic coverage and total monitoring cost of delayed browser profiling compared with retaining diagnostic evidence from the original visit.
+\textbf{Aim.} Assess original-cause attribution, diagnostic coverage and total monitoring cost for delayed browser profiling and retained original-visit evidence, then use those results to inform profiler design choices within the tested conditions.
 
-Reliability will be assessed as correct attribution of the original fault class within a shared diagnosis deadline, with every independently verified eligible episode accounted for. “Fixed budget” will refer to a published resource vector and allocation rule, not to an unexplained single score. The resource dimensions will be reported separately.
+Reliability will be assessed as correct attribution of the original fault class within a shared diagnosis deadline, with every independently verified eligible episode accounted for. Matched budgets will refer to published resource caps and allocation rules, not to an unexplained single score. The resource dimensions will be reported separately.
+
+The application of this research is to performance-monitoring and resource-use estimation systems that need to limit collection and storage costs. Such a system must decide how much evidence to collect on each visit and when a later, more detailed measurement is sufficient. The primary comparison will concern intermittent faults, for which the original cause may be absent at follow-up. The experiment will provide evidence for that design decision; it will not validate the accuracy of a separate application's outputs.
 
 \section{Hypotheses}
 
@@ -46,6 +48,8 @@ The study has five objectives:
 Objective 3 depends on establishing that bounded original-event capture can retain useful diagnostic information within its limits. If this cannot be achieved, the comparison will be narrowed or revised before the main-study protocol is frozen.
 
 \section{Scope and Contribution Boundaries}
+
+This report presents the literature review and research proposal. Implementation, the feasibility pilot, the main experiment and the analysis of observed outcomes are future stages. No measured diagnostic advantage is claimed at this stage.
 
 The initial scope is a controlled experiment on a small set of owned or authorized website fixtures, with scheduled synthetic Chromium visits and known injected or configured faults. The proposed feasibility version FP-0.1 includes two fixture patterns and a bounded set of persistent, transient, replacement, stable, and nuisance conditions; its caps and progression rules are proposed engineering choices for feasibility assessment. A later live-site sample may test operational robustness only if explicitly authorized. Unexplained slowdowns on live sites cannot supply verified cause labels.
 

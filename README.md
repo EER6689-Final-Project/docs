@@ -10,7 +10,7 @@ This repository organizes the proposal and supporting research for the EEI6689 p
 
 ## Research Management
 
-The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the eight [research report working files](task%201/Research%20Management/README.md):
+The selected direction is **Reliability of Delayed Website or Web Application Performance Diagnosis**. Start with the eight [research report working files](task%201/Research%20Management/README.md):
 
 - [Research Plan](task%201/Research%20Management/Research%20Plan.md)
 - [Finite Pilot Protocol](task%201/Research%20Management/Finite%20Pilot%20Protocol.md)
