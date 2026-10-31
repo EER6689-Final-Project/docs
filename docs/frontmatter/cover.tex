@@ -1,0 +1,20 @@
+% No titlepage environment: it would reset the page counter for the next page.
+\thispagestyle{empty}
+\begingroup
+\centering
+\setlength{\parskip}{0pt}
+{\fontsize{18}{27}\selectfont\MakeUppercase{\ReportTitle}\par}
+\vspace{24pt}
+{\fontsize{14}{21}\selectfont\bfseries By\par}
+\vspace{10pt}
+{\fontsize{16}{24}\selectfont\bfseries\ReportAuthor\par}
+\vspace{28pt}
+{\fontsize{14}{21}\selectfont\bfseries\ReportSubject\par}
+\vfill
+{\fontsize{14}{21}\selectfont
+\ReportDepartment\par
+\ReportFaculty\par
+\ReportUniversity\par}
+\vspace{24pt}
+{\fontsize{14}{21}\selectfont\bfseries\ReportMonthYear\par}
+\endgroup

@@ -1,0 +1,141 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{config/report-format}[2026/10/31 Final report formatting]
+
+\RequirePackage{iftex}
+\ifPDFTeX
+  \PackageError{report-format}{XeLaTeX or LuaLaTeX is required}
+    {Use the documented XeLaTeX build to load Times New Roman.}
+\fi
+\RequirePackage{fontspec}
+% No substitute: format.pdf explicitly requires Times New Roman.
+\setmainfont{Times New Roman}
+\RequirePackage[left=1.5in,right=1in,top=1.5in,bottom=1in]{geometry}
+\RequirePackage{ragged2e}
+\RequirePackage{titlesec}
+\RequirePackage[titles]{tocloft}
+\RequirePackage{fancyhdr}
+\RequirePackage{graphicx}
+\RequirePackage{booktabs}
+\RequirePackage{longtable}
+\RequirePackage{amsmath}
+\RequirePackage{caption}
+\RequirePackage{csquotes}
+\RequirePackage[
+  backend=biber,
+  style=authoryear,
+  sorting=nyt,
+  labelnumber=true,
+  giveninits=true,
+  maxbibnames=99,
+  dashed=false,
+  isbn=false,
+  doi=true,
+  url=true,
+  dateabbrev=false
+]{biblatex}
+\RequirePackage[hidelinks,unicode]{hyperref}
+\hypersetup{
+  pdftitle={\ReportTitle},
+  pdfauthor={\ReportAuthor},
+  pdfsubject={\ReportSubject},
+  pdfkeywords={browser performance, delayed diagnosis, reliability}
+}
+\graphicspath{{figures/}}
+
+% Exact 12 pt type / 15 pt baseline, including calls that restore normalsize.
+\let\report@originalnormalsize\normalsize
+\renewcommand{\normalsize}{%
+  \report@originalnormalsize
+  \fontsize{12}{15}\selectfont
+}
+\AtBeginDocument{\normalsize\RaggedRight}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+% Page number only: no running text, logo, border or decorative rule.
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[R]{\normalfont\fontsize{12}{15}\selectfont\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\newif\ifreport@appendices
+\newcommand{\ReportChapterLabel}{%
+  \ifreport@appendices
+    \thechapter.
+  \else
+    \ifnum\value{chapter}<10 0\fi\thechapter.
+  \fi
+}
+\titleformat{\chapter}[hang]
+  {\normalfont\fontsize{22}{26.4}\selectfont\bfseries\raggedright}
+  {\ReportChapterLabel}{0.6em}{\MakeUppercase}
+\titleformat{name=\chapter,numberless}[hang]
+  {\normalfont\fontsize{22}{26.4}\selectfont\bfseries\raggedright}
+  {}{0pt}{\MakeUppercase}
+% Start at the top text margin; no extra blank lines above chapter titles.
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+\titleformat{\section}
+  {\normalfont\fontsize{14}{17}\selectfont\bfseries\raggedright}
+  {\thesection}{0.6em}{}
+\titleformat{\subsection}
+  {\normalfont\fontsize{14}{17}\selectfont\bfseries\raggedright}
+  {\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}
+  {\normalfont\fontsize{14}{17}\selectfont\bfseries\raggedright}
+  {\thesubsubsection}{0.6em}{}
+\titlespacing*{\section}{0pt}{15pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+
+\renewcommand{\contentsname}{Table of Contents}
+\renewcommand{\listtablename}{List of Tables}
+\renewcommand{\listfigurename}{List of Figures}
+\renewcommand{\cftchapfont}{\normalfont\normalsize\bfseries}
+\renewcommand{\cftchappagefont}{\normalfont\normalsize\bfseries}
+\captionsetup{font=normalsize,labelfont=bf,justification=RaggedRight,
+  singlelinecheck=false}
+
+% Harvard author-year citations with an alphabetized, numbered reference list,
+% matching the guide's [n] examples. The list uses 12 pt / 18 pt spacing.
+\renewcommand*{\bibfont}{\normalfont\fontsize{12}{18}\selectfont\RaggedRight}
+\setlength{\bibitemsep}{0pt}
+\defbibenvironment{bibliography}
+  {\list{\mkbibbrackets{\printfield{labelnumber}}}
+    {\setlength{\labelwidth}{\labelnumberwidth}%
+     \setlength{\labelsep}{0.75em}%
+     \setlength{\leftmargin}{\labelwidth}%
+     \addtolength{\leftmargin}{\labelsep}%
+     \setlength{\itemsep}{\bibitemsep}%
+     \setlength{\parsep}{0pt}}}
+  {\endlist}
+  {\item}
+\DeclareFieldFormat[online]{title}{\mkbibemph{#1}\addspace\mkbibbrackets{Online}}
+\DeclareFieldFormat[online]{url}{Available at\addcolon\space\url{#1}}
+\DeclareFieldFormat{urldate}{\mkbibbrackets{Accessed\addcolon\space#1}}
+\renewbibmacro*{url+urldate}{%
+  \printfield{url}%
+  \iffieldundef{urlyear}{}{\setunit*{\addspace}\printurldate}}
+
+% Draft prompts are deliberately visible and must be removed for submission.
+\newcommand{\ReportPlaceholder}[1]{\par\textit{[To write: #1]}\par}
+\newcommand{\ReportFrontChapter}[1]{%
+  \clearpage
+  \chapter*{#1}
+  \addcontentsline{toc}{chapter}{#1}
+}
+\newcommand{\StartReportAppendices}{%
+  \clearpage
+  \appendix
+  \report@appendicestrue
+  \renewcommand{\thepage}{\Alph{chapter}\arabic{page}}%
+  % Hyperref's default page anchors include the formatted page (A1, B1, ...).
+}
+\newcommand{\ReportAppendix}[1]{%
+  \clearpage
+  \setcounter{page}{1}% Flush preceding pages before resetting the counter.
+  \chapter{#1}% A1, A2, ...; next appendix begins B1, B2, ...
+}
