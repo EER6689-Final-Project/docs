@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Asia/Colombo",
+  "status": "Supplementary bounded novelty review; not prescribed protocol completion or gate promotion.",
+  "operator": "Root orchestrator with Luna exploration and Sol AI review",
+  "exact_access_timestamps": "Not captured; review date only.",
+  "local_discovery": {
+    "source_note_files_literal_search": 127,
+    "matching_files": 28,
+    "search_terms": "adapt|baseline|re.?run|non.?determin|recover|transient",
+    "interpretation": "File/term inventory only; not 127 paper reads or independent studies."
+  },
+  "targeted_original_local_pdf_checks": [
+    {
+      "work": "vesper",
+      "source": "task 1/Research Papers/T1.4 Statistical Measurement/Papers/Netravali et al. 2018 - Vesper Measuring Time-to-Interactivity for Web Pages.pdf",
+      "sha256": "664ac6ed1b076d429d2552fb15a2f4550e2b0f0056ee77be48487aff07d4629e",
+      "physical_pdf_pages_rechecked": [
+        8,
+        9
+      ],
+      "sections": "4.3",
+      "read_boundary": "Targeted text passage check, not whole-paper reread; historical appraisal limits retained."
+    },
+    {
+      "work": "webrec",
+      "source": "task 1/Research Papers/T1.3 Synthetic Agents and External Validity/Papers/Hantke et al. 2025 - Web Execution Bundles Reproducible, Accurate, and Archivable Web Measurements.pdf",
+      "sha256": "5a0b2dc6d9c2f69212d2c6fee140f65bef6d0cd08bcf6a99bca86ac2f0c1df4c",
+      "physical_pdf_pages_rechecked": [
+        5,
+        6,
+        13
+      ],
+      "sections": "2.3, 3 overview, 6.1",
+      "read_boundary": "Targeted text passage check, not whole-paper reread; historical appraisal limits retained."
+    }
+  ],
+  "other_primary_checks": [
+    {
+      "title": "Paradyn project-hosted manuscript",
+      "url": "https://ftp.cs.wisc.edu/paradyn/papers/Miller95Paradyn.pdf",
+      "access": "Abstract and section1.2, physical PDF4\u20135, rechecked; edition/journal relation unresolved."
+    },
+    {
+      "title": "Hindsight",
+      "url": "https://www.usenix.org/system/files/nsdi23-zhang-lei.pdf",
+      "access": "Abstract and sections1/3\u20135 targeted original text; not a whole-paper methods appraisal."
+    },
+    {
+      "title": "Spectroscope",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2011/01/nsdi11-compperf.pdf",
+      "access": "Abstract and sections3/8.1 targeted original text; no numeric effect adopted."
+    },
+    {
+      "title": "LMAT",
+      "url": "https://doi.org/10.1016/j.jss.2026.112890",
+      "access": "Primary publisher indexed abstract/method text; direct DOI route500 and publisher403; author artifact README inspected, no code executed."
+    },
+    {
+      "title": "Sentry browser profiling learnings",
+      "url": "https://blog.sentry.io/browser-profiling-learnings-from-sentry-io/",
+      "access": "First-party 2024 account, profiling description and reproduction motivation; not current SDK version verification."
+    }
+  ],
+  "root_search_queries": [
+    "\"browser\" \"profiling\" \"intermittent\" \"rerun\"",
+    "\"web performance\" \"diagnosis\" \"reproducibility\" tracing",
+    "\"adaptive tracing\" \"root cause\" \"budget\" \"sampling\"",
+    "\"Prediction of Performance Anomalies in Web Applications Based on Software Aging Scenarios\"",
+    "\"Diagnosing Performance Changes\" \"Spectroscope\"",
+    "\"Hindsight\" \"tracing\" \"2023\" USENIX",
+    "\"browser\" \"adaptive profiling\" \"performance\"",
+    "\"LMAT: An adaptive tracing approach\" Darvishi",
+    "\"Leveraging Website Popularity Differences\" anomaly",
+    "site.docs.sentry.io javascript profiling continuous browser attribution sampling"
+  ],
+  "existing_discovery_occurrence_reused": {
+    "occurrence_E_ID": "E-0633",
+    "effective_stage1_status": "ADVANCE",
+    "support": "Historical export snippet only; no fulltext/method promotion."
+  },
+  "unperformed": [
+    "No library census or mutation",
+    "No tool benchmark or source-code execution",
+    "No website scans or experimental collection",
+    "No complete all-topic identity/citation reconciliation",
+    "No independent human scientific review"
+  ]
+}

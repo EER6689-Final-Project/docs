@@ -18,7 +18,7 @@
 - **Evidence:** what an inspected source says, with its anchor and access boundary. Scientific evidence still follows the protocol's claim/appraisal/QC workflow.
 - **Inference:** this brief's interpretation of how duties relate; it is not source wording or approval.
 - **Proposed option:** an alternative for technical review and actual scope/resource/ethics approval; appearance alone does not select it. Original alternatives are preserved below, with subsequent selections explicitly recorded.
-- **Actual decision:** an explicitly received and recorded decision by the appropriate authority within their remit. Sections 5.1-5.2 record user project-scope decisions and scientific accountability; historical governance remains in [Decision Log](<Decision Log.md>), which is not updated by this task.
+- **Actual decision:** an explicitly received and recorded decision by the appropriate authority within their remit. Sections 5.1-5.2 record user project-scope decisions and scientific accountability; historical governance remains in [Decision Log](<../Research Management/Decision Log.md>), which is not updated by this task.
 
 ### Original-source anchors
 
@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | TASK | [My tasks.pdf](<../My tasks.pdf>), Member 1 - Web Performance Profiling Engine | Two physical PDF pages, printed **2 and 3**. Physical page 1 = printed p. 2; physical page 2 = printed p. 3. Both extracted with `pdftotext -layout` and visually inspected as rendered images during this brief's preparation, 2026-10-25. Cite printed page plus heading/bullet, not nonexistent PDF page 3. |
 | PROP | [EER6689_Project Proposal.docx](<../EER6689_Project Proposal.docx>), sections **3.1**, **4.2**, **4.3.1-4.3.4**, **4.4**; Appendix C for privacy context | Original DOCX paragraphs and tables extracted with `python-docx`, 2026-10-25. Section references, not guessed rendered pages or paragraph pagination. No DOCX layout/pagination validation claimed; the DOCX is not edited. |
-| GOV | [Decision Log](<Decision Log.md>), accepted decisions and D-003; [Evidence Review Protocol](<Evidence Review Protocol.md>), sections 8-10 | Local governance/evidence pointers, not substitutes for the originals or fresh verification of underlying scientific papers/specifications. |
+| GOV | [Decision Log](<../Research Management/Decision Log.md>), accepted decisions and D-003; [Evidence Review Protocol](<Evidence Review Protocol.md>), sections 8-10 | Local governance/evidence pointers, not substitutes for the originals or fresh verification of underlying scientific papers/specifications. |
 
 **Requirement cross-check:** The supplied Luna finding is a discovery aid, not the authority. TASK printed p. 3 explicitly requires **unit tests for URL validation, timing calculations and score generation**; these are retained in REQ-026. The orchestrator also reports visual reading of both pages. This brief's extraction and visual recheck do not establish independent scientific review merely because multiple agents participated. All requirements below were cross-checked against the original text in a separate reading pass; no discrepancy in the final transcription remains known. No formal claim QC event or shared search-log entry is allocated here; orchestrator owns those records.
 

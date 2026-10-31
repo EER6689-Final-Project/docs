@@ -1,0 +1,137 @@
+{
+  "purpose": "Bounded primary-source discovery for adaptive website performance monitoring novelty assessment; discovery receipt, not a systematic review or novelty proof.",
+  "cutoff_date": "2026-10-31",
+  "timestamps_utc": "Unknown: web tool output did not expose per-query submission timestamps.",
+  "search_result_ranks": "Unknown: result ordering/rank was not recorded reliably in the tool output; do not infer ranks from citation IDs.",
+  "submitted_queries": [
+    "\"Leveraging Website Popularity Differences\" website anomalies INFOCOM 2021",
+    "adaptive tracing profiling overhead selective capture performance monitoring academic paper",
+    "website performance regression detection longitudinal monitoring anomaly detection research browser",
+    "WebREC VisibleV8 WProf Vesper adaptive performance profiling browser measurement",
+    "site:doi.org \"Software runtime monitoring with adaptive sampling rate\" execution traces",
+    "\"Tracing Optimization for Performance Modeling and Regression Detection\" authors DOI",
+    "site:usenix.org WebREC web execution bundles event attribution all browser behaviors",
+    "VisibleV8 in-browser monitoring JavaScript in the wild paper DOI",
+    "\"Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces\" authors DOI",
+    "\"Tracing Optimization for Performance Modeling and Regression Detection\" PDF Shahedi 2024 results functions traced 80%",
+    "WProf NSDI 2013 Demystifying Page Load Performance with WProf paper PDF",
+    "Vesper Measuring Time-to-Interactivity for Web Pages NSDI 2018 paper overhead ready time",
+    "\"Tracing Optimization for Performance Modeling and Regression Detection\" TOSEM DOI",
+    "\"Software Runtime Monitoring with Adaptive Sampling Rate\" \"111708\" authors",
+    "\"COZ\" causal profiler low overhead performance optimization paper",
+    "site:github.com/sitespeedio/sitespeed.io compare baseline Mann Whitney Wilcoxon",
+    "site:support.speedcurve.com performance budgets relative change baseline compare site monitoring",
+    "site:calibreapp.com/docs test profile performance budgets baseline thresholds performance monitoring",
+    "site:github.com/GoogleChrome/lighthouse-ci assertions budget regression performance",
+    "site:sitespeed.io/documentation compare baseline Mann Whitney Wilcoxon",
+    "Hindsight retroactive distributed tracing paper USENIX low-overhead trace buffer",
+    "\"Hindsight\" retroactive tracing paper buffering distributed systems",
+    "LMAT \"112890\" adaptive granularity anomaly root cause JSS 2026",
+    "\"LMAT: An adaptive tracing approach\" authors Darvishi",
+    "\"10.1016/j.jss.2026.112890\" authors",
+    "\"The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems\" Zhang DOI"
+  ],
+  "direct_urls_opened_or_checked": [
+    {
+      "url": "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+      "access": "PDF text extracted; reviewed title/abstract, introduction, data, method, validation, results, and wild-anomaly sections (roughly \u00a7\u00a7II-VII). Full PDF accessible."
+    },
+    {
+      "url": "https://cs-web.bu.edu/faculty/crovella/bibhtml/GrassiEtAl_Infocom21.html",
+      "access": "Search result supplied citation/title/DOI/abstract; direct open returned cache-miss error."
+    },
+    {
+      "url": "https://doi.org/10.1109/INFOCOM42981.2021.9488832",
+      "access": "Direct open failed; identity/DOI confirmed through the author publication record and paper PDF."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0164121226001238",
+      "access": "Publisher-indexed text exposed abstract, methodology, data collection, fault injection, detection, and overhead sections; direct open returned 403. Full publisher PDF was not independently read."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jss.2026.112890",
+      "access": "Search result confirmed article title/DOI and publisher page; direct DOI open redirected to inaccessible Elsevier endpoint."
+    },
+    {
+      "url": "https://www.usenix.org/system/files/nsdi23-zhang-lei.pdf",
+      "access": "Full PDF text accessible; reviewed abstract, introduction, problem framing, approach/design, trace-retention/event-horizon discussion."
+    },
+    {
+      "url": "https://www.usenix.org/conference/nsdi23/presentation/zhang-lei",
+      "access": "Primary conference page/abstract and publication identity checked through search result."
+    },
+    {
+      "url": "https://arxiv.org/pdf/2411.17548",
+      "access": "Full 23-page preprint PDF text accessible; reviewed research questions, method, overhead/model results, and injected-regression evaluation."
+    },
+    {
+      "url": "https://arxiv.org/abs/2411.17548",
+      "access": "Title/authors/abstract checked. Author publication page search result states 2025 ACM TOSEM acceptance and DOI 10.1145/3749839."
+    },
+    {
+      "url": "https://arxiv.org/pdf/2305.01039",
+      "access": "Full 14-page preprint PDF text accessible; reviewed abstract/introduction and evaluation section entry."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0164121223001036",
+      "access": "Publisher title, DOI, abstract, highlights and conclusion surfaced in search results; direct open returned 403."
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final177.pdf",
+      "access": "Primary WProf paper PDF and abstract were surfaced in search results; not independently reread in this turn."
+    },
+    {
+      "url": "https://www.usenix.org/conference/nsdi18/presentation/netravali-vesper",
+      "access": "Primary conference page/abstract and citation metadata checked; local project paper note provides bounded setup/overhead details."
+    },
+    {
+      "url": "https://doi.org/10.1145/3341617.3326142",
+      "access": "COZ+ title and abstract surfaced in search results; direct open failed; no full-text inspection in this turn."
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity25-hantke.pdf",
+      "access": "Final USENIX PDF text accessible; checked abstract, introduction, related-tool framing, and WebREC/archive design overview; not a full claim-by-claim reread."
+    },
+    {
+      "url": "https://www.kapravelos.com/publications/vv8-imc19.pdf",
+      "access": "Primary PDF accessible; checked abstract, introduction, prior instrumentation framing, and monitoring design sections."
+    },
+    {
+      "url": "https://www.sitespeed.io/documentation/sitespeed.io/compare/",
+      "access": "Current official documentation checked for baseline save/compare, statistical tests, iteration matching, and output interpretation."
+    },
+    {
+      "url": "https://calibreapp.com/docs/synthetic/budgets",
+      "access": "Current official documentation checked for per-page/per-test-profile budgets, historical distributions, persistent-change notifications, and pull-request budgets."
+    },
+    {
+      "url": "https://calibreapp.com/docs/get-started",
+      "access": "Official documentation surfaced for site histories and synthetic profiles; search result checked."
+    },
+    {
+      "url": "https://support.speedcurve.com/docs/performance-budgets",
+      "access": "Official product documentation URL surfaced/used as product-overlap reference; root independently verified product baseline/budget functionality. No detailed page reread in my turn."
+    },
+    {
+      "url": "https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/configuration.md",
+      "access": "Official repository documentation surfaced for assertions/budgets; search result checked."
+    },
+    {
+      "url": "https://doi.org/10.1145/3355369.3355599",
+      "access": "Direct open failed; citation identity confirmed from primary VisibleV8 PDF and author project page."
+    },
+    {
+      "url": "https://arxiv.org/html/2411.17548",
+      "access": "Open failed (404); switched to the PDF URL above."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jss.2023.111747",
+      "access": "An incorrect DOI was submitted during search exploration and was inaccessible; corrected DOI is 10.1016/j.jss.2023.111708."
+    }
+  ],
+  "browser_original_visit_evidence": {
+    "checked_in_my_turn": "No production browser-monitoring product was checked for preserving rich evidence from the same original anomalous page visit. WebREC is a research measurement/archive system for browser executions, not a monitoring product; it was checked as a scholarly comparator. Vesper is a two-pass browser instrumentation research tool, not a longitudinal monitoring product.",
+    "root_cross_reference_not_independently_checked_here": "Root independently read Sentry's 2024 Browser Profiling Learnings primary blog and should cite it separately if using that evidence.",
+    "novelty_implication": "Hindsight is the strongest original-event trace-retention comparator, but it targets distributed request traces; evidence for browser-session same-visit retention from products remains outside this agent's access receipt."
+  }
+}

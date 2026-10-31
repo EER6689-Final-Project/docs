@@ -10,15 +10,15 @@ This repository organizes the proposal and supporting research for the EEI6689 p
 
 ## Research Management
 
-Use these documents for the cross-topic evidence base, project choices, and source follow-up:
+The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the six [research report working files](task%201/Research%20Management/README.md):
 
-- [Phase 0 Evidence Synthesis](task%201/Research%20Management/Phase%200%20Evidence%20Synthesis.md)
-- [Evidence Map](task%201/Research%20Management/Evidence%20Map.md)
+- [Research Plan](task%201/Research%20Management/Research%20Plan.md)
 - [Literature Review and Research Gap Matrix](task%201/Research%20Management/Literature%20Review%20and%20Research%20Gap%20Matrix.md)
-- [Candidate Gap Assessment (T1.1–T1.6)](task%201/Research%20Management/Candidate%20Gap%20Assessment.md)
+- [Monitoring Novelty Cross Reference](task%201/Research%20Management/Monitoring%20Novelty%20Cross%20Reference.md)
 - [Decision Log](task%201/Research%20Management/Decision%20Log.md)
 - [Zotero Verification Queue](task%201/Research%20Management/Zotero%20Verification%20Queue.md)
-- [Supporting Phase 0 evidence note](task%201/.memory/phase-0-evidence-synthesis.md)
+
+Earlier assessments, source inventories, screening logs and audit records are preserved in the [Research Archive](task%201/Research%20Archive/README.md).
 
 ## Topic Research
 
@@ -38,7 +38,7 @@ These notes summarize selected sources informing the metric-semantics review:
 - [Gao et al. (2017), Perceived Performance of Top Retail Webpages](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Gao%20et%20al%202017%20-%20Perceived%20Performance%20of%20Top%20Retail%20Webpages.md)
 - [Hossfeld et al. (2018), Speed Index and Web QoE](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Hossfeld%20et%20al%202018%20-%20Speed%20Index%20and%20Web%20QoE.md)
 - [Kelton et al. (2017), Improving User Perceived Page Load Times Using Gaze](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Kelton%20et%20al%202017%20-%20Improving%20User%20Perceived%20Page%20Load%20Times%20Using%20Gaze.md)
-- [Kelton et al. (2020), Modeling User-Centered Page Load Time for Smartphones](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Kelton%20et%202020%20-%20Modeling%20User-Centered%20Page%20Load%20Time%20for%20Smartphones.md)
+- [Kelton et al. (2020), Modeling User-Centered Page Load Time for Smartphones](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Kelton%20et%20al%202020%20-%20Modeling%20User-Centered%20Page%20Load%20Time%20for%20Smartphones.md)
 - [Netravali et al. (2018), Vesper: Measuring Time-to-Interactivity](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Netravali%20et%20al%202018%20-%20Vesper%20Measuring%20Time-to-Interactivity.md)
 - [van Riet et al. (2023), Optimize Along the Way](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/van%20Riet%20et%20al%202023%20-%20Optimize%20Along%20the%20Way.md)
 - [Wehner et al. (2022), A Vital Improvement](task%201/Research%20Papers/T1.1%20Metric%20Semantics/Papers/Wehner%20et%20al%202022%20-%20A%20Vital%20Improvement.md)

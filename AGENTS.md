@@ -4,7 +4,8 @@
 
 This repository contains research materials for the EEI6689 project, not application source code. The project files are under `task 1/`:
 
-- `Research Management/` contains the evidence map, literature review, decision log, and verification queue.
+- `Research Management/` contains six report-working files: its index, selected research plan, literature matrix, novelty cross-reference, current decision log, and focused verification queue.
+- `Research Archive/` preserves earlier assessments, the evidence map, source inventories, full historical decisions/verification ledger, screening logs, and audit artifacts.
 - `Research Papers/T1.1` through `T1.6/` contains topic syntheses and associated source PDFs. Topic-specific paper notes are kept in `Papers/` where applicable.
 - `Thought process/` contains staged planning notes.
 - The proposal (`EER6689_Project Proposal.docx`) and task brief (`My tasks.pdf`) are at the project root. `.memory/` contains supporting synthesis notes.
@@ -17,7 +18,7 @@ No build or test command is configured. Review edits directly in a Markdown edit
 
 ```sh
 git status --short
-git diff -- "task 1/Research Management/Evidence Map.md"
+git diff -- "task 1/Research Management/Research Plan.md"
 ```
 
 Keep generated or temporary files out of the repository unless they are project deliverables. Preserve source PDFs alongside the notes that analyze them.
