@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build the existing report-writing plan without installing or downloading tools.
+# Build the research report without installing or downloading tools.
 set -euo pipefail
 report_root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd -- "$report_root"
@@ -33,4 +33,4 @@ if ! "$report_pdf_python" -c 'import pypdf' >/dev/null 2>&1; then
   report_pdf_python="${HOME}/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
 fi
 "$report_pdf_python" tools/preserve-format-pages.py
-printf 'Built %s/main.pdf. Inspect the font notice and review record before submission.\n' "$report_root"
+printf 'Built %s/main.pdf with the required Times New Roman font. Review the fresh PDF before submission.\n' "$report_root"

@@ -1,4 +1,4 @@
-"""Reproduce the attributed planning illustration from the preserved source PDF.
+"""Reproduce the attributed source illustration from the preserved source PDF.
 
 Run from any directory with Python and pypdf. The original source is read only.
 """

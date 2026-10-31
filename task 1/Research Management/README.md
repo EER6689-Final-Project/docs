@@ -17,10 +17,10 @@ Eight working files are retained here, including the source map and finite pilot
 
 Use the plan for the introduction and methodology draft, and the matrix plus novelty comparison for the literature review. Results and conclusions must follow collected evidence; this repository currently contains research preparation rather than experimental findings.
 
-The requested [LaTeX report-writing plan](<../../docs/README.md>) is maintained
+The [LaTeX research report](<../../docs/README.md>) is maintained
 separately in `docs/`. It presents the specified preliminary pages and five
-planning-stage chapters, with a source-attributed bibliography, illustrations,
-writing tasks, review roles and build checks.
+chapters on the proposed study, with a source-attributed bibliography, illustrations,
+research methods, work stages and build checks.
 
 **Latest source check:** the [2026-10-31 decision-critical review](<../Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/README.md>) records identity/version links, original-paper passages, preserved PDFs and the remaining edition/access holds. Use the queue for current status; older access failures remain historical receipts.
 

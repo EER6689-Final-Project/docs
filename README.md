@@ -22,12 +22,12 @@ The selected direction is **Reliability of Delayed Browser Performance Diagnosis
 
 Earlier assessments, source inventories, screening logs and audit records are preserved in the [Research Archive](task%201/Research%20Archive/README.md).
 
-## Report Writing
+## Research Report
 
-The detailed [LaTeX report-writing plan](docs/README.md) is in `docs/`, with
+The [LaTeX research report](docs/README.md) is in `docs/`, with
 [`main.tex`](docs/main.tex) as its entry point. It follows the requested front
 matter and five chapters, includes source-attributed illustrations and
-methodology/writing checks, and distinguishes proposed work from findings.
+methodology checks, and distinguishes proposed work from findings.
 
 ## Topic Research
 

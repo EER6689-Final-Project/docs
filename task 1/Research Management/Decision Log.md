@@ -65,3 +65,25 @@ declaration is an unsigned draft because the supplied formatting checklist has
 no official declaration wording. Font and administrative limits are explicit
 in the document and build review. This writing/production work establishes no
 experimental result, novelty approval, source-hold resolution or study gate.
+
+## Submission manuscript revision — 1 November 2026
+
+The earlier report-plan and front-matter revisions were committed and pushed
+as `fabf6f9` and `f2bb81f`. The requested validation and editorial passes then
+converted the active `docs/` sources into a proposed-study submission manuscript.
+Source, method and report-coherence discrepancies were corrected; internal
+writing instructions were removed. The supplied two-page checklist remains
+unchanged in the declaration position, and project-group/department lines
+remain omitted from the identity pages.
+
+The format checklist and two fresh-proof reviews record actual 12 pt Times
+New Roman body text with 15 pt baselines, 18 pt reference/list baselines and
+exact preservation of the original checklist pages. The final cleanup also
+corrected cited publication identities and distinguished unknown publication
+dates from access dates. Remaining online metadata checks are listed in the
+[verification queue](<Zotero Verification Queue.md>). Final artifact generation
+and page-dependent checks are recorded separately under `docs/review/`.
+
+These revisions prepare the report, not the experiment. FP-0.1 and the main
+study remain unrun; capture feasibility, main-study analysis decisions,
+source-edition limits and the provisional contribution are unchanged.

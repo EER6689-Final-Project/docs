@@ -1,0 +1,37 @@
+{
+  "method": "Direct opening of the fixed W3C edition URLs; title/header/status and dated-version URLs checked. Citation copy only; Zotero library unchanged.",
+  "items": [
+    {
+      "key": "84ZFNR74",
+      "date": "2026-10-02",
+      "url": "https://www.w3.org/TR/2026/WD-paint-timing-20261002/",
+      "status": "Working Draft, 2 October 2026",
+      "accessed": "2026-10-31"
+    },
+    {
+      "key": "JJWRMF5Z",
+      "date": "2026-09-01",
+      "url": "https://www.w3.org/TR/2026/WD-navigation-timing-2-20260901/",
+      "status": "Working Draft, 1 September 2026",
+      "accessed": "2026-10-31"
+    },
+    {
+      "key": "6WVYFE8R",
+      "date": "2026-08-26",
+      "url": "https://www.w3.org/TR/2026/WD-largest-contentful-paint-20260826/",
+      "status": "Working Draft, 26 August 2026",
+      "accessed": "2026-11-01"
+    },
+    {
+      "key": "REP5RHB6",
+      "date": "2025-05-21",
+      "url": "https://www.w3.org/TR/2025/CRD-performance-timeline-20250521/",
+      "status": "Candidate Recommendation Draft, 21 May 2025",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "scope": "Existing inspected editions pinned; no new metric method or cross-version equivalence adopted.",
+  "verification_started_on": "2026-10-31",
+  "verification_completed_on": "2026-11-01",
+  "date_note": "The Colombo client date crossed midnight between the first and second pair of direct source checks. Publication dates are unchanged; each retrieval uses its actual local date."
+}

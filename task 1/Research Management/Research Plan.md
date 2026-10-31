@@ -195,12 +195,12 @@ Research outputs are the episode dataset and manifests, versioned capture config
 
 ## Report structure
 
-**Current requested deliverable:** the [LaTeX report-writing plan](<../../docs/README.md>)
+**Current requested deliverable:** the [LaTeX research report](<../../docs/README.md>)
 uses the requested preliminary pages followed by Introduction, Literature Review,
-Research Methodology, Work Plan and Conclusion. It contains writing instructions
-and proposed procedures, not results. The six-chapter outline below is retained
-as an earlier option for a later empirical report; it does not govern the current
-`docs/main.tex` build.
+Research Methodology, Research Work Plan and Conclusion. The submission presents
+the proposed study and its evidence base; neither pilot nor main-study results
+are available. The six-chapter outline below is retained as an earlier option
+for a later empirical report and does not govern the current `docs/main.tex` build.
 
 1. **Introduction:** delayed-diagnosis problem, motivation, question, aim, objectives and contribution boundaries.
 2. **Literature review:** metric semantics, instrumentation effects, repeated measurement and the closest diagnosis/monitoring systems; use the [source matrix](<Literature Review and Research Gap Matrix.md>) and [novelty comparison](<Monitoring Novelty Cross Reference.md>).

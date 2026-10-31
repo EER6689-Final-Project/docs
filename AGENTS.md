@@ -9,13 +9,13 @@ This repository contains research materials for the EEI6689 project, not applica
 - `Research Papers/T1.1` through `T1.6/` contains topic syntheses and associated source PDFs. Topic-specific paper notes are kept in `Papers/` where applicable.
 - `Thought process/` contains staged planning notes.
 - The proposal (`EER6689_Project Proposal.docx`) and task brief (`My tasks.pdf`) are at the project root. `.memory/` contains supporting synthesis notes.
-- `docs/` contains the LaTeX report-writing plan, bibliography, attributed figure assets, production scripts and review records. `main.tex` is its entry point.
+- `docs/` contains the LaTeX research report, bibliography, attributed figure assets, production scripts and review records. `main.tex` is its entry point.
 
 There is no application source or test suite. Report build intermediates and the compiled preview are ignored under `docs/`.
 
 ## Development and Review
 
-No application build or test command is configured. Build the report with `bash docs/tools/build-report.sh`; read `docs/README.md` for TeX prerequisites and the explicit draft-font limitation. Review research edits directly in a Markdown editor and use Git to inspect changes:
+No application build or test command is configured. Build the report with `bash docs/tools/build-report.sh`; read `docs/README.md` for TeX prerequisites and font verification. Review research edits directly in a Markdown editor and use Git to inspect changes:
 
 ```sh
 git status --short

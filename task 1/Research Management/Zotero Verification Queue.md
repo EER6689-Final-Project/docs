@@ -39,6 +39,22 @@ These holds are claim-specific. They do not convert inaccessible methods into ve
 | P1 | Complete finite-pilot execution readiness. | [FP-0.1](<Finite Pilot Protocol.md>) is drafted with fixed counts/caps and stop–amend–proceed criteria, supported by the [Luna-source review](<../Research Archive/Review Artifacts/2026-10-31 Finite Pilot Protocol/README.md>). Verify host capacity, exact browser/library/capture versions and fields, fixture/oracle isolation, classifier mappings, loss signals, cost enforcement and the execution manifest before collection. Main-study template holdouts and inference remain separate; do not treat the two pilot fixtures as a held-out main evaluation. |
 | P1 | Make report citations traceable. | Replace generated citation markers with verified bibliography entries; distinguish source findings from interpretation. Reuse the [matrix](<Literature Review and Research Gap Matrix.md>), source notes and archived inventories without counting duplicate records as independent works. |
 
+## Submission citation metadata — 1 November 2026
+
+The [final manuscript cleanup](<../../docs/review/astra-submission-cleanup.md>)
+records citation-copy corrections and the remaining online metadata checks.
+All 49 cited keys resolve, and cited scholarly records have verified author/year
+information. Heričko's proceedings identity and the four dated W3C editions
+were reconciled without changing the Zotero library or historical source counts.
+
+Publication dates remain unverified for 23 cited online records, and 19 have no
+verified author/editor field in the current citation copy. Their keys are listed
+in the cleanup record. Use `n.d.` and title/source-based citation where needed;
+retain actual access dates and URLs. Verify these fields before supplying dates
+or authors, rather than treating retrieval years as publication years. These
+metadata items do not establish that source documents are missing and do not
+alter the separate method, edition-equivalence or study-readiness holds below.
+
 ## Current evidence and study status
 
 | Gate | Current status |

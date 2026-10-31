@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-01",
+  "command": "bash docs/tools/build-report.sh",
+  "pipeline": [
+    "XeLaTeX",
+    "Biber",
+    "XeLaTeX",
+    "XeLaTeX",
+    "preserve-format-pages.py"
+  ],
+  "tools": {
+    "XeTeX": "3.141592653-2.6-0.999998 (TeX Live 2026)",
+    "Biber": "2.22",
+    "pypdf": "6.10.0",
+    "pdftoppm": "26.01.0"
+  },
+  "active_source_sha256": "e5b700d7185c8d8a2fd372271be0fc2865e2080b5983dd04232fe537a83dddc7",
+  "pdf": {
+    "path": "EEY6189_N.W.L.U.R.D.Nanayakkara_321424374_Final Report.pdf",
+    "sha256": "d63e7f84081a821a7070e4da304f80d7abf1d4d2b24b71b272f0251a78dda1ec",
+    "bytes": 636866,
+    "physical_pages": 44,
+    "identical_to_main_pdf": true,
+    "authored_pages_a4": 42,
+    "inserted_pages_letter": [
+      3,
+      4
+    ]
+  },
+  "supplied_format": {
+    "sha256": "04f2a570203133ed4360dfbfb07ae50a37a1961fc1e3ec12d8cd7addc7dea774",
+    "source_pages": 2,
+    "output_physical_pages": [
+      3,
+      4
+    ],
+    "extracted_text_identical": [
+      true,
+      true
+    ],
+    "content_stream_bytes_identical": [
+      true,
+      true
+    ],
+    "pixel_identical_120dpi": [
+      true,
+      true
+    ],
+    "media_box_points": [
+      612,
+      792
+    ],
+    "unfilled_and_no_overlay": true
+  },
+  "structure": {
+    "physical_pages": {
+      "cover": 1,
+      "title": 2,
+      "guide": [
+        3,
+        4
+      ],
+      "abstract": 5,
+      "contents": [
+        6,
+        7
+      ],
+      "figures": 8,
+      "tables": 9,
+      "symbols": 10,
+      "chapter_1": 11,
+      "chapter_2": 15,
+      "chapter_3": 21,
+      "chapter_4": 34,
+      "chapter_5": 38,
+      "references_start": 39
+    },
+    "printed_folios": {
+      "title": "i",
+      "abstract": "iv",
+      "contents": [
+        "v",
+        "vi"
+      ],
+      "figures": "vii",
+      "tables": "viii",
+      "symbols": "ix",
+      "chapter_1": "1",
+      "references_start": "29",
+      "final": "34"
+    },
+    "figures": 2,
+    "tables": 8,
+    "references": 49,
+    "cited_keys": 49,
+    "cross_reference_targets": 11,
+    "toc_includes_both_caption_lists": true
+  },
+  "typography": {
+    "body_font": "Times New Roman",
+    "body_font_embedded": true,
+    "body_tex_pt": 12,
+    "body_pdf_bp_measured": 11.9552,
+    "body_baseline_tex_pt": 15,
+    "body_baseline_pdf_bp_expected": 14.94396,
+    "body_baseline_pdf_bp_observed_rounded": [
+      14.9,
+      15.0
+    ],
+    "list_and_reference_tex_pt": 12,
+    "list_and_reference_baseline_tex_pt": 18,
+    "list_and_reference_baseline_pdf_bp_expected": 17.93275,
+    "list_and_reference_baseline_pdf_bp_observed_rounded": [
+      17.9,
+      18.0
+    ],
+    "body_sample_physical_pages": [
+      11,
+      18,
+      26,
+      34
+    ],
+    "list_sample_physical_pages": [
+      8,
+      9
+    ],
+    "reference_sample_physical_pages": [
+      39,
+      40,
+      44
+    ]
+  },
+  "build_log": {
+    "xelatex_error": false,
+    "biber_error": false,
+    "undefined_citations_or_references": false,
+    "missing_characters": false,
+    "overfull_boxes": false,
+    "underfull_boxes_present": true
+  },
+  "bibliography": {
+    "numbered_labels_consecutive_1_to_49": true,
+    "alphabetical_nyt_sort": true,
+    "harvard_author_year_citations": true,
+    "online_medium_and_access_dates_visible": true,
+    "two_corrected_access_dates": "2026-11-01",
+    "unverified_online_publication_dates_remain_nd": true,
+    "uncited_entries_printed": 0
+  },
+  "visual_qa": {
+    "all_pages_rendered_at_72dpi": 44,
+    "contact_sheet": "/tmp/eei6689-final-submission-qa/final-contact.png",
+    "selected_pages": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      20,
+      26,
+      35,
+      37,
+      39,
+      43,
+      44
+    ],
+    "final_pdf_change_from_prior_proof_pages": [
+      6,
+      7
+    ],
+    "obvious_clipping_or_overlap": false
+  },
+  "editorial_text_scan_hits": {
+    "ReportPlaceholder": [],
+    "PlanCheck": [],
+    "PlanSource": [],
+    "To write": [],
+    "Completion check": [],
+    "ChatGPT": [],
+    "OpenAI": [],
+    "Codex": [],
+    "Luna": [],
+    "Astra": [],
+    "Zotero verification": [],
+    "authoring instruction": [],
+    "report-writing plan": []
+  },
+  "checklist": {
+    "S01": "PASS",
+    "S02": "PASS",
+    "S03": "PASS",
+    "S04": "PASS",
+    "F01": "PASS",
+    "F02": "PASS",
+    "F03": "PASS",
+    "F04": "PASS",
+    "F05": "PASS",
+    "F06": "PASS",
+    "I01": "PASS",
+    "I02": "PASS",
+    "I03": "PASS",
+    "C01": "PASS",
+    "C02": "PASS",
+    "C03": "PASS",
+    "R01": "PASS",
+    "R02": "PASS",
+    "A01": "N/A",
+    "Q01": "PASS",
+    "Q02": "PASS"
+  },
+  "limitations": [
+    "This is a compiled report of a proposed study; the pilot and main experiment have not been run.",
+    "Unknown publication dates and authorship in online citation metadata are recorded outside the PDF for verification.",
+    "Review records are production checks, not independent institutional approval."
+  ]
+}

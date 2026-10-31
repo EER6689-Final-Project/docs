@@ -1,0 +1,65 @@
+{
+  "status": "intermediate_fresh_proof_not_final_submission",
+  "built_on": "2026-10-31",
+  "build_command": "bash docs/tools/build-report.sh",
+  "output": "docs/main.pdf",
+  "sha256": "e050b7f4b8a71ae8469cddd5613e5eb238d00962dab4cee5f349dfe3be328d1b",
+  "page_count": 44,
+  "authored_page_size": "A4",
+  "font": {
+    "family": "Times New Roman",
+    "receipt": "docs/review/font-verification.json",
+    "selection": "\u005c\u005csetmainfont{Times New Roman}",
+    "body_font_embedded": true,
+    "body_glyph_size_pdf_bp": 11.955,
+    "body_size_tex_pt": 12,
+    "body_faces_observed": ["regular", "bold", "italic"]
+  },
+  "line_spacing": {
+    "body_expected_tex_pt": 15,
+    "body_expected_pdf_bp": 14.94396,
+    "paragraph_gap_tex_pt": 6,
+    "body_samples": [
+      {"physical_page": 11, "chapter": "Introduction", "median_pdf_bp": 14.94, "successive_lines": 29},
+      {"physical_page": 18, "chapter": "Literature Review", "median_pdf_bp": 14.94, "successive_lines": 34},
+      {"physical_page": 26, "chapter": "Methodology", "median_pdf_bp": 14.94, "successive_lines": 12},
+      {"physical_page": 34, "chapter": "Research Work Plan", "median_pdf_bp": 14.94, "successive_lines": 26}
+    ],
+    "lists_and_references": {
+      "tex_baseline_pt": 18,
+      "expected_pdf_bp": 17.93275,
+      "list_of_figures_page": 8,
+      "list_of_tables_page": 9,
+      "references_pages": [40, 44],
+      "observed_median_pdf_bp": 17.93
+    }
+  },
+  "checklist": {
+    "F02": {"status": "PASS", "evidence": "geometry declaration and representative A4 content offsets"},
+    "F04": {"status": "PASS", "evidence": "source heading sizes and rendered physical page 11"},
+    "F05": {"status": "PASS", "evidence": "embedded Times New Roman; body glyph size and four-page baseline sampling"},
+    "I01": {"status": "PASS", "evidence": "cover source and rendered physical page 1"},
+    "I02": {"status": "PASS", "evidence": "title source and rendered physical page 2"},
+    "S02": {"status": "PASS", "evidence": "physical pages 3-4, exact Letter MediaBoxes, equal text and pixel-identical 120-dpi renders"},
+    "S03": {"status": "PASS", "evidence": "same exact page-object/render comparison; no overlay"},
+    "C02": {"status": "PASS_spacing_only", "evidence": "List of Figures median 17.93 PDF bp"},
+    "C03": {"status": "PASS_spacing_only", "evidence": "List of Tables median 17.93 PDF bp"},
+    "R01": {"status": "PASS_spacing_only", "evidence": "references pages 40-44 median 17.93 PDF bp; final Biber build"},
+    "Q02": {"status": "PASS_build_evidence_only", "evidence": "44-page current build, SHA-256 recorded, no unresolved-reference/missing-character/overfull warnings"}
+  },
+  "build_warnings": {
+    "unresolved_references": 0,
+    "missing_characters": 0,
+    "overfull_boxes": 0,
+    "underfull_boxes": "present in narrow table cells and URL wraps"
+  },
+  "fixes": [
+    "Removed Times New Roman fallback and its draft font-status macro; required font absence now fails the build.",
+    "Reduced the last work-plan longtable column from 0.43 to 0.42 text width to eliminate a 2.65 pt overfull alignment."
+  ],
+  "limitations": [
+    "This is an intermediate proof; a separate final cleanup and rebuild is pending.",
+    "Exact full-caption wording, every page margin, and every heading/identity field were not exhaustively re-audited.",
+    "Structural and content review outside listed checks belongs to the structure review."
+  ]
+}

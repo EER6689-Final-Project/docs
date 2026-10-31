@@ -1,0 +1,71 @@
+{
+  "verified_on": "2026-10-31",
+  "proof": {
+    "path": "docs/main.pdf",
+    "pages": 44,
+    "sha256": "e050b7f4b8a71ae8469cddd5613e5eb238d00962dab4cee5f349dfe3be328d1b",
+    "authored_page_size_points": [595.28, 841.89],
+    "inserted_pages": [
+      {
+        "physical_page": 3,
+        "source_page": 1,
+        "size_points": [612, 792],
+        "text_identical": true,
+        "pixel_identical_at_120dpi": true
+      },
+      {
+        "physical_page": 4,
+        "source_page": 2,
+        "size_points": [612, 792],
+        "text_identical": true,
+        "pixel_identical_at_120dpi": true
+      }
+    ]
+  },
+  "checklist": {
+    "S01": "PASS",
+    "S02": "PASS",
+    "S03": "PASS",
+    "S04": "PASS",
+    "F01": "PASS",
+    "F02": "PASS",
+    "F03": "PASS",
+    "F04": "PASS",
+    "F05": "PASS",
+    "F06": "PASS",
+    "I01": "PASS",
+    "I02": "PASS",
+    "I03": "PASS",
+    "C01": "PASS",
+    "C02": "PASS",
+    "C03": "PASS",
+    "R01": "HOLD_CLEANUP_PENDING",
+    "R02": "PASS",
+    "A01": "N/A",
+    "Q01": "FAIL_CLEANUP_PENDING",
+    "Q02": "PASS_FOR_THIS_PROOF"
+  },
+  "references": {
+    "cited_keys": 49,
+    "rendered_numbered_entries": 49,
+    "uncited_entries_rendered": 0,
+    "online_records_missing_url_or_access_date": 0,
+    "internal_note_fields_rendered": true,
+    "examples": [
+      {"physical_page": 39, "printed_folio": 29, "reference": "[8]"},
+      {"physical_page": 40, "printed_folio": 30, "reference": "[15]"},
+      {"physical_page": 44, "printed_folio": 34, "reference": "[48]"}
+    ]
+  },
+  "render_qa": {
+    "all_pages_nonempty": true,
+    "empty_pages": 0,
+    "contact_sheet": "/tmp/eei6689-submission-qa/final/contact.png",
+    "source_format_pages_pixel_exact": true,
+    "work_plan_longtable_overfull_corrected": true
+  },
+  "limitations": [
+    "Checklist page-dependent checks must be rerun after bibliography cleanup and the final rebuild.",
+    "Detailed typography metrics are owned by the separate typesetting review."
+  ]
+}

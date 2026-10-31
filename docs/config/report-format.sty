@@ -7,20 +7,9 @@
     {Use the documented XeLaTeX build to load Times New Roman.}
 \fi
 \RequirePackage{fontspec}
-% A visibly identified proof fallback permits review without the required font.
-% This fallback is not a claim of Times New Roman compliance.
-\IfFontExistsTF{Times New Roman}{%
-  \setmainfont{Times New Roman}
-  \newcommand{\ReportFontStatus}{Times New Roman loaded.}
-}{%
-  \setmainfont{texgyretermes-regular.otf}[
-    BoldFont=texgyretermes-bold.otf,
-    ItalicFont=texgyretermes-italic.otf,
-    BoldItalicFont=texgyretermes-bolditalic.otf
-  ]
-  \newcommand{\ReportFontStatus}{Draft proof uses TeX Gyre Termes. The guide requires Times New Roman; verify that font before submission.}
-  \PackageWarningNoLine{report-format}{Draft font fallback: TeX Gyre Termes; Times New Roman unavailable}
-}
+% Times New Roman is required for the submission. A missing installed face
+% must stop the build rather than silently change the report typography.
+\setmainfont{Times New Roman}
 \RequirePackage[left=1.5in,right=1in,top=1.5in,bottom=1in]{geometry}
 \RequirePackage{ragged2e}
 \RequirePackage{titlesec}
@@ -51,6 +40,8 @@
   url=true,
   dateabbrev=false
 ]{biblatex}
+% Retrieval dates are not publication dates. Undated sources retain n.d. labels.
+\DeclareLabeldate{\field{date}\field{year}\literal{nodate}}
 \RequirePackage[hidelinks,unicode]{hyperref}
 \hypersetup{
   pdftitle={\ReportTitle\space--\space\ReportDocumentType},
@@ -139,10 +130,6 @@
   \printfield{url}%
   \iffieldundef{urlyear}{}{\setunit*{\addspace}\printurldate}}
 
-% Draft prompts are deliberately visible and must be removed for submission.
-\newcommand{\ReportPlaceholder}[1]{\par\textit{[To write: #1]}\par}
-\newcommand{\PlanSource}[1]{\texttt{\detokenize{#1}}}
-\newcommand{\PlanCheck}[1]{\par\textbf{Completion check.} #1\par}
 \newcommand{\ReportFrontChapter}[1]{%
   \clearpage
   \chapter*{#1}
