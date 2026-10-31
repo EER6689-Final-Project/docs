@@ -69,7 +69,7 @@ For every candidate capture contract, record **collector/API + event/field set +
 - **Monitoring budget:** a declared vector of resource caps with a complete policy ledger. The chosen caps and weighting are ours. Evaluator-only verification work is reported separately and never supplied to the policy.
 - **Reliability boundary:** a condition-dependent empirical conclusion about the tested corpus, using a predefined practical criterion and uncertainty. It is not an existing theorem or an assumed advantage of retention.
 
-The current selection does **not** yet justify a particular clustered estimator, powered sample size, minimum useful attribution difference, alert threshold or stopping rule for this browser experiment. Keep these checks in the [verification queue](<Zotero Verification Queue.md>); obtain and appraise additional methodological sources if needed before adoption.
+The current selection does **not** yet justify a particular confirmatory clustered estimator, powered sample size, minimum useful attribution difference, alert threshold or stopping rule for the main browser experiment. Keep these checks in the [verification queue](<Zotero Verification Queue.md>); obtain and appraise additional methodological sources if needed before adoption.
 
 ## Existing source catalogue
 
@@ -267,3 +267,9 @@ These sources were introduced during the current-solution comparison or methodol
 4. **Protocol choices:** justify cadence, corpus size, severity/persistence, delays, resource caps, practical-effect criterion, splitting, stopping and missingness rules. Sources inform these choices; they do not prescribe them.
 
 Track these tasks in the [verification queue](<Zotero Verification Queue.md>). The study can make an empirical contribution even if delayed diagnosis performs well; novelty and superiority remain questions for evidence.
+
+## Pilot-specific limits and stopping guidance — 2026-10-31
+
+The [Finite Pilot Protocol FP-0.1](<Finite Pilot Protocol.md>) uses a small supplementary methodology set reviewed in the [pilot evidence receipt](<../Research Archive/Review Artifacts/2026-10-31 Finite Pilot Protocol/README.md>): Eldridge et al. (2016), Thabane et al. (2010, corrected 2023), Moore et al. (2011), and Duplyakin et al. (2023). It also reuses Kalibera/Jones, Heričko and Hindsight and checks official browser buffer documentation. New references here have **no assigned/verified Zotero keys in this task**; do not infer library membership or change the earlier 158-key/133-row accounting from their mention.
+
+The sources support feasibility objectives, sample-size rationale, declared progression, configuration-specific repetition, order/reset control and finite capture accounting. FP-0.1's actual counts, deadlines, resource ceilings and thresholds are proposed study choices. Neither clinical pilot sample sizes nor a five-run Lighthouse convention establishes their adequacy. Main-study inference and sample-size methods remain unselected; the pilot supplies bounded observations for later design work.

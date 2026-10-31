@@ -1,0 +1,581 @@
+{
+  "exported_on": "2026-10-31",
+  "source": "Read-only local Zotero API, format=biblatex",
+  "root_collection": "FN3JMCGF",
+  "included_collections": [
+    {
+      "key": "FN3JMCGF",
+      "name": "Final Project Research Papers"
+    },
+    {
+      "key": "VEYKC53A",
+      "name": "1. Metric definitions"
+    },
+    {
+      "key": "WBZRURN7",
+      "name": "2. Browser Instrumentation"
+    },
+    {
+      "key": "B2NRLIE9",
+      "name": "3. Synthetic Agents"
+    },
+    {
+      "key": "BCCI89FD",
+      "name": "4. Statistical Measurement"
+    },
+    {
+      "key": "SH85IGRR",
+      "name": "5. Profiler Validation"
+    },
+    {
+      "key": "BE4C9F82",
+      "name": "6. Experimental design of a dual corpus profiler"
+    }
+  ],
+  "parent_records_before_membership_deduplication": 180,
+  "unique_parent_records": 180,
+  "citation_key_policy": "Zotero parent item key",
+  "excluded": "Child attachments and notes; machine-local file paths and abstracts",
+  "membership": {
+    "A3SS4UWX": [
+      "FN3JMCGF"
+    ],
+    "3ED3FDXH": [
+      "FN3JMCGF"
+    ],
+    "P57ARGS6": [
+      "FN3JMCGF"
+    ],
+    "IX2DU87B": [
+      "FN3JMCGF"
+    ],
+    "WE8HHCA8": [
+      "FN3JMCGF"
+    ],
+    "Z2BQ69Z4": [
+      "FN3JMCGF"
+    ],
+    "9IN2U6Z2": [
+      "FN3JMCGF"
+    ],
+    "MWTY6KCS": [
+      "FN3JMCGF"
+    ],
+    "JL4U756T": [
+      "FN3JMCGF"
+    ],
+    "N33VTKAN": [
+      "FN3JMCGF"
+    ],
+    "SSS4NSXC": [
+      "FN3JMCGF"
+    ],
+    "63QKVL86": [
+      "FN3JMCGF"
+    ],
+    "KE53ZLW3": [
+      "FN3JMCGF"
+    ],
+    "UMVA36NP": [
+      "FN3JMCGF"
+    ],
+    "GJ9PAHK3": [
+      "VEYKC53A"
+    ],
+    "2LYVIL8I": [
+      "VEYKC53A"
+    ],
+    "6EFLN7PR": [
+      "VEYKC53A"
+    ],
+    "9A8CMSAY": [
+      "VEYKC53A"
+    ],
+    "R2U9EAFA": [
+      "VEYKC53A"
+    ],
+    "HS3PKWFL": [
+      "VEYKC53A"
+    ],
+    "22HAD6YA": [
+      "VEYKC53A"
+    ],
+    "WUUGBCG4": [
+      "VEYKC53A"
+    ],
+    "9WT3HAHJ": [
+      "VEYKC53A"
+    ],
+    "NJYH4V45": [
+      "VEYKC53A"
+    ],
+    "3KVANYXJ": [
+      "VEYKC53A"
+    ],
+    "WB6JZEUA": [
+      "VEYKC53A"
+    ],
+    "A8GDSSI7": [
+      "VEYKC53A"
+    ],
+    "BL8XCEDY": [
+      "VEYKC53A"
+    ],
+    "DP9EINBS": [
+      "VEYKC53A"
+    ],
+    "XFCVZVBE": [
+      "VEYKC53A"
+    ],
+    "GYN22PP7": [
+      "VEYKC53A"
+    ],
+    "VWHJLGV3": [
+      "VEYKC53A"
+    ],
+    "B8XNKSHY": [
+      "VEYKC53A"
+    ],
+    "UN6NKBQX": [
+      "VEYKC53A"
+    ],
+    "EVB9FDNG": [
+      "WBZRURN7"
+    ],
+    "TIIDVPV8": [
+      "WBZRURN7"
+    ],
+    "T3K44KHZ": [
+      "WBZRURN7"
+    ],
+    "BUPGR8ZJ": [
+      "WBZRURN7"
+    ],
+    "3TNGADXQ": [
+      "WBZRURN7"
+    ],
+    "5NNCRU98": [
+      "WBZRURN7"
+    ],
+    "IWCIN2C5": [
+      "WBZRURN7"
+    ],
+    "YTP4WLI9": [
+      "WBZRURN7"
+    ],
+    "J9YYJDDP": [
+      "WBZRURN7"
+    ],
+    "MF3Z7MCZ": [
+      "WBZRURN7"
+    ],
+    "9TZCJ36B": [
+      "WBZRURN7"
+    ],
+    "XV62BFGD": [
+      "WBZRURN7"
+    ],
+    "JZ6S53CX": [
+      "WBZRURN7"
+    ],
+    "CWHHFA55": [
+      "WBZRURN7"
+    ],
+    "MI895PBZ": [
+      "WBZRURN7"
+    ],
+    "I2QWB27Y": [
+      "WBZRURN7"
+    ],
+    "WYGSHWFH": [
+      "WBZRURN7"
+    ],
+    "P82GMMCM": [
+      "WBZRURN7"
+    ],
+    "HUJR8W9W": [
+      "WBZRURN7"
+    ],
+    "47DZSUKL": [
+      "WBZRURN7"
+    ],
+    "WRY7VL9Z": [
+      "WBZRURN7"
+    ],
+    "66QX7WHN": [
+      "WBZRURN7"
+    ],
+    "H6CJZ69R": [
+      "WBZRURN7"
+    ],
+    "I9Z9RWE2": [
+      "WBZRURN7"
+    ],
+    "GC9EIJZR": [
+      "WBZRURN7"
+    ],
+    "QW7AGAGB": [
+      "WBZRURN7"
+    ],
+    "SU8DH5XW": [
+      "WBZRURN7"
+    ],
+    "92RRK4LT": [
+      "WBZRURN7"
+    ],
+    "CU4HMS98": [
+      "WBZRURN7"
+    ],
+    "6SJEG5G9": [
+      "WBZRURN7"
+    ],
+    "KEJFZJHV": [
+      "WBZRURN7"
+    ],
+    "I8L7FN9V": [
+      "WBZRURN7"
+    ],
+    "6WVYFE8R": [
+      "WBZRURN7"
+    ],
+    "JJWRMF5Z": [
+      "WBZRURN7"
+    ],
+    "84ZFNR74": [
+      "WBZRURN7"
+    ],
+    "NXHCE5SV": [
+      "WBZRURN7"
+    ],
+    "REP5RHB6": [
+      "WBZRURN7"
+    ],
+    "JHEC6VHJ": [
+      "B2NRLIE9"
+    ],
+    "99DTPUKH": [
+      "B2NRLIE9"
+    ],
+    "9V33RJH6": [
+      "B2NRLIE9"
+    ],
+    "JRR4K3ST": [
+      "B2NRLIE9"
+    ],
+    "IL735Y87": [
+      "B2NRLIE9"
+    ],
+    "WU62T7AT": [
+      "B2NRLIE9"
+    ],
+    "RUPJYKW5": [
+      "B2NRLIE9"
+    ],
+    "MDWB2TDG": [
+      "B2NRLIE9"
+    ],
+    "VDGPNUWI": [
+      "B2NRLIE9"
+    ],
+    "ESM2TZ9A": [
+      "B2NRLIE9"
+    ],
+    "NW3PJGSZ": [
+      "B2NRLIE9"
+    ],
+    "Q2T3R76T": [
+      "B2NRLIE9"
+    ],
+    "DFUNZS6W": [
+      "B2NRLIE9"
+    ],
+    "SYQR5RQL": [
+      "B2NRLIE9"
+    ],
+    "9IDW7B5Y": [
+      "B2NRLIE9"
+    ],
+    "UKNA4QJZ": [
+      "B2NRLIE9"
+    ],
+    "ZZSL9IPU": [
+      "B2NRLIE9"
+    ],
+    "YLRND2GP": [
+      "B2NRLIE9"
+    ],
+    "EPH3DPP2": [
+      "B2NRLIE9"
+    ],
+    "JT3PXZLG": [
+      "B2NRLIE9"
+    ],
+    "4XWMB3XH": [
+      "B2NRLIE9"
+    ],
+    "TAB5LR2M": [
+      "B2NRLIE9"
+    ],
+    "H2BXWLHZ": [
+      "B2NRLIE9"
+    ],
+    "DJI5ULJD": [
+      "B2NRLIE9"
+    ],
+    "2TY5A3XC": [
+      "BCCI89FD"
+    ],
+    "GJMALCNF": [
+      "BCCI89FD"
+    ],
+    "YEM9ZMRR": [
+      "BCCI89FD"
+    ],
+    "P94EL9KH": [
+      "BCCI89FD"
+    ],
+    "3HI3DY8W": [
+      "BCCI89FD"
+    ],
+    "JNNJZS5L": [
+      "BCCI89FD"
+    ],
+    "SZBK3ZEE": [
+      "BCCI89FD"
+    ],
+    "LXFQBXE3": [
+      "BCCI89FD"
+    ],
+    "6H3HKLL4": [
+      "BCCI89FD"
+    ],
+    "W5GNFUTP": [
+      "BCCI89FD"
+    ],
+    "B39WMA9T": [
+      "BCCI89FD"
+    ],
+    "D568X6SQ": [
+      "BCCI89FD"
+    ],
+    "DQUYYQXB": [
+      "BCCI89FD"
+    ],
+    "KKG9KNEU": [
+      "BCCI89FD"
+    ],
+    "T3FHMMCH": [
+      "BCCI89FD"
+    ],
+    "TWKB9CAY": [
+      "BCCI89FD"
+    ],
+    "2K3IB5CQ": [
+      "BCCI89FD"
+    ],
+    "SMCZWD5S": [
+      "BCCI89FD"
+    ],
+    "L59HPN96": [
+      "BCCI89FD"
+    ],
+    "E2A63QR8": [
+      "BCCI89FD"
+    ],
+    "DS3SS83A": [
+      "BCCI89FD"
+    ],
+    "XX924A92": [
+      "BCCI89FD"
+    ],
+    "TNLWEEU7": [
+      "BCCI89FD"
+    ],
+    "ISZ9TU75": [
+      "BCCI89FD"
+    ],
+    "NIWWJJIZ": [
+      "BCCI89FD"
+    ],
+    "GANI6MKK": [
+      "BCCI89FD"
+    ],
+    "SKLNC8DZ": [
+      "BCCI89FD"
+    ],
+    "X7ZXVUQY": [
+      "BCCI89FD"
+    ],
+    "ZNCYRKP4": [
+      "BCCI89FD"
+    ],
+    "4MGN3SYQ": [
+      "SH85IGRR"
+    ],
+    "X4BEQVFF": [
+      "SH85IGRR"
+    ],
+    "HB6E4DMC": [
+      "SH85IGRR"
+    ],
+    "8FNYPXJD": [
+      "SH85IGRR"
+    ],
+    "6VK2G66S": [
+      "SH85IGRR"
+    ],
+    "7CBVI4EG": [
+      "SH85IGRR"
+    ],
+    "SA4WWMZE": [
+      "SH85IGRR"
+    ],
+    "FNWVG4JH": [
+      "SH85IGRR"
+    ],
+    "U5MALNU4": [
+      "SH85IGRR"
+    ],
+    "8UF2E7YL": [
+      "SH85IGRR"
+    ],
+    "NTWVE6GJ": [
+      "SH85IGRR"
+    ],
+    "9WMJW57H": [
+      "SH85IGRR"
+    ],
+    "QF52VUCU": [
+      "SH85IGRR"
+    ],
+    "QHUCFVBF": [
+      "SH85IGRR"
+    ],
+    "5QLIYPC7": [
+      "SH85IGRR"
+    ],
+    "AIFQRE7Y": [
+      "SH85IGRR"
+    ],
+    "U9PHTV9S": [
+      "SH85IGRR"
+    ],
+    "9T8ACIJ8": [
+      "SH85IGRR"
+    ],
+    "VMWYVJKL": [
+      "SH85IGRR"
+    ],
+    "NDU6A78T": [
+      "SH85IGRR"
+    ],
+    "N5YHCXI3": [
+      "SH85IGRR"
+    ],
+    "EI36S6VA": [
+      "SH85IGRR"
+    ],
+    "WF5NM72E": [
+      "SH85IGRR"
+    ],
+    "E8MGSAC8": [
+      "SH85IGRR"
+    ],
+    "HNFNRA3T": [
+      "SH85IGRR"
+    ],
+    "9DH7YRKR": [
+      "SH85IGRR"
+    ],
+    "VKTGCQ5T": [
+      "SH85IGRR"
+    ],
+    "BDI9GJNZ": [
+      "SH85IGRR"
+    ],
+    "AAW3TPVK": [
+      "SH85IGRR"
+    ],
+    "DT5MQ99J": [
+      "SH85IGRR"
+    ],
+    "YIBGR5RT": [
+      "SH85IGRR"
+    ],
+    "98WM2BIA": [
+      "SH85IGRR"
+    ],
+    "PXAH8MD3": [
+      "BE4C9F82"
+    ],
+    "LP4CHUX3": [
+      "BE4C9F82"
+    ],
+    "6UGAU5X4": [
+      "BE4C9F82"
+    ],
+    "HA26TRBU": [
+      "BE4C9F82"
+    ],
+    "MAYMCK7L": [
+      "BE4C9F82"
+    ],
+    "FNI9NMU6": [
+      "BE4C9F82"
+    ],
+    "U2NAEPYI": [
+      "BE4C9F82"
+    ],
+    "TAZSGXJH": [
+      "BE4C9F82"
+    ],
+    "P9T8B48H": [
+      "BE4C9F82"
+    ],
+    "VGT3AWRS": [
+      "BE4C9F82"
+    ],
+    "QYN69APX": [
+      "BE4C9F82"
+    ],
+    "BCIWQ2PK": [
+      "BE4C9F82"
+    ],
+    "B9FIJAKE": [
+      "BE4C9F82"
+    ],
+    "PII37VZK": [
+      "BE4C9F82"
+    ],
+    "P78YPD8I": [
+      "BE4C9F82"
+    ],
+    "VRQPLC92": [
+      "BE4C9F82"
+    ],
+    "WQ9NY88U": [
+      "BE4C9F82"
+    ],
+    "486KI7NN": [
+      "BE4C9F82"
+    ],
+    "A3AT7C2E": [
+      "BE4C9F82"
+    ],
+    "FBTV2ICM": [
+      "BE4C9F82"
+    ],
+    "T2YDS3PP": [
+      "BE4C9F82"
+    ],
+    "V8C28N5J": [
+      "BE4C9F82"
+    ],
+    "GYIRB4X5": [
+      "BE4C9F82"
+    ],
+    "RB93JMBB": [
+      "BE4C9F82"
+    ]
+  }
+}

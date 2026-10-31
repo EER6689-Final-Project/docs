@@ -1,4 +1,4 @@
-% Compile with XeLaTeX and Biber; see README.md. Compilation is deferred.
+% Detailed report-writing plan. Build with XeLaTeX and Biber; see README.md.
 \documentclass[12pt,a4paper,oneside,openany]{report}
 
 \input{config/metadata}
@@ -16,8 +16,8 @@
 \hypersetup{pageanchor=true}
 \pagestyle{plain}
 \input{frontmatter/title}
+\input{frontmatter/declaration}
 \input{frontmatter/abstract}
-\input{frontmatter/acknowledgements}
 
 \tableofcontents
 \clearpage
@@ -25,9 +25,9 @@
 \begingroup
   \renewcommand{\baselinestretch}{1.2}% 12/15 body becomes 12/18: 1.5 lines.
   \normalsize
-  \listoftables
-  \clearpage
   \listoffigures
+  \clearpage
+  \listoftables
   \clearpage
 \endgroup
 \input{frontmatter/symbols-and-abbreviations}
@@ -37,19 +37,13 @@
 \input{chapters/01-introduction}
 \input{chapters/02-literature-review}
 \input{chapters/03-methodology}
-\input{chapters/04-profiler-and-dataset}
-\input{chapters/05-results}
-\input{chapters/06-discussion-and-conclusion}
+\input{chapters/04-work-plan}
+\input{chapters/05-conclusion}
 
 \clearpage
 \phantomsection
 \chapter*{REFERENCES}
 \addcontentsline{toc}{chapter}{References}
-\ReportPlaceholder{Add verified entries to references.bib and cite them in the
-  text. Remove this drafting note when the bibliography is populated.}
 \printbibliography[heading=none]
-
-\StartReportAppendices
-\input{appendices/a-supplementary-material}
 
 \end{document}

@@ -1,21 +1,81 @@
 \chapter{Literature Review}
 \label{chap:literature-review}
 
+This chapter synthesizes metric semantics, browser capture, repeated synthetic measurement, and prior diagnosis and retention systems. Its argument is that the broad mechanisms already exist, leaving a bounded empirical question about original-episode attribution across visits. Standards define mechanisms, papers report findings within their tested setups, and the denominator, budget, and deadline remain study choices. The Study Source Map and verification queue record selected-source limits; matrix rows are not necessarily unique studies or full-text appraisals.
+
 \section{Browser Performance Metrics and Semantics}
-\ReportPlaceholder{Synthesize relevant metric definitions, eligibility rules
-and attribution limitations from verified sources.}
+
+The report should distinguish a user-visible endpoint from a diagnostic signal. Largest Contentful Paint (LCP) records the render timing of an eligible largest content element; it does not mean that a page is complete or that a particular resource caused a delay. Interaction to Next Paint (INP) summarizes responsiveness across qualifying interactions and depends on an input actually occurring; it cannot be inferred from a load-only visit. Cumulative Layout Shift (CLS) aggregates eligible layout instability according to session-window rules, rather than summing every shift over a page's entire lifetime. Use the inspected, version-bound metric documentation and web-vitals implementation references for these definitions \parencite{6WVYFE8R,B8XNKSHY,R2U9EAFA,GYN22PP7,N33VTKAN}.
+
+The review should then separate related metrics that answer different questions. First Contentful Paint (FCP) describes an earlier rendering milestone, Total Blocking Time (TBT) is a lab diagnostic over a specified interval, Speed Index (SI) is based on visual progression, and client-observed Time to First Byte (TTFB) covers a browser-visible network interval rather than server CPU time \parencite{84ZFNR74,QHUCFVBF,A8GDSSI7,JJWRMF5Z,NXHCE5SV}. Event Timing and the Layout Instability API describe underlying browser observations; they are not interchangeable with the final aggregate reported to users \parencite{I8L7FN9V,R2U9EAFA}. These descriptions follow the inspected versions and still require a pinned implementation contract. The proposed evaluation will begin with pilot LCP as its primary endpoint; INP and CLS remain exploratory unless a qualifying journey and finalization rule are validated.
+
+For the planned protocol, every metric needs a contract: name and version; eligible navigation or interaction; observation and finalization window; browser context; callback or export behavior; scope; and missingness reason. A missing interaction or unsupported API is not a zero. Metric attribution can offer a candidate element or phase without proving the injected fault caused the result. The documented web-vitals v5.1.0 attribution build is therefore a legitimate original-visit comparison strategy, not a cause oracle \parencite{N33VTKAN}. FP-0.1 proposes LCP as the pilot endpoint and a median plus max(100 ms, 3 times unscaled median absolute deviation) alert threshold. These are project choices to qualify and lock before comparison, not externally validated standards. Exact runtime field mapping and finalization still require conformance checks; main-study thresholds and aggregation remain to be frozen separately.
 
 \section{Browser Instrumentation and Measurement Effects}
-\ReportPlaceholder{Discuss capture capabilities, provenance and overhead.}
+
+The second theme is the difference between observing a summary and collecting a trace. Browser application programming interfaces (APIs), including the Performance Timeline, offer typed entries and observer/buffer mechanisms; Event Timing, Long Tasks, and Long Animation Frames expose particular classes of activity. The Chrome DevTools Protocol (CDP) tracing domain exposes trace events subject to implementation and lifecycle details \parencite{REP5RHB6,I8L7FN9V,KEJFZJHV,6SJEG5G9,63QKVL86}. These sources justify specifying event types, timestamps, ownership, observer start time, buffer capacity, export, truncation and loss. They do not by themselves establish that the collected fields distinguish the study's fault classes or that collection has negligible cost.
+
+The study should define “lightweight” and “detailed” by a capture contract rather than by tool name: which collector runs, which entries or profiles it keeps, when capture starts and stops, retention limits, export size, loss handling, and measured CPU, time, memory, and storage cost. This is particularly important for a retained-original-event arm. A bounded buffer can be useful only if it starts in time and contains the needed discriminator before overflow, page termination, or export. Hindsight demonstrates finite-horizon original-event retention and retrieval for distributed systems; it motivates a feasibility test but does not prescribe a browser buffer size \parencite{3ED3FDXH}.
+
+Instrumentation also changes what is measured. Mytkowicz and colleagues show that apparently innocuous measurement choices can produce misleading performance data in systems experiments \parencite{IWCIN2C5}. That work motivates calibration; it does not quantify the overhead of the browser collectors proposed here. Chapter 3 should therefore compare minimally observed and profiled matched executions, report central processing unit (CPU) perturbation and elapsed cost by strategy, and preserve failed or truncated captures. A browser trace is an observation generated under instrumentation, not independent evidence that a fault was active.
 
 \section{Repeated Measurement and Experimental Validity}
-\ReportPlaceholder{Review variability, browser-state continuity, statistical
-measurement and the validity of synthetic monitoring.}
+
+Repeated visits support longitudinal comparison only when their conditions are recorded. Cache state, browser profile, server state, network and CPU conditions, session data, and workload order can alter a visit. WProf shows the value of decomposing browser load behavior and conditioning interpretation on workload and state; its historical Chromium results do not establish a modern repeat count or a protocol for this study \parencite{D568X6SQ}. Vesper's two-pass approach provides a browser-specific example of lighter measurement after heavier discovery. Its authors discuss possible differences between loads, while the reviewed corpus did not show different functional state under their conditions; the report must retain both sides of that result rather than imply reruns always diverge \parencite{HS3PKWFL}.
+
+Web Execution Bundles (WebREC) provide a particularly relevant contrast: archiving an execution can support later analysis of the recorded visit without treating a new visit as equivalent. This is prior art for preserving original-execution evidence. It does not establish that the pilot's browser event buffer is feasible, covers the chosen performance endpoints, or is cheaper than a fresh diagnostic visit \parencite{ZZSL9IPU}. The checked passages cover the final paper's bundle, reanalysis, and replay discussion; they are not a complete evaluation of every candidate metric. Lab measurements also have a different target from real-user monitoring (RUM); a controlled synthetic corpus supports causal testing of configured faults but does not establish production prevalence or a field percentile.
+
+For this study, randomized order, explicit browser and fixture reset, repeated stable histories, chronological splits, and recording actual state are safeguards to specify—not facts guaranteed by calling a test “repeatable.” A new browser context isolates browser storage, but does not reset every server, host, or shared cache condition. A site-specific baseline can characterize earlier observations; it cannot alone determine why a particular visit was anomalous. The report should avoid treating visits as independent websites and should state that inference is bounded to the tested fixtures and conditions.
 
 \section{Related Diagnosis and Monitoring Systems}
-\ReportPlaceholder{Compare the closest systems using the literature matrix
-and monitoring novelty cross-reference. Cite checked primary sources.}
+
+Table~\ref{tab:closest-prior-work} summarizes the closest mechanisms and the boundary relevant to the proposed question. The purpose is not an exhaustive ranking of systems. It is to make clear which ingredients already exist and what evidence is still required for this browser-specific comparison.
+
+\begin{longtable}{@{}p{0.20\textwidth}p{0.37\textwidth}p{0.35\textwidth}@{}}
+\caption{Closest prior systems and the bounded question left for this study.}\label{tab:closest-prior-work}\\
+\toprule
+\textbf{System/source} & \textbf{Established contribution} & \textbf{Limit relevant to this study} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{System/source} & \textbf{Established contribution} & \textbf{Limit relevant to this study} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{\small Continued on next page}\\
+\endfoot
+\bottomrule
+\endlastfoot
+Paradyn \parencite{TIIDVPV8} & Hypothesis-guided dynamic instrumentation uses an explicit collection-cost threshold and discusses reruns for short programs. & The checked project manuscript is not a browser study; exact equivalence to the journal-edited text remains unresolved. \\
+WProf \parencite{D568X6SQ} & Browser dependency analysis locates load-path bottlenecks and shows the relevance of workload and cache conditions. & Historical browser setup; it does not test whether a later profile explains an earlier intermittent fault. \\
+Vesper \parencite{HS3PKWFL} & Uses a heavy discovery pass and lighter measurement pass for browser interactivity. & Cross-load differences are a motivation, not a universal failure claim; its historical readiness metric is not current INP. \\
+WebREC \parencite{ZZSL9IPU} & Records web executions for later analysis and supports reasoning from original-visit evidence. & Endpoint coverage and feasibility of a bounded, low-cost browser buffer remain to be tested for this study. \\
+Hindsight \parencite{3ED3FDXH} & Retains bounded original-event evidence for later retrieval after rare distributed-system events. & Distributed-system design; browser event completeness, lifecycle loss and total cost are unestablished. \\
+VisibleV8 \parencite{3TNGADXQ} & Demonstrates in-browser JavaScript monitoring with overhead that depends on capture configuration. & Historical Chromium measurements do not compare delayed diagnosis with original-episode labels. \\
+LMAT \parencite{A3SS4UWX} & Describes an adaptive host-level tracing loop that reacts to performance deviations. & Full publisher text was inaccessible in the reviewed check; host-level evidence does not establish browser cross-visit attribution. \\
+WMF \parencite{P57ARGS6} & Studies website performance anomalies using sparse histories and controlled/synthetic cases. & Anomaly detection or reconstruction is distinct from verified attribution of the cause of a specific earlier browser visit. \\
+Adaptive trace sampling \parencite{WE8HHCA8} & Selects execution-trace samples under resource constraints. & Representative sampling in its tested systems does not establish that a transient browser-fault discriminator survives selection. \\
+\end{longtable}
+
+The table records access limits as well as overlap. The checked Paradyn passage belongs to the inspected project manuscript; its exact edited-journal wording remains unverified. WebREC's attached arXiv version was supplemented by targeted checks of final-proceedings passages; Hindsight's primary paper was directly reviewed. LMAT's publisher text was blocked, so its quantitative and controller claims should not be presented as verified. Further detail is in the source appraisal and verification queue.
+
+Hindsight provides a useful visual reference for the broad idea of retaining evidence from the original event and retrieving it later. The included image is cropped from the paper's Figure 2 (PDF page 6, printed page 325). It illustrates distributed-system prior art only; it is not a browser implementation, proposed architecture, or result of this study.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.78\textwidth]{hindsight-trace-lifecycle.pdf}
+  \caption{Hindsight's original-event trace-retention lifecycle, reproduced as a crop from Figure 2 (PDF p. 6; printed p. 325) to illustrate distributed-systems prior art. It is not a browser design or a result of the proposed study \parencite{3ED3FDXH}.}
+  \label{fig:hindsight-prior-art}
+\end{figure}
 
 \section{Research Gap and Study Positioning}
-\ReportPlaceholder{Separate established monitoring techniques from the
-proposed evaluation and qualify unresolved novelty claims.}
+
+The literature establishes each broad ingredient separately: current browser metrics and attribution, browser instrumentation, selective or adaptive tracing, site-specific histories, recorded execution, and bounded retention. These precedents rule out a broad novelty statement such as “the first adaptive browser profiler” or “the first approach to preserving rare events.” The defensible position is narrower: measure whether delayed rich profiling correctly attributes an earlier browser regression episode, against feasible evidence saved on the original visit, under common budgets and a fixed deadline, with independent verification of the fault in the relevant visit.
+
+This gap remains a research proposition rather than a demonstrated absence in all literature. The strongest falsifier is that an existing browser method or the planned lightweight attribution already correctly classifies all selected causes, making rich follow-up or retention unnecessary for this fault set. Another is evidence that the closest browser or trace-retention systems already evaluate the same original-episode estimand under independent fault labels and matched total costs. The literature search and verification queue should be updated before any final novelty claim. If original-event capture cannot retain the needed browser discriminator within a feasible bound, narrow the experimental comparison instead of describing ordinary logs as a full original trace.
+
+Accordingly, Chapter 3 should test persistence as the main reliability condition, with follow-up delay and browser-state changes as secondary factors. It should distinguish a correct diagnosis for the later visit from a correct diagnosis of the earlier cause, count failures and abstentions, and report costs without collapsing time, CPU, memory, and stored bytes into an unexplained score. This makes the remaining question empirical and falsifiable while keeping conclusions local to the tested browser, fixtures, faults, and observation schedule.
+
+\paragraph{Evidence and citation check.} Before finalizing this chapter, maintain a source-to-claim ledger for every definition, predecessor mechanism and limitation: inspected edition/version, section or page locator, Zotero parent key, report BibLaTeX key and the precise claim used. This is especially necessary for mutable browser documentation and the bounded LMAT, Paradyn and Shahedi editions. The research question, original-episode estimand, budget and deadline are the proposed study's choices; cite prior work for motivation and mechanisms, not as if it had already tested this exact contrast.
+
+\paragraph{Chapter check.} Keep synthetic and field claims separate, preserve both sides of Vesper's result, distinguish WebREC from Hindsight, retain source-access bounds, and avoid “first” or universal-rerun claims. Verify citations and figure provenance during final PDF review.

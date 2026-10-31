@@ -1,26 +1,166 @@
-\chapter{Methodology}
+\chapter{Research Methodology}
 \label{chap:methodology}
 
-\section{Research Design}
-\ReportPlaceholder{Specify the finalized study design, research question,
-observation unit and hypotheses without reporting planned work as completed.}
+\section{Research Design and Status}
+\label{sec:method-status}
 
-\section{Workload and Observation Contracts}
-\ReportPlaceholder{Define fixtures, journeys, browser conditions, observation
-windows, eligible measurements and provenance fields.}
+This chapter describes a proposed controlled longitudinal study of delayed browser-performance diagnosis. No pilot or main-study collection has been run. The research question is: within a fixed monitoring budget, how reliably can a detailed follow-up visit identify the cause of an earlier regression compared with evidence saved during that original visit? The primary planned contrast is bounded original-visit evidence (C) versus one rich follow-up visit (B) for intermittent faults. The contribution, if supported, is a bounded browser-specific empirical reliability/cost comparison. Adaptive instrumentation, reruns and retained-event tracing are established prior work; they are not claimed as inventions \parencite{A3SS4UWX,3ED3FDXH,P57ARGS6,TIIDVPV8,HS3PKWFL}.
 
-\section{Regression Episodes and Independent Cause Verification}
-\ReportPlaceholder{Define fault classes, recurrence, nuisance changes,
-intervention manifests and independent original/follow-up cause checks.}
+The main unit is an \emph{original regression episode}, linked to one original visit and any diagnostic follow-up. Each affected original visit has its own episode ID; episodes within one continuing fault occurrence are correlated, not independent sites. Each strategy receives a separate execution; a matched block aligns fixture, scenario and repetition but cannot make nondeterministic runs identical or independent \parencite{GJMALCNF,E8MGSAC8,B9FIJAKE}. The objectives are: O1 measurement/provenance contracts; O2 histories and independent labels; O3 capture-strategy comparison; O4 diagnostic outcomes and cost; O5 reliability conditions. Main-study counts, interval/test, practical effect, multiplicity and stopping remain to be appraised and frozen after the pilot.
 
-\section{Capture Strategies and Budget Allocation}
-\ReportPlaceholder{Describe feasible comparison arms, common detection logic,
-cost accounting, allocation and diagnosis deadlines.}
+\section{O1: Measurement and Visit Contract}
+\label{sec:o1-contract}
 
-\section{Outcomes and Analysis Plan}
-\ReportPlaceholder{Define denominators, correct attribution, misattribution,
-misses, abstentions, failed captures, uncertainty and complete monitoring cost.}
+Pin Chromium, automation, profiler and metric-library versions/checksums; record host/OS/load, viewport, CPU/network settings, process/profile, cache/session/service-worker state, navigation/input, timestamps, observation window and stop conditions. Store intended and observed state. A new browser context does not establish that server, host, DNS or all cache state has reset \parencite{SSS4NSXC,UKNA4QJZ,92RRK4LT}.
 
-\section{Validity, Ethics and Reproducibility}
-\ReportPlaceholder{Document holdouts, dependence, authorized targets, data
-handling, limitations and versioned artifacts.}
+FP-0.1 proposes two owned localhost templates, one headless Chromium build/host/automation stack, 1365-by-768 desktop viewport at scale factor 1, CPU rate 1 except the nuisance case, no network throttling, service workers, authentication, human participants, mobile or live websites. A safe input is attempted at 5 seconds; observe 15 seconds from navigation; the total visit limit is 30 seconds from attempted process launch through export/cleanup. These are pilot choices, not standards or the main-study contract.
+
+Pilot LCP (ms) is the primary symptom. Record client-observed Navigation/Resource Timing and available attribution. INP and CLS check availability/lifecycle only; missing is reason-coded, never zero. TBT, composite scores, memory diagnosis and full metric validation are outside the pilot endpoint; historical TTI is omitted. Pin definitions and finalization rules; do not treat TBT as INP \parencite{QF52VUCU,QHUCFVBF,9T8ACIJ8,N33VTKAN}.
+
+Define each capture contract by collector, field/category, scope, timing, buffer, loss handling, serialization and cost, not by calling a metric “lightweight” or “rich.” The candidate rich contract is CDP Network metadata plus main-thread, paint/layout and script trace events, with sampled CPU profile only if supported; omit response bodies, video and heap snapshots. Test actual event coverage, buffer lifetime, dropped-event reporting and export on the pinned build. A warning-free trace is not proof of completeness \parencite{REP5RHB6,63QKVL86,UMVA36NP,VMWYVJKL}.
+
+\begin{table}[htbp]
+\centering
+\caption{Minimum O1 contract and dataset fields; interfaces describe available evidence, while the actual collection contract requires runtime qualification \parencite{REP5RHB6,N33VTKAN,63QKVL86}.}
+\label{tab:measurement-contract}
+\begin{tabular}{p{0.2\linewidth}p{0.71\linewidth}}
+\toprule
+Record & Required fields \\
+\midrule
+Environment and journey & Builds and hashes; host, viewport, profile; actual state; URL/template, navigation/input, observation and finalization times. \\
+Evidence and missingness & Visit ID/role, API/categories/scope, buffer/drop/eviction range, export/hash; reason-coded unsupported, absent, failed, timed out or lost. \\
+Cost & Elapsed/CPU/RSS/bytes by stage, attempts, follow-ups, failure and remaining policy budget. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Conformance verifies event-to-visit linkage, expected resource/script/time, metric semantics, callback finalization and loss signals. Randomized minimal-versus-profiled blocks measure timing, failure and fault changes; they assess implementation consistency and observer effect, not an absolute truth value. DevTools/Lighthouse share Chromium evidence and are not independent oracles \parencite{AAW3TPVK,4MGN3SYQ,VMWYVJKL,9WMJW57H}.
+
+\paragraph{Writing output and completion check (O1).} Include a versioned measurement-contract table and conformance matrix linking each endpoint to eligibility, observation and finalization windows, missingness codes and fixture checks. Actual builds, collector fields and perturbation results can be reported only after execution. A main-study contract is ready when definitions, state/reset procedure and capture-loss tolerance are checked and frozen; otherwise exclude the unsupported endpoint.
+
+\section{O2: Longitudinal Dataset and Fault Oracle}
+\label{sec:o2-dataset}
+
+F1 is an image-led page with a designated LCP candidate; F2 is a script-rendered page with a different DOM/loading structure. Both have a safe button, no external dependencies, cross-origin frames or polling, and stable URLs/identifiers across conditions. Use opaque policy-visible IDs.
+
+R delays a designated critical response by 500 ms, verified through evaluator-only request IDs and start/end logs. J inserts about 500 ms of main-thread work before LCP content can paint, verified by a common evaluator probe whose cost is measured and data hidden from strategies. These are candidate pilot perturbations; qualification must show that both run and produce similar loading symptoms by different mechanisms. A flag or rich trace alone is not causal truth.
+
+Scenarios are stable; nuisance CPU rate 2 without software fault; persistent R/J; transient R/J that disappear on follow-up; and replaced R-to-J/J-to-R. Verify follow-up activity separately; repeated slowness does not establish recurrence. For each fixture, FP-0.1 uses first 20 stable A visits to train and next 20 to validate a locked threshold: median LCP plus max(100 ms, 3 times unscaled MAD). This is not a significance test or field threshold. A frozen rule classifier uses a critical-resource phase at least 200 ms above its stable median and/or at least 200 ms attributable pre-paint main-thread work; ambiguity, missing evidence or conflicting support yields abstention. Verify the field mapping before comparison.
+
+An evaluator-only manifest and per-visit activity/applicability checks define labels. Eligibility is fixed independently of alerts, slow values, metric availability and trace success. Keep attempted, failed and uncertain cases; isolate labels; freeze predictions before joining the oracle. Main-study history, tuning and later test periods must be separate; hold out fixture templates/instances before tuning and exclude pilot/repair data.
+
+An eligible original opportunity is a scheduled visit in a prequalified fault case whose independently checked fault activity and declared journey/endpoint applicability are confirmed. A missing policy metric, fault-induced timeout or missed alert does not remove an otherwise eligible opportunity. If activity or cause cannot be verified, keep it in the assignment ledger with unresolved-label status, outside known-cause scoring. Apply the same frozen rule to every arm. The intervention manifest describes the intended manipulation; independent per-visit checks establish what executed, while a rich trace remains an observation rather than a cause oracle.
+
+\begin{table}[htbp]
+\centering
+\caption{Relational dataset records for O2; prior crawl/reproducibility studies motivate explicit units and missingness but do not define this fault oracle \parencite{RB93JMBB,B9FIJAKE,WF5NM72E}.}
+\label{tab:dataset-schema}
+\begin{tabular}{p{0.19\linewidth}p{0.72\linewidth}}
+\toprule
+Record & Minimum linked fields \\
+\midrule
+Site and configuration & Template/deployment, journey, versions, host/profile and intended/observed state. \\
+Visit and episode & Visit and parent episode/block/occurrence IDs; role, timings, class, onset/duration, execution check, persistence and eligibility. \\
+Evidence and diagnosis & Raw file/hash, contract/window/loss, prediction/abstention, diagnosis time, evidence available to policy. \\
+Cost and attempt & Resource vector, outcome/failure, budget, follow-up and evaluator-only cost. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Writing output and completion check (O2).} Include the dataset schema and an all-attempt flow table separating assigned, attempted, verified eligible, known ineligible, unresolved-label and globally unattempted opportunities. Specify chronological history/tuning/test splits and held-out fixture instances before presenting any outcome. A usable dataset requires reproducible oracle checks, episode linkage, access/leakage audit, missingness codes and a frozen split manifest.
+
+\section{O3: Capture Strategies and Allocation}
+\label{sec:o3-strategies}
+
+All strategies share the alert, baseline, fault vocabulary, scheduled opportunities and diagnosis deadline. Each receives its own execution; randomize arm order within scenario blocks, reset specified state and run one browser workload at a time. Blocking controls assigned factors, not every source of carryover \parencite{FBTV2ICM,GJMALCNF}.
+
+Figure~\ref{fig:evidence-chain} shows the proposed evidence and scoring flow. The hidden evaluator joins a locked diagnosis to the original episode label only after each strategy's evidence has been frozen; the diagram does not assert that any arm has run.
+
+\begin{figure}[htbp]
+\centering
+\input{figures/episode-evidence-chain}
+\caption{Proposed evidence and hidden-label flow; a study-design illustration, not an experimental result.}
+\label{fig:evidence-chain}
+\end{figure}
+
+\begin{table}[htbp]
+\centering
+\setlength{\tabcolsep}{3pt}
+\caption{FP-0.1 strategies and roles; adaptive tracing and original-event retention are prior art, while their browser-specific cost/effectiveness is to be tested \parencite{A3SS4UWX,3ED3FDXH,TIIDVPV8,BUPGR8ZJ,N33VTKAN}.}
+\label{tab:arms}
+\begin{tabular}{p{0.12\linewidth}p{0.57\linewidth}p{0.25\linewidth}}
+\toprule
+Arm & Original/follow-up evidence & Role \\
+\midrule
+A & Metrics plus supported original attribution; serialize before fields disappear. & Practical baseline. \\
+B & A on original; one rich visit after common alert; retain A evidence. & Delayed diagnosis. \\
+C & A plus early record of supported Resource Timing, LoAF and long-task entries; diagnosis copy released only after alert. & Bounded original evidence. \\
+D & A every time; rich capture on every fourth assigned original, randomized start phase. & Periodic alternative. \\
+E & A plus rich capture on every original under separate allowance. & Reference, not oracle/upper bound. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+C is capped at 1,024 entries or 4 MiB serialized, whichever first; track eviction/drop time ranges, freeze at 15 seconds and export by the visit deadline. Qualification exercises overflow, export failure, delayed trigger and absent input. If C cannot retain useful original evidence, narrow it or revisit H\textsubscript{1} before main study. Charge all scans, serialization, retention, exports, waits, failures and follow-ups. A--D have equal allowance vectors, not assumed equal realized costs; charge shared history fully to each standalone arm but once to campaign total. Keep elapsed, CPU, RSS and bytes separate. Evaluator-only verification remains hidden and costed separately. If a policy exhausts its allowance, remaining eligible episodes count as no in-time diagnosis.
+
+FP-0.1 assigns 64 blocks (2 fixtures $\times$ 8 scenarios $\times$ 4 repetitions), 5 original visits/block, 320 comparison originals, and up to 64 B follow-ups. It plans 652 starts including preparation and allows at most 700 including 48 pre-comparison repair starts. Caps are 8 active hours, 7 calendar days and 8 GiB; per-visit cap is 30 seconds, 30 CPU-seconds and 2 GiB RSS; rich export is 32 MiB. A--D each have 3 hours, 120 CPU-minutes and 2 GiB exported evidence; E has 3 hours, 120 CPU-minutes and 3 GiB. These are proposed feasibility limits, not sample-size standards. Four repetitions and two fixtures do not support population reliability claims.
+
+Hindsight's retention lifecycle is illustrated once in Figure~\ref{fig:hindsight-prior-art} in Chapter~\ref{chap:literature-review}. Its distributed-system capacity results are not browser buffer prescriptions; the actual CDP path must be qualified \parencite{3ED3FDXH,REP5RHB6,63QKVL86}.
+
+\paragraph{Writing output and completion check (O3).} Give a strategy-by-evidence table, the capture manifest, randomized allocation ledger and two cost ledgers: physically executed campaign work and each policy's standalone cost including its full shared-history charge. Show a common detector, deadline and budget vector for A--D, strong legitimate A attribution, and policy-visible inputs. C's early start, coverage, buffer loss and export cost are feasibility gates; E is a reference, not an oracle or assumed upper bound. Freeze rules, seeds and budget-exhaustion behavior before scoring comparison episodes.
+
+\section{O4: Outcomes, Denominators and Analysis}
+\label{sec:o4-analysis}
+
+Primary estimand: C-minus-B difference in correct original-cause attribution for intermittent faults under matched budgets/deadline. A correct claim names the independently verified class active in the original episode. A follow-up-only explanation is an inference and is scored against the original label.
+
+For arm $s$, let $E_s$ be the set of independently verified, eligible original regression episodes assigned to it and $N_s=|E_s|$. Let $c_s$ count episodes in $E_s$ for which a locked, non-abstaining prediction names the independently verified \emph{original} fault class within the common deadline and policy budget. The attribution rate and principal contrast are
+\begin{equation}
+\widehat{p}_s=\frac{c_s}{N_s},\qquad \widehat{\Delta}_{C-B}=\widehat{p}_C-\widehat{p}_B.
+\label{eq:primary-attribution}
+\end{equation}
+Evaluate the contrast on a prospectively defined intermittent subset; pilot transient and replacement cases remain separate. A rate is undefined when $N_s=0$. Missed alerts, failed/late reruns, absent/lost evidence, exhausted policy and abstention remain in $N_s$ as no correct diagnosis. If a policy exhausts its allowance, remaining scheduled originals are verified by a minimally observed evaluator-only harness under the campaign cap; its evidence stays hidden and its cost is recorded separately. Unresolved evaluator labels stay in the assignment ledger but outside known-cause scoring. Unattempted cases after a global stop have no invented label, remain unscored and make the campaign incomplete.
+
+For FP-0.1, each arm has 48 \emph{assigned} fault opportunities, not necessarily 48 verified eligible episodes. Report both. For a descriptive assignment-based sensitivity range, use known correct cases divided by 48 as the lower bound and add only attempted cases with unresolved eligibility or cause label to the numerator of the upper bound. These missing-label bounds are not confidence intervals and cannot repair a globally incomplete campaign.
+
+Secondary outcomes: alert/detection and diagnostic coverage; conditional precision; wrong original-cause claims/confusion matrix; stable/nuisance false alarms; abstention, loss/failures, actual recurrence and delay; cost per scheduled visit and correctly attributed episode. Conditional precision is correct original-cause claims divided by all timely, within-budget cause claims on verified eligible regression episodes; it is undefined if there are no such claims. Cost per correct attribution is likewise undefined with no correct cases. Give all denominators by fixture, scenario and session, and report transient separately from replacement faults. Pilot readout is descriptive (counts/rates, medians/ranges, ordering/drift, costs), with no efficacy test or two-fixture population bootstrap.
+
+Main-study freeze must specify hierarchy/independent clusters, site weighting, practical effect or precision target, interval/test and assumptions, multiplicity, missingness/label sensitivity and stopping. Abstract-only bootstrap, quantile and replicate-agreement methods have not been adopted. Repeated benchmarking and performance-fault testing motivate this planning, but do not supply the study's sample size or causal oracle \parencite{GJMALCNF,E8MGSAC8,WF5NM72E}. Agreement with a browser tool is separate from causal truth; injected faults require independent execution/activity checks, and a trace is not a cause oracle.
+
+\paragraph{Writing output and completion check (O4).} Present Equation~\ref{eq:primary-attribution} with a denominator-flow table, detection and diagnosis coverage, conditional precision, false-alarm controls, abstentions, failures and separate resource-cost dimensions. Show by-arm and by-fixture/session/scenario counts before aggregating. Main-study inference is reportable only after independent-unit coverage, weighting, practical effect, interval method, missing-label sensitivity, multiplicity and stopping have been appraised and frozen; a pilot point difference cannot stand in for that review.
+
+\section{O5: Reliability Boundaries and Validity}
+\label{sec:o5-validity}
+
+Fault persistence is primary; follow-up delay and state are secondary. FP-0.1 assigns B target launches 1 or 15 seconds after the 15-second original window, balances each delay twice within fixture/scenario repetitions, and sets a 90-second diagnosis deadline. Record assigned and actual navigation delay, including startup/queueing. Use fresh process/profile, cleared fixture/controller state and disabled service workers; do not claim host caches are cleared. The pilot excludes mobile, live sites, multiple browsers, authentication and human participants. Thus controlled fixtures establish neither natural fault lifetime nor field representativeness \parencite{HS3PKWFL,ISZ9TU75,SSS4NSXC,U2NAEPYI}.
+
+Threats include leakage/linkage, buffer loss, capture perturbation, server/content variation, state/host carryover, tuning leakage, only two templates and dependent repeated visits. Controls are isolated evaluator records, opaque IDs, independent checks, randomized order, versioned manifests, complete attempt accounting and temporal holdouts. A live-site extension is operational robustness only; unexplained slowdown is not causal ground truth \parencite{P57ARGS6,RB93JMBB,B9FIJAKE}.
+
+Pilot progression criteria are engineering feasibility rules, not statistical acceptance. Red integrity failure stops; amber requires a prospective repair; green means only prepare a main-study protocol. If A already diagnoses these cases, report that; if C fails, revise prospectively. Preserve raw evidence separately from labels. FP-0.1 proposes 90-day raw retention after pilot sign-off; no pilot is run and no collection permission is implied.
+
+\paragraph{Data ethics, retention and reproducibility.} The pilot uses owned localhost fixtures, fixed safe inputs and no human participants or real-user traces. A later authorized live-site check would need separate access and data-minimization rules; unexplained slowdowns cannot supply known-cause labels. Do not store credentials or unnecessary page/user content. Separate policy evidence from evaluator-only labels by access path, and preserve an append-only attempt manifest, hashes, failures, loss codes and deviations. FP-0.1 proposes retaining raw pilot artifacts for 90 days \emph{after pilot-report sign-off}, within its 8-GiB cap, and retaining the de-identified ledger, configurations, derived tables and hashes through project assessment. Record actual storage and deletion actions when due; writing this plan performs neither.
+
+\paragraph{Writing output and completion check (O5).} Present a predeclared condition-by-strategy table for persistence first, with actual follow-up delay and controlled browser state as secondary analyses where feasible. Each conclusion identifies fixture/site, browser build, fault, deadline, budget, uncertainty and incompleteness. A validity statement is complete only when it distinguishes a later-visit explanation from verified original-cause attribution and avoids generalizing two synthetic fixtures to production populations.
+
+\section{Pilot and Main-Study Separation}
+\label{sec:pilot-main}
+
+The pilot asks whether labels, C evidence, A--E contracts and budgets are feasible; it does not test H\textsubscript{1} or prove superiority. Before any pilot execution, fill host/build/fixture hashes, exact trace categories/fields, clocks, classifier mapping, seed, storage and accountable researcher in the manifest. One documented repair cycle is allowed before comparison within the 48-start reserve; the only permitted severity increase is 500 to 1,000 ms after qualification fails to produce the intended symptom. New faults, fixtures, detectors or capture methods require a prospective new protocol. Pilot evidence may inform a separately reviewed main-study design and sample-size scenarios, but pilot and repair observations are excluded from the confirmatory dataset. The frozen pilot comparison cannot be tuned using its own outcomes, and the main study must be frozen before its confirmatory results are inspected.
+
+\begin{table}[htbp]
+\centering
+\setlength{\tabcolsep}{3pt}
+\caption{Pilot choices and main-study decisions that remain open; precedents inform design but supply no transferable counts \parencite{GJMALCNF,3ED3FDXH,B9FIJAKE}.}
+\label{tab:pilot-main-boundary}
+\begin{tabular}{p{0.2\linewidth}p{0.32\linewidth}p{0.43\linewidth}}
+\toprule
+Area & FP-0.1 & Main study \\
+\midrule
+Setting/endpoint & Two localhost fixtures; LCP primary; INP/CLS exploratory. & Independent template/site coverage and frozen eligible journeys. \\
+Allocation/limits & A--E, 64 blocks, 652 planned/700 cap; 8 hours/7 days/8 GiB. & Counts justified from pilot and independent-unit coverage. \\
+Analysis/status & Descriptive feasibility; no pilot run. & Estimand, uncertainty, practical criterion and stopping frozen separately. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+At present the pilot and main-study gates remain open. Any final report must distinguish proposed settings, completed feasibility work and confirmatory results; none may be inferred from writing this protocol.

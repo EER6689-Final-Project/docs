@@ -10,9 +10,10 @@ This repository organizes the proposal and supporting research for the EEI6689 p
 
 ## Research Management
 
-The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the seven [research report working files](task%201/Research%20Management/README.md):
+The selected direction is **Reliability of Delayed Browser Performance Diagnosis**. Start with the eight [research report working files](task%201/Research%20Management/README.md):
 
 - [Research Plan](task%201/Research%20Management/Research%20Plan.md)
+- [Finite Pilot Protocol](task%201/Research%20Management/Finite%20Pilot%20Protocol.md)
 - [Study Source Map](task%201/Research%20Management/Study%20Source%20Map.md)
 - [Literature Review and Research Gap Matrix](task%201/Research%20Management/Literature%20Review%20and%20Research%20Gap%20Matrix.md)
 - [Monitoring Novelty Cross Reference](task%201/Research%20Management/Monitoring%20Novelty%20Cross%20Reference.md)
@@ -20,6 +21,13 @@ The selected direction is **Reliability of Delayed Browser Performance Diagnosis
 - [Zotero Verification Queue](task%201/Research%20Management/Zotero%20Verification%20Queue.md)
 
 Earlier assessments, source inventories, screening logs and audit records are preserved in the [Research Archive](task%201/Research%20Archive/README.md).
+
+## Report Writing
+
+The detailed [LaTeX report-writing plan](docs/README.md) is in `docs/`, with
+[`main.tex`](docs/main.tex) as its entry point. It follows the requested front
+matter and five chapters, includes source-attributed illustrations and
+methodology/writing checks, and distinguishes proposed work from findings.
 
 ## Topic Research
 

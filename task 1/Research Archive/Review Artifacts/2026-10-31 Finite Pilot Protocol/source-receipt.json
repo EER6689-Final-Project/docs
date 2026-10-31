@@ -1,0 +1,102 @@
+{
+  "review": "FP-0.1 evidence and design review",
+  "date_local": "2026-10-31",
+  "timezone": "Asia/Colombo",
+  "delegation": {
+    "requested_by_user": true,
+    "model": "gpt-6-luna",
+    "tasks": [
+      "pilot_limits",
+      "browser_repetitions",
+      "capture_stopping"
+    ],
+    "roles": "Three web searches; repetitions and capture agents also performed read-only draft review. Root integrated/corrected.",
+    "independent_human_review": false
+  },
+  "search_limits": "Targeted supplementary web searches. Agent receipts retain sources and read summaries, not complete literal query/rank/timing exports. No exhaustive search or source-absence claim.",
+  "root_submitted_queries": [
+    "site.pilotfeasibilitystudies.biomedcentral.com progression criteria feasibility pilot studies sample size stop go 2021",
+    "site:pmc.ncbi.nlm.nih.gov external pilot trials progression criteria sample size justification feasibility 2017 Avery"
+  ],
+  "source_files": [
+    {
+      "path": "Sources/Duplyakin et al 2023 - Avoiding the Ordering Trap.pdf",
+      "bytes": 4532855,
+      "sha256": "d6526d8e7c74f1d295b5f5afc805f9153aeb57a1f64ecd8bc22e88e209a7356c",
+      "physical_pages": 15
+    },
+    {
+      "path": "Sources/Eldridge et al 2016 - Pilot and Feasibility Trials.pdf",
+      "bytes": 3693779,
+      "sha256": "2fd679468db246653aece024c79d8d2b2abe6bc112c32cc6270bc92c17225b05",
+      "physical_pages": 32
+    }
+  ],
+  "existing_pdf_reuse": [
+    {
+      "path": "task 1/Research Papers/T1.4 Statistical Measurement/Papers/Kalibera and Jones 2013 - Rigorous Benchmarking (SIGPLAN Notices published version).pdf",
+      "sha256": "890a7565dbf0991d49817786a3406ade06b85a8cf4d935df9d0b22bd424d4348",
+      "read_bounds": "Root direct pdftotext read physical PDF9/11, §§9.3/12.",
+      "modified": false
+    },
+    {
+      "path": "task 1/Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/Sources/Hindsight - NSDI 2023.pdf",
+      "sha256": "ac598bae927cbb5e728fb98ea1007e287bf8d5397805ead6318df2e45b250ccc",
+      "read_bounds": "Existing final original, earlier targeted appraisals reused; root current web check §§3–4/7.3.",
+      "modified": false
+    }
+  ],
+  "primary_urls_checked": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5154046/",
+    "https://link.springer.com/article/10.1186/1471-2288-10-1",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3203750/",
+    "https://www.usenix.org/conference/atc23/presentation/duplyakin",
+    "https://www.usenix.org/system/files/atc23-duplyakin.pdf",
+    "https://www.usenix.org/system/files/nsdi23-zhang-lei.pdf",
+    "https://developer.chrome.com/docs/chromedriver/logging/performance-log"
+  ],
+  "root_read_bounds": {
+    "Eldridge": "HTML items6c,7a,Comment and title/authors/DOI; local downloaded32page PDF principles on physicalPDF4 and items6c/7a onPDF15 checked through extraction. No borrowed sample sizes.",
+    "Thabane": "HTML Sample Size, Criteria for Success and2023 correction notice; no worked numeric example adopted.",
+    "Moore": "HTML title/authors/DOI, abstract and section3. Corrected prior Luna identity.",
+    "Duplyakin": "Official citation, abstract and section3, PDF4–5; no whole-paper methods or algorithm adoption.",
+    "Hindsight": "Current web section7.3 physicalPDF13 and earlier local targeted appraisal for generation/retention/loss.",
+    "Hericko": "Root read existing canonical note; Luna primary-source check supplies corrected venue/read scope. No new primary numeric effect adopted by root."
+  },
+  "supplementary_not_adopted": {
+    "Lewis": "PMC7856754 discussion inspected; formal binomial feasibility-test framework not adopted.",
+    "Kunselman": "PMC11128343 root open returned recaptcha; not needed for an adopted claim.",
+    "Mellor": "Luna supplementary lead, not a protocol dependency.",
+    "PMC8832640": "Root open returned recaptcha; not used.",
+    "Maribor_book_602": "Exploratory wrong book; not supporting evidence.",
+    "Hericko_DOI": "Root DOI open failed; existing note and corrected Luna primary check retained."
+  },
+  "pdf_access": "New adopted sources downloaded directly from public USENIX and Springer hosts with curl. Originals preserved; no access control bypass or PDF modification.",
+  "review_corrections": "See review-notes.md; final root arithmetic652+48=700. No statistical assurance inferred from these counts.",
+  "accounting": {
+    "historical_matrix_rows": 133,
+    "frozen_discovery_occurrences": 838,
+    "advance": 574,
+    "X3": 112,
+    "pending": 152,
+    "unchanged": true
+  },
+  "execution": "None. FP0.1 drafted; actual manifests and G3–G7 remain open.",
+  "final_checks": {
+    "protocol_path": "task 1/Research Management/Finite Pilot Protocol.md",
+    "protocol_sha256": "633b304cb7fe228bc990a9256b5c3726a5d30de65877a3825ea66f24a30f672a",
+    "planned_starts": 652,
+    "repair_reserve": 48,
+    "absolute_starts": 700,
+    "comparison_blocks": 64,
+    "original_comparison_visits": 320,
+    "working_markdown_files": 8,
+    "new_links_and_heading_anchors": "pass",
+    "new_table_widths": "pass",
+    "source_hashes": "pass",
+    "changed_line_whitespace": "pass",
+    "inherited_whitespace": "Historical screening log lines44–54 unchanged from pre-turn snapshot.",
+    "final_luna_capture_review": "Earlier substantive concerns addressed; final counts verified.",
+    "execution": "not run"
+  }
+}

@@ -1,0 +1,19 @@
+% Original study-design illustration, not observed data or a copied architecture.
+\begin{tikzpicture}[
+  box/.style={draw,rounded corners=2pt,align=center,text width=6cm,
+              minimum height=1.0cm,inner sep=5pt,font=\small},
+  side/.style={box,text width=4.4cm},
+  link/.style={-{Latex[length=2mm]},thick}]
+\node[box] (original) {Assigned original visit\\Opaque visit and episode identifiers};
+\node[box,below=7mm of original] (policy) {Policy evidence: legitimate original attribution;\\retained entries, scheduled trace or rich follow-up};
+\node[box,below=7mm of policy] (prediction) {Lock an original-cause claim or abstention\\Within the common deadline and resource allowance};
+\node[box,below=7mm of prediction] (score) {Join labels only after prediction lock\\Score every verified eligible original episode};
+\node[side,right=1cm of prediction] (oracle) {Evaluator-only checks\\Verify original and follow-up fault activity separately\\Hidden labels never enter policy rules};
+\node[side,right=1cm of score,yshift=-5mm] (ledger) {Attempt and cost ledgers\\Retain failures, loss, uncertainty and unattempted assignments};
+\draw[link] (original)--(policy);
+\draw[link] (policy)--(prediction);
+\draw[link] (prediction)--(score);
+\draw[link] (original.east)-|(oracle.north);
+\draw[link,dashed] (oracle.south west)--(score.north east);
+\draw[link] (ledger.west)--(score.east);
+\end{tikzpicture}

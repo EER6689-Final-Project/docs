@@ -1,30 +1,60 @@
 \chapter{Introduction}
 \label{chap:introduction}
 
+This chapter defines the problem as diagnosing an original regression episode using evidence from that visit or a later browser visit. It introduces the research question, aim, hypotheses, objectives, scope, and contribution boundary. The Research Plan controls their wording; the Literature Review establishes the prior-work context and the Methodology specifies operational rules.
+
 \section{Background and Motivation}
-\ReportPlaceholder{Explain the browser-performance monitoring context and why
-evidence from a later visit may differ from evidence of the original visit.}
+
+Website performance is commonly examined through repeated browser visits. A lightweight measurement can identify that a visit was slow or that a metric changed, while detailed profiling can expose resource timing, script activity, or a page's dependency path. These observations answer different questions. A metric describes a user-visible outcome under a defined measurement contract; an attribution record offers clues about that visit; a detailed trace can offer more diagnostic detail at a greater collection cost.
+
+The difficulty is that a follow-up visit is a new execution. Suppose an original visit is slow because an image response is delayed, but the delay disappears before the analyst opens a rich profile. The follow-up profile may be internally accurate and still fail to explain the earlier visit. Conversely, if the fault remains active, a later profile may reproduce useful evidence. This contrast motivates a test of evidence transfer across visits; it does not establish that reruns generally fail. Vesper describes a two-pass browser measurement design and discusses cross-load variation, while its checked corpus did not show different functional state under its own setup \parencite{HS3PKWFL}. The proposed study will preserve visit identity so that the original and follow-up observations cannot be mistaken for one another.
+
+The study is planned as repeated scheduled synthetic measurement on controlled, owned or authorized fixtures. “Longitudinal” here means a sequence of planned visits under recorded conditions; it does not mean continuous collection from every real user. A site-specific history can help describe its usual variation, but a historical baseline alone does not prove the cause of a particular anomalous visit. This distinction will be central to the report: detecting an unusual episode and attributing its cause are separate tasks.
 
 \section{Problem Statement}
-\ReportPlaceholder{State the delayed-diagnosis problem and its practical
-consequences, supported by verified sources.}
 
-\section{Research Question}
-\ReportPlaceholder{Introduce and justify the research question. The current
-working question is recorded below; reconcile it with the final protocol.}
-For persistent and intermittent website performance regressions, when does a
-detailed follow-up visit identify the independently verified cause of the
-original anomalous visit, compared with retaining original-visit evidence under
-matched total monitoring costs?
+The problem is whether a detailed profile collected after an alert can reliably identify the independently verified cause of the original website performance regression. A policy that waits for a later visit may spend less on every visit, but it depends on relevant evidence still being observable. A policy that retains original-visit evidence may preserve event-specific clues, but its feasible event coverage, lifecycle, data loss, and collection cost must be established. The report must therefore compare complete strategies under a common monitoring budget and diagnosis deadline, including the cost of original collection and failed or uninformative attempts.
 
-\section{Aim and Objectives}
-\ReportPlaceholder{State the final aim and measurable objectives using the
-research plan as the drafting source.}
+The empirical question is deliberately narrower than a claim that one profiler is universally superior. It asks whether later evidence identifies the earlier cause for a stated set of fixtures, fault mechanisms, browser states, and delays. An independent fault record is required because a profiler's trace is evidence produced by the measurement system, not ground truth by itself. The unresolved research issue is the reliability boundary across persistent and intermittent faults, not the invention of adaptive profiling, website histories, browser tracing, or original-event retention.
+
+\section{Research Question and Aim}
+
+\textbf{Research question.} Within a fixed monitoring budget, how reliably can detailed profiling during a follow-up browser visit identify the cause of an earlier website performance regression, compared with diagnostic evidence saved during the original visit?
+
+\textbf{Aim.} Assess the reliability, diagnostic coverage and total monitoring cost of delayed browser profiling compared with retaining diagnostic evidence from the original visit.
+
+The word “reliably” will be operationalized in the Methodology as correct attribution of the original fault class within a shared diagnosis deadline, with every independently verified eligible episode accounted for. “Fixed budget” will refer to a published resource vector and allocation rule, not to an unexplained single score. The report should use the same definitions in the abstract, hypothesis, strategy table, and analysis plan.
+
+\section{Hypotheses}
+
+\textbf{Research hypothesis (H$_1$).} For intermittent website performance regressions, retaining diagnostic evidence from the original browser visit leads to a higher proportion of correctly attributed regression episodes than detailed profiling during a follow-up visit, under matched monitoring budgets and the same diagnosis deadline.
+
+\textbf{Null hypothesis (H$_0$).} Under the same conditions, retaining diagnostic evidence from the original browser visit does not increase the proportion of correctly attributed intermittent regression episodes.
+
+Correct attribution means identifying the independently verified fault class responsible for the \emph{original} episode. Missed alerts, failed follow-up visits, unavailable evidence, and abstentions remain in the denominator. Total monitoring cost includes original collection, retained evidence, confirmations, and follow-up visits. These are hypotheses to test, not expected or observed results. Fault persistence is the principal factor; follow-up delay and browser-state changes are secondary factors within the study's resource limits.
+
+\section{Objectives}
+
+The report should present the five objectives in the same sequence as the Research Plan, then use those identifiers to organize the Methodology and Work Plan:
+
+\begin{enumerate}
+  \item \textbf{Define a repeatable measurement protocol} that records browser conditions, metric definitions and evidence provenance, and clearly separates original visits from diagnostic follow-up visits.
+  \item \textbf{Build a longitudinal, website-specific evaluation dataset} with stable periods, persistent and intermittent regressions, and different causes that produce similar symptoms. Use independently verified fault labels.
+  \item \textbf{Implement and compare feasible evidence-collection strategies}, including lightweight original-visit attribution, retained original-event evidence, detailed follow-up profiling and periodic detailed capture.
+  \item \textbf{Evaluate diagnostic effectiveness and total monitoring cost} by measuring correct original-cause attribution, missed episodes, misleading diagnoses, abstentions, diagnosis delay, instrumentation effects and capture failures.
+  \item \textbf{Identify when delayed diagnosis is reliable}, focusing on fault persistence and assessing the effects of follow-up delay and browser-state changes.
+\end{enumerate}
+
+These objectives specify the research work, not a promise that every planned component will pass feasibility checks. In particular, Objective 3 depends on verifying that bounded original-event capture can retain the discriminating information within its limits. If that strategy cannot be implemented faithfully, the study must narrow or revise the comparison before a main-study protocol is frozen.
 
 \section{Scope and Contribution Boundaries}
-\ReportPlaceholder{Distinguish the software deliverable from the research
-contribution and delimit the websites, browser conditions and faults studied.}
+
+The initial scope is a controlled experiment on a small set of owned or authorized website fixtures, with scheduled synthetic Chromium visits and known injected or configured faults. The proposed feasibility version FP-0.1 includes two fixture patterns and a bounded set of persistent, transient, replacement, stable, and nuisance conditions; it is not the main study and has not been run. Its numerical caps and progression rules are provisional engineering choices. A later live-site sample may test operational robustness only if explicitly authorized. Unexplained slowdowns on live sites cannot supply verified cause labels.
+
+The planned research contribution is an empirical comparison of original-visit and follow-up evidence for original-episode attribution, including coverage, failures, cost, and conditions under which the later diagnosis transfers. The software collector, fixtures, and dataset are supporting artifacts. The report should not claim the first adaptive profiler, first website-specific baseline, first browser trace, or first technique for preserving rare-event evidence. Prior work already includes adaptive instrumentation, browser profiling, recorded-execution analysis, and bounded event retention; Chapter 2 will specify these overlaps. Novelty remains provisional until the complete literature and source-verification process is reviewed.
 
 \section{Report Organization}
-\ReportPlaceholder{Describe the completed chapters after the report structure
-has stabilized.}
+
+Chapter 2 synthesizes browser metric semantics, capture mechanisms and measurement effects, repeated synthetic measurement, and the closest diagnosis and retention systems. Chapter 3 specifies the proposed protocol, original-episode eligibility and independent verification, comparison strategies, outcomes, costs, and analysis limits. Chapter 4 will give relative project milestones and decision gates rather than unconfirmed calendar dates. Chapter 5 will state the proposed study's contribution and limits without reporting uncollected findings. This organization keeps the research question, evidence contract, and planned work traceable throughout the report.
+
+\paragraph{Chapter check.} Preserve the exact question, aim, hypotheses, and objectives above; distinguish original episodes from follow-up visits; and remove any wording that implies the pilot, main study, or hypothesis test has been completed.

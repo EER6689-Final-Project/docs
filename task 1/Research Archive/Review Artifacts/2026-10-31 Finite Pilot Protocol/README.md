@@ -1,0 +1,32 @@
+# Finite Pilot Protocol — Evidence and Review
+
+**Date:** 2026-10-31, Asia/Colombo. **Deliverable:** [Finite Pilot Protocol FP-0.1](<../../../Research Management/Finite Pilot Protocol.md>). **Question:** what literature can guide a useful fixed pilot workload, limits and stopping point?
+
+## Search and review roles
+
+At the researcher's explicit request, three **gpt-6-luna subagents** searched the web: one for pilot limits/progression, one for browser/system repetitions, and one for capture/loss boundaries. Their corrected reports are preserved in [Luna pilot limits](<luna-pilot-limits.md>), [Luna repetitions](<luna-repetitions.md>) and [Luna capture](<luna-capture.md>). These are exploratory AI research receipts, not independent human scientific review or validated protocol approvals.
+
+The root assistant checked decision-driving sources, read local Kalibera/Jones passages, reconciled identities and reviewed the recommendations. Two Luna agents then challenged the protocol's arithmetic, costing, denominator and buffer rules. The final [review notes](<review-notes.md>) record corrections. Access and local PDF hashes are in the [source receipt](<source-receipt.json>). Complete ranked search exports and per-query clocks were not captured; no systematic-review coverage or source-absence claim follows.
+
+## Findings adopted after review
+
+| Source / actual read boundary | Useful guidance | Limit on transfer |
+| --- | --- | --- |
+| **Eldridge et al. 2016**, [CONSORT pilot extension](https://pmc.ncbi.nlm.nih.gov/articles/PMC5154046/), items 6c/7a and Comment; DOI 10.1186/s40814-016-0105-8. Root checked HTML; PDF preserved. | Declare feasibility aims, justify numbers and state progression criteria. | Clinical reporting guidance, not a browser standard or source for the chosen caps. |
+| **Thabane et al. 2010, corrected 2023**, [tutorial](https://link.springer.com/article/10.1186/1471-2288-10-1), Sample Size / Criteria for Success / correction notice. | Pilot findings can support stop/amend decisions; use effect and variance estimates cautiously. | Its corrected numerical example is not used. No clinical sample size is transferred. |
+| **Moore et al. 2011**, [Recommendations for Planning Pilot Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC3203750/), §3; DOI 10.1111/j.1752-8062.2011.00347.x. Root checked title/authors/section. | The workload should fit the actual feasibility questions, practical cost and risks. | Does not prescribe this experiment's sample size. Earlier Luna misattribution to Leon and another DOI was corrected. |
+| **Kalibera and Jones 2013**, [local canonical note](<../../../Research Papers/T1.4 Statistical Measurement/Papers/Kalibera and Jones 2013 - Rigorous Benchmarking in Reasonable Time.md>), typeset PDF 9/11, §§9.3/12 directly rechecked by root. | Variation and useful repetition levels depend on the actual configuration. | No repetition-table value or uncertainty formula is adopted. Existing version/DOI caveat remains. |
+| **Duplyakin et al. 2023**, [official paper](https://www.usenix.org/system/files/atc23-duplyakin.pdf), venue identity and §3, physical PDF 4–5 checked by root; PDF preserved. | Trial order and reset procedure can affect performance comparisons. | The proposed randomization/reset policy is informed by this risk; their order-test algorithm and server effect sizes are not adopted. |
+| **Zhang et al. 2023, Hindsight**, [final paper](https://www.usenix.org/system/files/nsdi23-zhang-lei.pdf), §§3–4/7.3. Existing local original retained; root rechecked §7.3 and earlier appraisals. | Original-event retention is finite; data rate, trigger delay and capacity affect loss. | No distributed-system capacity or overhead value becomes a browser requirement. A capacity/rate calculation alone does not validate the browser's retention horizon. |
+| **Heričko et al. 2021**, [canonical note](<../../../Research Papers/T1.3 Synthetic Agents and External Validity/Papers/Hericko et al. 2021 - Towards Representative Web Performance Measurements.md>), §§3–5, pp. 39–42; Luna primary check and root note review. | Repeated Lighthouse measurements motivate checking run-to-run noise. | Five runs in that historical score study do not establish diagnostic pilot size, equivalence or population coverage. Venue is the **7th StuCoSReC**, not a ninth conference inferred from DOI suffix `.9`. |
+| **ChromeDriver performance log**, [official documentation](https://developer.chrome.com/docs/chromedriver/logging/performance-log), tracing/buffer paragraphs checked by root and Luna. | Buffers can fill and collection has overhead; loss warnings need handling. | The actual CDP collector must be tested. ChromeDriver logging details are not automatically its behavior. |
+
+These sources support a **bounded feasibility exercise**, not a published optimum of 700 visits or a statistical guarantee for the progression thresholds. The fixed design covers two mechanisms, two fixtures, persistence/replacement cases and controls. It stops when its schedule, time, storage or integrity boundary is reached. Clinical numerical examples, a universal five-run rule and sequential stopping after a favorable attribution result were rejected.
+
+## Decisions that remain project choices
+
+The two fixtures, 500 ms starting severities, 15-second windows, 1/15-second follow-up targets, 90-second deadline, count/resource caps, simple MAD alert, discriminator thresholds and progression cut points are all **FP-0.1 operational choices**. They require implementation and host checks. The small calibration and repeated visits cannot establish cross-site reliability or power the main hypothesis.
+
+Useful original evidence is required, but superiority is not. B keeps access to its original cheap attribution. If A already explains the selected cases, that is evidence to narrow the later study. Signalled capture loss is a failed observation; shared oracle/linkage/leakage failures stop the campaign. Incomplete and uncertain cases remain visible, including assignment-based sensitivity bounds.
+
+No study data, browser experiment, implementation, Zotero mutation or main-study authorization was produced. This supplementary search does not rewrite the frozen 2026-10-25 discovery window, the historical 133 evidence rows or Snapshot 7 counts. G3–G7 remain open. New references have local review labels only; live Zotero membership was not checked in this task.

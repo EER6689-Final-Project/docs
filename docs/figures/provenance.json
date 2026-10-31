@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "hindsight-trace-lifecycle.pdf",
+    "source_zotero_key": "3ED3FDXH",
+    "source_file": "task 1/Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/Sources/Hindsight - NSDI 2023.pdf",
+    "source_sha256": "ac598bae927cbb5e728fb98ea1007e287bf8d5397805ead6318df2e45b250ccc",
+    "source_pdf_page_1_based": 6,
+    "source_printed_page": 325,
+    "source_figure": "Figure 2",
+    "crop_points_pdf_coordinates": [
+      314,
+      568,
+      561,
+      727
+    ],
+    "transform": "Crop only; no content redrawn or data altered. Source caption excluded; report caption supplies citation.",
+    "purpose": "Illustrate original-event retention as prior art, not a browser implementation or experimental finding.",
+    "reuse_status": "Attributed reference illustration in a planning document; publication permissions/licence must be checked before external republication."
+  }
+]

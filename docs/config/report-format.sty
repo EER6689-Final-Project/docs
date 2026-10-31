@@ -7,8 +7,20 @@
     {Use the documented XeLaTeX build to load Times New Roman.}
 \fi
 \RequirePackage{fontspec}
-% No substitute: format.pdf explicitly requires Times New Roman.
-\setmainfont{Times New Roman}
+% A visibly identified proof fallback permits review without the required font.
+% This fallback is not a claim of Times New Roman compliance.
+\IfFontExistsTF{Times New Roman}{%
+  \setmainfont{Times New Roman}
+  \newcommand{\ReportFontStatus}{Times New Roman loaded.}
+}{%
+  \setmainfont{texgyretermes-regular.otf}[
+    BoldFont=texgyretermes-bold.otf,
+    ItalicFont=texgyretermes-italic.otf,
+    BoldItalicFont=texgyretermes-bolditalic.otf
+  ]
+  \newcommand{\ReportFontStatus}{Draft proof uses TeX Gyre Termes. The guide requires Times New Roman; verify that font before submission.}
+  \PackageWarningNoLine{report-format}{Draft font fallback: TeX Gyre Termes; Times New Roman unavailable}
+}
 \RequirePackage[left=1.5in,right=1in,top=1.5in,bottom=1in]{geometry}
 \RequirePackage{ragged2e}
 \RequirePackage{titlesec}
@@ -17,15 +29,20 @@
 \RequirePackage{graphicx}
 \RequirePackage{booktabs}
 \RequirePackage{longtable}
+\RequirePackage{array}
+\RequirePackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
 \RequirePackage{amsmath}
 \RequirePackage{caption}
 \RequirePackage{csquotes}
+\RequirePackage{xurl}
 \RequirePackage[
   backend=biber,
   style=authoryear,
   sorting=nyt,
   labelnumber=true,
   giveninits=true,
+  uniquename=init,
   maxbibnames=99,
   dashed=false,
   isbn=false,
@@ -35,7 +52,7 @@
 ]{biblatex}
 \RequirePackage[hidelinks,unicode]{hyperref}
 \hypersetup{
-  pdftitle={\ReportTitle},
+  pdftitle={\ReportTitle\space--\space\ReportDocumentType},
   pdfauthor={\ReportAuthor},
   pdfsubject={\ReportSubject},
   pdfkeywords={browser performance, delayed diagnosis, reliability}
@@ -48,7 +65,7 @@
   \report@originalnormalsize
   \fontsize{12}{15}\selectfont
 }
-\AtBeginDocument{\normalsize\RaggedRight}
+\AtBeginDocument{\normalsize\RaggedRight\sloppy}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt}
 \setcounter{secnumdepth}{3}
@@ -96,6 +113,7 @@
 \renewcommand{\listfigurename}{List of Figures}
 \renewcommand{\cftchapfont}{\normalfont\normalsize\bfseries}
 \renewcommand{\cftchappagefont}{\normalfont\normalsize\bfseries}
+\setlength{\cftbeforechapskip}{3pt}
 \captionsetup{font=normalsize,labelfont=bf,justification=RaggedRight,
   singlelinecheck=false}
 
@@ -122,6 +140,8 @@
 
 % Draft prompts are deliberately visible and must be removed for submission.
 \newcommand{\ReportPlaceholder}[1]{\par\textit{[To write: #1]}\par}
+\newcommand{\PlanSource}[1]{\texttt{\detokenize{#1}}}
+\newcommand{\PlanCheck}[1]{\par\textbf{Completion check.} #1\par}
 \newcommand{\ReportFrontChapter}[1]{%
   \clearpage
   \chapter*{#1}

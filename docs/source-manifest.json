@@ -1,0 +1,358 @@
+{
+  "access_date": "2026-10-31",
+  "access": "Read-only local Zotero API; no library writes; export alone does not prove full-text review.",
+  "bibliography_key_policy": "Use parent item key as BibLaTeX citation key.",
+  "sources": [
+    {
+      "key": "HS3PKWFL",
+      "title": "Vesper: Measuring Time-to-Interactivity for Web Pages",
+      "itemType": "conferencePaper",
+      "date": "2018",
+      "doi": null,
+      "url": "https://www.usenix.org/conference/nsdi18/presentation/netravali-vesper",
+      "children": [
+        {
+          "key": "FKRHNMTK",
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "contentType": "application/pdf",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "ZZSL9IPU",
+      "title": "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements",
+      "itemType": "preprint",
+      "date": "2025-06-04",
+      "doi": "10.48550/arXiv.2501.15911",
+      "url": "http://arxiv.org/abs/2501.15911",
+      "children": [
+        {
+          "key": "XWJKTNIE",
+          "itemType": "attachment",
+          "title": "PDF",
+          "contentType": "application/pdf",
+          "linkMode": "imported_url"
+        },
+        {
+          "key": "KCJXC379",
+          "itemType": "note",
+          "title": null,
+          "contentType": null,
+          "linkMode": null
+        }
+      ]
+    },
+    {
+      "key": "D568X6SQ",
+      "title": "Demystifying Page Load Performance with WProf",
+      "itemType": "journalArticle",
+      "date": null,
+      "doi": null,
+      "url": null,
+      "children": [
+        {
+          "key": "Y8TG94GI",
+          "itemType": "attachment",
+          "title": "PDF",
+          "contentType": "application/pdf",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "TIIDVPV8",
+      "title": "The Paradyn Parallel Performance Measurement Tools",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.paradyn.org/publications/abstracts/Miller95Paradyn.html",
+      "children": [
+        {
+          "key": "UB4DXZGC",
+          "itemType": "attachment",
+          "title": "The Paradyn Parallel Performance Measurement Tools",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "A3SS4UWX",
+      "title": "LMAT: An adaptive tracing approach based on efficient system behavior analysis using language models",
+      "itemType": "journalArticle",
+      "date": "2026",
+      "doi": "10.1016/j.jss.2026.112890",
+      "url": "https://doi.org/10.1016/j.jss.2026.112890",
+      "children": []
+    },
+    {
+      "key": "3ED3FDXH",
+      "title": "The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems",
+      "itemType": "conferencePaper",
+      "date": "2023",
+      "doi": null,
+      "url": "https://www.usenix.org/conference/nsdi23/presentation/zhang-lei",
+      "children": []
+    },
+    {
+      "key": "P57ARGS6",
+      "title": "Leveraging Website Popularity Differences to Identify Performance Anomalies",
+      "itemType": "conferencePaper",
+      "date": "2021",
+      "doi": "10.1109/INFOCOM42981.2021.9488832",
+      "url": "https://www.cs.bu.edu/fac/crovella/paper-archive/infocom21-website-anomalies.pdf",
+      "children": []
+    },
+    {
+      "key": "IX2DU87B",
+      "title": "Tracing Optimization for Performance Modeling and Regression Detection",
+      "itemType": "report",
+      "date": "2024",
+      "doi": null,
+      "url": "https://arxiv.org/abs/2411.17548v1",
+      "children": []
+    },
+    {
+      "key": "WE8HHCA8",
+      "title": "Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces",
+      "itemType": "journalArticle",
+      "date": "2023",
+      "doi": "10.1016/j.jss.2023.111708",
+      "url": "https://doi.org/10.1016/j.jss.2023.111708",
+      "children": []
+    },
+    {
+      "key": "Z2BQ69Z4",
+      "title": "Diagnosing Performance Changes by Comparing Request Flows",
+      "itemType": "conferencePaper",
+      "date": "2011",
+      "doi": null,
+      "url": "https://www.usenix.org/conference/nsdi11/diagnosing-performance-changes-comparing-request-flows",
+      "children": []
+    },
+    {
+      "key": "N33VTKAN",
+      "title": "web-vitals library: usage and attribution build",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://github.com/GoogleChrome/web-vitals",
+      "children": []
+    },
+    {
+      "key": "REP5RHB6",
+      "title": "Performance Timeline",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/performance-timeline/",
+      "children": [
+        {
+          "key": "68H53Q4G",
+          "itemType": "attachment",
+          "title": "Performance Timeline",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "6WVYFE8R",
+      "title": "Largest Contentful Paint",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/largest-contentful-paint/",
+      "children": [
+        {
+          "key": "7IMBAMBY",
+          "itemType": "attachment",
+          "title": "Largest Contentful Paint",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "I8L7FN9V",
+      "title": "Event Timing API",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/event-timing/",
+      "children": [
+        {
+          "key": "KE8EB3XQ",
+          "itemType": "attachment",
+          "title": "Event Timing API",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "6SJEG5G9",
+      "title": "Long Animation Frames API",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/long-animation-frames/",
+      "children": [
+        {
+          "key": "RLCHEYLQ",
+          "itemType": "attachment",
+          "title": "Long Animation Frames API",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "KEJFZJHV",
+      "title": "Long Tasks API",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/longtasks-1/",
+      "children": [
+        {
+          "key": "JCP4FK6V",
+          "itemType": "attachment",
+          "title": "Long Tasks API",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "R2U9EAFA",
+      "title": "Layout Instability API",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://wicg.github.io/layout-instability/",
+      "children": [
+        {
+          "key": "ZJLLXJG3",
+          "itemType": "attachment",
+          "title": "Layout Instability API",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "GYN22PP7",
+      "title": "Cumulative Layout Shift (CLS) | Articles",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://web.dev/articles/cls",
+      "children": [
+        {
+          "key": "WWTI2GJC",
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "B8XNKSHY",
+      "title": "Interaction to Next Paint (INP)  |  web.dev",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://web.dev/articles/inp",
+      "children": [
+        {
+          "key": "35I66ZJ4",
+          "itemType": "attachment",
+          "title": "Interaction to Next Paint (INP)  |  web.dev",
+          "contentType": "text/html",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "GJMALCNF",
+      "title": "Rigorous benchmarking in reasonable time",
+      "itemType": "journalArticle",
+      "date": "June 20, 2013",
+      "doi": "10.1145/2555670.2464160",
+      "url": "https://dl.acm.org/doi/10.1145/2555670.2464160",
+      "children": [
+        {
+          "key": "47XVWJKF",
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "contentType": "application/pdf",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "IWCIN2C5",
+      "title": "Producing wrong data without doing anything obviously wrong!",
+      "itemType": "conferencePaper",
+      "date": "March 7, 2009",
+      "doi": "10.1145/1508244.1508275",
+      "url": "https://dl.acm.org/doi/10.1145/1508244.1508275",
+      "children": [
+        {
+          "key": "E4F66TI7",
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "contentType": "application/pdf",
+          "linkMode": "imported_url"
+        }
+      ]
+    },
+    {
+      "key": "SSS4NSXC",
+      "title": "Playwright: Isolation and browser contexts",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://playwright.dev/docs/browser-contexts",
+      "children": []
+    },
+    {
+      "key": "63QKVL86",
+      "title": "Chrome DevTools Protocol: Tracing domain",
+      "itemType": "webpage",
+      "date": null,
+      "doi": null,
+      "url": "https://chromedevtools.github.io/devtools-protocol/tot/Tracing/",
+      "children": []
+    }
+  ],
+  "scope": "23 focal records individually read for the report-plan task; the separate zotero-export-manifest.json covers the larger collection export.",
+  "citation_copy_changes": [
+    "Omit stored abstracts, attachment paths and library tags from the report bibliography.",
+    "Use checked WProf 2013 proceedings identity and pages from the project source note.",
+    "Cite Paradyn as the inspected 1995 project manuscript; do not assert edited-journal pagination.",
+    "Pin WebREC citation URL to the inspected arXiv v4 and web-vitals URL to documented v5.1.0."
+  ],
+  "targeted_fulltext_recheck": [
+    {
+      "parent_key": "HS3PKWFL",
+      "attachment_key": "FKRHNMTK",
+      "sha256": "664ac6ed1b076d429d2552fb15a2f4550e2b0f0056ee77be48487aff07d4629e",
+      "pdf_pages_1_based": [
+        8,
+        9
+      ],
+      "printed_pages": [
+        223,
+        224
+      ],
+      "section": "4.3 Discussion",
+      "method": "pdftotext -layout of the PDF attachment identified through the live Zotero item/child readback",
+      "supported_scope": "Possible cross-load differences and no differing functional state observed in tested corpus; no general rerun failure rate or transfer of numerical effects."
+    }
+  ]
+}

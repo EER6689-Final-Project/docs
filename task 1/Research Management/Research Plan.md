@@ -183,7 +183,7 @@ An inconclusive result does not establish equivalence. Report achieved precision
 3. **Main collection:** run the frozen schedule, retain every attempt, and record deviations without silently changing the policy. Evaluate later deployments and the reserved fixture set.
 4. **Analysis and reporting:** score locked predictions, report all-episode outcomes and complete costs, examine predefined conditions, and distinguish confirmatory comparisons from exploratory findings.
 
-The [verification queue](<Zotero Verification Queue.md>) tracks the unresolved feasibility and analysis choices. Finite pilot run counts and a justified main-study sample size remain to be specified.
+The [verification queue](<Zotero Verification Queue.md>) tracks the unresolved feasibility and analysis choices. The [Finite Pilot Protocol FP-0.1](<Finite Pilot Protocol.md>) now proposes bounded pilot counts and stopping rules. Its implementation/host checks and a justified main-study sample size remain open.
 
 ## Scope and deliverables
 
@@ -194,6 +194,13 @@ Engineering duties remain the profiler service/API, seven performance surfaces, 
 Research outputs are the episode dataset and manifests, versioned capture configurations, conformance checks, comparison analysis and report. Implementation belongs outside this research-only repository.
 
 ## Report structure
+
+**Current requested deliverable:** the [LaTeX report-writing plan](<../../docs/README.md>)
+uses the requested preliminary pages followed by Introduction, Literature Review,
+Research Methodology, Work Plan and Conclusion. It contains writing instructions
+and proposed procedures, not results. The six-chapter outline below is retained
+as an earlier option for a later empirical report; it does not govern the current
+`docs/main.tex` build.
 
 1. **Introduction:** delayed-diagnosis problem, motivation, question, aim, objectives and contribution boundaries.
 2. **Literature review:** metric semantics, instrumentation effects, repeated measurement and the closest diagnosis/monitoring systems; use the [source matrix](<Literature Review and Research Gap Matrix.md>) and [novelty comparison](<Monitoring Novelty Cross Reference.md>).
@@ -206,4 +213,6 @@ Research outputs are the episode dataset and manifests, versioned capture config
 
 The [decision-critical source review](<../Research Archive/Review Artifacts/2026-10-31 Decision-Critical Source Checks/README.md>) now records the five closest-work identities, named paper passage checks and original-visit evidence documentation. WMF's earlier access discrepancy is resolved. LMAT controller details and the unread Shahedi journal edition retain explicit holds; Paradyn is usable with an explicit manuscript citation. The comparison supports a candidate empirical question, not proof of novelty.
 
-Next, turn the objective-by-objective methodology into a finite pilot protocol while resolving the remaining claim-specific source and method checks in the [verification queue](<Zotero Verification Queue.md>). Confirm a useful original-evidence comparator before freezing H₁. Start with existing original-visit attribution and a bounded record of supported entries; a full original trace or JS stack sampler is not assumed. Browser versions, endpoints, thresholds, deadlines, budgets, target list, run counts, campaign duration, statistical procedures and retention rules remain open. The selected direction, methodology outline and source-review consequences are recorded in the [decision log](<Decision Log.md>).
+The [Finite Pilot Protocol FP-0.1](<Finite Pilot Protocol.md>) now translates the methodology into two fixtures, eight scenarios, 64 matched comparison blocks and explicit visit, time, resource and progression limits. Its numbers are proposed operational choices informed by a [review of Luna web searches](<../Research Archive/Review Artifacts/2026-10-31 Finite Pilot Protocol/README.md>), not established population sample sizes.
+
+Next, complete and check the actual host, versions, fixtures, capture/diagnosis contracts and execution manifest, then address the remaining readiness items in the [verification queue](<Zotero Verification Queue.md>). Confirm useful original evidence before freezing H₁ or the main-study design. A full original trace or JS stack sampler is not assumed. Main-study endpoints, thresholds, budgets, sample size, uncertainty and stopping remain to be frozen separately. The [decision log](<Decision Log.md>) records the draft protocol without claiming pilot execution or gate closure.

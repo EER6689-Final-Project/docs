@@ -24,6 +24,14 @@
 - Existing original-visit attribution is a mandatory baseline. Documentation checked at `web-vitals` v5.1.0 supplies a reference schema, not a selected runtime or demonstrated accuracy. Test supported entries and retention first; keep sampled stacks conditional on demonstrated need and build support.
 - Do not adopt Mertz/Nunes's sample-release rule, Shahedi's regression test, a repetition count or a statistical threshold by analogy. Methods still require appraisal for the chosen episode hierarchy and estimand. No gate, collection permission or analysis freeze is recorded by this review.
 
+## Finite pilot draft — 2026-10-31
+
+The researcher requested Luna web searches, review and a Markdown protocol. [FP-0.1](<Finite Pilot Protocol.md>) is now the proposed feasibility design: two localhost fixtures, two fault classes, eight scenarios, five arms and 64 matched comparison blocks. The full schedule has 652 planned browser starts including preparation and maximum follow-ups, plus a 48-start repair reserve; stop at 700 starts, eight active hours, seven calendar days or the artifact/integrity cap, whichever applies first.
+
+The [source review](<../Research Archive/Review Artifacts/2026-10-31 Finite Pilot Protocol/README.md>) supports feasibility-led sizing, explicit progression and attention to repetition/order/retention limits. All numerical caps and green/amber/red criteria are project choices. B retains original cheap attribution; C audit exports are gated; signalled capture failures remain outcomes; uncertain labels receive assignment-based sensitivity bounds. No superiority or favorable p-value is required to complete the pilot.
+
+This records a **proposed protocol**, not research results, hardware availability, acceptance of numerical parameters or G6/G7 passage. Actual builds/capture mappings and execution checks remain open. Pilot data will remain separate from the main confirmatory dataset. The pilot's narrow loading/fault subset does not cancel the broader engineering duties.
+
 ## Retained measurement and evaluation rules
 
 - Independently verified interventions supply cause labels. A trace is a reference observation; a similar follow-up symptom is not proof that the original cause recurred.
@@ -39,3 +47,21 @@
 Exact browser/reference versions; primary metric/fault subset; attribution taxonomy; original-evidence feasibility; target/corpus frame; state/reset and follow-up policy; thresholds, deadlines and budgets; campaign duration and run counts; uncertainty and repeated-testing procedures; holdout/allocation rules; retention and failure treatment; any score calibration.
 
 The researcher has selected the direction. **The evidence and methodology are not thereby frozen:** G3/G4 evidence work and G5–G7 preparation remain open in the [verification queue](<Zotero Verification Queue.md>). Later approval or a passing gate must be recorded explicitly and must not be inferred from this summary.
+
+## Report-writing plan — 2026-10-31
+
+The researcher requested a comprehensive LaTeX plan in [docs](<../../docs/README.md>)
+with 13 specified components: cover, title, declaration, abstract/keywords,
+contents, figures and tables lists when applicable, abbreviations, Introduction,
+Literature Review, Research Methodology, Work Plan and Conclusion. References
+follow the conclusion. The current build uses five chapters and no results
+chapter; the earlier empirical-report outline remains a later option.
+
+Luna agents explore sources and draft sections; Sol agents synthesize, perform
+a separate final content review, and then build/inspect the document in a
+different agent. Zotero parent keys provide citation traceability, and the
+extracted Hindsight illustration records its source page and file hash. The
+declaration is an unsigned draft because the supplied formatting checklist has
+no official declaration wording. Font and administrative limits are explicit
+in the document and build review. This writing/production work establishes no
+experimental result, novelty approval, source-hold resolution or study gate.
