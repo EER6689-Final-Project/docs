@@ -1,4 +1,5 @@
 """Local, delta-only review receipts; never mutates inputs or other directories."""
+import utils.session
 import csv
 import hashlib
 import json
